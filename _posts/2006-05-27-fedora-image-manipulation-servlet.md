@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: "Fedora: Image Manipulation Servlet"
 created: 1148747489
