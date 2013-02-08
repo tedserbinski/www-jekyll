@@ -38,6 +38,6 @@ Well it's not so straightforward. I read somewhere about some sort of "glossary"
 </li>
 </ol>
 
-And voilá! You can now browse by starting letter of each node. Add in a few more exposed filters like taxonomy terms or search and you have a powerful directory!
+And voila! You can now browse by starting letter of each node. Add in a few more exposed filters like taxonomy terms or search and you have a powerful directory!
 
 That was definitely easy and Views 2 replaces its first helper module. What's next? :)

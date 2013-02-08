@@ -19,7 +19,7 @@ With much digging around we finally found it: a lone CSS3 selector that <a href=
 word-wrap: break-word; /* A very nice CSS3 property, well not always */
 </code>
 
-Removed that and voilà, no more crashing!
+Removed that and voila, no more crashing!
 
 But that doesn't make sense. That selector works on other sites, why not <a href="http://www.mothersclick.com">this one</a>?
 

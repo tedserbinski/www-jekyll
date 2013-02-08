@@ -12,7 +12,7 @@ digg_url = 'http://digg.com/food_drink/2_Guys_Uncorked_launches';
 
 p. After months of work with Jon, we're finally pleased to <a href="http://2guysuncorked.com/blog/2-guys-uncorked-launches">announce that 2 Guys Uncorked has launched</a>!
 
-As per our blog post, "2 Guys Uncorked is an innovative, easy to use website dedicated to reviewing wines that can be found at Trader Joe’s and Whole Foods (and generally, most any other well stocked wine store). We make it easy to figure out what wines to buy each week depending on where you’ll be drinking them."
+As per our blog post, "2 Guys Uncorked is an innovative, easy to use website dedicated to reviewing wines that can be found at Trader Joe's and Whole Foods (and generally, most any other well stocked wine store). We make it easy to figure out what wines to buy each week depending on where you'll be drinking them."
 
 This project has been great to work on and combines two of my passions: building websites and drinking wine. 
 

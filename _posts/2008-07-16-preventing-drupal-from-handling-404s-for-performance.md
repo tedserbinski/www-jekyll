@@ -53,4 +53,4 @@ if (strpos($headers, 'HTTP/1.1 404') !== FALSE) {
 <h3>Step 3 - Create a 404 file</h3>
 Create a 404.php file (or 404.html or whatever you want) and place the file where ever you want. Make sure to update the ErrorDocument in the .htaccess to point to this file along with the Drupal template code.
 
-And voilá!
+And voila!
