@@ -111,6 +111,16 @@ body {
   margin-top: 10px;
 }
 
+.carousel-inner {
+  background-color: #000;
+}
+
+#headshot {
+  background: url(/assets/themes/twitter/images/ted-headshot.jpg);
+  width:1540px;
+  height:600px;
+}
+
 
 
 /* MARKETING CONTENT
@@ -212,11 +222,11 @@ body {
   }
 
   .carousel .item {
-    height: 500px;
+    height: 600px;
   }
   .carousel img {
-    width: auto;
-    height: 500px;
+    width: 1540px;
+    height: 600px;
   }
 
   .featurette {
