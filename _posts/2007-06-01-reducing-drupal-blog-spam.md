@@ -2,6 +2,7 @@
 layout: post
 title: Reducing Drupal blog spam
 created: 1180679969
+category: drupal
 ---
 Spam&mdash;we all hate it and it's not just for email anymore, hello Drupal comment spam.
 

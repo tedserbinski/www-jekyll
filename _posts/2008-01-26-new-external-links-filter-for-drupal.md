@@ -2,6 +2,7 @@
 layout: post
 title: New external links filter for Drupal
 created: 1201402351
+category: drupal
 ---
 <strong>Update: <a href="http://drupal.org/node/214805">version 2 has been released</a> that fixes some bugs and adds new features.</strong>
 
@@ -14,7 +15,6 @@ However, I didn't touch the module for more than a year (it only worked in Drupa
 In keeping current with more widely used lingo, <a href="http://drupal.org/project/elf">I decided to create an external links filter (ELF)</a> that worked in Drupal 5, had nifty icons, and was all around more robust.
 
 So why is this better than other modules that do this?
-<!--break-->
 
 Well there are a couple reasons. Other modules, like <a href="http://drupal.org/project/extlink">External links</a> rely on Javascript to find external links. This is not the best choice because:
 

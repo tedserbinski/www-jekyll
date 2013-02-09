@@ -2,6 +2,7 @@
 layout: post
 title: My first 15 min of fame!
 created: 1143503976
+category: drupal
 ---
 A few weeks back, <a href="http://en.wikipedia.org/wiki/Leo_Laporte">Leo Laporte</a> approached <a href="http://www.lullabot.com">Lullabot</a> about developing the new <a href="http://www.twit.tv">TWiT website</a>. Well we gladly accepted, I mean, this is Leo! So I was put in charge of developing the new site, and deviating a bit from our usual consultant based contracts, we took the entire development for this project in house so I could really work my magic :-) Well I have to say, this site is coming out amazingly well and just a few days ago we gave Leo a sneak peak.
 

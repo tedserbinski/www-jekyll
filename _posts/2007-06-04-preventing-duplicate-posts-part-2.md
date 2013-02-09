@@ -2,6 +2,7 @@
 layout: post
 title: "Preventing duplicate posts: part 2"
 created: 1180998230
+category: drupal
 ---
 <a href="http://tedserbinski.com/2007/01/11/how_to_prevent_duplicate_posts">In a previous article</a>, I wrote about how to use jQuery to remove submit form buttons and replacing it with some "Saving..." text to prevent duplicate form submissions. 
 
@@ -17,7 +18,7 @@ So here's how I solved it for our site. Create a new module for your site, and u
 
 Here's the code for hook_nodeapi:
 
-<?php
+{% highlight php %}
 /**
  * Implementation of hook_nodeapi().
  */
@@ -36,11 +37,11 @@ function YOUR-MODULE_nodeapi(&$node, $op, $teaser, $page) {
       break;     
   }
 }
-?>
+{% endhighlight %}
 
 And the code for hook_comment:
 
-<?php
+{% highlight php %}
 
 /**
  * Implementation of hook_comment().
@@ -61,7 +62,7 @@ function YOUR-MODULE_comment($a1, $op) {
   }
 }
 
-?>
+{% endhighlight %}
 
 While this isn't a 100% guarantee to stop duplicate content, it is now stopping all duplicate content we have seen--and, what makes a better usability test case than your mom? :-)
 

@@ -2,14 +2,13 @@
 layout: post
 title: Getting Drupal to Play Nice with Your CDN
 created: 1219347022
+category: drupal
 ---
 <br>
 <div style="background:#ffc;font-weight:bold;padding:3px;">Note: A better version of this patch is going into Drupal 7. <a href="http://drupal.org/node/499156">View the issue/patch here</a>.</div>
 <br>
 
 Getting Drupal to play nice with your <a href="http://en.wikipedia.org/wiki/Content_Delivery_Network">CDN</a> can be a bit of a hassle. You have to make sure your assets (like JS, CSS, and image files) work not only on your webserver but when copied to the CDN, are served from there instead of your webserver. There is one Drupal module, the <a href="http://drupal.org/project/cdn">CDN module</a> that attempts to make this a bit easier but right now, it's not in production, and in my opinion, is a bit too complicated. There is a slightly easier way :)
-
-<!--break-->
 
 Depending on which CDN you decide to go with you'll want to make sure it offers HTTP synchronization. What this means is you don't have to manually upload files to your CDN--if they don't exist on the CDN, it will check your website for the file and download it through HTTP, putting it on the CDN. This works using some DNS magic. 
 

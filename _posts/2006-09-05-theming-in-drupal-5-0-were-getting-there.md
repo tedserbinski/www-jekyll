@@ -2,6 +2,7 @@
 layout: post
 title: "Theming in Drupal 5.0: We're getting there!"
 created: 1157510293
+category: drupal
 ---
 As a self-proclaimed Drupal theming "ninja", I've built plenty of sites that don't look like Drupal. But to be honest, it's certainly not that easy. So for the next 5.0 release of Drupal, I've done my best to get in as many patches as possible to making theming in Drupal easier--and you know what, we've certainly made some great progress. Here's a rundown of the top theming patches that I got in:
 

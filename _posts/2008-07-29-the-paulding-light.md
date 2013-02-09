@@ -12,4 +12,3 @@ When we saw it, there was a pathway that followed the power lines that looked li
 Below is a short movie I made putting together clips from our cameras that we had. Can't wait to go back next year with some more equipment to explore!
 
 <object width="425" height="350"> <param name="movie" value="http://www.youtube.com/v/NznmgW2JtyM"> </param> <embed src="http://www.youtube.com/v/NznmgW2JtyM" type="application/x-shockwave-flash" width="425" height="350"> </embed> </object>
-<!--break-->

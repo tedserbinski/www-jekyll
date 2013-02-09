@@ -2,6 +2,7 @@
 layout: post
 title: I'm a Google SoC mentor
 created: 1148954540
+category: drupal
 ---
 This summer I'm participating in the <a href="http://code.google.com/soc/">Google Summer of Code</a> program as a mentor for <a href="http://drupal.org">Drupal</a>. There were a ton of applications for projects on improving Drupal, but only <a href="http://drupal.org/node/65244">14 projects</a> were accepted and sponsored by Google, totaling a $70,000 investment on Google's part ($5000 for each project, with $4500 going to the student and $500 to the Drupal project), yay Google!
 

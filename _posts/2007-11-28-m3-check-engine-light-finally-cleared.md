@@ -2,6 +2,7 @@
 layout: post
 title: M3 Check engine light finally cleared
 created: 1196289747
+category: BMW M3
 ---
 In <a href="http://tedserbinski.com/2007/09/17/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-7">my previous post</a> I thought the car was finally fixed---no more vacuum leaks and driving great. Turns out I was a bit too optimistic.
 

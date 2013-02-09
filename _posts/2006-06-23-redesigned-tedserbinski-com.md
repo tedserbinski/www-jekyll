@@ -2,6 +2,7 @@
 layout: post
 title: "Redesigned: tedserbinski.com"
 created: 1151046052
+category: drupal
 ---
 Well after running with a fairly bland blog for quite a while, I've spent the last few sleepless nights on the redesign and I have to say, it's turned out quite amazing, better than I intended!
 

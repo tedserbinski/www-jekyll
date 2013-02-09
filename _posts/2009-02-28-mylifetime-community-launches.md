@@ -2,6 +2,7 @@
 layout: post
 title: myLifetime Community Launches
 created: 1235805932
+category: drupal
 ---
 Recently, the new <a href="http://community.mylifetime.com/">myLifetime Community</a> launched and it has been an overwhelming success. With members joining at such a fast rate, it'll soon be surging past 100,000 <a href="http://community.mylifetime.com/community/members">registered members</a>.
 

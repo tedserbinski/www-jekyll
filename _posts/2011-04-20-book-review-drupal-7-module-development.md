@@ -2,6 +2,7 @@
 layout: post
 title: "Book Review: Drupal 7 Module Development"
 created: 1303346912
+category: drupal
 ---
 Well, it's been a while my Drupal friends, almost 18 months... dusting off this old Drupal 6 blog and time to start posting again.
 

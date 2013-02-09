@@ -2,6 +2,7 @@
 layout: post
 title: RightScale & Drupal - How to Get Internal IP Address
 created: 1249175054
+category: drupal
 ---
 I'm working on a new project that has a Drupal site running in the cloud--specifically <a href="http://aws.amazon.com/">Amazon AWS</a> with <a href="http://www.rightscale.com/">RightScale</a> sitting on top to manage our servers and automated scaling scripts.
 

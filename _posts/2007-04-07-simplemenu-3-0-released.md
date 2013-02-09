@@ -2,6 +2,7 @@
 layout: post
 title: SimpleMenu 3.0 released!
 created: 1175926622
+category: drupal
 ---
 Finally, the much anticipated <a href="http://drupal.org/project/simplemenu">SimpleMenu 3.0</a> is finally out!
 

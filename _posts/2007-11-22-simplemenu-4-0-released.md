@@ -2,6 +2,7 @@
 layout: post
 title: SimpleMenu 4.0 released
 created: 1195761197
+category: drupal
 ---
 Well Happy Thanksgiving everyone!
 

@@ -2,6 +2,7 @@
 layout: post
 title: SimpleFeed 2.1 Release, New Maintainer, and a Look at Performance
 created: 1213215900
+category: drupal
 ---
 <h3>SimpleFeed 2.1</h3><a href="http://drupal.org/project/simplefeed">SimpleFeed 2.1 has been released</a>, grab it while it's hot!
 

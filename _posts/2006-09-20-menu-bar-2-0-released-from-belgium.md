@@ -2,6 +2,7 @@
 layout: post
 title: Menu bar 2.0, released from Belgium!
 created: 1158759556
+category: drupal
 ---
 A little less than one month ago, <a href="http://tedserbinski.com/2006/08/24/drupal_admin_menu_bar_released">I released version 1.0 of my Drupal admin menu bar</a>. 
 

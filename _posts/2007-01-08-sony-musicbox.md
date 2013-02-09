@@ -2,6 +2,7 @@
 layout: post
 title: Sony Musicbox
 created: 1168296697
+category: drupal
 ---
 Well I've been so busy with work lately, I haven't had much time to post this blog. Going to try and work on that more this year, maybe as a new after-the-fact New Years resolution, or something to that effect ;-)
 

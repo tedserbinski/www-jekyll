@@ -2,6 +2,7 @@
 layout: post
 title: Leo talks about the new TWiT.tv site
 created: 1153754848
+category: drupal
 ---
 At the end of <a href="http://www.twit.tv/62">last week's TWiT episode</a>, Leo and company talk about the <a href="http://tedserbinski.com/2006/07/13/twit_tv">new TWiT.tv site</a>. A clip of that can be listened to below.
 

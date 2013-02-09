@@ -2,6 +2,7 @@
 layout: post
 title: SimpleFeed 1.0 ships!
 created: 1195245359
+category: drupal
 ---
 That's right, <a href="http://drupal.org/project/simplefeed">SimpleFeed</a>, the fastest and easiest to use feed parser for Drupal is finally stable and release worthy!
 

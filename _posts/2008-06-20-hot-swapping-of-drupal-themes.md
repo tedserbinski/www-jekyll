@@ -2,6 +2,7 @@
 layout: post
 title: Hot Swapping of Drupal Themes
 created: 1213935446
+category: drupal
 ---
 At the <a href="http://www.parentsclick.com/">ParentsClick Network</a> we are soon to be rolling out many more sites on our platform. Because of our unique community API (which I will be detailing in a future post) we are running many sites (many not yet released) on the same install of Drupal, with the same database, and <strong>no shared tables</strong>. Yes, no typos there. More on just how that works in a later post.
 

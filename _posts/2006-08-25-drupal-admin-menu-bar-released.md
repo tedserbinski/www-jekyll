@@ -2,6 +2,7 @@
 layout: post
 title: Drupal admin menu bar released
 created: 1156480172
+category: drupal
 ---
 <img src="/files/admin_menu_screen.png" class="right" style="border:1px solid #000" />One of the biggest problems I run into when creating Drupal sites is a proper admin theme. Sure, there are various techniques to have a different admin theme, but often I want to integrate that into the current design. Many times that is ok, but the real problem was the admin menu--where the heck could I place it, it often didn't fit the design I was working on.
 

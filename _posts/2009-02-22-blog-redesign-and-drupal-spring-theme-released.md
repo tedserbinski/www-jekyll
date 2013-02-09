@@ -2,6 +2,7 @@
 layout: post
 title: Blog Redesign and Drupal "Spring Theme" Released
 created: 1235290917
+category: drupal
 ---
 <a href="http://www.flickr.com/photos/tedserbinski/3299012691/" title="Drupal Spring Theme by Ted Serbinski by m3avrck, on Flickr"><img src="http://farm4.static.flickr.com/3590/3299012691_9b86b9a457_m.jpg" width="240" height="142" alt="Drupal Spring Theme by Ted Serbinski" style="float:left;margin:0 6px 6px 0;border:1px solid #ccc;padding:2px;" /></a>
 

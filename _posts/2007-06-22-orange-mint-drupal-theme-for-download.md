@@ -1,7 +1,8 @@
 --- 
 layout: post
-title: "\"Orange Mint\" Drupal theme for download"
+title: "Orange Mint Drupal theme for download"
 created: 1182527762
+category: drupal
 ---
 As noted in <a href="http://tedserbinski.com/2007/05/20/ted-2-0-site-redesign">my previous post</a>, the previous <strong>ts</strong> theme, called "Orange Mint" is now available for download :-)
 

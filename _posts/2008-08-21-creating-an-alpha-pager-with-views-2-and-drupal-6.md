@@ -2,6 +2,7 @@
 layout: post
 title: Creating an Alpha Pager with Views 2 and Drupal 6
 created: 1219360097
+category: drupal
 ---
 <strong>UPDATE: <a href="http://tedserbinski.com/tags/drupal/creating-alpha-pager-with-views-2-and-drupal-6#comment-3478">Earl comments below</a> how this is already built in. Two different ways to achieve a similar result, each with their own pros/cons.</strong>
 
@@ -10,8 +11,6 @@ Hats off to <a href="http://www.angrydonuts.com/">Earl Miles</a> and the rest th
 From reading all of the docs and quietly watching development commits, I knew Views 2 was going to eliminate a lot of the Views 1 helper modules and open up a whole new world of awesomeness. While I haven't seen many blog posts detailing just which functionality/modules have been replaced with Views 2, I wanted to kickstart things with my own discovery as I played around with Views 2 quite thoroughly this afternoon.
 
 With Views 1, to build an alpha pager you would use the <a href="http://drupal.org/project/views_alpha_pager">views alpha pager module</a> in conjunction with your view. But what about Views 2?
-
-<!--break-->
 
 Well it's not so straightforward. I read somewhere about some sort of "glossary" view, but how could that be used to create an alpha pager? Well turns out, quite easy. Here's how:
 

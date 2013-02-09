@@ -8,5 +8,3 @@ created: 1221722932
 I've been working on this site and with Dietrich (CEO & founder) for over 2 years now. Through the ups and the downs we stuck to it, determined to succeed, and I'm delighted that finally after these years, we will have all the resources behind us now to really build out the company and network of sites to how we both envision it. The coming years are going to be exciting!
 
 <a href="http://drupal.org/node/310095">An article for Drupal.org</a> further outlines things from a technical perspective.
-
-<!--break-->

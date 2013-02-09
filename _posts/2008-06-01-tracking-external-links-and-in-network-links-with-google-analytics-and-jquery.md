@@ -12,7 +12,7 @@ Well thankfully Analytics makes this easier through its ability to <a href="http
 Sure there has gotta be, jQuery is wonderful and we could use that. So I googled it and found a great post doing something very close to what I was looking for: <a href="http://blog.rebeccamurphey.com/2008/01/06/track-outbound-clicks-with-google-analytics-and-jquery/">Rebecca Murphey's blog post</a> on that topic. While this worked great for outbound links, it didn't help with cross domain (or in-network links). So I modified her code a bit to check links against an array of our sites and adjust the Analytics code as necessary. The result was this:
 
 
-<code>
+{% highlight javascript %}
 <script type="text/javascript">
   // this code adds analytic specific onclick handlers for links to sites in our network (to pass cookies)
   // and external links (to track exit points)
@@ -57,7 +57,7 @@ Sure there has gotta be, jQuery is wonderful and we could use that. So I googled
     }); 
   });    
 </script>
-</code>
+{% endhighlight %}
 
 Hope that helps someone else, makes tracking all of that stuff considerably easier.
 

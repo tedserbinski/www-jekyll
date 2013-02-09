@@ -2,6 +2,7 @@
 layout: post
 title: Location data with Drupal
 created: 1181772239
+category: drupal
 ---
 One of the most popular features on <a href="http://www.mothersclick.com">MothersClick</a> is our <a href="http://www.mothersclick.com/groups">geo-mapping system for mothers' groups</a>---a mashup of Google maps and mommy groups (created with the organic groups module).
 

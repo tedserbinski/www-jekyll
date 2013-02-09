@@ -2,6 +2,7 @@
 layout: post
 title: "ted 3.0: A Drupal Blog Redesign"
 created: 1203904327
+category: drupal
 ---
 <a href="http://www.flickr.com/photos/tedserbinski/2289764345/" title="tedserbinski.com : spring breeze design by m3avrck, on Flickr"><img class="img-right" src="http://farm3.static.flickr.com/2238/2289764345_d024172ae8_m.jpg" width="240" height="159" alt="tedserbinski.com : spring breeze design" /></a>
 
@@ -9,7 +10,6 @@ About <a href="http://tedserbinski.com/2007/05/20/ted-2-0-site-redesign">9 month
 
 With this new design, however, things are starting to blossom and I am entitling this new design "Spring Breeze" --- indicating a refreshing amount of new change coming in the next few months, which I will be blogging about in more detail when the time comes. Not to mention, I can't wait for the <a href="http://www.summitpoint-raceway.com/">tracks to reopen</a> :D
 
-<!--break-->
 
 This updated design is using the latest Drupal 5 with the latest versions of corresponding modules. Drupal 6, while awesome in it's own and I'm eager to play with, IMO is still not ready for prime, especially with most modules not being fully updated, nor fully tested yet. Late spring is going to be a great time for that release and I expect to upgrade later.
 
