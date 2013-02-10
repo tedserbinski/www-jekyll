@@ -1,3 +1,7 @@
+body {
+  background: url("../img/bg01-black.png") repeat-x;
+}
+
 /* Sticky footer styles
 http://twitter.github.com/bootstrap/examples/sticky-footer.html
 -------------------------------------------------- */
@@ -14,6 +18,7 @@ body {
   height: 100%;
   /* Negative indent footer by it's height */
   margin: 0 auto -60px;
+  max-width: 1216px;
 }
 
 /* Set the fixed height of the footer here */
@@ -31,7 +36,7 @@ body {
 -------------------------------------------------- */
 .container {
   width: auto;
-  max-width: 774px;
+  max-width: 960px;
 }
 .container .credit {
   margin: 20px 0;
@@ -110,15 +115,14 @@ http://twitter.github.com/bootstrap/examples/carousel.html
 }
 
 .carousel .item {
-  height: 600px;
+  height: 500px;
 }
 
 .carousel img {
   position: absolute;
   top: 0;
-  left: 0;
-  min-width: 100%;
-  height: 600px;
+  right: 0;
+  height: 500px;
 }
 
 .carousel-caption {
@@ -208,11 +212,11 @@ http://twitter.github.com/bootstrap/examples/carousel.html
   }
 
   .carousel .item {
-    height: 600px;
+    height: 500px;
   }
   .carousel img {
     width: auto;
-    height: 600px;
+    height: 500px;
   }
 
   .featurette {
@@ -230,6 +234,10 @@ http://twitter.github.com/bootstrap/examples/carousel.html
 
 
 @media (max-width: 767px) {
+  body {
+    /* move black background up 200px when we reduce width so no overflow */
+    background-position-y: -200px; 
+  }
   .navbar-inner {
     margin: -20px;
   }
