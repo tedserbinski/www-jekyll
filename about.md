@@ -1,5 +1,7 @@
 ---
 layout: page
+title: About
+id: -about
 ---
 {% include JB/setup %}
 

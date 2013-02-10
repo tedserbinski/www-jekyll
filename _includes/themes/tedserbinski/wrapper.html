@@ -19,7 +19,7 @@
     <link rel="shortcut icon" href="{{ ASSET_PATH }}/img/favicon.png">
   </head>
 
-  <body>
+  <body id="page{{ page.id | replace: '/','-' }}">
     <div id="wrap">
 
       {{ content }}

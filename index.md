@@ -1,6 +1,8 @@
 ---
 layout: homepage
 background: bg01.jpg
+title: Ted Serbinski
+id: -home
 ---
 {% include JB/setup %}
 
