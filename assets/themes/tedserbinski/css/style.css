@@ -98,6 +98,15 @@ http://twitter.github.com/bootstrap/examples/carousel.html
   margin-top: 10px;
 }
 
+/* show dropdown on hover instead of click */
+ul.nav li.dropdown:hover > ul.dropdown-menu {
+  display: block;    
+}
+ul.nav li.dropdown:hover > a.dropdown-toggle {
+  color: #fff;
+  background-color: #111;   
+}
+
 
 
 /* Carousel / background image

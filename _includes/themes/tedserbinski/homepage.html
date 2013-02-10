@@ -12,24 +12,29 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
       <!-- Responsive Navbar Part 2: Place all navbar contents you want collapsed withing .navbar-collapse.collapse. -->
       <div class="nav-collapse collapse">
         <ul class="nav">
-          {% assign pages_list = site.pages %}
-          {% assign group = 'navigation' %}
-          {% include JB/pages_list %}
+          <li><a href="https://tinyletter.com/tedserbinski">52 VC Lessons</a></li>
+          <li><a href="/about.html">About</a></li>
+          <li><a href="mailto:stanson@gmail.com">Email Me</a></li>
           <!-- Read about Bootstrap dropdowns at http://twitter.github.com/bootstrap/javascript.html#dropdowns -->
           <li class="dropdown">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown">More <b class="caret"></b></a>
             <ul class="dropdown-menu">
-              <li><a href="#">Action</a></li>
-              <li><a href="#">Another action</a></li>
-              <li><a href="#">Something else here</a></li>
+              <li class="nav-header">Categories</li>
+              <li><a href="/drupal">Drupal</a></li>                            
+              <li><a href="/drupal">My M3</a></li>
               <li class="divider"></li>
-              <li class="nav-header">Nav header</li>
-              <li><a href="#">Separated link</a></li>
-              <li><a href="#">One more separated link</a></li>
+              <li class="nav-header">Online Profiles</li>
+              <li><a href="https://angel.co/tedserbinski">AngelList</a></li>
+              <li><a href="https://github.com/tedserbinski">Github</a></li>
+              <li><a href="https://plus.google.com/107707246099022430019?rel=author" rel="author">Google+</a></li>
+              <li><a href="http://www.linkedin.com/in/tedserbinski/">LinkedIn</a></li>
+              <li><a href="https://twitter.com/tedserbinski">Twitter</a></li>
+              <li class="divider"></li>
+              <li><a href="/archive.html">Archive</a></li>        
+              <li><a href="/pages.html">Sitemap</a></li>
             </ul>
           </li>
         </ul>
@@ -51,12 +56,41 @@
         <div class="carousel-caption">
           <h1>Ted Serbinski</h1>
           <p class="lead">Startup investor, mentor, founder, & hacker</p>
-          <a class="btn btn-large btn-success" href="http://twitter.com/tedserbinski" target="_blank">Follow me &raquo;</a>
+          <a class="btn btn-large btn-success" href="#myModal" role="button" data-toggle="modal">Subscribe to 52 VC Lessons &raquo;</a>
       </div>
       </div>
     </div>
   </div>
 </div><!-- /.carousel -->    
+
+
+
+<!-- Newsletter modal
+================================================== -->
+<div id="myModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">X</button>
+    <h3 id="myModalLabel">Free Newsletter: 52 VC Lessons</h3>
+  </div>
+  <div class="modal-body">
+    <p>Every week I'll share a new lesson I've learned as a first time VC. Signup below to get these delivered to your inbox!</p>
+    
+    
+    <form action="https://tinyletter.com/tedserbinski" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/tedserbinski', 'popupwindow', 'scrollbars=yes,width=800,height=600');$('#myModal').modal('hide');return true">
+    <div class="input-append input-prepend">
+      <span class="add-on"><i class="icon-envelope"></i></span>
+      <input class="span2" type="email" placeholder="you@example.com" required name="email" id="tlemail">
+      <input type="hidden" value="1" name="embed"/>
+      <button class="btn btn-success" type="submit">Sign me up!</button>
+    </div>
+    </form>
+
+    <p class="text-muted"><small>No spam, promise. Powered by <a href="https://tinyletter.com/tedserbinski">TinyLetter & Mailchimp</a></small></p>
+  </div>
+  <div class="modal-footer">
+    <button class="btn" data-dismiss="modal" aria-hidden="true">No, thanks</button>
+  </div>
+</div>
 
 
 <!-- Content
