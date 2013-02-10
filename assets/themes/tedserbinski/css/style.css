@@ -38,6 +38,12 @@ body {
   width: auto;
   max-width: 960px;
 }
+.container.content {
+  max-width: 774px;
+}
+.container.page {
+  max-width: 660px;
+}
 .container .credit {
   margin: 20px 0;
 }
