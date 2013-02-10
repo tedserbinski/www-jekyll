@@ -38,14 +38,18 @@ body {
   width: auto;
   max-width: 960px;
 }
-.container.content {
-  max-width: 774px;
-}
 .container.page {
+  max-width: 774px;
+  margin-top: 60px;
+}
+.container.content {
   max-width: 660px;
 }
 .container .credit {
   margin: 20px 0;
+}
+.page_header {
+  border-bottom-color: #ccc;
 }
 
 
@@ -62,6 +66,10 @@ http://twitter.github.com/bootstrap/examples/carousel.html
   z-index: 10;
   margin-top: 20px;
   margin-bottom: -90px; /* Negative margin to pull up carousel. 90px is roughly margins and height of navbar. */
+}
+
+.navbar-wrapper.page {
+  margin-top:0;
 }
 
 /* Remove border and change up box shadow for more contrast */
