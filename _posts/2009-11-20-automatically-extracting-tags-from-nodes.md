@@ -24,9 +24,10 @@ If you're using Drupal and the <a href="http://drupal.org/project/active_tags">a
 
 <em>Note: there is some extra code that strips non-alphanumeric characters and makes things lower case as well, this could be removed/changed based on your site's requirements</em>
 
-notextile.. <code>
+{% highlight js %}
 /**
- * Automatically determine Drupal taxonomy tags based on the user entered form title.
+ * Automatically determine Drupal taxonomy tags based 
+ * on the user entered form title.
  */
 Drupal.behaviors.autoTag = function() {
   var tagged = false;
@@ -51,6 +52,6 @@ Drupal.behaviors.autoTag = function() {
     }
   });
 };
-</code>
+{% endhighlight %}
 
 While not perfect, we have found that this simple technique has resulted in quite an improvement in helping our users tag content, which when you consider the busy mom lifestyle, is a feat in and of itself! :)

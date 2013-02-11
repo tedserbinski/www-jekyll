@@ -18,51 +18,52 @@
   </div><!-- /.navbar -->
 </div><!-- /.navbar-wrapper -->
 
+<div class="container-fluid page-content">
+  <div class="row-fluid">
+    <div class="span2 offset1 author">
+      <img src="{{ ASSET_PATH }}/img/ted-headshot-small.jpg" class="img-circle" title="Ted Serbinski">
+      <p class="muted posted"><small>Posted {{ page.date | date: "%d %b %Y"  }}</small></p>
 
-<div class="container content">
-
-  <div class="page-header">
-    <h1>{{ page.title }} <small>Supporting tagline</small></h1>
-  </div>
-  
-  <p class="lead">Pin a fixed-height footer to the bottom of the viewport in desktop browsers with this custom HTML and CSS.</p>
-  <p>Use <a href="./sticky-footer-navbar.html">the sticky footer</a> with a fixed navbar if need be, too.</p>
-  
-  <div class="row">
-    <div class="span2">
-      <h4>Published</h4>
-      <div class="date"><span>{{ page.date | date_to_long_string }}</span></div>
-  
-    {% unless page.tags == empty %}
-      <h4>Tags</h4>
-      <ul class="tag_box">
-      {% assign tags_list = page.tags %}
-      {% include JB/tags_list %}
-      </ul>
-    {% endunless %}  
-    </div>
-      
-    <div class="span6">
-      {{ content }}
-      <hr>
-      <div class="pagination">
-        <ul>
-        {% if page.previous %}
-          <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Previous</a></li>
-        {% else %}
-          <li class="prev disabled"><a>&larr; Previous</a></li>
-        {% endif %}
-          <li><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Archive</a></li>
-        {% if page.next %}
-          <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next &rarr;</a></li>
-        {% else %}
-          <li class="next disabled"><a>Next &rarr;</a>
-        {% endif %}
+      {% unless page.tags == empty %}
+        <h4>Tags</h4>
+        <ul class="tag_box">
+        {%  assign tags_list = page.tags %}
+        {% include JB/tags_list %}
         </ul>
+      {% endunless %}
+    </div>
+    
+    <div class="span7">
+      <div class="page-header">
+        <h1>{{ page.title }}</h1>
+        
+        <div class="post">
+
+          {{ content }}
+  
+          <hr>
+  
+          <div class="pagination">
+            <ul>
+            {% if page.previous %}
+              <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Previous</a></li>
+            {% else %}
+              <li class="prev disabled"><a>&larr; Previous</a></li>
+            {% endif %}
+              <li><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Archive</a></li>
+            {% if page.next %}
+              <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next &rarr;</a></li>
+            {% else %}
+              <li class="next disabled"><a>Next &rarr;</a>
+            {% endif %}
+            </ul>
+          </div>
+  
+          <hr>
+  
+          {% include JB/comments %}
+        </div>
       </div>
-      <hr>
-      {% include JB/comments %}
     </div>
   </div>
-
 </div>
