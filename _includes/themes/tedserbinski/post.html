@@ -22,8 +22,6 @@
   <div class="row-fluid">
     <div class="span2 offset1 author">
       <img src="{{ ASSET_PATH }}/img/ted-headshot-small.jpg" class="img-circle" title="Ted Serbinski">
-      <p class="muted posted"><small>Posted {{ page.date | date: "%d %b %Y"  }}</small></p>
-
       {% unless page.tags == empty %}
         <h4>Tags</h4>
         <ul class="tag_box">
@@ -36,7 +34,9 @@
     <div class="span7">
       <div class="page-header">
         <h1>{{ page.title }}</h1>
-        
+  
+        <p class="muted posted">Written by Ted Serbinski on {{ page.date | date: "%B %d, %Y"  }}</p>
+  
         <div class="post">
 
           {{ content }}

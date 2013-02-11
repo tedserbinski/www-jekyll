@@ -55,8 +55,7 @@ body {
   border-right:2px solid #eee;
 }
 .page-content .author .posted {
-  padding:12px 0;
-  margin-top:24px;
+  margin:24px 0 18px 0;
 }
 .page-content .author .icon-calendar {
   opacity: 0.4;
@@ -77,8 +76,15 @@ body {
   line-height: 36px;
 }
 
+.page-content p+p {
+  margin-top:36px;
+}
+
 .page-content p.posted {
   font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  line-height: 1;
+  font-style: italic;
+  font-size:12px;
 }
 
 code { 
