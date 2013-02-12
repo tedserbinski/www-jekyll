@@ -2,7 +2,7 @@
 layout: post
 title: How often do you change your oil
 created: 1144087741
-category: BMW M3
+category: cars
 ---
 A friend of mine, <a href="http://www.jasoncammisa.com/">Jason Cammisa</a>, just sent me this very interesting writeup on an experiment of his. If you want to do your own analysis, grab a kit from <a href="http://www.blackstone-labs.com/">Blackstone Labs</a> and send it in. It is about $20 or so.
 
