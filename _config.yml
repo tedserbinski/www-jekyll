@@ -14,6 +14,7 @@ auto: true
 #
 title : Ted Serbinski
 tagline: Startup investor, mentor, founder, & hacker
+description: A blog convering startup investing, tips, and code from a founder/hacker turned VC.
 author :
   name : Ted Serbinski
   email : stanson@gmail.com
