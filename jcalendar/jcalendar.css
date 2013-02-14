@@ -1,3 +1,7 @@
+body {
+  margin:0;
+  padding:0;
+}
 fieldset.jcalendar {
 border:1px solid #A1A5A9;
 font:.9em Arial, Helvetica, sans-serif;
