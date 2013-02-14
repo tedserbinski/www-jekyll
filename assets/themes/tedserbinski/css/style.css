@@ -50,17 +50,11 @@ body {
 .page-content {
   margin-top:96px;
 }
-.page-content .author {
+.page-content .author-pic {
   margin-top:24px;
   border-right:2px solid #eee;
 }
-.page-content .author .posted {
-  margin:24px 0 18px 0;
-}
-.page-content .author .icon-calendar {
-  opacity: 0.4;
-  filter:alpha(opacity=40); /* For IE8 and earlier */
-}
+
 
 /* Fonts
 -------------------------------------------------- */

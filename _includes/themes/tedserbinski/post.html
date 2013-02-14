@@ -20,7 +20,7 @@
 
 <div class="container-fluid page-content">
   <div class="row-fluid">
-    <div class="span2 offset1 author">
+    <div class="span2 offset1 author-pic">
       <img src="{{ ASSET_PATH }}/img/ted-headshot-small.jpg" class="img-circle" title="Ted Serbinski">
       {% unless page.tags == empty %}
         <h4>Tags</h4>
@@ -31,13 +31,14 @@
       {% endunless %}
     </div>
     
-    <div class="span7">
-      <div class="page-header">
-        <h1>{{ page.title }}</h1>
+    <!-- hatom microformat classes: http://microformats.org/wiki/hatom-examples -->
+    <div class="span7 hfeed">
+      <div class="page-header hentry entry">
+        <h1 class="entry-title" id="{{ page.id | replace: '/','-' }}">{{ page.title }}</h1>
   
-        <p class="muted posted">Written by Ted Serbinski on {{ page.date | date: "%B %d, %Y"  }}</p>
+        <p class="muted posted">Written by <span class="vcard author"><span class="fn">Ted Serbinski</span></span> on <span class="date updated"><abbr class="published" title="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y"  }}</abbr></span></p>
   
-        <div class="post">
+        <div class="post entry-content">
 
           {{ content }}
   
