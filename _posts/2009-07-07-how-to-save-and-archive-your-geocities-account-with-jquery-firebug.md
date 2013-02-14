@@ -14,7 +14,7 @@ Grab this bookmarket: <a href="javascript:var%20s=document.createElement('script
 
 Visit your Geocities account and the filemanager page. Once on a listing of files, click on the above bookmarklet, then use Firebug to execute the following code:
 
-{%highlight javascript %}
+{% highlight js %}
 var o = '';
 $("form[name=dispfiles]")
   .find("a:contains(View)")
@@ -22,7 +22,7 @@ $("form[name=dispfiles]")
     o+= 'wget '+ val.href +';'; 
   });
 console.log(o);
-{% endhiglight %}
+{% endhighlight %}
 
 This will output to your Firebug console a "wget" command of all the files. Simply open up terminal in Linux/Mac (Windows try <a href="http://cygwin.com/">Cygwin</a>) and copy and run the command.
 
