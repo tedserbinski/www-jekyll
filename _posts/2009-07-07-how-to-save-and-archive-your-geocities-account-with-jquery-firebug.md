@@ -9,13 +9,12 @@ Fast-forward 12 years and the <a href="http://www.techcrunch.com/2009/04/23/yaho
 
 Well here's a handy trick to get this working.
 
-<!--break-->
 
 Grab this bookmarket: <a href="javascript:var%20s=document.createElement('script');s.setAttribute('src',%20'http://jqueryjs.googlecode.com/files/jquery-1.3.2.min.js');document.body.appendChild(s);s.onload=function(){/*Your%20Code%20Here*/};void(s);">jQuerify</a> and drag it to your bookmarks. This is an updated version of <a href="http://ejohn.org/blog/hacking-digg-with-firebug-and-jquery/">John Resig's jQueryify bookmarklet</a>, changing the source URL of jQuery to match the one listed on jquery.com.
 
 Visit your Geocities account and the filemanager page. Once on a listing of files, click on the above bookmarklet, then use Firebug to execute the following code:
 
-<code>
+{%highlight javascript %}
 var o = '';
 $("form[name=dispfiles]")
   .find("a:contains(View)")
@@ -23,7 +22,7 @@ $("form[name=dispfiles]")
     o+= 'wget '+ val.href +';'; 
   });
 console.log(o);
-</code>
+{% endhiglight %}
 
 This will output to your Firebug console a "wget" command of all the files. Simply open up terminal in Linux/Mac (Windows try <a href="http://cygwin.com/">Cygwin</a>) and copy and run the command.
 
