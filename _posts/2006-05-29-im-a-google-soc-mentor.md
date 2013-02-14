@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: I'm a Google SoC mentor
+title: I'm a Google Summer of Code Mentor
 created: 1148954540
 category: drupal
 ---
