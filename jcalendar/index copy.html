@@ -1,0 +1,240 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<title>jCalendar &mdash; a jQuery calendar by ted serbinski</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<script type="text/javascript" charset="utf-8" src="http://code.jquery.com/jquery-1.1.2.pack.js"></script>
+	<script type="text/javascript" charset="utf-8" src="jcalendar.js"></script>
+  <link rel="stylesheet" href="jcalendar.css" type="text/css" media="screen" charset="utf-8">
+	<link rel="stylesheet" href="style.css" type="text/css" media="screen" charset="utf-8">
+  <script type="text/javascript" charset="utf-8">
+    $(document).ready(function() {
+      var l = window.location.href;
+      var a = (l.indexOf("#") > -1) ? l.substr(l.indexOf("#")) : "#about";
+
+      $("div.nav:not("+ a +")").hide();
+      $("#nav a[@href="+ a +"]").addClass("active");
+      $("div.nav>h2").hide();
+      $("#nav a").click(function() {
+        $($(this).attr("href")).fadeIn();
+        $("div.nav:visible").hide();
+        $("#nav a.active").removeClass("active");
+        $(this).addClass("active");
+      });
+
+      $('fieldset.jcalendar').jcalendar();
+    });
+  </script>
+</head>
+
+<body>
+  <div id="wrapper">
+
+  <h1 title="jCalendar &mdash; a jQuery calendar by ted serbinski">jCalendar<br /><span>a jQuery calendar by ted serbinski</span></h1>
+
+  <div id="nav">
+  <ul>
+    <li><a href="#about">about</a></li>
+    <li><a href="#demo">demo</a></li>
+    <li><a href="#features">features</a></li>
+    <li><a href="#use">use</a></li>
+    <li><a href="#todo">todo</a></li>
+    <li><a href="#changelog">changelog</a></li>
+  </ul>
+  </div>
+  <br />
+  <br />
+
+  <div id="about" class="nav">
+    <h2>about</h2>                    
+    <p style="background:#ffa;font-weight:bold;border:1px solid #999;font-size:1.5em;padding:6px">NOTE: This project has been superceded by the most excellent <a href="http://jqueryui.com/">jQuery UI</a>.</p>
+    <p>jCalendar is an inline dynamic calendar built with <a href="http://www.jquery.com">jQuery</a>. It originally started off based on the great <a href="http://kelvinluck.com/assets/jquery/datePicker/">jQuery date picker by Kelvin Luck</a> but has quickly morphed into its own code base.</p>
+    <p>jCalendar v0.5 can be used with 3 form selects (one for day, month, and year) to visually select a specific date for input.</p>
+    <p>Coming soon will be v1.0, which will allow for not only visually selecting dates but also for displaying them in both mini and full page calendar views, similar to that of <a href="http://calendar.google.com">Google Calendar</a>.</p>
+  </div>
+
+  <div id="demo" class="nav">
+    <h2>demo</h2>
+    <form>
+    <fieldset class="jcalendar">
+       <legend>Select date</legend>
+       <div class="jcalendar-wrapper">
+       <div class="jcalendar-selects">
+         <select name="day" id="day" class="jcalendar-select-day">
+           <option value="0"></option>
+           <option value="1">1</option>
+           <option value="2">2</option>
+           <option value="3">3</option>
+           <option value="4">4</option>
+           <option value="5">5</option>
+           <option value="6">6</option>
+           <option value="7">7</option>
+           <option value="8">8</option>
+           <option value="9">9</option>
+           <option value="10">10</option>
+           <option value="11">11</option>
+           <option value="12">12</option>
+           <option value="13">13</option>
+           <option value="14">14</option>
+           <option value="15">15</option>
+           <option value="16">16</option>
+           <option value="17">17</option>
+           <option value="18">18</option>
+           <option value="19">19</option>
+           <option value="20">20</option>
+           <option value="21">21</option>
+           <option value="22">22</option>
+           <option value="23">23</option>
+           <option value="24">24</option>
+           <option value="25">25</option>
+           <option value="26">26</option>
+           <option value="27">27</option>
+           <option value="28">28</option>
+           <option value="29">29</option>
+           <option value="30">30</option>
+           <option value="31">31</option>
+         </select>
+         <select name="month" id="month" class="jcalendar-select-month">
+           <option value="0"></option>
+           <option value="1">January</option>
+           <option value="2">February</option>
+           <option value="3">March</option>
+           <option value="4">April</option>
+           <option value="5">May</option>
+           <option value="6">June</option>
+           <option value="7">July</option>
+           <option value="8">August</option>
+           <option value="9">September</option>
+           <option value="10">October</option>
+           <option value="11">November</option>
+           <option value="12">December</option>
+         </select>
+         <select name="year" id="year" class="jcalendar-select-year">
+           <option value="0"></option>
+           <option value="1982">1982</option>
+           <option value="1983">1983</option>
+           <option value="1984">1984</option>
+           <option value="1985">1985</option>
+           <option value="1986">1986</option>
+           <option value="1987">1987</option>
+           <option value="1988">1988</option>
+           <option value="1989">1989</option>
+           <option value="1990">1990</option>
+           <option value="1991">1991</option>
+           <option value="1992">1992</option>
+           <option value="1993">1993</option>
+           <option value="1994">1994</option>
+           <option value="1995">1995</option>
+           <option value="1996">1996</option>
+           <option value="1997">1997</option>
+           <option value="1998">1998</option>
+           <option value="1999">1999</option>
+           <option value="2000">2000</option>
+           <option value="2001">2001</option>
+           <option value="2002">2002</option>
+           <option value="2003">2003</option>
+           <option value="2004">2004</option>
+           <option value="2005">2005</option>
+           <option value="2006">2006</option>
+           <option value="2007">2007</option>
+           <option value="2008">2008</option>
+           <option value="2009">2009</option>
+           <option value="2010">2010</option>
+           <option value="2011">2011</option>
+           <option value="2012">2012</option>
+           <option value="2013">2013</option>
+           <option value="2014">2014</option>
+           <option value="2015">2015</option>
+           <option value="2016">2016</option>
+           <option value="2017">2017</option>
+           <option value="2018">2018</option>
+           <option value="2019">2019</option>
+           <option value="2020">2020</option>
+           <option value="2021">2021</option>
+           <option value="2022">2022</option>
+           <option value="2023">2023</option>
+           <option value="2024">2024</option>
+           <option value="2025">2025</option>
+           <option value="2026">2026</option>
+           <option value="2027">2027</option>
+           <option value="2028">2028</option>
+           <option value="2029">2029</option>
+           <option value="2030">2030</option>
+           <option value="2031">2031</option>
+           <option value="2032">2032</option>
+         </select>
+       </div>
+       </div>
+    </fieldset>
+    </form>
+  </div>
+
+  <div id="features" class="nav">
+    <h2>features</h2>
+    <ul>
+      <li>Defaults to today's date if no selected values are supplied</li>
+      <li>Automatically sets the boundaries of the calendar (e.g., prev/next) based on first and last years specified in the select year form element</li>
+      <li>Accessible, select dates and browse calendar using the TAB button</li>
+      <li>Navigation for previous and next calendar months, along with automatically jumping back to today's date</li>
+      <li>Fully themable through CSS</li>
+      <li>Degrades to normal form selects if JavaScript is off</li>
+      <li>Works with jQuery 1.0.4 or 1.1.2</li>
+    </ul>
+  </div>
+
+  <div id="todo" class="nav">
+    <h2>todo</h2>
+    <ul>
+      <li>Add in configurable classes at runtime</li>
+      <li>Add in configurable weekday, link, and month names</li>
+      <li>Add in ability to pass in an array of dates & values to plot on the calendar
+        <ul>
+          <li>Mini mode to plot calendar with bullets to indicate events on that day, click to popup and show</li>
+          <li>Large or full page mode to list events (up to X amount), and then click to see more</li>
+        </ul>
+      </li>
+      <li>Optimize and clean up code (still a few remnants of date picker that can be refactored)</li>
+    </ul>
+  </div>
+
+  <div id="use" class="nav">
+    <h2>use</h2>
+    <ol>
+      <li><a href="http://jquery.com/">Download jQuery</a>, either version 1.0.4 or 1.1.2</li>
+      <li>Download jCalendar &mdash; <a href="jcalendar-source.js">source</a> or <a href="jcalendar.js">compressed</a> or <a href="http://jquery.com/svn/listing.php?repname=jQuery&path=%2Ftrunk%2Fplugins%2FjCalendar%2F&opt=dir&sc=1">svn checkout</a></li>
+      <li>Download optional <a href="jcalendar.css">jCalander CSS</a></li>
+      <li>Add 3 form selects for day, month, and year with classes <em>jcalendar-select-day</em>, <em>jcalendar-select-month</em>, <em>jcalendar-select-year</em></li>
+      <li>Wrap the 3 selects in <em>&lt;div class="jcalendar-selects"&gt;</em></li>
+      <li>Attach jcalendar. Example:
+        <pre>
+$(document).ready(function() {
+  $('fieldset.jcalendar').jcalendar();
+});</pre>
+      </li>
+      <li>Enjoy better usability :-)</li>
+    </ol>
+  </div>
+
+  <div id="changelog" class="nav">
+    <h2>changelog</h2>
+    <ul>
+      <li><a href="http://jquery.com/svn/log.php?repname=jQuery&path=%2Ftrunk%2Fplugins%2FjCalendar%2F&rev=0&sc=0&isdir=1">Complete SVN changelog</a></li>
+      <li>15 Apr 2007 - v0.5 released</li>
+    </ul>
+  </div>
+
+  <div id="contact" class="nav">
+    <h2>contact</h2>
+    <p>Please use the <a href="http://tedserbinski.com/contact">contact form on my blog</a> to send comments, suggestions, and general feedback. Thanks!</p>
+  </div>
+
+  <div id="license">
+    <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png" /></a>
+    <br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-Noncommercial-Share Alike 3.0 License</a>
+  </div>
+  </div>
+
+</body>
+</html>
