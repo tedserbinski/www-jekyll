@@ -1,0 +1,87 @@
+body {
+background:#efefef;
+color:#222;
+font:80% Arial, Helvetica, sans-serif;
+}
+
+a {
+color:#0072b9;
+}
+
+a:hover,a:focus,a:active {
+color:#FF0522;
+}
+
+#wrapper {
+background:#fff;
+border:1px solid #000;
+margin:6em auto;
+padding:3.5em 1em 1em;
+width:40em;
+}
+
+h1 {
+background:url(title.png) left no-repeat;
+color:#fff;
+font-size:0;
+height:49px;
+}
+
+#nav {
+margin:1.5em 0;
+}
+
+#nav ul {
+background:#000;
+float:left;
+margin:0;
+padding:0;
+width:100%;
+}
+
+#nav li {
+display:inline;
+}
+
+#nav li a {
+background:#000;
+color:#fff;
+float:left;
+padding:.3em 1.2em;
+text-decoration:none;
+}
+
+#nav li a.active,#nav li a:hover,#nav li a:focus,#nav li a:active {
+background:#48B;
+color:#fff;
+}
+
+h2 {
+background:#000;
+color:#fff;
+font-size:1.2em;
+padding:.5em;
+}
+
+p {
+padding:0;
+}
+
+pre {
+background:#eee;
+font:100% "Andale Mono";
+padding:.2em;
+}
+
+#license {
+font-size:.8em;
+margin:0 auto;
+padding:3em 0 0;
+text-align:center;
+width:60%;
+}
+
+select,fieldset {
+margin:0;
+padding:0;
+}
