@@ -4,8 +4,8 @@
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
     <meta name="author" content="{{ site.author.name }}">
+    <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 
     <link href="{{ ASSET_PATH }}/twitter-bootstrap/css/bootstrap-2.3.min.css" rel="stylesheet">
     <link href="{{ ASSET_PATH }}/twitter-bootstrap/css/bootstrap-responsive-2.3.min.css" rel="stylesheet">
@@ -31,7 +31,7 @@
     
     <div id="footer">
       <div class="container">
-        <p class="muted credit">&copy; 2013 <a href="https://plus.google.com/107707246099022430019?rel=author" rel="author">Ted Serbinski</a>. <small>Hand made in Detroit with <a href="http://panic.com/coda/">Coda</a>. Source code on <a href="https://github.com/tedserbinski/www">Github</a>.</small></p>
+        <p class="muted credit">&copy; 2013 <a href="https://plus.google.com/107707246099022430019?rel=author" rel="author">Ted Serbinski</a>. <small>Hand made in Detroit with <a href="http://panic.com/coda/">Coda</a>. Source code on <a href="https://github.com/tedserbinski/www">Github</a>. Follow me on <a href="http://twitter.com/tedserbinski">Twitter</a>.</small></p>
       </div>
     </div>
     

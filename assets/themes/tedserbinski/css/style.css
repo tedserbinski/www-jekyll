@@ -140,6 +140,11 @@ ul.nav li.dropdown:hover > a.dropdown-toggle {
   background-color: #111;   
 }
 
+#page-home .navbar-inner {
+  background: -webkit-linear-gradient(top,rgba(34,34,34,1),rgba(12, 12, 12, 0.5));
+  background: -moz-linear-gradient(top,rgba(34,34,34,1),rgba(12, 12, 12, 0.5));
+}
+
 
 
 /* Carousel / background image
