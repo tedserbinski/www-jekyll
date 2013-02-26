@@ -21,30 +21,33 @@
 <div class="container-fluid page-content">
   <div class="row-fluid">
     <div class="span2 offset1 author-pic">
-      <img src="{{ ASSET_PATH }}/img/ted-headshot-small.jpg" class="img-circle" title="Ted Serbinski">
-      {% unless page.tags == empty %}
-        <h4>Tags</h4>
-        <ul class="tag_box">
-        {%  assign tags_list = page.tags %}
-        {% include JB/tags_list %}
+      <p class="text-center"><img src="{{ ASSET_PATH }}/img/ted-headshot-small.jpg" class="img-circle" title="Ted Serbinski"></p>
+      <div class="alert alert-info">Ted Serbinski is a successful entrepreneur and hacker turned early-stage tech VC living in Detroit.</div>
+      <div class="pagination pagination-centered">
+        <ul>
+        {% if page.previous %}
+          <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&laquo; Previous</a></li>
+        {% endif %}
+        {% if page.next %}
+          <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next &raquo;</a></li>
+        {% endif %}
         </ul>
-      {% endunless %}
+      </div>
     </div>
     
     <!-- hatom microformat classes: http://microformats.org/wiki/hatom-examples -->
     <div class="span7 hfeed">
       <div class="page-header hentry entry">
         <h1 class="entry-title" id="{{ page.id | replace: '/','-' }}">{{ page.title }}</h1>
-  
-        <p class="muted posted">Written by <span class="vcard author"><span class="fn">Ted Serbinski</span></span> on <span class="date updated"><abbr class="published" title="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y"  }}</abbr></span></p>
-  
         <div class="post entry-content">
 
           {{ content }}
+
+          <p class="muted posted">Written by <span class="vcard author"><span class="fn"><a href="https://plus.google.com/107707246099022430019?rel=author">Ted Serbinski</a></span></span> on <span class="date updated"><abbr class="published" title="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y"  }}</abbr></span></p>
   
           <hr>
-  
-          <div class="pagination">
+          <div class="alert alert-block alert-success">Have feedback? Leave a comment below or <a href="http://twitter.com/tedserbinski">send me a message @tedserbinski on Twitter</a></div>
+          <div class="pagination pagination-centered">
             <ul>
             {% if page.previous %}
               <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Previous</a></li>
