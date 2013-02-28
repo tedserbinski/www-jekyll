@@ -370,7 +370,7 @@ https://gist.github.com/edwardhotchkiss/2005058
 }
 
 code {
-  font-family:'Bitstream Vera Sans Mono','Courier', monospace;
+  font-family:Consolas,"Andale Mono",Monaco,Courier,"Courier New",Verdana,sans-serif;
 }
 
 .highlight .c { color: #586E75 } /* Comment */
