@@ -3,7 +3,7 @@ layout: post
 title: The Paulding Light
 created: 1217350386
 ---
-<a href="http://www.flickr.com/photos/tedserbinski/2713024192/" title="The Paulding Light by m3avrck, on Flickr"><img src="http://farm4.static.flickr.com/3097/2713024192_d0858b264d_m.jpg" width="240" height="180" alt="The Paulding Light" align="left" /></a> Last week we were in upstate Michigan and went to see the Paulding Light just outside of <a href="http://maps.google.com/maps?f=q&hl=en&geocode=&q=watersmeet,+mi&ie=UTF8&z=10&iwloc=addr">Watersmeet, MI</a>.  This is a mysterious phenomenon of blinking lights, that almost looks like a mini star.
+Last week we were in upstate Michigan and went to see the Paulding Light just outside of <a href="http://maps.google.com/maps?f=q&hl=en&geocode=&q=watersmeet,+mi&ie=UTF8&z=10&iwloc=addr">Watersmeet, MI</a>.  This is a mysterious phenomenon of blinking lights, that almost looks like a mini star.
 
 You can <a href="http://www.backwoodswisconsin.com/paulding_light.htm">read more about the Paulding Light here</a> and also find directions and other theories that try to explain where this light comes from.
 

@@ -16,7 +16,7 @@ After trying that JS trick, we noticed the page was significantly faster & smoot
 
 To Drupal-ize & jQuery-ize this fix for resuability, I wrote this simple behavior below that works with Drupal 6. You can see in action on the <a href="http://mylifetime.com/community">myLifetime community</a>.
 
-<code>
+{% highlight js %}
 /**
  * Fix flickering background images in IE.
  */
@@ -27,8 +27,7 @@ Drupal.behaviors.fixIEFlickr = function() {
     } catch(err) {}
   }
 };
-</code>
+{% endhighlight %}
 
 May this code save you a few hours/days of head banging! 
 
-<!--break-->

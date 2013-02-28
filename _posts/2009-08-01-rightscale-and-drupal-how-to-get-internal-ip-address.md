@@ -18,19 +18,19 @@ With a little bit of tweaking, I arrived at a working solution that was even eas
 
 First step is to prepare your settings.php or similar configuration file that holds your $conf[] for Drupal. We use IP address for a number of internal variables, but below are two Drupal specific variables used in <a href="http://api.drupal.org/api/function/ip_address/6">ip_address()</a>:
 
-<code>
+{% highlight kconfig %}
   'reverse_proxy' => true,
   'reverse_proxy_addresses' => array(
     // load balancer IPs
     '1.2.3.4', // elastic ip address from AWS
   ),
-</code>
+{% endhighlight %}
 
 The above code lives in our custom file that holds our Drupal $conf[] settings. We have a RightScript that copies this files to the proper location and after the file is copied over, I added this command:
 
-<code>
+{% highlight bash %}
 sed -i "/load balancer IPs/ a\'$(hostname -i)'," db.inc
-</code>
+{% endhighlight %}
 
 What this basically does is opens up our db.inc file which holds our Drupal $conf[], it searches for that specific "@load balancer IPs@" string (see above code snippet for where it was defined), than it appends a new line, adding in the IP address of that machine. If you have multiple machines registering themselves, this works quite nicely, as they keep growing the list.
 

@@ -58,27 +58,38 @@ body {
 
 /* Fonts
 -------------------------------------------------- */
-.page-content h1 {
-  margin-bottom: 36px;
-  letter-spacing:-2px;
-  font-family:'Droid Serif', Georgia, Times, serif;  
+.entry {
+  font-family:'Droid Serif', Georgia, Times, serif;
 }
 
-.page-content p {
-  font-family:'Droid Serif', Georgia, Times, serif;
+.entry h1 {
+  margin-bottom: 36px;
+  letter-spacing:-2px;
+}
+
+.entry p {
   font-size: 18px;
   line-height: 36px;
 }
 
-.page-content p+p {
+.entry p+p {
   margin-top:36px;
 }
 
-.page-content p.posted {
+.entry p+h3, .entry ul+h3 {
+  margin-top:48px;
+}
+
+.entry p.posted {
   font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
   line-height: 1;
   font-style: italic;
   font-size:12px;
+}
+
+.entry li {
+  font-size: 16px;
+  line-height: 24px;
 }
 
 code { 

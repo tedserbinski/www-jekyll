@@ -18,7 +18,7 @@ To see this in action, visit the <a href="http://www.parentsclick.com">ParentsCl
 
 <strong>A note, this functionality should really be in core, and <a href="http://drupal.org/node/76824#comment-817492">this patch</a> is where the necessary .htaccess code used below comes from, only being slightly modified to prevent Drupal from handling 404s completely. The below code is tested and working on Drupal 5</strong>.
 
-<h3>Step 1 - Update your .htaccess file</h3>
+### Step 1 - Update your .htaccess file
 
 {% highlight diff %}
 - ErrorDocument 404 /index.php
@@ -37,17 +37,19 @@ To see this in action, visit the <a href="http://www.parentsclick.com">ParentsCl
 
 <p>What this basically does is it removes Drupal from handling 404s (removing the /index.php part) and tells Apache to use a specific file if it encounters a 404 (like a missing image or CSS file).</p>
 
-<h3>Step 2 - Tell Drupal to stop on 404s too</h3>
+### Step 2 - Tell Drupal to stop on 404s too
 In your template.php inside of the _phptemplate_variables(), add in this code:
 
 {% highlight php %}
+<?php
 // show custom 404 page
 $headers = drupal_get_headers();
 if (strpos($headers, 'HTTP/1.1 404') !== FALSE) {
   // make sure this path = ErrorDocument in .htaccess above
   include_once './sites/all/themes/foundation/404.php';
   exit();
-}   
+}
+?>   
 {% endhighlight %}
 
 <p>This tell Drupal to serve up this 404 page if it can't find the path. The benefit of this is your designers can work on the same file that handles 404s for both Apache and Drupal. It also stops Drupal from fully executing. In Drupal 6 this could happen much earlier using the preprocess templating functions.</p>

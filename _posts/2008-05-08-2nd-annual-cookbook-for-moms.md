@@ -3,7 +3,7 @@ layout: post
 title: 2nd Annual "Cookbook for Moms"
 created: 1210296471
 ---
-<a href="http://www.mothersclick.com/cookbook"><img src="http://www.mothersclick.com/sites/all/themes/mothersclick/images/cookbook/2008/sale-223x299.png" width="223" height="299" style="float:left;margin-right:6px;margin-bottom:6px;" /></a> Just in time for Mother's Day, the <a href="http://www.mothersclick.com/cookbook">2nd Annual "Cookbook for Moms"</a> is now <a href="http://www.blurb.com/bookstore/detail/235383">for sale</a>! This year we have teamed up with Missy Chase Lapine, author of <a href="http://www.thesneakychef.com/">"The Sneaky Chef"</a> in helping us raise money for the <a href="http://www.bgca.org/">Boys and Girls Club</a>.
+<img src="/files/mc-cookbook.jpg" width="223" height="299" style="float:left;margin-right:6px;margin-bottom:6px;" /> Just in time for Mother's Day, the <a href="http://www.mothersclick.com/cookbook">2nd Annual "Cookbook for Moms"</a> is now <a href="http://www.blurb.com/bookstore/detail/235383">for sale</a>! This year we have teamed up with Missy Chase Lapine, author of <a href="http://www.thesneakychef.com/">"The Sneaky Chef"</a> in helping us raise money for the <a href="http://www.bgca.org/">Boys and Girls Club</a>.
 
 Moms have <a href="http://www.mothersclick.com/recipes">submitted their recipes</a> and the community has voted for the top 40. From there, those recipes were exported from the site and into the <a href="http://www.blurb.com/bookstore/detail/235383">Blurb publishing system</a>, where they were meticulously edited, laid out, and designed up for an awesome looking cookbook.
 
@@ -16,4 +16,3 @@ The 2nd Annual "Cookbook for Moms" is an original publication, featuring a uniqu
 "This is a unique collaboration of community and a novel fundraiser," says Roxanne Spillett, President, Boys & Girls Clubs of America. "We appreciate the ongoing charitable efforts of MothersClick on our behalf."
 
 Featuring over 40 original recipes, the "Cookbook for Moms" offers a treasured collection of family favorites, contributed by moms from across the world, recipes that are quick and healthy for busy families and dishes that can be prepared with children. These are recipes that have been voted best by moms online, and selected entries include a personal description about the dish and each contributor.
-<!--break-->

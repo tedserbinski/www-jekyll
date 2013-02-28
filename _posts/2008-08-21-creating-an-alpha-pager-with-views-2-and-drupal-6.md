@@ -4,7 +4,7 @@ title: Creating an Alpha Pager with Views 2 and Drupal 6
 created: 1219360097
 category: drupal
 ---
-<strong>UPDATE: <a href="http://tedserbinski.com/tags/drupal/creating-alpha-pager-with-views-2-and-drupal-6#comment-3478">Earl comments below</a> how this is already built in. Two different ways to achieve a similar result, each with their own pros/cons.</strong>
+<div class="alert alert-error">UPDATE: <a href="http://tedserbinski.com/tags/drupal/creating-alpha-pager-with-views-2-and-drupal-6#comment-3478">Earl comments below</a> how this is already built in. Two different ways to achieve a similar result, each with their own pros/cons.</div>
 
 Hats off to <a href="http://www.angrydonuts.com/">Earl Miles</a> and the rest the <a href="http://groups.drupal.org/views-developers">views developers</a> they have done a tremendous job with Views 2. While the interface is entirely different from that of Views 1, it is so much more intuitive that within a few minutes I had quickly forgotten my bewildered "oh no, I know nothing" look :)
 
@@ -26,13 +26,13 @@ Well it's not so straightforward. I read somewhere about some sort of "glossary"
 <li>Save and update</li>
 <li>Add in a header under basic settings</li>
 <li>Set up your alpha pager:
-<code>
+{% highlight html %}
 <div class="alpha-pager">
   <a class="alpha-page" href="/directory/a">A</a>
   <a class="alpha-page" href="/directory/b">B</a>
    ... 
 </div>
-</code>
+{% endhighlight %}
 <em>Note: if you have PHP filter enabled, you can set up proper links using l(), otherwise use basic HTML</em>
 </li>
 </ol>

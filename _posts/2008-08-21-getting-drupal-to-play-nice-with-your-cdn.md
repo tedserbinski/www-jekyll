@@ -4,9 +4,7 @@ title: Getting Drupal to Play Nice with Your CDN
 created: 1219347022
 category: drupal
 ---
-<br>
-<div style="background:#ffc;font-weight:bold;padding:3px;">Note: A better version of this patch is going into Drupal 7. <a href="http://drupal.org/node/499156">View the issue/patch here</a>.</div>
-<br>
+<div class="alert alert-error">Note: A better version of this patch is going into Drupal 7. <a href="http://drupal.org/node/499156">View the issue/patch here</a>.</div>
 
 Getting Drupal to play nice with your <a href="http://en.wikipedia.org/wiki/Content_Delivery_Network">CDN</a> can be a bit of a hassle. You have to make sure your assets (like JS, CSS, and image files) work not only on your webserver but when copied to the CDN, are served from there instead of your webserver. There is one Drupal module, the <a href="http://drupal.org/project/cdn">CDN module</a> that attempts to make this a bit easier but right now, it's not in production, and in my opinion, is a bit too complicated. There is a slightly easier way :)
 
@@ -20,7 +18,8 @@ So now that we're sycning properly with the CDN, the next step is fix the URLs i
 
 First up, you need to patch Drupal, see the attached patch that fixes hardcoded paths for CSS, JS, and images. You'll see that I'm using two defines: static1 and static2. In our settings.php, we added:
 
-<code>
+{% highlight php %}
+<?php
 global $enable_cdn;
 if ($enable_cdn) { 
   define('static1', 'http://static1.pcncdn.com');
@@ -30,7 +29,8 @@ else {
   define('static1', '');
   define('static2', '');  
 }
-</code>
+?>
+{% endhighlight %}
 
 We chose to use a global variable here. Your setup may be better off with a variable, a define, or something else. Then all you need to do is set $enable_cdn = TRUE to turn it on or FALSE to turn it off.
 
