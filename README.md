@@ -1,3 +1,7 @@
+## Ted Serbinski
+- Entrepreneur & hacker turned early-stage VC living in Detroit
+- [Read more about me](http://tedserbinski.com/about.html)
+
 ## [tedserbinski.com](http://tedserbinski.com)
 
 This site built with a handful of open source projects:
@@ -19,4 +23,4 @@ All other directories and files are MIT Licensed. Feel free to use the HTML and 
 
 ## Contact
 
-[Email me anytime](hi@tedserbinski.com)
+[Email me anytime](mailto:hi@tedserbinski.com)
