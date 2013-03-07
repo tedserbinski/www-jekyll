@@ -40,6 +40,10 @@ body {
   color: #999;
 }
 
+#header p b {
+  color:#FBD738
+}
+
 #header .container {
   background: url(../img/bg-ted-head.jpg) no-repeat right;
   height:140px;
@@ -60,7 +64,7 @@ body {
 ul.nav {
   margin: 0;
   padding: 0;
-  width:442px;
+  width:444px;
   margin: 0 auto;
 }
 
@@ -145,12 +149,53 @@ p.posted a.prev {
 /* Fonts
    Fix vertical height with http://basehold.it/24
 -------------------------------------------------- */
-.entry h1, .entry .body p {
-  font-family:'Droid Serif', Georgia, Times, serif;
+.wf-loading .entry h1,
+.wf-loading .entry .body,
+.wf-loading code,
+.wf-loading #header {
+  visibility: hidden; /* hide until font is loaded: http://help.typekit.com/customer/portal/articles/6852 */
 }
 
-code {
-  font-family:'Droid Sans Mono',Consolas,"Andale Mono",Monaco,Courier,"Courier New",Verdana,sans-serif;
+.wf-active #header,
+.wf-active body,
+.wf-active input, 
+.wf-active button, 
+.wf-active select, 
+.wf-active textarea {
+  font-family: "runda-1","runda-2","Helvetica Neue","Helvetica","Arial",sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  visibility: visible;  
+}
+
+.wf-active body {
+  font-weight:400;
+}
+
+.wf-active #header h2 a,
+.wf-active .entry h1 {
+  font-weight:500;
+}
+
+.wf-active .entry h1 {
+  font-family: "abril-display-1","abril-display-2","Georgia","Times",serif;
+  font-style: normal;
+  font-weight: 500;
+  visibility: visible;
+}
+
+.wf-active .entry .body { 
+  font-family: "ff-dagny-web-pro-1","ff-dagny-web-pro-2","Georgia","Times",serif;
+  font-style: normal;
+  font-weight: 400;
+  visibility: visible;
+}
+
+.wf-active code {
+  font-family: "droid-sans-mono-1","droid-sans-mono-2","Consolas","Andale Mono","Monaco","Courier",sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  visibility: visible;
 }
 
 hr {
@@ -163,8 +208,9 @@ hr {
 }
 
 .entry h1 {
-  font-size:36px;
+  font-size:48px;
   line-height:48px;
+  letter-spacing: -1px;
 }
 
 .entry h3 {
