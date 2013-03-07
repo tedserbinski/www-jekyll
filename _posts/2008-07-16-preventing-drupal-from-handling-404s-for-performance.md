@@ -3,6 +3,7 @@ layout: post
 title: Preventing Drupal from Handling 404s for Performance
 created: 1216182555
 category: drupal
+tag: top
 ---
 The .htaccess file included with Drupal tells Apache to send all 404 requests to Drupal to handle. While this is great in some cases, the performance degradation can have a huge impact on a site that has millions of users.
 

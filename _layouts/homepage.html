@@ -1,7 +1,22 @@
 ---
 layout: wrapper
-theme :
-  name : tedserbinski
 ---
-{% include JB/setup %}
-{% include themes/tedserbinski/homepage.html %}
+<header>
+  <div class="bg">
+  <div class="container">
+    <div class="hero-unit">
+      <h1>Ted Serbinski</h1>
+      <p>Entrepreneur & hacker turned<br><b>early-stage VC</b> living in Detroit</p>
+      <p><a class="btn btn-success btn-large">52 Startup Lessons &rarr;</a></p>
+    </div>
+  </div>
+  </div>
+</header>
+
+<div class="container content">
+  <div id="nav">
+    {% include navbar.html %}
+  </div>
+
+  {{ content }}
+</div>

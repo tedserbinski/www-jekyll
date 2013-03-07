@@ -1,6 +1,66 @@
----
-theme :
-  name : tedserbinski
----
-{% include JB/setup %}
-{% include themes/tedserbinski/wrapper.html %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    {% if page.description %}<meta name="description" content="{{ page.description | xml_escape }}">{% endif %}
+    <meta name="author" content="{{ site.author.name }}">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {% if page.url != '/index.html' %}
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="TedSerbinski.com">    
+    <meta property="og:title" content="{{ page.title }}">
+    <meta property="og:url" content="http://tedserbinski.com{{ page.url }}">
+    {% endif %}      
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@tedserbinski">
+    <meta name="twitter:creator" content="@tedserbinski">
+    <meta name="twitter:url" content="http://tedserbinski.com{{ page.url }}">
+    <meta name="twitter:title" content="{{ page.title }}">
+    <link href="/css/bootstrap-2.3.min.css" rel="stylesheet">
+    <link href="http://fonts.googleapis.com/css?family=Droid+Serif" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Droid+Sans+Mono" rel="stylesheet" type="text/css">
+    <link href="/css/style.css" rel="stylesheet">
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/tedserbinski-blog">        
+    <link rel="shortcut icon" href="/img/favicon.png">
+    <link rel="canonical" href="http://tedserbinski.com">
+    <link type="text/plain" rel="author" href="http://tedserbinski.com/humans.txt" />
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="{{ ASSET_PATH }}/js/html5shiv-3.6.2pre.js"></script>
+    <![endif]-->
+  </head>
+
+  <body id="page{{ page.id | replace: '/','-' }}">
+    <div id="wrap">
+    
+      {{ content }}
+      
+      <div id="push"></div>
+    </div> <!-- /wrap -->
+    
+    <footer id="footer">
+      <div class="container-fluid">
+        <p class="muted credit">
+          Follow me on <a href="http://twitter.com/tedserbinski">Twitter</a>. Subscribe to my <a href="https://tinyletter.com/tedserbinski">Newsletter</a> and <a href="http://feeds.feedburner.com/tedserbinski-blog">RSS</a>. &copy;2006-2013 <a href="https://plus.google.com/107707246099022430019?rel=author" rel="author">Ted Serbinski</a>.
+        </p>
+      </div>
+    </footer>
+
+    <script src="/js/jquery-1.9.1.min.js"></script>
+    <script src="/js/bootstrap-2.3.min.js"></script>
+    <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-361873-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>    
+  </body>
+</html>
