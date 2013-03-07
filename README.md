@@ -2,7 +2,7 @@
 - Entrepreneur & hacker turned early-stage VC living in Detroit
 - [Read more about me](http://tedserbinski.com/about.html)
 
-## [tedserbinski.com](http://tedserbinski.com)
+## tedserbinski.com
 
 This site built with a handful of open source projects:
 
