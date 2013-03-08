@@ -1,19 +1,15 @@
-desc 'nuke & build'
+desc 're-generate site and upload to S3'
+task :deploy do
+  sh 'rm -rf _site ; jekyll ; jekyll-s3 --headless'
+end
+
+desc 're-generate site'
 task :generate do
-  sh 'rm -rf _site'
-  jekyll
-end
-
-def jekyll
-  # time to give me generation times
-  # I'm just curious about how long it takes
-  sh 'time jekyll'
-  # compass already configured via config.rb in root
+  sh 'rm -rf _site ; time jekyll'
 end
 
 
-# ignore the "bit" stuff.. only relevant to my custom jekyll fork 
-desc 'create new post or bit. args: type (post, bit), title, future (# of days)'
+desc 'create new post'
 # rake new type=(bit|post) future=0 title="New post title goes here" slug="slug-override-title"
 task :new do
   require 'rubygems'
@@ -24,9 +20,7 @@ task :new do
   future = ENV["future"] || 0
   slug = ENV["slug"].gsub(' ','-').downcase || title.gsub(' ','-').downcase
  
-  if type == "bit"
-    TARGET_DIR = "_bits"
-  elsif future.to_i < 3
+  if future.to_i < 3
     TARGET_DIR = "_posts"
   else
     TARGET_DIR = "_drafts"

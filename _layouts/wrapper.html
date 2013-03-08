@@ -41,8 +41,10 @@
         return window.open('https://tinyletter.com/tedserbinski', 'popupwindow', params);
       }  
     </script>
-    <link href="/css/bootstrap-2.3.min.css" rel="stylesheet">
-    <link href="/css/style.css" rel="stylesheet">
+    {% css_asset_tag globa %}
+      - /_assets/css/bootstrap-2.3.min.css
+      - /_assets/css/style.css
+    {% endcss_asset_tag %}
     <link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/tedserbinski-blog">        
     <link rel="shortcut icon" href="/img/favicon.png">
     <link rel="canonical" href="http://tedserbinski.com">
