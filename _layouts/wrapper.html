@@ -27,6 +27,19 @@
         };
         var h=document.getElementsByTagName("html")[0];h.className+=" wf-loading";var t=setTimeout(function(){h.className=h.className.replace(/(\s|^)wf-loading(\s|$)/g," ");h.className+=" wf-inactive"},config.scriptTimeout);var tk=document.createElement("script"),d=false;tk.src='//use.typekit.net/'+config.kitId+'.js';tk.type="text/javascript";tk.async="true";tk.onload=tk.onreadystatechange=function(){var a=this.readyState;if(d||a&&a!="complete"&&a!="loaded")return;d=true;clearTimeout(t);try{Typekit.load(config)}catch(b){}};var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(tk,s)
       })();
+      
+      function newsletter() {
+        var width=540, height=648;
+        var a = typeof window.screenX != 'undefined' ? window.screenX : window.screenLeft;
+        var i = typeof window.screenY != 'undefined' ? window.screenY : window.screenTop;
+        var g = typeof window.outerWidth!='undefined' ? window.outerWidth : document.documentElement.clientWidth;
+        var f = typeof window.outerHeight != 'undefined' ? window.outerHeight: (document.documentElement.clientHeight - 22);
+        var h = (a < 0) ? window.screen.width + a : a;
+        var left = parseInt(h + ((g - width) / 2), 10);
+        var top = parseInt(i + ((f-height) / 2.5), 10);
+        var params = 'width='+width+',height='+height+',left=' + left + ',top=' + top + ',scrollbars=0,location=1,toolbar=0';
+        return window.open('https://tinyletter.com/tedserbinski', 'popupwindow', params);
+      }  
     </script>
     <link href="/css/bootstrap-2.3.min.css" rel="stylesheet">
     <link href="/css/style.css" rel="stylesheet">
