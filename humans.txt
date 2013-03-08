@@ -1,11 +1,16 @@
+---
+layout: nil
+---
+
 /* TEAM */
-    Owner & Developer: Ted Serbinski
-    Contact: hi [at] tedserbinski [dot] com
+    Author: Ted Serbinski
+    Developer: Ted Serbinski
+    Contact: hi@tedserbinski.com
     Twitter: @TedSerbinski
     From: Detroit, Michigan, USA
 
 /* SITE */
-    Last update: 2013/03/05
+    Last update: {{ site.time | date: "%Y/%m/%d" }}
     Language: English
     Standards: HTML5, CSS3
     Components: Bootstrap
