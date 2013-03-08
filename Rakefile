@@ -10,7 +10,7 @@ end
 
 
 desc 'create new post'
-# rake new type=(bit|post) future=0 title="New post title goes here" slug="slug-override-title"
+# rake new type=(post) future=0 title="New post title goes here" slug="slug-override-title" category="category"
 task :new do
   require 'rubygems'
   require 'chronic'
@@ -18,7 +18,8 @@ task :new do
   type = ENV["type"] || "post"
   title = ENV["title"] || "New Title"
   future = ENV["future"] || 0
-  slug = ENV["slug"].gsub(' ','-').downcase || title.gsub(' ','-').downcase
+  slug = ENV["slug"].to_s.gsub(' ','-').downcase || title.to_s.gsub(' ','-').downcase
+  category = ENV["category"] || "startups"
  
   if future.to_i < 3
     TARGET_DIR = "_posts"
@@ -27,24 +28,26 @@ task :new do
   end
  
   if future.to_i.zero?
-    filename = "#{Time.new.strftime('%Y-%m-%d')}-#{slug}.markdown"
+    filename = "#{Time.new.strftime('%Y-%m-%d')}-#{slug}.md"
   else
     stamp = Chronic.parse("in #{future} days").strftime('%Y-%m-%d')
-    filename = "#{stamp}-#{slug}.markdown"
+    filename = "#{stamp}-#{slug}.md"
   end
+  
   path = File.join(TARGET_DIR, filename)
   post = <<-HTML
 --- 
 layout: TYPE
 title: "TITLE"
 date: DATE
+category: CATEGORY
 ---
  
 HTML
-  post.gsub!('TITLE', title).gsub!('DATE', Time.new.to_s).gsub!('TYPE', type)
+  post.gsub!('TITLE', title).gsub!('DATE', Time.new.to_s).gsub!('TYPE', type).gsub('CATEGORY', category)
   File.open(path, 'w') do |file|
     file.puts post
   end
   puts "new #{type} generated in #{path}"
-  system "open -a coda #{path}"
+  system "coda #{path}"
 end
