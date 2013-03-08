@@ -8,7 +8,6 @@ This site built with a handful of open source projects:
 
 - [jekyll](http://jekyllrb.com/)
 - [Twitter Bootstrap](http://twitter.github.com/bootstrap/)
-- [jQuery](http://jquery.com/)
 
 Built with love on a Mac with [Coda](http://panic.com/coda).
 
