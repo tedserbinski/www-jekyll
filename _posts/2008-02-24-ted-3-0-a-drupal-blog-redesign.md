@@ -4,7 +4,6 @@ title: "ted 3.0: A Drupal Blog Redesign"
 created: 1203904327
 category: drupal
 ---
-<a href="http://www.flickr.com/photos/tedserbinski/2289764345/" title="tedserbinski.com : spring breeze design by m3avrck, on Flickr"><img class="img-right" src="http://farm3.static.flickr.com/2238/2289764345_d024172ae8_m.jpg" width="240" height="159" alt="tedserbinski.com : spring breeze design" /></a>
 
 About <a href="http://tedserbinski.com/2007/05/20/ted-2-0-site-redesign">9 months ago I redesigned this blog</a> unveiling the black & blue theme (<a href="http://www.flickr.com/photos/tedserbinski/2288777975/">picture 1</a> & <a href="http://www.flickr.com/photos/tedserbinski/2289567644/">picture 2</a>). For a while the redesign was great and reflected my current state of mind--the previous year had been a bit bumpy and the black & blue was to be symbolic of the "bruises" along the way.
 

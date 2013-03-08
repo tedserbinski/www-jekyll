@@ -9,4 +9,4 @@ I've been a big fan of the book <a href="http://www.amazon.com/gp/product/014200
 
 If you don't know what GTD is or about, I recommend <a href="http://www.youtube.com/watch?v=Qo7vUdKTlhk">watching this video of David Allen talking at Google about GTD</a>. It's a great refresher or introduction.
 
-<!--break-->
+

@@ -8,7 +8,7 @@ tag: top
 
 I am pleased to announce that my jQuery date picker is now ready for consumption, check it out here:
 
-http://tedserbinski.com/jcalendar/index.html
+[jCalendar](http://tedserbinski.com/jcalendar/index.html)
 
 This plugin was originally written to improve the interface for adding activities on <a href="http://www.mothersclick.com/">MothersClick.com</a> and will be working as the new input widget for date module. Initial mom reactions have been extremely positive (from a couple beta testers) and we hope to roll this into production after we iron out the kinks with Karen to get this into <a href="http://drupal.org/project/date">date module</a> as the new default widget.
 

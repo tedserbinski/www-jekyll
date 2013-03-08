@@ -10,7 +10,7 @@ The advantage of RightScale is it allows us to manage our servers at a further a
 
 Things started to get a bit hairy when our scripts needed to talk to Drupal, in particular, registering each new server as it comes online with our Drupal stack, thereby whitelisting its IP address as trustworthy.
 
-<!--break-->
+
 
 I did some googling and couldn't find a good, efficient way to automate this, except for <a href="http://forums.rightscale.com/showthread.php?t=112">a post with a handy command</a>.
 

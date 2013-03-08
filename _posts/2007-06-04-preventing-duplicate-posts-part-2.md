@@ -14,11 +14,11 @@ Well I originally helped write a patch to prevent duplicate form submissions in 
 
 And now, as <a href="http://www.mothersclick.com">MothersClick</a> is growing quite fast, we're hitting this duplicate issue a couple times, which is greatly exacerbated by our integration with groups and email notifications--a duplicate post is now a duplicate email, eek!
 
-So here's how I solved it for our site. Create a new module for your site, and use <a href="http://api.drupal.org/api/5/function/hook_nodeapi">hook_nodeapi</a> and <a href="http://api.drupal.org/api/5/function/hook_comment">hook_comment</a> to catch duplicates before they are saved into the database.
+So here's how I solved it for our site. Create a new module for your site, and use [hook_nodeapi](http://api.drupal.org/api/5/function/hook_nodeapi) and [hook_comment](http://api.drupal.org/api/5/function/hook_comment) to catch duplicates before they are saved into the database.
 
 Here's the code for hook_nodeapi:
 
-{% highlight php %}
+{% highlight javascript %}
 /**
  * Implementation of hook_nodeapi().
  */
@@ -41,7 +41,7 @@ function YOUR-MODULE_nodeapi(&$node, $op, $teaser, $page) {
 
 And the code for hook_comment:
 
-{% highlight php %}
+{% highlight javascript %}
 
 /**
  * Implementation of hook_comment().

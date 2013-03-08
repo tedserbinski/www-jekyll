@@ -15,7 +15,7 @@ We experimented with over 20,000 pieces of content on <a href="http://www.mother
 After a little more trial and error, I then noticed a simple pattern: more often than not, the title to a user's post usually had the most applicable keywords to what their post was about, rather than the body of the post.
 
 So how to extract just the keywords and make tags from the title of a node?
-<!--break-->
+
 Well, taking each word in the title could work, but that would also include a bunch of words like "a, an, the, with" etc.. The more technical term for those words is <a href="http://en.wikipedia.org/wiki/Stop_words">stop words</a> and luckily with some Googling, there are some nice stop word lists out there for filtering.
 
 Attached below is a simple JavaScript function for removing stop words from a string. Once the stop words are removed, you're left with an array or string keyword candidates. Plug this into your tagging system and you're off to a nice set of automatically generated tags. While not perfect, for user generated content these do work fairly well.

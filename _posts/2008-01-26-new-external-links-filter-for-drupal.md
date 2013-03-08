@@ -8,8 +8,6 @@ category: drupal
 
 More than a year ago, <a href="http://tedserbinski.com/2006/10/08/new_olf_module_released_from_sf">I released an outgoing links filter (OLF)</a> for Drupal. This module worked well and added a CSS class to outgoing links.
 
-<a href="http://www.flickr.com/photos/tedserbinski/2222238542/" title="Screenshot of external links filter for Drupal by m3avrck, on Flickr"><img src="http://farm3.static.flickr.com/2409/2222238542_212e539159_m.jpg" width="240" height="81" alt="Screenshot of external links filter for Drupal" align="left" hspace="10" /></a>
-
 However, I didn't touch the module for more than a year (it only worked in Drupal 4.7!) and it kind of faded away... until, today!
 
 In keeping current with more widely used lingo, <a href="http://drupal.org/project/elf">I decided to create an external links filter (ELF)</a> that worked in Drupal 5, had nifty icons, and was all around more robust.

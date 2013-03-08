@@ -7,7 +7,7 @@ category: drupal
 Spam&mdash;we all hate it and it's not just for email anymore, hello Drupal comment spam.
 
 To determine what is effective at preventing Drupal spam, I decided to run a little case study when I redesigned this site and the following are the conclusions I drew from trying a number of different combinations:
-<!--break-->
+
 
 <ol>
 <li>A Drupal 5 site that allows anonymous user comments will be consumed by spam. I was receiving over 500 spam comments a day on this site.</li>

@@ -3,14 +3,8 @@ layout: post
 title: Mom Blog Network launches!
 created: 1194303787
 ---
-notextile.. <div style="float:left; margin-right:1.5em;">
-<script>
-digg_url = 'http://digg.com/software/Digg_For_Your_Mom';
-</script>
-<script src="http://digg.com/api/diggthis.js"></script>
-</div>
 
-p. That's right, the all new <a href="http://www.momblognetwork.com/">Mom Blog Network</a> has finally launched!
+That's right, the all new <a href="http://www.momblognetwork.com/">Mom Blog Network</a> has finally launched!
 
 This site is a very similar to <a href="http://www.digg.com">Digg</a> and allows moms to submit interesting links around the internet and/or add their blogs, allowing other members to vote on the content, determining what's hot and what's not. There are RSS feeds and email updates, delivering the latest mommy news to you each day.
 
@@ -21,5 +15,3 @@ For this project we wrote some custom modules that control a proprietary system 
 Mom Blog Network also joins <a href="http://www.mothersclick.com">MothersClick</a> in becoming part of our all new platform, ParentsClick Network, Inc., a new digital media venture to serve the needs of parents. It's going to be a busy 2008 that's for sure :-)
 
 Stay tuned for updates!
-
-<!--break-->

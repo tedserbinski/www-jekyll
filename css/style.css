@@ -177,7 +177,7 @@ p.posted a.prev {
   font-weight:500;
 }
 
-.wf-active .entry h1 {
+.wf-active .entry h1, .wf-active .entry blockquote p {
   font-family: "abril-display-1","abril-display-2","Georgia","Times",serif;
   font-style: normal;
   font-weight: 500;
@@ -218,7 +218,7 @@ hr {
   line-height: 36px;
 }
 
-.entry .body p {
+.entry .body>p {
   font-size: 18px;
   line-height:24px;
   margin-bottom:24px;
@@ -231,6 +231,12 @@ hr {
 .entry li {
   line-height: 24px;
   font-size:18px;
+}
+
+blockquote {
+  font-size:18px;
+  line-height:24px;
+  font-weight:300
 }
 
 .entry .body p+h3, .entry .body ul+h3 {
