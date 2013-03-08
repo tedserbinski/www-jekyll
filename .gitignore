@@ -1,3 +1,4 @@
 _site/
 files/
 .DS_Store
+_jekyll_s3.yml
