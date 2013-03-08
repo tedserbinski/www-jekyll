@@ -1,20 +1,8 @@
 ---
 layout: wrapper
 ---
-<header id="header">
-  <div class="container">
-    <div class="about">
-      <h2><small>Hi, I'm</small> <a href="http://tedserbinski.com/">Ted Serbinski</a></h2>
-      <p>An entrepreneur & hacker turned<br><b>early-stage VC</b> living in Detroit</p>
-    </div>
-  </div>
-</header>
 
-<div class="container-fluid">
-  <div id="nav">
-    {% include navbar.html %}
-  </div>
-</div>
+{% include header.html %}
 
 <!-- hatom microformat classes: http://microformats.org/wiki/hatom-examples --> 
 <article class="container-fluid hfeed hentry entry">
@@ -44,6 +32,10 @@ layout: wrapper
         </form>    
       </div>
     </div>
+
+   {% if page.url == '/jcalendar/index.html' %}
+     {% include comments.html %}
+   {% endif %}
 
   </div>
 </article>
