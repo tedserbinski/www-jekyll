@@ -10,10 +10,10 @@ body {
   http://twitter.github.com/bootstrap/examples/sticky-footer.html
 */
 #wrap {
+  margin: 0 auto -44px;
   min-height: 100%;
   height: auto !important;
   height: 100%;
-  margin: 0 auto -44px;
 }
 
 #page-home #wrap {
@@ -26,9 +26,9 @@ body {
 }
 
 #header {
-  background: #000;
   height:140px;
   border-bottom: 4px solid #ccc;
+  background: #000;
   color: #fff;
 }
 
@@ -41,13 +41,13 @@ body {
 }
 
 #header p b {
-  color:#FBD738
+  color:#FBD738;
 }
 
 #header .container {
-  background: url(../img/bg-ted-head.jpg) no-repeat right;
-  height:140px;
   max-width:767px;
+  height:140px;
+  background: url(../img/bg-ted-head.jpg) no-repeat right;
 }
 
 #header .about {
@@ -55,17 +55,17 @@ body {
 }
 
 #nav {
-  border-bottom: 1px solid #ccc;
-  padding:6px;
   margin-bottom:42px;
+  padding:6px;
+  border-bottom: 1px solid #ccc;
   font-size:14px;
 }
 
 ul.nav {
   margin: 0;
-  padding: 0;
-  width:444px;
   margin: 0 auto;
+  padding: 0;
+  width:456px;
 }
 
 ul.nav li.space {
@@ -77,33 +77,33 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
   display: block;    
 }
 ul.nav li.dropdown:hover > a.dropdown-toggle {
-  color: #fff;
-  background-color: #111;   
+  background-color: #111;
+  color: #fff;   
 }
 
 #footer {
+  margin-top:24px;
+  padding: 20px 30px;
   border-top: 1px solid #e8ebf2;
-  box-shadow: inset 0 1px 0 white;
+  background: #fdfdfd;
   -webkit-box-shadow: inset 0 1px 0 white;
   -moz-box-shadow: inset 0 1px 0 white;
+  box-shadow: inset 0 1px 0 white;
   -khtml-box-shadow: inset 0 1px 0 white;
   -o-box-shadow: inset 0 1px 0 white;
-  background: #fdfdfd;
-  padding: 20px 30px;
-  margin-top:24px;
 }
 
 #footer .muted {
   color: #aeb3c3;
-  font-size: 13px;
   text-align: center;
+  font-size: 13px;
 }
 
 /* Content
 -------------------------------------------------- */
 .entry {
-  max-width: 624px;
-  margin:0 auto; 
+  margin:0 auto;
+  max-width: 624px; 
 }
 
 .entry a {
@@ -111,9 +111,9 @@ ul.nav li.dropdown:hover > a.dropdown-toggle {
 }
 
 p.posted {
-  font-size:12px;
-  font-style: italic;
   margin:0 0 36px 0;
+  font-style: italic;
+  font-size:12px;
 }
 
 p.posted a {
@@ -162,10 +162,10 @@ p.posted a.prev {
 .wf-active button, 
 .wf-active select, 
 .wf-active textarea {
-  font-family: "runda-1","runda-2","Helvetica Neue","Helvetica","Arial",sans-serif;
-  font-style: normal;
+  visibility: visible;
   font-weight: 300;
-  visibility: visible;  
+  font-style: normal;
+  font-family: "runda-1","runda-2","Helvetica Neue","Helvetica","Arial",sans-serif;  
 }
 
 .wf-active body {
@@ -178,24 +178,24 @@ p.posted a.prev {
 }
 
 .wf-active .entry h1, .wf-active .entry blockquote p {
-  font-family: "abril-display-1","abril-display-2","Georgia","Times",serif;
-  font-style: normal;
-  font-weight: 500;
   visibility: visible;
+  font-weight: 500;
+  font-style: normal;
+  font-family: "abril-display-1","abril-display-2","Georgia","Times",serif;
 }
 
-.wf-active .entry .body { 
-  font-family: "ff-dagny-web-pro-1","ff-dagny-web-pro-2","Georgia","Times",serif;
-  font-style: normal;
-  font-weight: 400;
+.wf-active .entry .body {
   visibility: visible;
+  font-weight: 400;
+  font-style: normal; 
+  font-family: "ff-dagny-web-pro-1","ff-dagny-web-pro-2","Georgia","Times",serif;
 }
 
 .wf-active code {
-  font-family: "droid-sans-mono-1","droid-sans-mono-2","Consolas","Andale Mono","Monaco","Courier",sans-serif;
-  font-style: normal;
-  font-weight: 400;
   visibility: visible;
+  font-weight: 400;
+  font-style: normal;
+  font-family: "droid-sans-mono-1","droid-sans-mono-2","Consolas","Andale Mono","Monaco","Courier",sans-serif;
 }
 
 hr {
@@ -203,14 +203,14 @@ hr {
 }
 
 .entry code, .entry pre {
-  line-height:16px;
   font-size:12px;
+  line-height:16px;
 }
 
 .entry h1 {
+  letter-spacing: -1px;
   font-size:48px;
   line-height:48px;
-  letter-spacing: -1px;
 }
 
 .entry h3 {
@@ -219,9 +219,9 @@ hr {
 }
 
 .entry .body>p {
+  margin-bottom:24px;
   font-size: 18px;
   line-height:24px;
-  margin-bottom:24px;
 }
 
 .entry ul, ol {
@@ -229,14 +229,14 @@ hr {
 }
 
 .entry li {
-  line-height: 24px;
   font-size:18px;
+  line-height: 24px;
 }
 
 blockquote {
+  font-weight:300;
   font-size:18px;
   line-height:24px;
-  font-weight:300
 }
 
 .entry .body p+h3, .entry .body ul+h3 {
@@ -247,20 +247,20 @@ blockquote {
 /* Pages
 -------------------------------------------------- */
 #page-home header {
-  background: #000;
   border-bottom: 4px solid #ccc;
+  background: #000;
 }
 
 #page-home .bg {
-  background: #000 url(../img/bg01.jpg) no-repeat right center;
-  height:500px;  
+  margin:0 auto;  
   max-width: 1216px;
-  margin:0 auto;
+  height:500px;
+  background: #000 url(../img/bg01.jpg) no-repeat right center;
 }
 
 #page-home .hero-unit {
-  background:transparent;
   margin-top: 96px;
+  background:transparent;
 }
 
 #page-home .hero-unit h1 {
@@ -289,8 +289,8 @@ blockquote {
 }
 
 #page-home .newsletter small, #page-home .newsletter h5 {
-  margin:0 12px 0 0;
   display: block;
+  margin:0 12px 0 0;
 }
 
 #page-home .newsletter form {
@@ -307,82 +307,154 @@ blockquote {
 https://gist.github.com/edwardhotchkiss/2005058
 -------------------------------------------------- */
 
-.highlight { 
-  background-color: #efefef;
-  padding: 6px;
-  border: 1px solid #ddd;
-  -moz-box-shadow: 3px 3px rgba(0,0,0,0.1);
-  -webkit-box-shadow: 3px 3px rgba(0,0,0,0.1);
-  box-shadow: 3px 3px rgba(0,0,0,0.1);
-  margin: 27px 0 27px 0;
+.highlight {
   overflow: hidden;
+  margin: 27px 0 27px 0;
+  padding: 6px;
+  border: 1px solid #ddd; 
+  background-color: #efefef;
+  -webkit-box-shadow: 3px 3px rgba(0,0,0,0.1);
+  -moz-box-shadow: 3px 3px rgba(0,0,0,0.1);
+  box-shadow: 3px 3px rgba(0,0,0,0.1);
 }
 
-.highlight .c { color: #586E75 } /* Comment */
-.highlight .err { color: #93A1A1 } /* Error */
-.highlight .g { color: #93A1A1 } /* Generic */
-.highlight .k { color: #859900 } /* Keyword */
-.highlight .l { color: #93A1A1 } /* Literal */
-.highlight .n { color: #93A1A1 } /* Name */
-.highlight .o { color: #859900 } /* Operator */
-.highlight .x { color: #CB4B16 } /* Other */
-.highlight .p { color: #93A1A1 } /* Punctuation */
-.highlight .cm { color: #586E75 } /* Comment.Multiline */
-.highlight .cp { color: #859900 } /* Comment.Preproc */
-.highlight .c1 { color: #586E75 } /* Comment.Single */
-.highlight .cs { color: #859900 } /* Comment.Special */
-.highlight .gd { color: #2AA198 } /* Generic.Deleted */
-.highlight .ge { color: #93A1A1; font-style: italic } /* Generic.Emph */
-.highlight .gr { color: #DC322F } /* Generic.Error */
-.highlight .gh { color: #CB4B16 } /* Generic.Heading */
-.highlight .gi { color: #859900 } /* Generic.Inserted */
-.highlight .go { color: #93A1A1 } /* Generic.Output */
-.highlight .gp { color: #93A1A1 } /* Generic.Prompt */
-.highlight .gs { color: #93A1A1; font-weight: bold } /* Generic.Strong */
-.highlight .gu { color: #CB4B16 } /* Generic.Subheading */
-.highlight .gt { color: #93A1A1 } /* Generic.Traceback */
-.highlight .kc { color: #CB4B16 } /* Keyword.Constant */
-.highlight .kd { color: #268BD2 } /* Keyword.Declaration */
-.highlight .kn { color: #859900 } /* Keyword.Namespace */
-.highlight .kp { color: #859900 } /* Keyword.Pseudo */
-.highlight .kr { color: #268BD2 } /* Keyword.Reserved */
-.highlight .kt { color: #DC322F } /* Keyword.Type */
-.highlight .ld { color: #93A1A1 } /* Literal.Date */
-.highlight .m { color: #2AA198 } /* Literal.Number */
-.highlight .s { color: #2AA198 } /* Literal.String */
-.highlight .na { color: #93A1A1 } /* Name.Attribute */
-.highlight .nb { color: #B58900 } /* Name.Builtin */
-.highlight .nc { color: #268BD2 } /* Name.Class */
-.highlight .no { color: #CB4B16 } /* Name.Constant */
-.highlight .nd { color: #268BD2 } /* Name.Decorator */
-.highlight .ni { color: #CB4B16 } /* Name.Entity */
-.highlight .ne { color: #CB4B16 } /* Name.Exception */
-.highlight .nf { color: #268BD2 } /* Name.Function */
-.highlight .nl { color: #93A1A1 } /* Name.Label */
-.highlight .nn { color: #93A1A1 } /* Name.Namespace */
-.highlight .nx { color: #555 } /* Name.Other */
-.highlight .py { color: #93A1A1 } /* Name.Property */
-.highlight .nt { color: #268BD2 } /* Name.Tag */
-.highlight .nv { color: #268BD2 } /* Name.Variable */
-.highlight .ow { color: #859900 } /* Operator.Word */
-.highlight .w { color: #93A1A1 } /* Text.Whitespace */
-.highlight .mf { color: #2AA198 } /* Literal.Number.Float */
-.highlight .mh { color: #2AA198 } /* Literal.Number.Hex */
-.highlight .mi { color: #2AA198 } /* Literal.Number.Integer */
-.highlight .mo { color: #2AA198 } /* Literal.Number.Oct */
-.highlight .sb { color: #586E75 } /* Literal.String.Backtick */
-.highlight .sc { color: #2AA198 } /* Literal.String.Char */
-.highlight .sd { color: #93A1A1 } /* Literal.String.Doc */
-.highlight .s2 { color: #2AA198 } /* Literal.String.Double */
-.highlight .se { color: #CB4B16 } /* Literal.String.Escape */
-.highlight .sh { color: #93A1A1 } /* Literal.String.Heredoc */
-.highlight .si { color: #2AA198 } /* Literal.String.Interpol */
-.highlight .sx { color: #2AA198 } /* Literal.String.Other */
-.highlight .sr { color: #DC322F } /* Literal.String.Regex */
-.highlight .s1 { color: #2AA198 } /* Literal.String.Single */
-.highlight .ss { color: #2AA198 } /* Literal.String.Symbol */
-.highlight .bp { color: #268BD2 } /* Name.Builtin.Pseudo */
-.highlight .vc { color: #268BD2 } /* Name.Variable.Class */
-.highlight .vg { color: #268BD2 } /* Name.Variable.Global */
-.highlight .vi { color: #268BD2 } /* Name.Variable.Instance */
-.highlight .il { color: #2AA198 } /* Literal.Number.Integer.Long */
+.highlight .c { color: #586E75; } /* Comment */
+.highlight .err { color: #93A1A1; } /* Error */
+.highlight .g { color: #93A1A1; } /* Generic */
+.highlight .k { color: #859900; } /* Keyword */
+.highlight .l { color: #93A1A1; } /* Literal */
+.highlight .n { color: #93A1A1; } /* Name */
+.highlight .o { color: #859900; } /* Operator */
+.highlight .x { color: #CB4B16; } /* Other */
+.highlight .p { color: #93A1A1; } /* Punctuation */
+.highlight .cm { color: #586E75; } /* Comment.Multiline */
+.highlight .cp { color: #859900; } /* Comment.Preproc */
+.highlight .c1 { color: #586E75; } /* Comment.Single */
+.highlight .cs { color: #859900; } /* Comment.Special */
+.highlight .gd { color: #2AA198; } /* Generic.Deleted */
+.highlight .ge { color: #93A1A1; font-style: italic; } /* Generic.Emph */
+.highlight .gr { color: #DC322F; } /* Generic.Error */
+.highlight .gh { color: #CB4B16; } /* Generic.Heading */
+.highlight .gi { color: #859900; } /* Generic.Inserted */
+.highlight .go { color: #93A1A1; } /* Generic.Output */
+.highlight .gp { color: #93A1A1; } /* Generic.Prompt */
+.highlight .gs { color: #93A1A1; font-weight: bold; } /* Generic.Strong */
+.highlight .gu { color: #CB4B16; } /* Generic.Subheading */
+.highlight .gt { color: #93A1A1; } /* Generic.Traceback */
+.highlight .kc { color: #CB4B16; } /* Keyword.Constant */
+.highlight .kd { color: #268BD2; } /* Keyword.Declaration */
+.highlight .kn { color: #859900; } /* Keyword.Namespace */
+.highlight .kp { color: #859900; } /* Keyword.Pseudo */
+.highlight .kr { color: #268BD2; } /* Keyword.Reserved */
+.highlight .kt { color: #DC322F; } /* Keyword.Type */
+.highlight .ld { color: #93A1A1; } /* Literal.Date */
+.highlight .m { color: #2AA198; } /* Literal.Number */
+.highlight .s { color: #2AA198; } /* Literal.String */
+.highlight .na { color: #93A1A1; } /* Name.Attribute */
+.highlight .nb { color: #B58900; } /* Name.Builtin */
+.highlight .nc { color: #268BD2; } /* Name.Class */
+.highlight .no { color: #CB4B16; } /* Name.Constant */
+.highlight .nd { color: #268BD2; } /* Name.Decorator */
+.highlight .ni { color: #CB4B16; } /* Name.Entity */
+.highlight .ne { color: #CB4B16; } /* Name.Exception */
+.highlight .nf { color: #268BD2; } /* Name.Function */
+.highlight .nl { color: #93A1A1; } /* Name.Label */
+.highlight .nn { color: #93A1A1; } /* Name.Namespace */
+.highlight .nx { color: #555; } /* Name.Other */
+.highlight .py { color: #93A1A1; } /* Name.Property */
+.highlight .nt { color: #268BD2; } /* Name.Tag */
+.highlight .nv { color: #268BD2; } /* Name.Variable */
+.highlight .ow { color: #859900; } /* Operator.Word */
+.highlight .w { color: #93A1A1; } /* Text.Whitespace */
+.highlight .mf { color: #2AA198; } /* Literal.Number.Float */
+.highlight .mh { color: #2AA198; } /* Literal.Number.Hex */
+.highlight .mi { color: #2AA198; } /* Literal.Number.Integer */
+.highlight .mo { color: #2AA198; } /* Literal.Number.Oct */
+.highlight .sb { color: #586E75; } /* Literal.String.Backtick */
+.highlight .sc { color: #2AA198; } /* Literal.String.Char */
+.highlight .sd { color: #93A1A1; } /* Literal.String.Doc */
+.highlight .s2 { color: #2AA198; } /* Literal.String.Double */
+.highlight .se { color: #CB4B16; } /* Literal.String.Escape */
+.highlight .sh { color: #93A1A1; } /* Literal.String.Heredoc */
+.highlight .si { color: #2AA198; } /* Literal.String.Interpol */
+.highlight .sx { color: #2AA198; } /* Literal.String.Other */
+.highlight .sr { color: #DC322F; } /* Literal.String.Regex */
+.highlight .s1 { color: #2AA198; } /* Literal.String.Single */
+.highlight .ss { color: #2AA198; } /* Literal.String.Symbol */
+.highlight .bp { color: #268BD2; } /* Name.Builtin.Pseudo */
+.highlight .vc { color: #268BD2; } /* Name.Variable.Class */
+.highlight .vg { color: #268BD2; } /* Name.Variable.Global */
+.highlight .vi { color: #268BD2; } /* Name.Variable.Instance */
+.highlight .il { color: #2AA198; } /* Literal.Number.Integer.Long */
+
+@media (max-width: 767px) {
+  .container-fluid {
+    padding: 0 6px;
+  }
+  .container {
+    width: 100%;
+  }
+  #header .about {
+    margin: 24px 0 0 0;
+    text-align: center;
+  }
+  ul.nav {
+    width: 100%;
+  }
+  ul.nav li.space {
+    margin: 0;
+  }
+  .entry h1 {
+    font-size:36px;
+    line-height: 36px;
+  }
+
+  .entry h3 {
+    font-size: 18px;
+    line-height: 24px;
+  }
+
+  .entry .body>p {
+    font-size: 16px;
+    line-height:24px;
+  }
+  .entry li {
+    font-size:16px;
+  }
+  
+  .entry blockquote {
+    font-size:16px;
+  }
+  .entry span.authored,
+  .entry span.meta {
+    display: block;
+    width: 100%;
+  }
+  .entry p.posted a.comment-count {
+    padding: 0 36px 0 0;
+  }
+  
+  #page-home .bg { 
+    height: auto;
+    background: #000;   
+  }
+  #page-home .hero-unit {
+    margin: 0;
+  }
+  #page-home ul.posts li {
+    margin: 0;
+  }
+  #page-home .offset1, #page-home .offset2 {
+    margin-left: 0;
+  }
+  #page-home .span12, #page-home .span7, #page-home .span4 {
+    margin: 0;
+    width: 95%;
+  }
+  #page-home .row {
+    margin: 0 0 0 12px;
+  }
+  #push, #footer {
+    height: 40px;
+  }
+}

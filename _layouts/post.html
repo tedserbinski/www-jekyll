@@ -10,10 +10,12 @@ layout: wrapper
     <h1 class="entry-title instapaper_title text-center" id="{{ page.id | replace: '/','-' }}">{{ page.title }}</h1>
 
     <p class="muted posted text-center">
-      <span class="vcard author"><span class="fn"><a href="https://plus.google.com/107707246099022430019?rel=author">Ted</a></span></span>  wrote this on <span class="date updated published" title="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y"  }}</span>
-      <a class="comment-count" href="#disqus_thread">Read Comments</a>
-      {% if page.previous %}<a class="prev" href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Previous</a> {% endif %}
-      {% if page.next %}<a class="next" href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next &rarr;</a> {% endif %}
+      <span class="authored"><span class="vcard author"><span class="fn"><a href="https://plus.google.com/107707246099022430019?rel=author">Ted</a></span></span> wrote this on <span class="date updated published" title="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y"  }}</span></span>
+      <span class="meta">
+        <a class="comment-count" href="#disqus_thread">Read&nbsp;Comments</a>
+        {% if page.previous %}<a class="prev" href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr;&nbsp;Previous</a> {% endif %}
+        {% if page.next %}<a class="next" href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next&nbsp;&rarr;</a> {% endif %}
+      </span>
     </p>
   </header>
   <div class="post entry-content instapaper_body">
