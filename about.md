@@ -18,6 +18,7 @@ Prior to his investment career, Ted was a serial entrepreneur, most recently as 
 * Source code on <a href="https://github.com/tedserbinski/www">Github</a>
 
 #### Inspiration
+* [52 Cups of Coffee](http://52cups.tumblr.com/)
 * [37 Signals Blog](http://37signals.com/svn/)
 * [Paul Stamatiou](http://paulstamatiou.com/)
 
