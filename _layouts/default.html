@@ -55,13 +55,8 @@
     <![endif]-->
   </head>
 
-  <body id="page{{ page.id | replace: '/','-' }}">
-    <div id="wrap">
-    
-      {{ content }}
-      
-      <div id="push"></div>
-    </div> <!-- /wrap -->
+  <body id="page{{ page.id | replace: '/','-' }}">    
+    {{ content }}
     
     <footer id="footer">
       <div class="container-fluid">

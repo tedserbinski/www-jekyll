@@ -1,30 +1,5 @@
 /* Page structure
 -------------------------------------------------- */
-html,
-body {
-  height: 100%;
-}
-
-/* 
-  Wrapper for page content to push down footer 
-  http://twitter.github.com/bootstrap/examples/sticky-footer.html
-*/
-#wrap {
-  margin: 0 auto -44px;
-  min-height: 100%;
-  height: auto !important;
-  height: 100%;
-}
-
-#page-home #wrap {
-  margin-bottom:-90px;
-}
-
-#push,
-#footer {
-  height: 20px;
-}
-
 #header {
   height:140px;
   border-bottom: 4px solid #ccc;
@@ -97,6 +72,7 @@ ul.nav li.dropdown:hover > a.dropdown-toggle {
   color: #aeb3c3;
   text-align: center;
   font-size: 13px;
+  margin-bottom: 0;
 }
 
 /* Content
