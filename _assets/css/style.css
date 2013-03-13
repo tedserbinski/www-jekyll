@@ -40,7 +40,7 @@ ul.nav {
   margin: 0;
   margin: 0 auto;
   padding: 0;
-  width:456px;
+  width:600px;
 }
 
 ul.nav li.space {
@@ -77,6 +77,10 @@ ul.nav li.dropdown:hover > a.dropdown-toggle {
 
 /* Content
 -------------------------------------------------- */
+a:hover {
+  color: #f13232
+}
+
 .entry {
   margin:0 auto;
   max-width: 624px; 
@@ -277,6 +281,17 @@ blockquote {
   margin-top:8px;
 }
 
+#page-portfolio div.media img { 
+  background: #fff;
+  width: 104px;
+  height: 64px;
+  border: 1px solid #ccc;
+  padding: 3px;
+}
+
+#page-portfolio div.media a:hover img {
+  border-color:#f13232
+}
 
 
 /* Code highlighting
@@ -429,8 +444,5 @@ https://gist.github.com/edwardhotchkiss/2005058
   }
   #page-home .row {
     margin: 0 0 0 12px;
-  }
-  #push, #footer {
-    height: 40px;
   }
 }
