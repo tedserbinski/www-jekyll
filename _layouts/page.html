@@ -5,24 +5,21 @@ layout: default
 {% include header.html %}
 
 <!-- hatom microformat classes: http://microformats.org/wiki/hatom-examples --> 
-<article class="container-fluid hfeed hentry entry">
+<article class="hfeed hentry entry">
   <header>
     <h1 class="entry-title instapaper_title text-center" id="{{ page.id | replace: '/','-' }}">{{ page.title }}</h1>
   </header>
-  <div class="post entry-content instapaper_body">
-    <div class="body">
-
-      {{ content }}
+  <section class="post entry-content instapaper_body">
     
-    </div>
+    {{ content }}
 
     <hr>
  
     {% include newsletter.html %}
 
-   {% if page.url == '/jcalendar/index.html' %}
-     {% include comments.html %}
-   {% endif %}
+    {% if page.url == '/jcalendar/index.html' %}
+      {% include comments.html %}
+    {% endif %}
 
-  </div>
+  </section>
 </article>

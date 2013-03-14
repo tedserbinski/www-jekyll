@@ -7,10 +7,7 @@ created: 1212378436
 
 Well thankfully Analytics makes this easier through its ability to <a href="http://www.google.com/support/googleanalytics/bin/answer.py?answer=55527&topic=11006">track outbound links</a> and <a href="http://www.google.com/support/googleanalytics/bin/answer.py?answer=55503&topic=11009">cross domain links</a>. But the problem then arises, who is going to update all of those hardcoded links with Javascript code? Is there an easier way?
 
-
-
 Sure there has gotta be, jQuery is wonderful and we could use that. So I googled it and found a great post doing something very close to what I was looking for: <a href="http://blog.rebeccamurphey.com/2008/01/06/track-outbound-clicks-with-google-analytics-and-jquery/">Rebecca Murphey's blog post</a> on that topic. While this worked great for outbound links, it didn't help with cross domain (or in-network links). So I modified her code a bit to check links against an array of our sites and adjust the Analytics code as necessary. The result was this:
-
 
 {% highlight javascript %}
 <script type="text/javascript">

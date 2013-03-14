@@ -2,7 +2,7 @@
 layout: post
 title: Working on the BMW M3, it's back!
 created: 1182049492
-category: cars
+category: bmw
 ---
 Well <a href="/m3">my BMW M3</a> has been sitting on the sidelines over the past year due to all my traveling and work. Now that all that has subsided and things are back under control, I spent the weekend working on the car, <a href="http://tedserbinski.com/m3/log">breathing new life into the car through a variety of fixes</a> :-)
 

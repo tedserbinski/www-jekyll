@@ -1,9 +1,24 @@
 /* Page structure
 -------------------------------------------------- */
-#header {
-  height:140px;
+#page-home header, #header {
   border-bottom: 4px solid #ccc;
-  background: #000;
+  background: #004a86; /* thanks Sprite Cow! http://www.spritecow.com/ */
+  background: -webkit-radial-gradient(400px center,circle cover,#0091d5 0%,#0091d5 15%,#004a86 100%);
+  background: -moz-radial-gradient(400px center,circle cover,#0091d5 0%,#0091d5 15%,#004a86 100%);
+  background: -ms-radial-gradient(400px center,circle cover,#0091d5 0%,#0091d5 15%,#004a86 100%);
+  background: -o-radial-gradient(400px center,circle cover,#0091d5 0%,#0091d5 15%,#004a86 100%);
+  background: radial-gradient(400px center,circle cover,#0091d5 0%,#0091d5 15%,#004a86 100%);
+}
+
+#page-home .bg, #header .container {
+  margin:0 auto;  
+  max-width: 1216px;
+  height:500px;
+}
+
+#header {
+  height:192px;
+  border-bottom: 4px solid #ccc;
   color: #fff;
 }
 
@@ -11,8 +26,20 @@
   color: #fff;
 }
 
+#header h2 {
+  margin:0;
+  font-size:36.5px;
+}
+
+#header h2 small {
+  font-size:20.5px;
+  color: #ddd;
+}
+
 #header p {
-  color: #999;
+  margin:8px 0 0 0;
+  color: #ddd;
+  line-height: 16px;
 }
 
 #header p b {
@@ -22,11 +49,10 @@
 #header .container {
   max-width:767px;
   height:140px;
-  background: url(../img/bg-ted-head.jpg) no-repeat right;
 }
 
 #header .about {
-  margin: 24px 0 0 136px;
+  margin: 36px 0 0 96px;
 }
 
 #nav {
@@ -69,21 +95,54 @@ ul.nav li.dropdown:hover > a.dropdown-toggle {
 }
 
 #footer .muted {
+  margin-bottom: 0;
   color: #aeb3c3;
   text-align: center;
   font-size: 13px;
-  margin-bottom: 0;
 }
 
 /* Content
 -------------------------------------------------- */
 a:hover {
-  color: #f13232
+  color: #f13232;
 }
 
 .entry {
   margin:0 auto;
+  max-width: 768px;
+}
+
+.entry-content {
+  margin:0 auto;
   max-width: 624px; 
+}
+
+.entry h1, .entry h2, .entry h3, h4.media-heading, #page-home h3 {
+  letter-spacing: -1px;
+  font-weight:300;
+  font-family: "abril-display-1","abril-display-2","Georgia","Times",serif;
+}
+
+h4.media-heading span {
+  letter-spacing: 0;
+  font-size: 14px;
+  font-family: sans-serif;
+}
+
+.entry code, .entry pre {
+  font-size:14px;
+  line-height:22px;
+}
+
+.entry blockquote {
+  margin:28px 0 28px 28px;
+  border-color: #000;
+  background:#eee;
+}
+
+.entry blockquote p {
+  font-size: inherit;
+  line-height: inherit;
 }
 
 .entry a {
@@ -112,144 +171,56 @@ p.posted a.prev {
   padding:0 12px 0 0;
 }
 
-.newsletter h5 {
-  margin:0 96px 0 0;
+.newsletter h5, .feedback h5 {
+  margin:0 24px 0 0;
 }
 
 .newsletter small {
   font-size:10px;
 }
 
-.newsletter form {
+.newsletter form, .newsletter .form {
   margin: 0;
 }
 
-
-
-/* Fonts
-   Fix vertical height with http://basehold.it/24
--------------------------------------------------- */
-.wf-loading .entry h1,
-.wf-loading .entry .body,
-.wf-loading code,
-.wf-loading #header {
-  visibility: hidden; /* hide until font is loaded: http://help.typekit.com/customer/portal/articles/6852 */
+.newsletter .form {
+  margin-top: 6px;
 }
 
-.wf-active #header,
-.wf-active body,
-.wf-active input, 
-.wf-active button, 
-.wf-active select, 
-.wf-active textarea {
-  visibility: visible;
-  font-weight: 300;
-  font-style: normal;
-  font-family: "runda-1","runda-2","Helvetica Neue","Helvetica","Arial",sans-serif;  
+.feedback .text {
+  margin-top:2px;
 }
 
-.wf-active body {
-  font-weight:400;
-}
-
-.wf-active #header h2 a,
-.wf-active .entry h1 {
-  font-weight:500;
-}
-
-.wf-active .entry h1, .wf-active .entry blockquote p {
-  visibility: visible;
-  font-weight: 500;
-  font-style: normal;
-  font-family: "abril-display-1","abril-display-2","Georgia","Times",serif;
-}
-
-.wf-active .entry .body {
-  visibility: visible;
-  font-weight: 400;
-  font-style: normal; 
-  font-family: "ff-dagny-web-pro-1","ff-dagny-web-pro-2","Georgia","Times",serif;
-}
-
-.wf-active code {
-  visibility: visible;
-  font-weight: 400;
-  font-style: normal;
-  font-family: "droid-sans-mono-1","droid-sans-mono-2","Consolas","Andale Mono","Monaco","Courier",sans-serif;
-}
-
-hr {
-  margin: 24px 0;
-}
-
-.entry code, .entry pre {
-  font-size:12px;
-  line-height:16px;
-}
-
-.entry h1 {
-  letter-spacing: -1px;
-  font-size:48px;
-  line-height:48px;
-}
-
-.entry h3 {
-  font-size: 24px;
-  line-height: 36px;
-}
-
-.entry .body>p {
-  margin-bottom:24px;
-  font-size: 18px;
-  line-height:24px;
-}
-
-.entry ul, ol {
-  margin-bottom:24px;
-}
-
-.entry li {
-  font-size:18px;
-  line-height: 24px;
-}
-
-blockquote {
-  font-weight:300;
-  font-size:18px;
-  line-height:24px;
-}
-
-.entry .body p+h3, .entry .body ul+h3 {
-  margin-top:24px;
+.entry .alert {
+  font-size: 14px;
+  line-height: 22px;
 }
 
 
 /* Pages
 -------------------------------------------------- */
-#page-home header {
-  border-bottom: 4px solid #ccc;
-  background: #000;
-}
-
-#page-home .bg {
-  margin:0 auto;  
-  max-width: 1216px;
-  height:500px;
-  background: #000 url(../img/bg01.jpg) no-repeat right center;
-}
-
 #page-home .hero-unit {
   margin-top: 96px;
   background:transparent;
 }
 
 #page-home .hero-unit h1 {
+  margin-bottom: 18px;
   color: #fff;
-  
 }
 
 #page-home .hero-unit p {
-  color: #999;
+  margin-bottom: 24px;
+  color: #ddd;
+  line-height: 24px;
+}
+
+#page-home .hero-unit b {
+  color:#FBD738;
+}
+
+#page-home .hero-unit .btn-large {
+  font-size: inherit;
 }
 
 #page-home .content {
@@ -281,16 +252,16 @@ blockquote {
   margin-top:8px;
 }
 
-#page-portfolio div.media img { 
-  background: #fff;
+#page-portfolio div.media img {
+  padding: 3px;
   width: 104px;
   height: 64px;
-  border: 1px solid #ccc;
-  padding: 3px;
+  border: 1px solid #ccc; 
+  background: #fff;
 }
 
 #page-portfolio div.media a:hover img {
-  border-color:#f13232
+  border-color:#f13232;
 }
 
 
@@ -379,70 +350,11 @@ https://gist.github.com/edwardhotchkiss/2005058
 .highlight .il { color: #2AA198; } /* Literal.Number.Integer.Long */
 
 @media (max-width: 767px) {
-  .container-fluid {
-    padding: 0 6px;
-  }
-  .container {
+  ul.nav {
     width: 100%;
   }
   #header .about {
     margin: 24px 0 0 0;
     text-align: center;
-  }
-  ul.nav {
-    width: 100%;
-  }
-  ul.nav li.space {
-    margin: 0;
-  }
-  .entry h1 {
-    font-size:36px;
-    line-height: 36px;
-  }
-
-  .entry h3 {
-    font-size: 18px;
-    line-height: 24px;
-  }
-
-  .entry .body>p {
-    font-size: 16px;
-    line-height:24px;
-  }
-  .entry li {
-    font-size:16px;
-  }
-  
-  .entry blockquote {
-    font-size:16px;
-  }
-  .entry span.authored,
-  .entry span.meta {
-    display: block;
-    width: 100%;
-  }
-  .entry p.posted a.comment-count {
-    padding: 0 36px 0 0;
-  }
-  
-  #page-home .bg { 
-    height: auto;
-    background: #000;   
-  }
-  #page-home .hero-unit {
-    margin: 0;
-  }
-  #page-home ul.posts li {
-    margin: 0;
-  }
-  #page-home .offset1, #page-home .offset2 {
-    margin-left: 0;
-  }
-  #page-home .span12, #page-home .span7, #page-home .span4 {
-    margin: 0;
-    width: 95%;
-  }
-  #page-home .row {
-    margin: 0 0 0 12px;
   }
 }

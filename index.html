@@ -6,7 +6,7 @@ description: A blog covering startup lessons from an entreprenuer and open sourc
 ---
 
 <div class="row">
-  <div class="span4 offset1">
+  <div class="span5 offset1">
     <h3>New here? <small>Start with my best posts</small></h3>
     <ul class="posts unstyled">
     {% for post in site.tags.top limit:5 %}    
@@ -14,7 +14,7 @@ description: A blog covering startup lessons from an entreprenuer and open sourc
     {% endfor %}
     </ul>
   </div>
-  <div class="span4 offset2">
+  <div class="span5 offset1">
     <h3>Back again? <small>Here's the latest</small></h3>
     <ul class="posts unstyled">
     {% for post in site.posts limit:5 %}    
@@ -33,8 +33,7 @@ description: A blog covering startup lessons from an entreprenuer and open sourc
         </div>
         <div class="input-append input-prepend pull-left">
           <form action="https://tinyletter.com/tedserbinski" method="post" target="popupwindow" onsubmit="newsletter();return true;">
-          <span class="add-on"><i class="icon-envelope"></i></span>
-          <input class="span2" type="email" placeholder="your@email.com" required name="email" id="tlemail">
+          <input class="span3" type="email" placeholder="your@email.com" required name="email" id="tlemail">
           <input type="hidden" value="1" name="embed"/>
           <button class="btn btn-success" type="submit">Sign Up</button>
           </form>  

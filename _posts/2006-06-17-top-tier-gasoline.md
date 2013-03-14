@@ -2,7 +2,7 @@
 layout: post
 title: Top Tier Gasoline
 created: 1150560192
-category: cars
+category: bmw
 tag: top
 ---
 <em>This blog post has been featured in the <a href="http://www.pcafcr.org/klatsch/2007/Klatsch_newsletter_Aug_07_v3.pdf">August 2007 issue of Klatsch</a>, the  <a href="http://www.pcafcr.org/">Florida Crown Region Porsche Club</a> newsletter.</em>

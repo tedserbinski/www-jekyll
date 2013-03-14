@@ -44,7 +44,7 @@
        <KeyPrefixEquals>tags/bmw/how-often-do-you-change-your-oil</KeyPrefixEquals>
     </Condition>
     <Redirect>
-      <ReplaceKeyPrefixWith>cars/how-often-do-you-change-your-oil</ReplaceKeyPrefixWith>
+      <ReplaceKeyPrefixWith>bmw/how-often-do-you-change-your-oil</ReplaceKeyPrefixWith>
     </Redirect>
   </RoutingRule>
 
@@ -53,7 +53,7 @@
        <KeyPrefixEquals>2006/06/17/top_tier_gasoline</KeyPrefixEquals>
     </Condition>
     <Redirect>
-      <ReplaceKeyPrefixWith>cars/top-tier-gasoline</ReplaceKeyPrefixWith>
+      <ReplaceKeyPrefixWith>bmw/top-tier-gasoline</ReplaceKeyPrefixWith>
     </Redirect>
   </RoutingRule>
   <RoutingRule>
@@ -77,7 +77,7 @@
        <KeyPrefixEquals>2007/08/04/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-1</KeyPrefixEquals>
     </Condition>
     <Redirect>
-      <ReplaceKeyPrefixWith>cars/rebuilding-a-bmw-intake-s52-to-m50-intake-manifold-conversion-day-1</ReplaceKeyPrefixWith>
+      <ReplaceKeyPrefixWith>bmw/rebuilding-a-bmw-intake-s52-to-m50-intake-manifold-conversion-day-1</ReplaceKeyPrefixWith>
     </Redirect>
   </RoutingRule>
   <RoutingRule>
@@ -85,7 +85,7 @@
        <KeyPrefixEquals>2007/08/11/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-2</KeyPrefixEquals>
     </Condition>
     <Redirect>
-      <ReplaceKeyPrefixWith>cars/rebuilding-a-bmw-intake-s52-to-m50-intake-manifold-conversion-day-2</ReplaceKeyPrefixWith>
+      <ReplaceKeyPrefixWith>bmw/rebuilding-a-bmw-intake-s52-to-m50-intake-manifold-conversion-day-2</ReplaceKeyPrefixWith>
     </Redirect>
   </RoutingRule>
   <RoutingRule>
@@ -93,7 +93,7 @@
        <KeyPrefixEquals>2007/08/17/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-3</KeyPrefixEquals>
     </Condition>
     <Redirect>
-      <ReplaceKeyPrefixWith>cars/rebuilding-a-bmw-intake-s52-to-m50-intake-manifold-conversion-day-3</ReplaceKeyPrefixWith>
+      <ReplaceKeyPrefixWith>bmw/rebuilding-a-bmw-intake-s52-to-m50-intake-manifold-conversion-day-3</ReplaceKeyPrefixWith>
     </Redirect>
   </RoutingRule>
   <RoutingRule>
@@ -101,7 +101,7 @@
        <KeyPrefixEquals>2007/08/18/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-4</KeyPrefixEquals>
     </Condition>
     <Redirect>
-      <ReplaceKeyPrefixWith>cars/rebuilding-a-bmw-intake-s52-to-m50-intake-manifold-conversion-day-4</ReplaceKeyPrefixWith>
+      <ReplaceKeyPrefixWith>bmw/rebuilding-a-bmw-intake-s52-to-m50-intake-manifold-conversion-day-4</ReplaceKeyPrefixWith>
     </Redirect>
   </RoutingRule>
   <RoutingRule>
@@ -109,7 +109,7 @@
        <KeyPrefixEquals>2007/08/23/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-5</KeyPrefixEquals>
     </Condition>
     <Redirect>
-      <ReplaceKeyPrefixWith>cars/rebuilding-a-bmw-intake-s52-to-m50-intake-manifold-conversion-day-5</ReplaceKeyPrefixWith>
+      <ReplaceKeyPrefixWith>bmw/rebuilding-a-bmw-intake-s52-to-m50-intake-manifold-conversion-day-5</ReplaceKeyPrefixWith>
     </Redirect>
   </RoutingRule>
   <RoutingRule>
@@ -117,7 +117,7 @@
        <KeyPrefixEquals>2007/08/30/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-6</KeyPrefixEquals>
     </Condition>
     <Redirect>
-      <ReplaceKeyPrefixWith>cars/rebuilding-a-bmw-intake-s52-to-m50-intake-manifold-conversion-day-6</ReplaceKeyPrefixWith>
+      <ReplaceKeyPrefixWith>bmw/rebuilding-a-bmw-intake-s52-to-m50-intake-manifold-conversion-day-6</ReplaceKeyPrefixWith>
     </Redirect>
   </RoutingRule>
   <RoutingRule>
@@ -125,7 +125,7 @@
        <KeyPrefixEquals>2007/08/31/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-list-parts</KeyPrefixEquals>
     </Condition>
     <Redirect>
-      <ReplaceKeyPrefixWith>cars/rebuilding-a-bmw-intake-s52-to-m50-intake-manifold-conversion-a-list-of-parts</ReplaceKeyPrefixWith>
+      <ReplaceKeyPrefixWith>bmw/rebuilding-a-bmw-intake-s52-to-m50-intake-manifold-conversion-a-list-of-parts</ReplaceKeyPrefixWith>
     </Redirect>
   </RoutingRule>
   <RoutingRule>
@@ -133,7 +133,7 @@
        <KeyPrefixEquals>2007/09/17/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-7</KeyPrefixEquals>
     </Condition>
     <Redirect>
-      <ReplaceKeyPrefixWith>cars/rebuilding-a-bmw-intake-s52-to-m50-intake-manifold-conversion-day-7</ReplaceKeyPrefixWith>
+      <ReplaceKeyPrefixWith>bmw/rebuilding-a-bmw-intake-s52-to-m50-intake-manifold-conversion-day-7</ReplaceKeyPrefixWith>
     </Redirect>
   </RoutingRule>
   <RoutingRule>
