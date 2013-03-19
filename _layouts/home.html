@@ -1,22 +1,21 @@
 ---
 layout: default
 ---
+
+<div id="nav">
+  {% include nav.html %}
+</div>
+
 <header>
-  <div class="bg">
   <div class="container">
     <div class="hero-unit">
       <h1>Ted Serbinski</h1>
-      <p>Entrepreneur &amp; open source hacker<br>turned <b>early stage VC</b> living in Detroit</p>
+      <p class="about">Entrepreneur &amp; open source hacker<br>turned <b><a href="/about.html">early stage VC</a></b> living in Detroit</p>
       <p><a class="btn btn-success btn-large" href="/52-startup-lessons.html">52 Startup Lessons &rarr;</a></p>
     </div>
-  </div>
   </div>
 </header>
 
 <div class="container content">
-  <div id="nav">
-    {% include nav.html %}
-  </div>
-
   {{ content }}
 </div>
