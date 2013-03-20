@@ -1,4 +1,9 @@
+{% if page.url != '/index.html' %}
+<ul class="nav nav-pills wide">
+  <li class="space"><a href="/index.html">Home</a></li>
+{% else %}  
 <ul class="nav nav-pills">
+{% endif %}
   <li class="space"><a href="/52-startup-lessons.html" title="52 Startup Lessons from a Venture Capitalist">52 Startup Lessons</a></li>
   <li class="space"><a href="/startup-portfolio.html" title="Startup Portfolio">Startup Portfolio</a></li>  
   <li class="space"><a href="/about.html" title="About Ted Serbinski">About</a></li>

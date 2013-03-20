@@ -7,7 +7,7 @@ description: A blog covering startup lessons from an entreprenuer and open sourc
 
 <div class="row">
   <div class="span5 offset1">
-    <h3>New here? <small>Start with my best posts</small></h3>
+    <h3>&raquo; New here? <small>Start with my best posts</small></h3>
     <ul class="posts unstyled">
     {% for post in site.tags.top limit:5 %}    
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
@@ -15,7 +15,7 @@ description: A blog covering startup lessons from an entreprenuer and open sourc
     </ul>
   </div>
   <div class="span5 offset1">
-    <h3>Back again? <small>Here's the latest</small></h3>
+    <h3>&raquo; Back again? <small>Here's the latest</small></h3>
     <ul class="posts unstyled">
     {% for post in site.posts limit:5 %}    
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
@@ -23,10 +23,14 @@ description: A blog covering startup lessons from an entreprenuer and open sourc
     </ul>       
   </div>
 </div>
+
 <div class="row">
   <div class="span12">
-    <div class="alert alert-block alert-success newsletter clearfix">
-      <div class="span7 offset1">
+    <div class="alert alert-block newsletter clearfix">
+      <div class="span3 offset1">
+        <div class="twitter"><a href="https://twitter.com/tedserbinski" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @tedserbinski</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>  
+      </div>      
+      <div class="span7">
         <div class="pull-left text-right newsletter-desc">
           <h5>Free, weekly updates</h5>
           <small>No spam, promise. Powered by <a href="https://tinyletter.com/tedserbinski">TinyLetter</a></small>
@@ -39,9 +43,6 @@ description: A blog covering startup lessons from an entreprenuer and open sourc
           </form>  
         </div>
       </div>
-      <div class="span3">
-        <div class="twitter"><a href="https://twitter.com/tedserbinski" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @tedserbinski</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>  
-      </div>      
     </div>
   </div>
 </div>
