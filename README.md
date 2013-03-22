@@ -1,5 +1,5 @@
 ## Ted Serbinski
-- Entreprenuer and open source hacker turned early stage VC living in Detroit
+- Entreprenuer and open source hacker turned early stage VC rebuilding Detroit
 - [Read more about me](http://tedserbinski.com/about.html)
 
 ## tedserbinski.com

@@ -41,7 +41,7 @@
         return window.open('https://tinyletter.com/tedserbinski', 'popupwindow', params);
       }  
     </script>
-    {% css_asset_tag globa %}
+    {% css_asset_tag global %}
       - /_assets/css/bootstrap.min.css
       - /_assets/css/style.css
     {% endcss_asset_tag %}
@@ -51,7 +51,9 @@
     <link type="text/plain" rel="author" href="http://tedserbinski.com/humans.txt" />
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
-      <script src="{{ ASSET_PATH }}/js/html5shiv-3.6.2pre.js"></script>
+      {% javascript_asset_tag global %}
+        - /_assets/js/html5shiv.js
+      {% endjavascript_asset_tag %}
     <![endif]-->
   </head>
 

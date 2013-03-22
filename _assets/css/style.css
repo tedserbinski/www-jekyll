@@ -17,7 +17,7 @@ ul.nav {
 }
 
 ul.nav.wide {
-  width:686px;
+  width:688px;
 }
 
 ul.nav li.space {
@@ -220,7 +220,7 @@ p.posted a.prev {
   margin:0 auto 36px;
   height:192px;
   border-bottom:1px solid #aaa;
-  background:#000 url(../img/bg02-small.jpg) no-repeat center center;
+  background:#000 url(../img/bg02-wide.jpg) no-repeat center center;
   color:#fff;
 }
 
