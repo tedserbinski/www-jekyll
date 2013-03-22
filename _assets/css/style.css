@@ -120,11 +120,7 @@ p.posted a.prev {
 }
 
 .newsletter.post {
-  padding:24px 0 12px 42px;
-}
-
-.newsletter.post .newsletter-desc {
-  margin-left:18px;
+  padding:24px 0 12px 36px;
 }
 
 .newsletter form {
@@ -161,6 +157,10 @@ p.posted a.prev {
 
 .newsletter .input-append {
   margin-bottom:0;
+}
+
+.twitter {
+  margin-left:24px;
 }
 
 /* Home page
@@ -360,7 +360,7 @@ https://gist.github.com/edwardhotchkiss/2005058
 .highlight .vi { color: #268BD2; } /* Name.Variable.Instance */
 .highlight .il { color: #2AA198; } /* Literal.Number.Integer.Long */
 
-@media (max-width: 940px) {
+@media (max-width: 980px) {
   #page-home .hero-unit {
     margin-left: 340px;
   }

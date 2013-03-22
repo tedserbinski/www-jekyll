@@ -1,6 +1,14 @@
 <RoutingRules>
   <RoutingRule>
     <Condition>
+       <KeyPrefixEquals>taxonomy/term/17/0</KeyPrefixEquals>
+    </Condition>
+    <Redirect>
+      <ReplaceKeyPrefixWith>drupal-code.html</ReplaceKeyPrefixWith>
+    </Redirect>
+  </RoutingRule>
+  <RoutingRule>
+    <Condition>
        <KeyPrefixEquals>tags/drupal/creating-alpha-pager-with-views-2-and-drupal-6</KeyPrefixEquals>
     </Condition>
     <Redirect>
@@ -47,7 +55,6 @@
       <ReplaceKeyPrefixWith>bmw/how-often-do-you-change-your-oil</ReplaceKeyPrefixWith>
     </Redirect>
   </RoutingRule>
-
   <RoutingRule>
     <Condition>
        <KeyPrefixEquals>2006/06/17/top_tier_gasoline</KeyPrefixEquals>
