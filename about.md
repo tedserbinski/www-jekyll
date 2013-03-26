@@ -5,7 +5,7 @@ id: -about
 ---
 
 <h3>Quickie</h3>
-Hi, I'm Ted Serbinski. I'm an early-stage software investor. I'm a successful tech entprenuer. I I'm a thoughtful mentor. Friends and colleagues call me "indispensable". I try to  make my piece of the world a better place. You can <a href="mailto:hi@tedserbinski.com">email me</a> or <a href="http://twitter.com/tedserbinski">tweet me</a> and I'll actually respond. Have an awesome day!
+Hi, I'm Ted Serbinski. I'm an early-stage software investor. I'm a successful tech entprenuer. I'm a thoughtful mentor. Friends and colleagues call me "indispensable". I try to  make my piece of the world a better place. You can <a href="mailto:hi@tedserbinski.com">email me</a> or <a href="http://twitter.com/tedserbinski">tweet me</a> and I'll actually respond. Have an awesome day!
 
 * I've been a founding or 1st institutional investor in a dozen startups, nearly always getting involved at the company inception phase
 * I've been an internationally recognized web architect for 15+ years, including 8 years as a lead, open source developer on <a href="http://drupal.org">Drupal</a>, working with dozens of Fortune 500 clients

@@ -372,14 +372,18 @@ https://gist.github.com/edwardhotchkiss/2005058
   }
 }
 
-@media (max-width: 720px) {
+@media (max-width: 768px) {
+  #page-home .hero-unit {
+    margin-left: 290px;
+  }
+  
   #page-home .newsletter .span7 {
     margin-top: 18px;
     width: 528px;
   }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 700px) {
   #page-home header {
     background-position-x: -520px;
   }
@@ -402,8 +406,40 @@ https://gist.github.com/edwardhotchkiss/2005058
   #header .hero-unit {
     margin-left: 196px;
   }
-  .newsletter .twitter {
-    margin-right: 400px;
-    margin-bottom: 18px;
+  #page-home .newsletter .twitter {
+    margin: 12px 400px 0 0;
+  }
+  #page-home .newsletter .pull-left {
+    float:none;
+    text-align: left;
+  }
+  #page-home .newsletter .span3 {
+    margin:0;
+  }
+}
+
+@media (max-width: 540px) {
+  ul.nav, ul.nav.wide {
+    width:100%;
+  }
+  #nav {
+    border-bottom: none;
+  }
+  #page-home .hero-unit {
+    margin-left:48px;
+  }
+  #header {
+    background: none;
+    height: auto;
+  }
+  #header .hero-unit {
+    margin: 0;
+    width: 100%;
+  }
+  #header h2 {
+    margin: 0;
+  }
+  .entry .authored {
+    display: block
   }
 }
