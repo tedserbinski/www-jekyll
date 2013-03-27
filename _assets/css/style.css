@@ -3,21 +3,17 @@
 #nav {
   padding:18px 6px;
   border-bottom:1px solid #aaa;
-  font-size:14px;
-}
-
-#nav a {
-  text-decoration: underline;
+  font-size:17px;
 }
 
 ul.nav {
   margin:0 auto;
   padding:0;
-  width:600px;
+  width:660px;
 }
 
 ul.nav.wide {
-  width:688px;
+  width:756px;
 }
 
 ul.nav li.space {
@@ -60,7 +56,7 @@ a:hover {
   max-width:768px;
 }
 
-.entry a {
+.entry a, .posts a {
   text-decoration: underline;
 }
 
@@ -100,7 +96,7 @@ h4.media-heading span {
 p.posted {
   margin:0 0 36px;
   font-style:italic;
-  font-size:12px;
+  font-size:14px;
 }
 
 p.posted a {
@@ -232,8 +228,9 @@ p.posted a.prev {
 #header .hero-unit {
   margin:24px 0 0 366px;
   padding:0;
-  width:330px;
+  width:342px;
   background:transparent;
+  font-size: 20px;
 }
 
 #header h2,#header p.about {
@@ -241,8 +238,12 @@ p.posted a.prev {
   background:#000;
 }
 
+#header p.about {
+  padding: 8px 6px;
+}
+
 #header h2 {
-  font-size:36.5px;
+  font-size:40px;
 }
 
 #header h2 small {
