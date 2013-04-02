@@ -9,11 +9,11 @@
 ul.nav {
   margin:0 auto;
   padding:0;
-  width:660px;
+  width:686px;
 }
 
 ul.nav.wide {
-  width:756px;
+  width:784px;
 }
 
 ul.nav li.space {
@@ -49,6 +49,10 @@ ul.nav li.dropdown:hover > a.dropdown-toggle {
 -------------------------------------------------- */
 a:hover {
   color:#f13232;
+}
+
+span.hl {
+  background-color: #ffee8d
 }
 
 .entry {
@@ -116,7 +120,7 @@ p.posted a.prev {
 }
 
 .newsletter.post {
-  padding:24px 0 12px 36px;
+  padding:24px 0 12px 12px;
 }
 
 .newsletter form {
@@ -156,7 +160,7 @@ p.posted a.prev {
 }
 
 .twitter {
-  margin-left:24px;
+  margin-left:14px;
 }
 
 /* Home page

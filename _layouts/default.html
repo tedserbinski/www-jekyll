@@ -2,7 +2,11 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>{{ page.title }}</title>
+    {% if page.url != '/index.html' %}
+    <title>{{ page.title }} | Ted Serbinski</title>
+    {% else %}
+    <title>{{ page.title }}</title>    
+    {% endif %}
     {% if page.description %}<meta name="description" content="{{ page.description | xml_escape }}">{% endif %}
     <meta name="author" content="{{ site.author.name }}">
     <meta name="HandheldFriendly" content="True">
