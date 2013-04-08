@@ -1,3 +1,9 @@
+desc 'update all libaries'
+task :update do
+  sh 'rvm get stable; rvm gemset update; brew update; brew upgrade; gem update --system; gem update;'
+end
+
+
 desc 're-generate site and upload to S3'
 task :deploy do
   sh 'rm -rf _site ; jekyll ; jekyll-s3 --headless'

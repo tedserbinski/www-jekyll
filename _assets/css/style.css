@@ -47,6 +47,10 @@ ul.nav li.dropdown:hover > a.dropdown-toggle {
 
 /* Content
 -------------------------------------------------- */
+.entry {
+  color: #000;
+}
+
 a:hover {
   color:#f13232;
 }
@@ -57,7 +61,7 @@ span.hl {
 
 .entry {
   margin:0 auto;
-  max-width:768px;
+  max-width:810px;
 }
 
 .entry a, .posts a {
@@ -86,15 +90,26 @@ h4.media-heading span {
   line-height:22px;
 }
 
-.entry blockquote {
+.entry-content blockquote {
   margin:28px 0 28px 28px;
-  border-color:#000;
-  background:#eee;
+  padding: 28px;
+  border-left: 3px solid #000;
+  background: #DFE9ED;
+  color: #008BBB;
 }
 
-.entry blockquote p {
+.entry-content blockquote p {
   font-size:inherit;
   line-height:inherit;
+}
+
+.entry-content strong {
+  background: #ffc;	
+  padding:3px;
+}
+
+.entry-content li {
+  margin:0 0 14px 14px;
 }
 
 p.posted {
@@ -217,7 +232,7 @@ p.posted a.prev {
 /* Other pages
 -------------------------------------------------- */
 #header {
-  margin:0 auto 36px;
+  margin:0 auto 74px;
   height:192px;
   border-bottom:1px solid #aaa;
   background:#000 url(../img/bg02-wide.jpg) no-repeat center center;

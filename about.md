@@ -14,7 +14,7 @@ id: -about
 * I earned a Bachelor of Science in Computer Engineering from Cornell University
 * I've been called the "swiss army knife for your startup" because of my uncanny ability to understand technology, operational management, fundraising, and being kick-ass unofficial co-founder
 * I am a [right-brained creative](http://ow.ly/3bBaT), [duct-tape programmer](http://ow.ly/3bBbi)
-* The ol' saying goes: <i>When Ted gets involved, your life gets better, Serbinski Promise&trade;</i>
+* The ol' saying goes: <i>When Ted gets involved, your life gets better, [Serbinski Promise&trade;](http://serbinskipromise.com)</i>
 * I try to make my piece of the world a better place
 * You can <a href="mailto:hi@tedserbinski.com">email me</a> or <a href="http://twitter.com/tedserbinski">tweet me</a> and I'll respond as soon as I can
 

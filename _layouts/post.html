@@ -10,7 +10,7 @@ layout: default
     <h1 class="entry-title instapaper_title text-center" id="{{ page.id | replace: '/','-' }}">{{ page.title }}</h1>
 
     <p class="muted posted text-center">
-      <span class="authored"><span class="vcard author"><span class="fn"><a href="https://plus.google.com/107707246099022430019?rel=author">Ted</a></span></span> wrote this on <span class="date updated published" title="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y"  }}</span></span>
+      <span class="authored"><span class="vcard author">Written by <span class="fn"><a href="https://plus.google.com/107707246099022430019?rel=author">Ted</a></span></span> on <span class="date updated published" title="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y"  }}</span></span>
       <span class="meta">
         <a class="comment-count" href="#disqus_thread">Read&nbsp;Comments</a>
         {% if page.previous %}<a class="prev" href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr;&nbsp;Previous</a> {% endif %}
@@ -30,14 +30,10 @@ layout: default
       <ul>
       {% if page.previous %}
         <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" class="btn" title="{{ page.previous.title }}">&larr; Previous</a></li>
-      {% else %}
-        <li class="prev disabled"><a>&larr; Previous</a></li>
       {% endif %}
         <li><a href="{{ BASE_PATH }}/archive.html" class="btn">Post Archive</a></li>
       {% if page.next %}
         <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" class="btn" title="{{ page.next.title }}">Next &rarr;</a></li>
-      {% else %}
-        <li class="next disabled"><a>Next &rarr;</a>
       {% endif %}
       </ul>
     </div>

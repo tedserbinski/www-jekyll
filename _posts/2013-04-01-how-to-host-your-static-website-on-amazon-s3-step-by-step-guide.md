@@ -2,7 +2,7 @@
 layout: post
 title: "How to Host Your Static Website on Amazon S3: Step-by-Step Guide"
 date: 2013-04-01 22:29:50 -0400
-category: code
+tag: code
 ---
 
 1. Login to your Amazon AWS account
@@ -40,7 +40,6 @@ category: code
 	]
 }
 {% endhighlight %}![](https://www.evernote.com/shard/s2/sh/2e597ac8-453d-4cec-b2a0-2e3f81017617/3f430748cf1ec69f8d2b58412416414f/deep/0/Screenshot%204/1/13%2010:20%20PM.jpg)
-
 8. Enable website hosting for this S3 bucket
 ![](https://www.evernote.com/shard/s2/sh/2bec97a1-c4ae-4444-881f-607bd1cc2519/61803186386cfbd228c84d7d5cce80c1/deep/0/Screenshot%204/1/13%2010:21%20PM.jpg)
 

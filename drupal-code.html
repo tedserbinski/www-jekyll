@@ -3,7 +3,9 @@ layout: page
 title : Drupal &amp; Code
 ---
 
-{% for post in site.categories.drupal %}
+{% assign posts = [site.categories.drupal, site.tags.code] %}
+
+{% for post in posts  %}
   {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
   {% capture this_month %}{{ post.date | date: "%B" }}{% endcapture %}
   {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
