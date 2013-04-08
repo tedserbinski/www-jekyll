@@ -56,7 +56,7 @@ a:hover {
 }
 
 span.hl {
-  background-color: #ffee8d
+  background-color: #ffc
 }
 
 .entry {
@@ -108,7 +108,7 @@ h4.media-heading span {
   padding:3px;
 }
 
-.entry-content li {
+.entry-content>ul>li {
   margin:0 0 14px 14px;
 }
 
@@ -193,7 +193,7 @@ p.posted a.prev {
 }
 
 #page-home .hero-unit {
-  margin:148px 0 0 560px;
+  margin:148px 0 0 540px;
   padding:0;
   background:transparent;
 }
