@@ -25,15 +25,3 @@ module JekyllAssetPipeline
     end
   end
 end
-
-module JekyllAssetPipeline
-  class CssTagTemplate < JekyllAssetPipeline::Template
-    def self.filetype
-      '.css'
-    end
-
-    def html
-      "<link href='/#{@path}/#{@filename}' rel='stylesheet' type='text/css'>\n"
-    end
-  end
-end

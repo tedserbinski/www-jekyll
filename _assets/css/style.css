@@ -184,7 +184,7 @@ p.posted a.prev {
   margin-bottom:36px;
   height:500px;
   border-bottom:1px solid #aaa;
-  background:#000 url(../img/bg02.jpg) no-repeat center center;
+  background:#000 url(http://d3bzjcbbiattc5.cloudfront.net/img/bg02.jpg) no-repeat center center;
 }
 
 #page-home header h1,#page-home header p.about {
@@ -235,7 +235,7 @@ p.posted a.prev {
   margin:0 auto 74px;
   height:192px;
   border-bottom:1px solid #aaa;
-  background:#000 url(../img/bg02-wide.jpg) no-repeat center center;
+  background:#000 url(http://d3bzjcbbiattc5.cloudfront.net/img/bg02-wide.jpg) no-repeat center center;
   color:#fff;
 }
 
