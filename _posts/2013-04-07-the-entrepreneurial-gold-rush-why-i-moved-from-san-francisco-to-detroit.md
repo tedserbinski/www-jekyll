@@ -1,9 +1,9 @@
---- 
+---- 
 layout: post
 title: "The Entrepreneurial Gold Rush: Why I moved from San Francisco to Detroit"
 date: 2013-04-07 14:41:45 -0400
 tag: 52lessons
----
+---- 
 
 > &ldquo;If Columbus had an advisory committee he would probably still be at the dock.&rdquo;
 > <small>Arthur Goldberg, American statesman and jurist</small>
@@ -35,7 +35,7 @@ But it&rsquo;s more than just us.
 
 **Detroit is about to get hit by a perfect storm of economical drivers**. 
 
-- **The Billionaires** &mdash; [Dan Gilbert][7] (founder of Quicken Loans, majority owner Cleveland Cavaliers), [Roger Penske][8] (owner of Penkse Racing and a number of related automobile companies), [Mike Ilitch][9] (owner of the Detroit Tigers, Detroit Red Wings and Little Caesars Pizza), and [Bill Ford][10] (yes, that Ford).
+- **The Business Titans** &mdash; [Dan Gilbert][7] (founder of Quicken Loans, majority owner Cleveland Cavaliers), [Roger Penske][8] (owner of Penkse Racing and a number of related automobile companies), [Mike Ilitch][9] (owner of the Detroit Tigers, Detroit Red Wings and Little Caesars Pizza), and [Bill Ford][10] (yes, that Ford).
 - **Michigan Governor** &mdash; Governor of Michigan, [Rick Snyder][11], Republican strategist, former chairman of the board of Gateway, Inc., and one of the first venture capitalists in Michigan.
 - **The M-1 Rail** &mdash; Connecting downtown Detroit to greater parts of Metro Detroit through a [light rail/streetcar system][12].
 - **Startup America** &mdash; With the American economy in a slump, the focus is on jobs. And startups create the most jobs. [Startup America Partnership][13], chaired by AOL co-founder [Steve Case][14] is leading the charge.
@@ -45,18 +45,20 @@ But it&rsquo;s more than just us.
 - **One of the Best Airports in the Country** &mdash; Detroit Metro Airport was recently rated as the [best large airport in the country][16].
 - **The Most Beautiful Place in America** &mdash; Sleeping Bear Dunes, a short 4 hour drive from Detroit, was named [the Most Beautiful Place in America by Good Morning America.][17]
 - **The Rising Costs of Coastal Cities** &mdash; Can you actually afford a wonderful house in a great neighborhood, live in an amazing school district, and not break the bank? San Francisco and New York, not a chance. But in Michigan, you can. In fact, [5 towns in Michigan were rated by Money Magazine as best places to live][18].
-- **Steve Blank said to Start Your Company Here** &mdash; One of the greatest minds in startups said to start your company in Michigan, not San Francisco. &lsquo;Nuff said.   
-	![](http://d3bzjcbbiattc5.cloudfront.net/img/posts/steve-blank-quote.png)
+- **Steve Blank said to Start Your Company Here** &mdash; One of the greatest minds in startups said to start your company in Michigan, not San Francisco. &lsquo;Nuff said.  
+	![][image-1]
 
 **So, step out of your comfort zone and come to Detroit!**
-![](http://d3bzjcbbiattc5.cloudfront.net/img/posts/magic-happens-your-comfort-zone.jpg)
+![][image-2]
 
 Agree? Disagree? [Leave a comment below and join the conversation][19]
+
+
 
 [1]:	http://ted.vc/12xXKjt
 [2]:	http://en.wikipedia.org/wiki/Dan_Gilbert_(businessman)
 [3]:	http://joshlinkner.com
-[4]:	http://www.amazon.com/gp/product/0470922222?ie=UTF8&amp;camp=213733&amp;creative=393185&amp;creativeASIN=0470922222&amp;linkCode=shr&amp;tag=tedserbinski-20
+[4]:	http://ted.vc/11QXDki
 [5]:	http://detroitventurepartners.com/
 [6]:	http://www.forbes.com/sites/joshlinkner/2013/01/28/6-lessons-from-americas-comeback-kid-detroit-mi/
 [7]:	http://en.wikipedia.org/wiki/Dan_Gilbert_(businessman)
@@ -73,5 +75,5 @@ Agree? Disagree? [Leave a comment below and join the conversation][19]
 [18]:	http://blog.michiganadvantage.org/great-companies/five-michigan-towns-named-money-magazines-best-places-to-live/
 [19]:	%23disqus_thread
 
-[1]:	http://d3bzjcbbiattc5.cloudfront.net/img/posts/steve-blank-quote.png
-[2]:	http://d3bzjcbbiattc5.cloudfront.net/img/posts/magic-happens-your-comfort-zone.jpg
+[image-1]:	http://d3bzjcbbiattc5.cloudfront.net/img/posts/steve-blank-quote.png
+[image-2]:	http://d3bzjcbbiattc5.cloudfront.net/img/posts/magic-happens-your-comfort-zone.jpg
