@@ -1,9 +1,9 @@
----- 
+--- 
 layout: post
 title: "The Entrepreneurial Gold Rush: Why I moved from San Francisco to Detroit"
 date: 2013-04-07 14:41:45 -0400
 tag: 52lessons
----- 
+--- 
 
 > &ldquo;If Columbus had an advisory committee he would probably still be at the dock.&rdquo;
 > <small>Arthur Goldberg, American statesman and jurist</small>
