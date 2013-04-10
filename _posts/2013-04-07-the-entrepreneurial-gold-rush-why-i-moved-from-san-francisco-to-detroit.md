@@ -46,7 +46,7 @@ But it&rsquo;s more than just us.
 - **The Most Beautiful Place in America** &mdash; Sleeping Bear Dunes, a short 4 hour drive from Detroit, was named [the Most Beautiful Place in America by Good Morning America.][17]
 - **The Rising Costs of Coastal Cities** &mdash; Can you actually afford a wonderful house in a great neighborhood, live in an amazing school district, and not break the bank? San Francisco and New York, not a chance. But in Michigan, you can. In fact, [5 towns in Michigan were rated by Money Magazine as best places to live][18].
 - **Steve Blank said to Start Your Company Here** &mdash; One of the greatest minds in startups said to start your company in Michigan, not San Francisco. &lsquo;Nuff said.  
-	![][image-1]
+  ![][image-1]
 
 **So, step out of your comfort zone and come to Detroit!**
 ![][image-2]
@@ -55,25 +55,25 @@ Agree? Disagree? [Leave a comment below and join the conversation][19]
 
 
 
-[1]:	http://ted.vc/12xXKjt
-[2]:	http://en.wikipedia.org/wiki/Dan_Gilbert_(businessman)
-[3]:	http://joshlinkner.com
-[4]:	http://ted.vc/11QXDki
-[5]:	http://detroitventurepartners.com/
-[6]:	http://www.forbes.com/sites/joshlinkner/2013/01/28/6-lessons-from-americas-comeback-kid-detroit-mi/
-[7]:	http://en.wikipedia.org/wiki/Dan_Gilbert_(businessman)
-[8]:	http://en.wikipedia.org/wiki/Roger_Penske
-[9]:	http://en.wikipedia.org/wiki/Mike_Ilitch
-[10]:	http://en.wikipedia.org/wiki/William_Clay_Ford,_Jr.
-[11]:	http://en.wikipedia.org/wiki/Rick_Snyder
-[12]:	http://www.m-1rail.com/
-[13]:	http://www.s.co/
-[14]:	http://en.wikipedia.org/wiki/Steve_Case
-[15]:	http://ventureforamerica.org/
-[16]:	http://articles.latimes.com/2011/jul/02/local/la-me-best-airports-20110630
-[17]:	http://abcnews.go.com/Travel/best_places_USA/sleeping-bear-dunes-michigan-voted-good-morning-americas/story?id=14319616
-[18]:	http://blog.michiganadvantage.org/great-companies/five-michigan-towns-named-money-magazines-best-places-to-live/
-[19]:	%23disqus_thread
+[1]:  http://ted.vc/12xXKjt
+[2]:  http://en.wikipedia.org/wiki/Dan_Gilbert_(businessman)
+[3]:  http://joshlinkner.com
+[4]:  http://ted.vc/11QXDki
+[5]:  http://detroitventurepartners.com/
+[6]:  http://www.forbes.com/sites/joshlinkner/2013/01/28/6-lessons-from-americas-comeback-kid-detroit-mi/
+[7]:  http://en.wikipedia.org/wiki/Dan_Gilbert_(businessman)
+[8]:  http://en.wikipedia.org/wiki/Roger_Penske
+[9]:  http://en.wikipedia.org/wiki/Mike_Ilitch
+[10]: http://en.wikipedia.org/wiki/William_Clay_Ford,_Jr.
+[11]: http://en.wikipedia.org/wiki/Rick_Snyder
+[12]: http://www.m-1rail.com/
+[13]: http://www.s.co/
+[14]: http://en.wikipedia.org/wiki/Steve_Case
+[15]: http://ventureforamerica.org/
+[16]: http://articles.latimes.com/2011/jul/02/local/la-me-best-airports-20110630
+[17]: http://abcnews.go.com/Travel/best_places_USA/sleeping-bear-dunes-michigan-voted-good-morning-americas/story?id=14319616
+[18]: http://blog.michiganadvantage.org/great-companies/five-michigan-towns-named-money-magazines-best-places-to-live/
+[19]: %23disqus_thread
 
-[image-1]:	http://d3bzjcbbiattc5.cloudfront.net/img/posts/steve-blank-quote.png
-[image-2]:	http://d3bzjcbbiattc5.cloudfront.net/img/posts/magic-happens-your-comfort-zone.jpg
+[image-1]:  http://d3bzjcbbiattc5.cloudfront.net/img/posts/steve-blank-quote.png
+[image-2]:  http://d3bzjcbbiattc5.cloudfront.net/img/posts/magic-happens-your-comfort-zone.jpg

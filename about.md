@@ -12,10 +12,9 @@ id: -about
 * I am <span class="hl">internationally recognized web architect</span> that has been building websites for 15+ years, including <span class="hl">8 years as a lead, open source developer</span> for <a href="http://drupal.org">Drupal</a>
 * I am widely <span class="hl">regarded as one of the most influential, emerging venture technology partners in the Midwest</span> and a key player leading the startup renaissance in Detroit
 * I earned a Bachelor of Science in Computer Engineering from Cornell University
-* I've been called the "swiss army knife for your startup" because of my uncanny ability to understand technology, operational management, fundraising, and being kick-ass unofficial co-founder
+* I've been called the "swiss army knife for your startup" because of my uncanny ability to understand technology, operational management, fundraising, and being a kick-ass co-founder and mentor
 * I am a [right-brained creative](http://ow.ly/3bBaT), [duct-tape programmer](http://ow.ly/3bBbi)
-* The ol' saying goes: <i>When Ted gets involved, your life gets better, [Serbinski Promise&trade;](http://serbinskipromise.com)</i>
-* I try to make my piece of the world a better place
+* The ol' saying goes: <i>When Ted gets involved, your life gets better, [Serbinski Promise&trade;](http://serbinskipromise.com)</i>, as I strive to make my piece of the world a better place
 * You can <a href="mailto:hi@tedserbinski.com">email me</a> or <a href="http://twitter.com/tedserbinski">tweet me</a> and I'll respond as soon as I can
 
 <hr>
@@ -42,7 +41,7 @@ Before coming to the Midwest, he founded [Stanson Ventures](http://stansonventur
 
 Prior to his investment career, Ted was a serial entrepreneur, most recently as co-founder and CTO of [ParentsClick](http://www.crunchbase.com/company/parentsclick-network), which was [acquired by Lifetime Entertainment in 2008](http://paidcontent.org/2008/08/27/419-lifetime-networks-acquires-parentsclick-network-first-digital-acquisiti/). ParentsClick was the <span class="hl">4th largest social network for parenting and mom bloggers</span> in the country at the time of acquisition. Ted joined Lifetime as Director of Technology and stayed on in this role during [Lifetime's merger with A&E Television in 2010](http://www.nytimes.com/2009/08/28/business/media/28lifetime.html?_r=0). While at Lifetime/A&E, he extended the community platform he architected for ParentsClick to host 8 Lifetime TV websites, serving a majority of Lifetime's total traffic of 3.5MM monthly uniques and 90MM monthly pageviews.
 
-Before ParentsClick, Ted was the founding engineer of [Lullabot](http://lullabot.com), one of the <span class="hl">world's leading Drupal web strategy, development, and training companies</span>. While there, Ted was the lead architect of numerous Fortune 500 websites, including Sony Music, MTV UK, Lifetime, the Seattle Times, [This Week in Tech](http://twit.tv/), and many more.
+Before ParentsClick, Ted was the first engineer and part of the founding team at [Lullabot](http://lullabot.com), one of the <span class="hl">world's leading Drupal web strategy, development, and training companies</span>. While there, Ted was the lead architect of numerous Fortune 500 websites, including Sony Music, MTV UK, Lifetime, the Seattle Times, [This Week in Tech](http://twit.tv/), and many more.
 
 <h4>Hacker</h4>
 
