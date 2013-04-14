@@ -6,54 +6,40 @@ end
 
 desc 're-generate site and upload to S3'
 task :deploy do
-  sh 'rm -rf _site ; jekyll ; jekyll-s3 --headless'
+  sh 'rm -rf _site ; jekyll build --lsi ; jekyll-s3 --headless'
 end
 
-desc 're-generate site'
-task :generate do
-  sh 'rm -rf _site ; time jekyll'
+desc 'generate new site and launch server'
+task :preview do
+  sh 'rm -rf _site ; time jekyll ; jekyll server --lsi --watch ;'
 end
 
 
-desc 'create new post'
-# rake new type=(post) future=0 title="New post title goes here" slug="slug-override-title" category="category"
-task :new do
-  require 'rubygems'
-  require 'chronic'
-  
-  type = ENV["type"] || "post"
-  title = ENV["title"] || "New Title"
-  future = ENV["future"] || 0
-  slug = ENV["slug"].to_s.gsub(' ','-').downcase || title.to_s.gsub(' ','-').downcase
-  category = ENV["category"] || "startups"
- 
-  if future.to_i < 3
-    TARGET_DIR = "_posts"
-  else
-    TARGET_DIR = "_drafts"
+# Usage: rake post title="A Title" [date="2012-02-09"] [tags=[tag1, tag2]]
+desc "create new post"
+task :post do
+  title = ENV["title"] || "New Post Title"
+  tags = ENV["tags"] || "[]"
+  slug = title.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
+  begin
+    date = (ENV['date'] ? Time.parse(ENV['date']) : Time.now).strftime('%Y-%m-%d')
+  rescue Exception => e
+    puts "Error - date format must be YYYY-MM-DD, please check you typed it correctly!"
+    exit -1
   end
- 
-  if future.to_i.zero?
-    filename = "#{Time.new.strftime('%Y-%m-%d')}-#{slug}.md"
-  else
-    stamp = Chronic.parse("in #{future} days").strftime('%Y-%m-%d')
-    filename = "#{stamp}-#{slug}.md"
+  filename = File.join(CONFIG['posts'], "#{date}-#{slug}.markdown")
+  if File.exist?(filename)
+    abort("rake aborted!") if ask("#{filename} already exists. Do you want to overwrite?", ['y', 'n']) == 'n'
   end
   
-  path = File.join(TARGET_DIR, filename)
-  post = <<-HTML
---- 
-layout: TYPE
-title: "TITLE"
-date: DATE
-category: CATEGORY
----
- 
-HTML
-  post.gsub!('TITLE', title).gsub!('DATE', Time.new.to_s).gsub!('TYPE', type).gsub('CATEGORY', category)
-  File.open(path, 'w') do |file|
-    file.puts post
+  puts "Creating new post: #{filename}"
+  open(filename, 'w') do |post|
+    post.puts "---"
+    post.puts "layout: post"
+    post.puts "title: \"#{title.gsub(/-/,' ')}\""
+    post.puts 'description: ""'
+    post.puts "category: "
+    post.puts "tags: []"
+    post.puts "---"
   end
-  puts "new #{type} generated in #{path}"
-  system "coda #{path}"
-end
+end # task :post
