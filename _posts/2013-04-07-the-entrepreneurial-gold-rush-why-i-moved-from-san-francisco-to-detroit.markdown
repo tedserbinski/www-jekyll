@@ -1,8 +1,9 @@
 --- 
 layout: post
 title: "The Entrepreneurial Gold Rush: Why I moved from San Francisco to Detroit"
+description: "Where do you want to be in ten years? Status quo? Or one of the heroes that rebuilt a city? Read on for why."
 date: 2013-04-07 14:41:45 -0400
-tag: 52lessons
+tags: ["52 Lessons"]
 --- 
 
 > &ldquo;If Columbus had an advisory committee he would probably still be at the dock.&rdquo;
@@ -46,10 +47,10 @@ But it&rsquo;s more than just us.
 - **The Most Beautiful Place in America** &mdash; Sleeping Bear Dunes, a short 4 hour drive from Detroit, was named [the Most Beautiful Place in America by Good Morning America.][17]
 - **The Rising Costs of Coastal Cities** &mdash; Can you actually afford a wonderful house in a great neighborhood, live in an amazing school district, and not break the bank? San Francisco and New York, not a chance. But in Michigan, you can. In fact, [5 towns in Michigan were rated by Money Magazine as best places to live][18].
 - **Steve Blank said to Start Your Company Here** &mdash; One of the greatest minds in startups said to start your company in Michigan, not San Francisco. &lsquo;Nuff said.  
-  ![][image-1]
+  ![Steve Blank - Silicon Valley is out of A players. Don't start your company here, start it in Ann Arbor.][image-1]
 
 **So, step out of your comfort zone and come to Detroit!**
-![][image-2]
+![Where the magic happens vs your comfort zone.][image-2]
 
 Agree? Disagree? [Leave a comment below and join the conversation][19]
 
@@ -75,5 +76,5 @@ Agree? Disagree? [Leave a comment below and join the conversation][19]
 [18]: http://blog.michiganadvantage.org/great-companies/five-michigan-towns-named-money-magazines-best-places-to-live/
 [19]: %23disqus_thread
 
-[image-1]:  http://d3bzjcbbiattc5.cloudfront.net/img/posts/steve-blank-quote.png
-[image-2]:  http://d3bzjcbbiattc5.cloudfront.net/img/posts/magic-happens-your-comfort-zone.jpg
+[image-1]: {% asset_path steve-blank-quote.png %}
+[image-2]: {% asset_path magic-happens-your-comfort-zone.jpg %}

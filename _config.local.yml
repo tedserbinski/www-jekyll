@@ -1,0 +1,38 @@
+title : Ted Serbinski
+
+permalink: /:categories/:title 
+
+pygments: true
+
+markdown: redcarpet # https://github.com/vmg/redcarpet
+
+redcarpet:
+  extensions:
+    - no_intra_emphasis
+    - fenced_code_blocks
+    - autolink
+    - strikethrough
+    - superscript
+    - smart
+    - tables
+    - with_toc_data
+
+
+# configuration options https://github.com/ixti/jekyll-assets
+assets:
+  dirname: assets
+  baseurl: /assets/
+  sources:
+    - _assets/js
+    - _assets/css
+    - _assets/img
+    - _assets/img/posts
+    - _assets/img/portfolio-logos
+  gzip: false # use https://github.com/laurilehmijoki/jekyll-s3 for gzipping
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Rakefile
+
+prod: false

@@ -1,3 +1,5 @@
+//= require bootstrap.min
+
 /* Navigation
 -------------------------------------------------- */
 #nav {
@@ -134,6 +136,16 @@ p.posted a.prev {
   padding:0 12px 0 0;
 }
 
+.related h4 {
+  font-size: 20px;
+  font-weight: normal;
+  margin:0;
+}
+
+.related ul {
+  font-size: 16px;
+}
+
 .newsletter.post {
   padding:24px 0 12px 12px;
 }
@@ -184,7 +196,7 @@ p.posted a.prev {
   margin-bottom:36px;
   height:500px;
   border-bottom:1px solid #aaa;
-  background:#000 url(http://d3bzjcbbiattc5.cloudfront.net/img/bg02.jpg) no-repeat center center;
+  background:#000 url({% asset_path bg02.jpg %}) no-repeat center center;
 }
 
 #page-home header h1,#page-home header p.about {
@@ -235,7 +247,7 @@ p.posted a.prev {
   margin:0 auto 74px;
   height:192px;
   border-bottom:1px solid #aaa;
-  background:#000 url(http://d3bzjcbbiattc5.cloudfront.net/img/bg02-wide.jpg) no-repeat center center;
+  background:#000 url({% asset_path bg02-wide.jpg %}) no-repeat center center;
   color:#fff;
 }
 

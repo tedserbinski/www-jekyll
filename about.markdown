@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Why Ted Rocks
-id: -about
+pageid: about
+title: "The Midwestern VC"
+description: "Ted Serbinski is a Vice President at Detroit Venture Partners, entrepreneur and open source hacker rebuilding Detroit."
 ---
 
 <h3>Hi, I'm Ted Serbinski</h3>

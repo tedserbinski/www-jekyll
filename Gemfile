@@ -1,0 +1,11 @@
+source 'https://rubygems.org'
+
+gem 'jekyll', '~>1.0.0.beta4'
+gem 'jekyll-assets'
+gem 'rake'
+gem 'redcarpet'
+gem 'pygments.rb'
+gem 'uglifier'
+gem 'yui-compressor'
+gem 'gsl'
+gem 'jekyll-s3'
