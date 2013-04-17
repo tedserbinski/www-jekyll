@@ -50,11 +50,10 @@ task :new do
     post.puts "---"
     post.puts "layout: post"
     post.puts "title: \"#{title}\""
-    post.puts 'description: \"\"'
+    post.puts 'description: " "'
     post.puts "category: "
-    post.puts "tags: []"
+    post.puts "tags: [\"#{tags}\"]"
     post.puts "---"
-    post.puts ""
     post.puts ""
   end
 end

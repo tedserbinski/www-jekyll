@@ -10,13 +10,16 @@ description: "52 startup lessons from Ted Serbinski, an entreprenuer and open so
 and her <a href="http://52cups.tumblr.com/">52 Cups of Coffee</a> blog series.</p>
 <p><a href="mailto:hi@tedserbinski.com">Email me any suggestions, comments, or critiques</a> and enjoy my lessons learned!</p>
 
+<hr>
+
 <h3>The 52 Lessons</h3>
 <ol>
-{% for post in site.tags["52 Lessons"] %}    
+{% for post in site.tags["52 Lessons"] reversed %}    
 <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ol>
 
+<hr>
 
 <h3>Coming soon...</h3>
 <ul>
@@ -25,7 +28,7 @@ and her <a href="http://52cups.tumblr.com/">52 Cups of Coffee</a> blog series.</
 <li>Are Your Advisors Sinking Your Startup?</li>
 <li>What's the #1 Thing <b>Not</b> to Email a VC?</li>
 <li>24 Business Insights I've Learned From Billionaire Dan Gilbert</li>
-<li>&#133; and 46 more awesome posts, <b>don't miss out <a href="https://tinyletter.com/tedserbinski">sign up today</a> </b></li>
+<li>&#133; and 45 more awesome posts, <b>don't miss out <a href="https://tinyletter.com/tedserbinski">sign up today</a> </b></li>
 </ul>
 
 <small>Started by Ted Serbinski on April 7, 2013</small>
