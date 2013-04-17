@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Best Startup Advice I've Ever Gotten"
-description: "I've"
+description: "Read about the most inspirational startup advice I've ever gotten and how it changed my path in life."
 category: 
 tags: ["52 Lessons"]
 ---
