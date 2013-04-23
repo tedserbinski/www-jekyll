@@ -1,6 +1,6 @@
 title : Ted Serbinski
 
-permalink: /:categories/:title 
+permalink: /:categories/:title/
 
 pygments: true
 

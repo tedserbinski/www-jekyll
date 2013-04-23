@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '~>1.0.0.beta4'
+gem 'jekyll', '~>1.0.0.rc1'
 gem 'jekyll-assets'
 gem 'rake'
 gem 'redcarpet'

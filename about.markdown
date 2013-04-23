@@ -8,10 +8,10 @@ description: "Ted Serbinski is a Vice President at Detroit Venture Partners, ent
 <h3>Hi, I'm Ted Serbinski</h3>
 
 * I'm an <span class="hl">early stage software VC, successful tech entrepreneur, open source hacker</span>, and knowledgable mentor
-* In 2011, I relocated to Detroit from San Francisco, joining Detroit Venture Partners as Vice President, after having [sold my company to Lifetime Television in 2008](http://paidcontent.org/2008/08/27/419-lifetime-networks-acquires-parentsclick-network-first-digital-acquisiti/)
+* I am widely <span class="hl">regarded as one of the most influential, emerging venture technology partners in the Midwest</span> and a key player leading the startup renaissance in Detroit
+* In 2011, I relocated to Detroit from San Francisco, joining Detroit Venture Partners as Vice President, after having [co-founded and sold ParentsClick to Lifetime Television in 2008](http://paidcontent.org/2008/08/27/419-lifetime-networks-acquires-parentsclick-network-first-digital-acquisiti/)
 * I've been a <span class="hl">founding or 1st institutional investor</span> in more than a dozen startups, nearly always getting involved at the company inception phase
 * I am <span class="hl">internationally recognized web architect</span> that has been building websites for 15+ years, including <span class="hl">8 years as a lead, open source developer</span> for <a href="http://drupal.org">Drupal</a>
-* I am widely <span class="hl">regarded as one of the most influential, emerging venture technology partners in the Midwest</span> and a key player leading the startup renaissance in Detroit
 * I earned a Bachelor of Science in Computer Engineering from Cornell University
 * I've been called the "swiss army knife for your startup" because of my uncanny ability to understand technology, operational management, fundraising, and being a kick-ass co-founder and mentor
 * I am a [right-brained creative](http://ow.ly/3bBaT), [duct-tape programmer](http://ow.ly/3bBbi)
@@ -36,7 +36,7 @@ Ted Serbinski is the <span class="hl">Vice President at [Detroit Venture Partner
 
 Currently, he <span class="hl">sits on the boards</span> of Are You a Human, Detroit Labs, Marxent Labs, Sociocast, UpTo, Chalkfly, and TechTown and is an advisor to the [Brandery](http://brandery.org/) and the Frankel Commercialization Fund at University of Michigan.
 
-Before coming to the Midwest, he founded [Stanson Ventures](http://stansonventures.com), a successful seed stage investment fund. Top startups include GraphScience, [CrowdMob](http://crowdmob.com), [MomTrusted](http://momtrusted.com) and [RentMethod](http://rentmethod.com).
+Before coming to the Midwest, he founded [Stanson Ventures](http://stansonventures.com), a successful seed stage investment fund. Top startups include [GraphScience](http://www.graphscience.com), [CrowdMob](http://crowdmob.com), [MomTrusted](http://momtrusted.com) and [RentMethod](http://rentmethod.com).
 
 <h4>Founder</h4>
 
