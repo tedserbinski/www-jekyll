@@ -5,7 +5,7 @@ created: 1203904327
 category: drupal
 ---
 
-About <a href="http://tedserbinski.com/2007/05/20/ted-2-0-site-redesign">9 months ago I redesigned this blog</a> unveiling the black & blue theme (<a href="http://www.flickr.com/photos/tedserbinski/2288777975/">picture 1</a> & <a href="http://www.flickr.com/photos/tedserbinski/2289567644/">picture 2</a>). For a while the redesign was great and reflected my current state of mind--the previous year had been a bit bumpy and the black & blue was to be symbolic of the "bruises" along the way.
+About <a href="http://tedserbinski.com/drupal/ted-2-0-a-site-redesign/">9 months ago I redesigned this blog</a> unveiling the black & blue theme. For a while the redesign was great and reflected my current state of mind--the previous year had been a bit bumpy and the black & blue was to be symbolic of the "bruises" along the way.
 
 With this new design, however, things are starting to blossom and I am entitling this new design "Spring Breeze" --- indicating a refreshing amount of new change coming in the next few months, which I will be blogging about in more detail when the time comes. Not to mention, I can't wait for the <a href="http://www.summitpoint-raceway.com/">tracks to reopen</a> :D
 

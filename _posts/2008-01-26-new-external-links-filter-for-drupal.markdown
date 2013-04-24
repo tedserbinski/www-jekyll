@@ -6,7 +6,7 @@ category: drupal
 ---
 <strong>Update: <a href="http://drupal.org/node/214805">version 2 has been released</a> that fixes some bugs and adds new features.</strong>
 
-More than a year ago, <a href="http://tedserbinski.com/2006/10/08/new_olf_module_released_from_sf">I released an outgoing links filter (OLF)</a> for Drupal. This module worked well and added a CSS class to outgoing links.
+More than a year ago, <a href="http://tedserbinski.com/drupal/new-olf-module-released-from-sf/">I released an outgoing links filter (OLF)</a> for Drupal. This module worked well and added a CSS class to outgoing links.
 
 However, I didn't touch the module for more than a year (it only worked in Drupal 4.7!) and it kind of faded away... until, today!
 

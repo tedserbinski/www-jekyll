@@ -6,7 +6,7 @@ category: drupal
 ---
 That's right, <a href="http://drupal.org/project/simplefeed">SimpleFeed</a>, the fastest and easiest to use feed parser for Drupal is finally stable and release worthy!
 
-A few months back (well half a year, but who's counting, it's been a busy summer / fall ;-)), <a href="http://tedserbinski.com/2007/04/19/simplefeed">I mentioned a release would be soon</a> but didn't realize it would take so long.
+A few months back (well half a year, but who's counting, it's been a busy summer / fall ;-)), <a href="http://tedserbinski.com/drupal/simplefeed-1-0-ships/">I mentioned a release would be soon</a> but didn't realize it would take so long.
 
 Anyways, here is the run down of the changes since then...
 

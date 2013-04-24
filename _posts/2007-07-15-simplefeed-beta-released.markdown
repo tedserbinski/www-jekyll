@@ -4,7 +4,7 @@ title: SimpleFeed beta released!
 created: 1184556342
 category: drupal
 ---
-So, ahem, <a href="http://tedserbinski.com/2007/04/19/simplefeed">my earlier post</a> was <em>slightly</em> off. A <a href="http://drupal.org/project/simplefeed">beta release of SimpleFeed</a> didn't come for nearly 3 months, doh! 
+So, ahem, <a href="http://tedserbinski.com/drupal/simplefeed-1-0-ships/">my earlier post</a> was <em>slightly</em> off. A <a href="http://drupal.org/project/simplefeed">beta release of SimpleFeed</a> didn't come for nearly 3 months, doh! 
 
 But the wait was worth it! The module is significantly faster now <em>(if it wasn't already the fastest Drupal feed parser to begin with)</em>. The leaky memory problem has been fixed, it was related to looping and not reseting the gigantic SimplePie object each time <em>(a result of <a href="http://bugs.php.net/bug.php?id=33595">this PHP bug</a>)</em>. The whole parsing process on the Drupal side has been optimized with robust duplicate checking now. Not only that, but feeds are only processed if they have actually changed, utilizing the ETag for that one. And numerous other bug fixes.
 

@@ -33,7 +33,7 @@ The goal of this theme is to take many of theming tricks I reuse on site after s
 * automatically adds META keywords if taxonomy exists on that node, [read more](http://searchengineland.com/070905-194221.php)
 * [better forum icons](http://drupal.org/node/102743#comment-664157)
 * [improve forum display and performance(http://www.sysarchitects.com/node/70)
-* prevents duplicate form submissions with jQuery, <a href="http://tedserbinski.com/2007/01/11/how_to_prevent_duplicate_posts">read more</a>
+* prevents duplicate form submissions with jQuery, <a href="http://tedserbinski.com/drupal/how-to-prevent-duplicate-posts/">read more</a>
 * shows the # of comments below a node since Drupal doesn't do this by default (usability)
 * highlight any comments by the author of the node
 * adds a "you need to login / register" box below all comments if you can't add a comment (usability)

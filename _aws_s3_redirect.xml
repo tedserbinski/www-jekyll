@@ -4,7 +4,7 @@
        <KeyPrefixEquals>taxonomy/term/17/0</KeyPrefixEquals>
     </Condition>
     <Redirect>
-      <ReplaceKeyPrefixWith>drupal-code.html</ReplaceKeyPrefixWith>
+      <ReplaceKeyPrefixWith>drupal-code.html/</ReplaceKeyPrefixWith>
     </Redirect>
   </RoutingRule>
   <RoutingRule>
@@ -12,7 +12,7 @@
        <KeyPrefixEquals>tags/drupal/creating-alpha-pager-with-views-2-and-drupal-6</KeyPrefixEquals>
     </Condition>
     <Redirect>
-      <ReplaceKeyPrefixWith>drupal/creating-an-alpha-pager-with-views-2-and-drupal-6</ReplaceKeyPrefixWith>
+      <ReplaceKeyPrefixWith>drupal/creating-an-alpha-pager-with-views-2-and-drupal-6/</ReplaceKeyPrefixWith>
     </Redirect>
   </RoutingRule>
   <RoutingRule>
@@ -20,7 +20,7 @@
        <KeyPrefixEquals>tags/drupal/preventing-drupal-handling-404s-performance</KeyPrefixEquals>
     </Condition>
     <Redirect>
-      <ReplaceKeyPrefixWith>drupal/preventing-drupal-from-handling-404s-for-performance</ReplaceKeyPrefixWith>
+      <ReplaceKeyPrefixWith>drupal/preventing-drupal-from-handling-404s-for-performance/</ReplaceKeyPrefixWith>
     </Redirect>
   </RoutingRule>
   <RoutingRule>
@@ -28,7 +28,7 @@
        <KeyPrefixEquals>tags/jquery/how-prevent-duplicate-posts</KeyPrefixEquals>
     </Condition>
     <Redirect>
-      <ReplaceKeyPrefixWith>drupal/how-to-prevent-duplicate-posts</ReplaceKeyPrefixWith>
+      <ReplaceKeyPrefixWith>drupal/how-to-prevent-duplicate-posts/</ReplaceKeyPrefixWith>
     </Redirect>
   </RoutingRule>
   <RoutingRule>
@@ -44,7 +44,7 @@
        <KeyPrefixEquals>tags/productivity/getting-things-done-david-allen-google</KeyPrefixEquals>
     </Condition>
     <Redirect>
-      <ReplaceKeyPrefixWith>getting-things-done-david-allen-at-google</ReplaceKeyPrefixWith>
+      <ReplaceKeyPrefixWith>getting-things-done-david-allen-at-google/</ReplaceKeyPrefixWith>
     </Redirect>
   </RoutingRule>
   <RoutingRule>
@@ -52,7 +52,7 @@
        <KeyPrefixEquals>tags/bmw/how-often-do-you-change-your-oil</KeyPrefixEquals>
     </Condition>
     <Redirect>
-      <ReplaceKeyPrefixWith>bmw/how-often-do-you-change-your-oil</ReplaceKeyPrefixWith>
+      <ReplaceKeyPrefixWith>bmw/how-often-do-you-change-your-oil/</ReplaceKeyPrefixWith>
     </Redirect>
   </RoutingRule>
   <RoutingRule>
@@ -60,7 +60,7 @@
        <KeyPrefixEquals>2006/06/17/top_tier_gasoline</KeyPrefixEquals>
     </Condition>
     <Redirect>
-      <ReplaceKeyPrefixWith>bmw/top-tier-gasoline</ReplaceKeyPrefixWith>
+      <ReplaceKeyPrefixWith>bmw/top-tier-gasoline/</ReplaceKeyPrefixWith>
     </Redirect>
   </RoutingRule>
   <RoutingRule>
@@ -68,7 +68,7 @@
        <KeyPrefixEquals>tags/drupal/blueprint-drupal-theme-released</KeyPrefixEquals>
     </Condition>
     <Redirect>
-      <ReplaceKeyPrefixWith>drupal/blueprint-drupal-theme-released</ReplaceKeyPrefixWith>
+      <ReplaceKeyPrefixWith>drupal/blueprint-drupal-theme-released/</ReplaceKeyPrefixWith>
     </Redirect>
   </RoutingRule>
   <RoutingRule>
@@ -76,7 +76,7 @@
        <KeyPrefixEquals>tags/css/website-crashes-ie8-browser-sysfaderexe-exception</KeyPrefixEquals>
     </Condition>
     <Redirect>
-      <ReplaceKeyPrefixWith>drupal/website-crashes-ie8-browser-with-sysfader-exe-exception</ReplaceKeyPrefixWith>
+      <ReplaceKeyPrefixWith>drupal/website-crashes-ie8-browser-with-sysfader-exe-exception/</ReplaceKeyPrefixWith>
     </Redirect>
   </RoutingRule>
   <RoutingRule>
@@ -84,7 +84,7 @@
        <KeyPrefixEquals>2007/08/04/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-1</KeyPrefixEquals>
     </Condition>
     <Redirect>
-      <ReplaceKeyPrefixWith>bmw/rebuilding-a-bmw-intake-s52-to-m50-intake-manifold-conversion-day-1</ReplaceKeyPrefixWith>
+      <ReplaceKeyPrefixWith>bmw/rebuilding-a-bmw-intake-s52-to-m50-intake-manifold-conversion-day-1/</ReplaceKeyPrefixWith>
     </Redirect>
   </RoutingRule>
   <RoutingRule>
@@ -92,7 +92,7 @@
        <KeyPrefixEquals>2007/08/11/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-2</KeyPrefixEquals>
     </Condition>
     <Redirect>
-      <ReplaceKeyPrefixWith>bmw/rebuilding-a-bmw-intake-s52-to-m50-intake-manifold-conversion-day-2</ReplaceKeyPrefixWith>
+      <ReplaceKeyPrefixWith>bmw/rebuilding-a-bmw-intake-s52-to-m50-intake-manifold-conversion-day-2/</ReplaceKeyPrefixWith>
     </Redirect>
   </RoutingRule>
   <RoutingRule>
@@ -100,7 +100,7 @@
        <KeyPrefixEquals>2007/08/17/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-3</KeyPrefixEquals>
     </Condition>
     <Redirect>
-      <ReplaceKeyPrefixWith>bmw/rebuilding-a-bmw-intake-s52-to-m50-intake-manifold-conversion-day-3</ReplaceKeyPrefixWith>
+      <ReplaceKeyPrefixWith>bmw/rebuilding-a-bmw-intake-s52-to-m50-intake-manifold-conversion-day-3/</ReplaceKeyPrefixWith>
     </Redirect>
   </RoutingRule>
   <RoutingRule>
@@ -108,7 +108,7 @@
        <KeyPrefixEquals>2007/08/18/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-4</KeyPrefixEquals>
     </Condition>
     <Redirect>
-      <ReplaceKeyPrefixWith>bmw/rebuilding-a-bmw-intake-s52-to-m50-intake-manifold-conversion-day-4</ReplaceKeyPrefixWith>
+      <ReplaceKeyPrefixWith>bmw/rebuilding-a-bmw-intake-s52-to-m50-intake-manifold-conversion-day-4/</ReplaceKeyPrefixWith>
     </Redirect>
   </RoutingRule>
   <RoutingRule>
@@ -116,7 +116,7 @@
        <KeyPrefixEquals>2007/08/23/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-5</KeyPrefixEquals>
     </Condition>
     <Redirect>
-      <ReplaceKeyPrefixWith>bmw/rebuilding-a-bmw-intake-s52-to-m50-intake-manifold-conversion-day-5</ReplaceKeyPrefixWith>
+      <ReplaceKeyPrefixWith>bmw/rebuilding-a-bmw-intake-s52-to-m50-intake-manifold-conversion-day-5/</ReplaceKeyPrefixWith>
     </Redirect>
   </RoutingRule>
   <RoutingRule>
@@ -124,7 +124,7 @@
        <KeyPrefixEquals>2007/08/30/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-6</KeyPrefixEquals>
     </Condition>
     <Redirect>
-      <ReplaceKeyPrefixWith>bmw/rebuilding-a-bmw-intake-s52-to-m50-intake-manifold-conversion-day-6</ReplaceKeyPrefixWith>
+      <ReplaceKeyPrefixWith>bmw/rebuilding-a-bmw-intake-s52-to-m50-intake-manifold-conversion-day-6/</ReplaceKeyPrefixWith>
     </Redirect>
   </RoutingRule>
   <RoutingRule>
@@ -132,7 +132,7 @@
        <KeyPrefixEquals>2007/08/31/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-list-parts</KeyPrefixEquals>
     </Condition>
     <Redirect>
-      <ReplaceKeyPrefixWith>bmw/rebuilding-a-bmw-intake-s52-to-m50-intake-manifold-conversion-a-list-of-parts</ReplaceKeyPrefixWith>
+      <ReplaceKeyPrefixWith>bmw/rebuilding-a-bmw-intake-s52-to-m50-intake-manifold-conversion-a-list-of-parts/</ReplaceKeyPrefixWith>
     </Redirect>
   </RoutingRule>
   <RoutingRule>
@@ -140,7 +140,7 @@
        <KeyPrefixEquals>2007/09/17/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-7</KeyPrefixEquals>
     </Condition>
     <Redirect>
-      <ReplaceKeyPrefixWith>bmw/rebuilding-a-bmw-intake-s52-to-m50-intake-manifold-conversion-day-7</ReplaceKeyPrefixWith>
+      <ReplaceKeyPrefixWith>bmw/rebuilding-a-bmw-intake-s52-to-m50-intake-manifold-conversion-day-7/</ReplaceKeyPrefixWith>
     </Redirect>
   </RoutingRule>
   <RoutingRule>
@@ -148,7 +148,7 @@
        <KeyPrefixEquals>tags/drupal/automatically-extracting-tags-nodes</KeyPrefixEquals>
     </Condition>
     <Redirect>
-      <ReplaceKeyPrefixWith>drupal/automatically-extracting-tags-from-nodes</ReplaceKeyPrefixWith>
+      <ReplaceKeyPrefixWith>drupal/automatically-extracting-tags-from-nodes/</ReplaceKeyPrefixWith>
     </Redirect>
   </RoutingRule>
   <RoutingRule>
@@ -156,7 +156,7 @@
        <KeyPrefixEquals>tags/drupal/getting-drupal-play-nice-your-cdn</KeyPrefixEquals>
     </Condition>
     <Redirect>
-      <ReplaceKeyPrefixWith>drupal/getting-drupal-to-play-nice-with-your-cdn</ReplaceKeyPrefixWith>
+      <ReplaceKeyPrefixWith>drupal/getting-drupal-to-play-nice-with-your-cdn/</ReplaceKeyPrefixWith>
     </Redirect>
   </RoutingRule>
   <RoutingRule>
@@ -164,7 +164,7 @@
        <KeyPrefixEquals>tags/parentsclick/hot-swapping-drupal-themes</KeyPrefixEquals>
     </Condition>
     <Redirect>
-      <ReplaceKeyPrefixWith>drupal/hot-swapping-of-drupal-themes</ReplaceKeyPrefixWith>
+      <ReplaceKeyPrefixWith>drupal/hot-swapping-of-drupal-themes/</ReplaceKeyPrefixWith>
     </Redirect>
   </RoutingRule>
 </RoutingRules>  

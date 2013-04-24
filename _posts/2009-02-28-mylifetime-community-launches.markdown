@@ -6,7 +6,7 @@ category: drupal
 ---
 Recently, the new <a href="http://community.mylifetime.com/">myLifetime Community</a> launched and it has been an overwhelming success. With members joining at such a fast rate, it'll soon be surging past 100,000 <a href="http://community.mylifetime.com/community/members">registered members</a>.
 
-This site is separate from the main <a href="http://www.mylifetime.com">myLifetime site</a> (which also is Drupal) and was built to be powered by the <a href="http://www.mothersclick.com">MothersClick community platform</a> which  <a href="http://tedserbinski.com/tags/parentsclick-network/mothersclick-acquired-lifetime-networks">Lifetime acquired last year</a>. This new community website was built upon the new version of our community platform, which now has Drupal 6 at it's core. 
+This site is separate from the main <a href="http://www.mylifetime.com">myLifetime site</a> (which also is Drupal) and was built to be powered by the <a href="http://www.mothersclick.com">MothersClick community platform</a> which  <a href="http://tedserbinski.com/mothersclick-acquired-by-lifetime-networks/">Lifetime acquired last year</a>. This new community website was built upon the new version of our community platform, which now has Drupal 6 at it's core. 
 
 While we've been quietly working on this new platform, we've been brewing up and improving some great APIs in the Drupal community, all of which we consider to be necessities for building rich, online communities with Drupal. Without further ado, here's a top sampling of where our efforts have been focused:
 

@@ -5,7 +5,7 @@ created: 1203961293
 category: drupal
 ---
 
-When I redesign my blog, I like to release the previous theme out into the open for anyone to make use of. I did this last year with the <a href="http://tedserbinski.com/2007/06/22/orange-mint-drupal-theme-download">Orange Mint theme release</a> and it worked out well.
+When I redesign my blog, I like to release the previous theme out into the open for anyone to make use of. I did this last year with the <a href="http://tedserbinski.com/drupal/orange-mint-drupal-theme-for-download/">Orange Mint theme release</a> and it worked out well.
 
 Attached below is a zip file of my "Black & Blue" Drupal theme. The code is licensed under the GPL so you are free to do with it as you wish. I just ask that you link back to my blog if you make use of it :)
 

@@ -193,7 +193,7 @@ description: Ted invests, advises, and sits on the boards of numerous tech start
   <a class="pull-left" href="http://www.frankelfund.com"><img class="media-object" src="{% asset_path frankel-fund-logo.png %}" width="104" height="64"></a>
   <div class="media-body">
     <h4 class="media-heading"><a href="http://www.frankelfund.com">Frankel Commercialization Fund</a></h4>
-    <p>The Frankel Commercialization Fund (FCF) is a pre-seed investment fund established to identify and accelerate the commercialization of ideas generated within the University of Michigan and greater Michigan area.</p>
+    <p>The Frankel Commercialization Fund (FCF) is a pre-seed investment fund established to identify and accelerate the commercialization of ideas generated within the University of Michigan and greater Michigan area. Currently, it is the only early stage commercialization fund at a major university in the US.</p>
     <p><i>Advisor, Consumer Team</i></p>
   </div>
 </div>  
