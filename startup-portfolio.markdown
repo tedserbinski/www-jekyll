@@ -65,9 +65,9 @@ description: Ted invests, advises, and sits on the boards of numerous tech start
     <hr>
     
     <div class="media">
-      <a class="pull-left" href="#"><img class="media-object" src="{% asset_path rockbot-logo.png %}" width="104" height="64"></a>
+      <a class="pull-left" href="http://rockbot.com/"><img class="media-object" src="{% asset_path rockbot-logo.png %}" width="104" height="64"></a>
       <div class="media-body">
-        <h4 class="media-heading"><a href="">Rockbot</a></h4>
+        <h4 class="media-heading"><a href="http://rockbot.com/">Rockbot</a></h4>
         <p>Changing how venues and customers listen to music at out-of-home venues.</p>
         <p><i>Lead Investor, Board observer, Sourced deal</i></p>
       </div>
@@ -76,9 +76,9 @@ description: Ted invests, advises, and sits on the boards of numerous tech start
     <hr>
     
     <div class="media">
-      <a class="pull-left" href="#"><img class="media-object" src="{% asset_path sociocast-logo.png %}" width="104" height="64"></a>
+      <a class="pull-left" href="http://www.sociocast.com/"><img class="media-object" src="{% asset_path sociocast-logo.png %}" width="104" height="64"></a>
       <div class="media-body">
-        <h4 class="media-heading"><a href="">Sociocast</a></h4>
+        <h4 class="media-heading"><a href="http://www.sociocast.com/">Sociocast</a></h4>
         <p>Developed the best-performing predictive analytics platform.</p>
         <p><i>Lead Investor, Board observer</i></p>
       </div>
@@ -87,9 +87,9 @@ description: Ted invests, advises, and sits on the boards of numerous tech start
     <hr>
     
     <div class="media">
-      <a class="pull-left" href="#"><img class="media-object" src="{% asset_path upto-logo.png %}" width="104" height="64"></a>
+      <a class="pull-left" href="http://upto.com/"><img class="media-object" src="{% asset_path upto-logo.png %}" width="104" height="64"></a>
       <div class="media-body">
-        <h4 class="media-heading"><a href="">UpTo</a></h4>
+        <h4 class="media-heading"><a href="http://upto.com/">UpTo</a></h4>
         <p>Doing to the calendar what Instagram did to the camera.</p>
         <p><i>Lead Investor, Board member</i></p>
       </div>
