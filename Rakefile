@@ -1,4 +1,5 @@
 require 'rubygems'
+require 'highline/import'
 require 'bundler/setup'
 
 Bundler.require
@@ -26,7 +27,7 @@ end
 
 
 
-# Usage: rake post title="A Title" [date="2012-02-09"] [tags=[tag1, tag2]]
+# Usage: rake new title="A Title" [date="2012-02-09"] [tags=[tag1, tag2]]
 desc "create new post"
 task :new do
   title = ENV["title"] || "New Post Title"
