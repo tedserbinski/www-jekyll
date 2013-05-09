@@ -58,7 +58,7 @@ Ted is also a [3rd degree Knight of Columbus](http://en.wikipedia.org/wiki/Knigh
 <h3>About this Site</h3>
 
 #### Code
-* Hand made in Detroit with [Sublime](http://www.sublimetext.com) and a touch of <a href="http://panic.com/coda/">Coda</a>
+* Hand made in Detroit with [Sublime](http://www.sublimetext.com) ([great Sublime setup docs here](http://blog.alexmaccaw.com/sublime-text)and [tutorial here](https://tutsplus.com/course/improve-workflow-in-sublime-text-2/)) and a touch of <a href="http://panic.com/coda/">Coda</a>
 * Blog posts written with [Ulysses](http://www.ulyssesapp.com/)
 * Powered by [Jekyll](http://jekyllrb.com/)
 * Hosted on [Amazon S3](http://tedserbinski.com/how-to-host-your-static-website-on-amazon-s3-step-by-step-guide/)

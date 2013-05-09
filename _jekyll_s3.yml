@@ -4,7 +4,7 @@ max_age:
   "assets/*": 314496000
   "*.html": 43200
   "*": 86400
-  
+
 gzip: true
 gzip:
   - .html
