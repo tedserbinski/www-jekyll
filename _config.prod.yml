@@ -27,7 +27,7 @@ assets:
     - _assets/css
     - _assets/img
     - _assets/img/posts
-    - _assets/img/portfolio-logos    
+    - _assets/img/portfolio-logos
   compress:
     js: uglifier
     css: yui

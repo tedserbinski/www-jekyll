@@ -19,11 +19,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     {% if page.pageid != 'home' %}
     <meta property="og:type" content="article">
-    <meta property="og:site_name" content="Ted Serbinski">    
+    <meta property="og:site_name" content="Ted Serbinski">
     <meta property="og:title" content="{{ page.title }}">
     <meta property="og:url" content="http://tedserbinski.com{{ page.url }}">
     {% if desc != '' %}<meta name="og:description" content="{{ desc | truncate:200 }}">{% endif %}
-    {% endif %}      
+    {% endif %}
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@tedserbinski">
     <meta name="twitter:creator" content="@tedserbinski">
@@ -38,7 +38,7 @@
         };
         var h=document.getElementsByTagName("html")[0];h.className+=" wf-loading";var t=setTimeout(function(){h.className=h.className.replace(/(\s|^)wf-loading(\s|$)/g," ");h.className+=" wf-inactive"},config.scriptTimeout);var tk=document.createElement("script"),d=false;tk.src='//use.typekit.net/'+config.kitId+'.js';tk.type="text/javascript";tk.async="true";tk.onload=tk.onreadystatechange=function(){var a=this.readyState;if(d||a&&a!="complete"&&a!="loaded")return;d=true;clearTimeout(t);try{Typekit.load(config)}catch(b){}};var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(tk,s)
       })();
-      
+
       function newsletter() {
         var width=540, height=648;
         var a = typeof window.screenX != 'undefined' ? window.screenX : window.screenLeft;
@@ -50,10 +50,10 @@
         var top = parseInt(i + ((f-height) / 2.5), 10);
         var params = 'width='+width+',height='+height+',left=' + left + ',top=' + top + ',scrollbars=0,location=1,toolbar=0';
         return window.open('https://tinyletter.com/tedserbinski', 'popupwindow', params);
-      }  
+      }
     </script>
-    {% stylesheet main.css %}
-    <link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/tedserbinski-blog">        
+    {% stylesheet main %}
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/tedserbinski-blog">
     <link rel="shortcut icon" href="{% asset_path favicon.png %}">
     <link rel="canonical" href="http://tedserbinski.com{{ page.url | remove: 'index.html' }}">
     <link type="text/plain" rel="author" href="http://tedserbinski.com/humans.txt">
@@ -66,7 +66,7 @@
   <body {% if page.pageid %} id="page-{{page.pageid}}"{% endif %}>
 
     {{ content }}
-    
+
     <footer id="footer">
       <div class="container-fluid">
         <p class="muted credit">
@@ -80,13 +80,13 @@
       var _gaq = _gaq || [];
       _gaq.push(['_setAccount', 'UA-361873-1']);
       _gaq.push(['_trackPageview']);
-    
+
       (function() {
         var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
         ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
       })();
-    </script>  
-    {% endif %}  
+    </script>
+    {% endif %}
   </body>
 </html>

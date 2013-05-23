@@ -15,6 +15,8 @@ Connect the dots. Chicago, through Ann Arbor to Detroit, down through Cleveland 
 
 A perfect 5-point diamond… well if drawn by a 5-year old, but you get the point.
 
+Notice, Detroit is at the tip of this diamond, not a coincidence.
+
 So what’s special about this geography? Here’s some juicy stats:
 
 - **8 of the 25 entrepreneurial colleges** (Entreprenuer Magazine)

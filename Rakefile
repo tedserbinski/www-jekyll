@@ -22,7 +22,7 @@ end
 
 desc 're-generate site and upload to S3'
 task :publish do
-  sh 'rm -rf _site ; image_optim -r * ; jekyll build --lsi --config=_config.prod.yml; jekyll-s3 --headless ;'
+  sh 'rm -rf _site ; image_optim -r *.{jpg,png,gif} ; jekyll build --lsi --config=_config.prod.yml; jekyll-s3 --headless ;'
 end
 
 
@@ -45,7 +45,7 @@ task :new do
   if File.exist?(filename)
     abort("rake aborted!") if ask("#{filename} already exists. Do you want to overwrite?", ['y', 'n']) == 'n'
   end
-  
+
   puts "Creating new post: #{filename}"
   File.open(filename, 'w') do |post|
     post.puts "---"
