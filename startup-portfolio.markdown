@@ -2,7 +2,7 @@
 layout: page
 pageid: portfolio
 title: Startup Portfolio
-description: Ted invests, advises, and sits on the boards of numerous tech startups, funds, and organizations. He's currently Vice President at Detroit Venture Partners.
+description: Ted invests, advises, and sits on the boards of numerous tech startups, funds, and organizations. He's currently a Partner at Detroit Venture Partners.
 ---
 
 <hr>
@@ -15,31 +15,31 @@ description: Ted invests, advises, and sits on the boards of numerous tech start
   <a class="pull-left" href="http://detroitventurepartners.com/"><img class="media-object" src="{% asset_path detroit-venture-partners-logo.png %}" width="104" height="64"></a>
   <div class="media-body">
     <h4 class="media-heading"><a href="http://detroitventurepartners.com/">Detroit Venture Partners</a></h4>
-    <i>Vice President</i>
+    <i>Partner</i>
     <p>I'm part of the founding investment team at Detroit Venture Partners (DVP) where we invest in early-stage software with a regional focus in the Midwest, specifically in Detroit and Cincinnati/Cleveland.</p>
-    
+
     <hr>
-    
+
     <div class="media">
       <a class="pull-left" href="http://areyouahuman.com/"><img class="media-object" src="{% asset_path are-you-a-human-logo.png %}" width="104" height="64"></a>
       <div class="media-body">
         <h4 class="media-heading"><a href="http://areyouahuman.com/">Are You a Human</a></h4>
         <p>Developed a new, native ad unit with gaming technology. Currently the #1 preferred alternative CAPTCHA.</p>
-        <p><i>Lead Investor, Board member</i></p>        
+        <p><i>Lead Investor, Board member</i></p>
       </div>
     </div>
-    
+
     <hr>
-    
+
     <div class="media">
       <a class="pull-left" href="http://chalkfly.com/"><img class="media-object" src="{% asset_path chalkfly-logo.png %}" width="104" height="64"></a>
       <div class="media-body">
         <h4 class="media-heading"><a href="http://chalkfly.com/">Chalkfly</a></h4>
         <p>Disruptive, online e-commerce startup tackling the office and janitorial supplies industry.</p>
-        <p><i>Lead Investor, Board member</i></p>         
+        <p><i>Lead Investor, Board member</i></p>
       </div>
     </div>
-    
+
     <hr>
 
     <div class="media">
@@ -50,20 +50,20 @@ description: Ted invests, advises, and sits on the boards of numerous tech start
         <p><i>Investor, Board observer</i></p>
       </div>
     </div>
-    
+
     <hr>
-    
+
     <div class="media">
       <a class="pull-left" href="http://www.marxentlabs.com/"><img class="media-object" src="{% asset_path marxent-logo.png %}" width="104" height="64"></a>
       <div class="media-body">
         <h4 class="media-heading"><a href="http://www.marxentlabs.com/">Marxent</a></h4>
         <p>Revolutionizing interaction with print catalogs, adding e-commerce mobile integration.</p>
-        <p><i>Lead Investor, Board member</i></p> 
+        <p><i>Lead Investor, Board member</i></p>
       </div>
     </div>
-    
+
     <hr>
-    
+
     <div class="media">
       <a class="pull-left" href="http://rockbot.com/"><img class="media-object" src="{% asset_path rockbot-logo.png %}" width="104" height="64"></a>
       <div class="media-body">
@@ -72,9 +72,9 @@ description: Ted invests, advises, and sits on the boards of numerous tech start
         <p><i>Lead Investor, Board observer, Sourced deal</i></p>
       </div>
     </div>
-    
+
     <hr>
-    
+
     <div class="media">
       <a class="pull-left" href="http://www.sociocast.com/"><img class="media-object" src="{% asset_path sociocast-logo.png %}" width="104" height="64"></a>
       <div class="media-body">
@@ -83,9 +83,9 @@ description: Ted invests, advises, and sits on the boards of numerous tech start
         <p><i>Lead Investor, Board observer</i></p>
       </div>
     </div>
-    
+
     <hr>
-    
+
     <div class="media">
       <a class="pull-left" href="http://upto.com/"><img class="media-object" src="{% asset_path upto-logo.png %}" width="104" height="64"></a>
       <div class="media-body">
@@ -93,7 +93,7 @@ description: Ted invests, advises, and sits on the boards of numerous tech start
         <p>Doing to the calendar what Instagram did to the camera.</p>
         <p><i>Lead Investor, Board member</i></p>
       </div>
-    </div>                
+    </div>
 
   </div>
 </div>
@@ -106,7 +106,7 @@ description: Ted invests, advises, and sits on the boards of numerous tech start
     <h4 class="media-heading"><a href="http://stansonventures.com/">Stanson Ventures</a></h4>
     <i>Managing Partner &amp; Founder</i>
     <p>Seed stage software fund with a focus on being the first investment and mentorship into a startup.</p>
-    
+
     <hr>
 
     <div class="media">
@@ -117,9 +117,9 @@ description: Ted invests, advises, and sits on the boards of numerous tech start
         <p><i>Lead Seed Investor, Board Member, Interim-CEO, Sourced deal</i></p>
       </div>
     </div>
-    
+
     <hr>
-    
+
     <div class="media">
       <a class="pull-left" href="http://www.graphscience.com/"><img class="media-object" src="{% asset_path graphscience-logo.png %}" width="104" height="64"></a>
       <div class="media-body">
@@ -128,9 +128,9 @@ description: Ted invests, advises, and sits on the boards of numerous tech start
         <p><i>Lead Seed Investor, Board Member, Sourced deal</i></p>
       </div>
     </div>
-    
+
     <hr>
-    
+
     <div class="media">
       <a class="pull-left" href="http://www.crowdmob.com/"><img class="media-object" src="{% asset_path crowdmob-logo.png %}" width="104" height="64"></a>
       <div class="media-body">
@@ -139,7 +139,7 @@ description: Ted invests, advises, and sits on the boards of numerous tech start
         <p><i>Founding Angel Investor, Sourced deal</i></p>
       </div>
     </div>
-    
+
     <hr>
 
     <div class="media">
@@ -150,9 +150,9 @@ description: Ted invests, advises, and sits on the boards of numerous tech start
         <p><i>Advisor, Sourced deal</i></p>
       </div>
     </div>
-    
+
     <hr>
-    
+
     <div class="media">
       <a class="pull-left" href="http://www.rentmethod.com/"><img class="media-object" src="{% asset_path rentmethod-logo.png %}" width="104" height="64"></a>
       <div class="media-body">
@@ -160,7 +160,7 @@ description: Ted invests, advises, and sits on the boards of numerous tech start
         <p>Disrupting the rental market by leveraging on-demand leasing agents.</p>
         <p><i>Founding Advisor, Sourced deal</i></p>
       </div>
-    </div>    
+    </div>
 
   </div>
 </div>
@@ -175,7 +175,7 @@ description: Ted invests, advises, and sits on the boards of numerous tech start
     <p><i>Mentor</i></p>
   </div>
 </div>
-    
+
 <hr>
 
 <div class="media">
@@ -185,8 +185,8 @@ description: Ted invests, advises, and sits on the boards of numerous tech start
     <p>Accelerates economic growth in Detroit by growing strong businesses and driving regional collaboration.</p>
     <p><i>Board Member, Executive &amp; Investment Committees</i></p>
   </div>
-</div>  
-    
+</div>
+
 <hr>
 
 <div class="media">
@@ -196,6 +196,6 @@ description: Ted invests, advises, and sits on the boards of numerous tech start
     <p>The Frankel Commercialization Fund (FCF) is a pre-seed investment fund established to identify and accelerate the commercialization of ideas generated within the University of Michigan and greater Michigan area. Currently, it is the only early stage commercialization fund at a major university in the US.</p>
     <p><i>Advisor, Consumer Team</i></p>
   </div>
-</div>  
+</div>
 
 <small>Last updated by Ted Serbinski on April 7, 2013</small>

@@ -2,14 +2,14 @@
 layout: page
 pageid: about
 title: "The Midwestern VC"
-description: "Ted Serbinski is a Vice President at Detroit Venture Partners, entrepreneur and open source hacker rebuilding Detroit."
+description: "Ted Serbinski is a Partner at Detroit Venture Partners, entrepreneur and open source hacker rebuilding Detroit."
 ---
 
 <h3>Hi, I'm Ted Serbinski</h3>
 
 * I'm an <span class="hl">early stage software VC, successful tech entrepreneur, open source hacker</span>, and knowledgable mentor
 * I am widely <span class="hl">regarded as one of the most influential, emerging venture technology partners in the Midwest</span> and a key player leading the startup renaissance in Detroit
-* In 2011, I relocated to Detroit from San Francisco, joining Detroit Venture Partners as Vice President, after having [co-founded and sold ParentsClick to Lifetime Television in 2008](http://paidcontent.org/2008/08/27/419-lifetime-networks-acquires-parentsclick-network-first-digital-acquisiti/)
+* In 2011, I relocated to Detroit from San Francisco, joining Detroit Venture Partners as Partner, after having [co-founded and sold ParentsClick to Lifetime Television in 2008](http://paidcontent.org/2008/08/27/419-lifetime-networks-acquires-parentsclick-network-first-digital-acquisiti/)
 * I've been a <span class="hl">founding or 1st institutional investor</span> in more than a dozen startups, nearly always getting involved at the company inception phase
 * I am <span class="hl">internationally recognized web architect</span> that has been building websites for 15+ years, including <span class="hl">8 years as a lead, open source developer</span> for <a href="http://drupal.org">Drupal</a>
 * I earned a Bachelor of Science in Computer Engineering from Cornell University
@@ -32,7 +32,7 @@ description: "Ted Serbinski is a Vice President at Detroit Venture Partners, ent
 <h3>The Extended Bio</h3>
 <h4>Investor</h4>
 
-Ted Serbinski is the <span class="hl">Vice President at [Detroit Venture Partners](http://detroitventurepartners.com)</span>, where he leads investments in early stage software companies. Recently, he relocated from San Francisco to Metropolitan Detroit with his newlywed wife to help form and found a blossoming startup ecosystem through his roles as seed-stage investor and mentor.
+Ted Serbinski is a <span class="hl">Partner at [Detroit Venture Partners](http://detroitventurepartners.com)</span>, where he leads investments in early stage software companies. Recently, he relocated from San Francisco to Metropolitan Detroit with his newlywed wife to help form and found a blossoming startup ecosystem through his roles as seed-stage investor and mentor.
 
 Currently, he <span class="hl">sits on the boards</span> of Are You a Human, Detroit Labs, Marxent Labs, Sociocast, UpTo, Chalkfly, and TechTown and is an advisor to the [Brandery](http://brandery.org/) and the Frankel Commercialization Fund at University of Michigan.
 
