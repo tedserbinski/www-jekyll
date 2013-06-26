@@ -1,11 +1,11 @@
---- 
+---
 layout: post
 title: "Rebuilding a BMW intake: S52 to M50 intake manifold conversion, day 6"
 created: 1188494855
 category: bmw
 ---
-<em>Coming to you live from my parents garage in this 7 part series, are the chronicled adventures my dad and myself had converting an S52 intake manifold to the larger M50 intake manifold. 
-<a href="http://tedserbinski.com/2007/08/04/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-1/">Day 1</a>&nbsp;&nbsp;&nbsp; <a href="http://tedserbinski.com/2007/08/11/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-2/">Day 2</a>&nbsp;&nbsp;&nbsp; <a href="http://tedserbinski.com/2007/08/17/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-3/">Day 3</a>&nbsp;&nbsp;&nbsp; <a href="http://tedserbinski.com/2007/08/18/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-4/">Day 4</a>&nbsp;&nbsp;&nbsp; <a href="http://tedserbinski.com/2007/08/23/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-5/">Day 5</a>&nbsp;&nbsp;&nbsp; <a href="http://tedserbinski.com/2007/08/30/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-6/">Day 6</a>&nbsp;&nbsp;&nbsp; <a href="http://tedserbinski.com/2007/08/31/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-list-parts/">List of parts</a>&nbsp;&nbsp;&nbsp; <a href="http://tedserbinski.com/2007/09/17/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-7/">Day 7</a></em>
+<em>Coming to you live from my parents garage in this 7 part series, are the chronicled adventures my dad and myself had converting an S52 intake manifold to the larger M50 intake manifold.
+<a href="http://tedserbinski.com/2007/08/04/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-1">Day 1</a>&nbsp;&nbsp;&nbsp; <a href="http://tedserbinski.com/2007/08/11/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-2">Day 2</a>&nbsp;&nbsp;&nbsp; <a href="http://tedserbinski.com/2007/08/17/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-3">Day 3</a>&nbsp;&nbsp;&nbsp; <a href="http://tedserbinski.com/2007/08/18/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-4">Day 4</a>&nbsp;&nbsp;&nbsp; <a href="http://tedserbinski.com/2007/08/23/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-5">Day 5</a>&nbsp;&nbsp;&nbsp; <a href="http://tedserbinski.com/2007/08/30/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-6">Day 6</a>&nbsp;&nbsp;&nbsp; <a href="http://tedserbinski.com/2007/08/31/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-list-parts">List of parts</a>&nbsp;&nbsp;&nbsp; <a href="http://tedserbinski.com/2007/09/17/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-7">Day 7</a></em>
 
 With my car still running terribly (misfiring like crazy), I head down to <a href="http://martinmotorsportsinc.com/">Gary's shop</a> to see if he had any ideas.
 
@@ -13,7 +13,7 @@ Talking with him, he was pretty adamant about saying he no longer performs M50 c
 
 His first idea was the mass air flow sensor was bad--this was interesting, because this was my original thought many weeks ago before I decided to do the conversion in hopes of fixing a vacuum leak under the manifold (apparently replacing the manifold didn't help, doh!).
 
-So he brought out the diagnostics and we went over and had a look. We turned the car on and unplugged the MAF--that <em>should</em> have killed the engine because it would have detected no air entering, but instead the car still ran. Hmm... that was odd. 
+So he brought out the diagnostics and we went over and had a look. We turned the car on and unplugged the MAF--that <em>should</em> have killed the engine because it would have detected no air entering, but instead the car still ran. Hmm... that was odd.
 
 Then, we revved the engine a number of times and noticed something interesting--the MAF was reporting a <em>drop</em> in air levels, with full throttle!
 
@@ -23,7 +23,7 @@ But now the question is, has this been bad all along and been contributing to my
 
 Talking with a new mechanic at Gary's shop (former Porsche mechanic), he said yes this is likely. He explained that cold air intakes with their "reusable" filters are in fact, <em>not reusable</em>.  Using oil to clean this filters actually destroys them, opening up the pores and allowing particles 5x larger than normal to enter!
 
-This was confirmed by a filtration expert who worked at nuclear power plant and measured filters before and after oiling/cleaning. 
+This was confirmed by a filtration expert who worked at nuclear power plant and measured filters before and after oiling/cleaning.
 
 Turns out K&N knows this, but are obviously not going to pull these expensive filters off the market for obvious monetary reasons.
 
@@ -37,7 +37,7 @@ The rep went on to further explain that this was in response to loads of MAFs go
 
 So ahah!
 
-Could this has been my problem all along? 
+Could this has been my problem all along?
 
 Regardless, taking the intake off and replacing all of those hoses and reseating everything was certainly a great preventable maintenance.
 

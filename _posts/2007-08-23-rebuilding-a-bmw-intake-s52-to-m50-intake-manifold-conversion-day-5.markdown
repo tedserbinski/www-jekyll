@@ -1,11 +1,11 @@
---- 
+---
 layout: post
 title: "Rebuilding a BMW intake: S52 to M50 intake manifold conversion, day 5"
 created: 1187925195
 category: bmw
 ---
-<em>Coming to you live from my parents garage in this 7 part series, are the chronicled adventures my dad and myself had converting an S52 intake manifold to the larger M50 intake manifold. 
-<a href="http://tedserbinski.com/2007/08/04/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-1/">Day 1</a>&nbsp;&nbsp;&nbsp; <a href="http://tedserbinski.com/2007/08/11/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-2/">Day 2</a>&nbsp;&nbsp;&nbsp; <a href="http://tedserbinski.com/2007/08/17/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-3/">Day 3</a>&nbsp;&nbsp;&nbsp; <a href="http://tedserbinski.com/2007/08/18/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-4/">Day 4</a>&nbsp;&nbsp;&nbsp; <a href="http://tedserbinski.com/2007/08/23/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-5/">Day 5</a>&nbsp;&nbsp;&nbsp; <a href="http://tedserbinski.com/2007/08/30/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-6/">Day 6</a>&nbsp;&nbsp;&nbsp; <a href="http://tedserbinski.com/2007/08/31/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-list-parts/">List of parts</a>&nbsp;&nbsp;&nbsp; <a href="http://tedserbinski.com/2007/09/17/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-7/">Day 7</a></em>
+<em>Coming to you live from my parents garage in this 7 part series, are the chronicled adventures my dad and myself had converting an S52 intake manifold to the larger M50 intake manifold.
+<a href="http://tedserbinski.com/2007/08/04/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-1">Day 1</a>&nbsp;&nbsp;&nbsp; <a href="http://tedserbinski.com/2007/08/11/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-2">Day 2</a>&nbsp;&nbsp;&nbsp; <a href="http://tedserbinski.com/2007/08/17/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-3">Day 3</a>&nbsp;&nbsp;&nbsp; <a href="http://tedserbinski.com/2007/08/18/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-4">Day 4</a>&nbsp;&nbsp;&nbsp; <a href="http://tedserbinski.com/2007/08/23/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-5">Day 5</a>&nbsp;&nbsp;&nbsp; <a href="http://tedserbinski.com/2007/08/30/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-6">Day 6</a>&nbsp;&nbsp;&nbsp; <a href="http://tedserbinski.com/2007/08/31/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-list-parts">List of parts</a>&nbsp;&nbsp;&nbsp; <a href="http://tedserbinski.com/2007/09/17/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-7">Day 7</a></em>
 
 
 
@@ -19,13 +19,13 @@ With the new stud, I was able to put the valve cover back on and finish the valv
 
 At last, one part of the car was finished, now onto to the throttle and intake.
 
-With the manifold back on and most things connected, we still had one problem. The 2 major mounts on the manifold were not aligning anywhere near close the car mounts. 
+With the manifold back on and most things connected, we still had one problem. The 2 major mounts on the manifold were not aligning anywhere near close the car mounts.
 
 Back to our spare sheet metal, we "manufactured" some new mounts, which worked out pretty well.
 
 But now with the manifold mounted and most hoses connected, we realized a few hoses would not fit. Luckily we had some extra tubing we picked up and we cut a few pieces to make it fit. One particular one that was a bit odd was the idler control valve hose---we took a brand new OEM hose, cut off part of it, extended it, and then reattached it. Although a bit odd, this worked out really well, since otherwise it would not have fit at all because of the new mounting points.
 
-To improve the seal between the M50 manifold and the throttle---one of the most common places to have a vacuum leak in this conversion, we applied some gasket sealer to both gaskets (replaced both gaskets with brand new ones too). 
+To improve the seal between the M50 manifold and the throttle---one of the most common places to have a vacuum leak in this conversion, we applied some gasket sealer to both gaskets (replaced both gaskets with brand new ones too).
 
 Next up was remounting the air temp sensor. The KO directions called for a 1/8" hole but it turned out 1/4" was the magic number to <a href="http://www.flickr.com/photos/tedserbinski/1249711988/in/set-72157601244448485/">remount the air temperature sensor in the rubber boot</a>.
 
