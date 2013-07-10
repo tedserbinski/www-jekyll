@@ -75,7 +75,7 @@ Maximize the number of customers that use your product by maximizing their desir
 
 > Sell the benefits, not the features
 
-Do you have great messaging around the benefits of your startup product or service? Share below in a comment.
+Do you have great messaging around the benefits of your startup product or service? <a href="http://tedserbinski.com/the-number-1-marketing-tip-your-startup-needs-to-know/#comments">Leave a comment to share with others</a>.
 
 [image-1]: {% asset_path hammer-two-dot-o.png %} "Hammer 2.0"
 [image-2]: {% asset_path lightweight-visible-low-shock-hammer.png %} "Lightweight, visible, low-shock Hammer"
