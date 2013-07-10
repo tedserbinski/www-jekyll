@@ -22,7 +22,7 @@ end
 
 desc 're-generate site and upload to S3'
 task :publish do
-  sh 'rm -rf _site ; image_optim -r _assets/img/posts/ ; jekyll build --lsi --config=_config.prod.yml; s3_website push --headless ;'
+  sh 'rm -rf _site ; jekyll build --lsi --config=_config.prod.yml; s3_website push --headless ;'
 end
 
 

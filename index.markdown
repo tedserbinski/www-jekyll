@@ -9,7 +9,7 @@ description: "Startup lessons from an entreprenuer and open source hacker, turne
   <div class="span5 offset1">
     <h3>&raquo; New here? <small>Start with my best posts</small></h3>
     <ul class="posts unstyled">
-    {% for post in site.tags.top limit:5 %}    
+    {% for post in site.tags.top limit:5 %}
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
     </ul>
@@ -17,10 +17,10 @@ description: "Startup lessons from an entreprenuer and open source hacker, turne
   <div class="span5 offset1">
     <h3>&raquo; Back again? <small>Here's the latest</small></h3>
     <ul class="posts unstyled">
-    {% for post in site.posts limit:5 %}    
+    {% for post in site.posts limit:5 %}
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
-    </ul>       
+    </ul>
   </div>
 </div>
 
@@ -37,12 +37,12 @@ description: "Startup lessons from an entreprenuer and open source hacker, turne
           <input class="span3" type="email" placeholder="your@email.com" required name="email" id="tlemail">
           <input type="hidden" value="1" name="embed"/>
           <button class="btn btn-success" type="submit">Sign Up</button>
-          </form>  
+          </form>
         </div>
       </div>
       <div class="span4">
-        <div class="twitter"><a href="https://twitter.com/tedserbinski" class="twitter-follow-button" data-show-count="true" data-size="large">Follow @tedserbinski</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="http://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>  
-      </div>            
+        <div class="twitter"><a href="https://twitter.com/tedserbinski" class="twitter-follow-button" data-show-count="true" data-size="large">Follow @tedserbinski</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="http://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
+      </div>
     </div>
   </div>
 </div>

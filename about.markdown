@@ -2,7 +2,7 @@
 layout: page
 pageid: about
 title: "The Midwestern VC"
-description: "Ted Serbinski is a Partner at Detroit Venture Partners, entrepreneur and open source hacker rebuilding Detroit."
+description: "Ted Serbinski is a Partner at Detroit Venture Partners. He's an entrepreneur and open source hacker rebuilding Detroit."
 ---
 
 <h3>Hi, I'm Ted Serbinski</h3>
