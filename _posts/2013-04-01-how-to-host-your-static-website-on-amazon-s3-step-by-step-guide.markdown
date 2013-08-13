@@ -1,8 +1,8 @@
---- 
+---
 layout: post
 title: "How to Host Your Static Website on Amazon S3: Step-by-Step Guide"
 date: 2013-04-01 22:29:50 -0400
-tag: code
+tag: ["top", "code"]
 ---
 
 1. Login to your Amazon AWS account
@@ -55,4 +55,4 @@ tag: code
 12. Create a record set for this new bucket
 ![](https://www.evernote.com/shard/s2/sh/60493b19-1b3e-4c32-89b3-11dadef12c4d/0fdbaca5bcb2873ed8b760c8d48417eb/deep/0/Screenshot%204/1/13%2010:25%20PM.jpg)
 
-13. Upload content and enjoy! <a href="http://serbinskipromise.com">Serbinski Promise&trade;</a> 
+13. Upload content and enjoy! <a href="http://serbinskipromise.com">Serbinski Promise&trade;</a>

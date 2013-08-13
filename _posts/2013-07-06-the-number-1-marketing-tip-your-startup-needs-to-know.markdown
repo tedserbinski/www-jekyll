@@ -5,6 +5,8 @@ description: "Read on to learn the #1 marketing tip your startup needs to know."
 tags: ["52 Lessons"]
 ---
 
+<strong>Updated to include the new Samsung Galaxy S4 ads and how they compare to Apple's on August 12, 2013.</strong>
+
 So what's the #1 marketing tip your startup needs to know? Well, it is a tip that focuses on how to sell your startup product or service to customers (or investors!). And, it’s actually quite simple.
 
 > Sell the benefits, not the features
@@ -45,11 +47,23 @@ When you're comparing products on a shelf, do you go with the one with 6 clear b
 
 <hr>
 
-#### Apple shows the benefits of an iPhone
+### Apple vs. Samsung
+
+#### Apple shows the benefits of an iPhone 5
 
 No mention of features like camera, video, auto-focus, crop, apps, email, etc. Just benefits of those features in action.
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/jZGzXEExZcc?rel=0" frameborder="0" allowfullscreen></iframe>
+
+#### Samsung shows the benefits of a Galaxy S4
+
+Again, no mentions of specific features like a huge screen, touchless glass, or automatic video-photo conversion. Just the benefits, again, in action.
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/Q2TtdM4iI5k" frameborder="0" allowfullscreen></iframe>
+
+Which phone would you chose? Samsung makes an extremely compelling case. While Apple relays the benefits to the inner-photography, Samsung's approach appeals to the backyard, BBQ-ing American, which is, a much larger, more mainstream USA audience than Apple's approach.
+
+Benefits alone, Samsung Galaxy S4 wins hands down in this ad comparison.
 
 <hr>
 
