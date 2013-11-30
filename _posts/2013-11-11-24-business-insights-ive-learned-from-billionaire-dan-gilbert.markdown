@@ -5,7 +5,7 @@ description: "The top 24 business insights I've learned working alongside Dan Gi
 tags: ["52 Lessons"]
 ---
 
-[I moved to Detroit a little more than 2 years ago](http://localhost:4000/the-entrepreneurial-gold-rush-why-i-moved-from-san-francisco-to-detroit/), joining Detroit Venture Partners (DVP). While here, I've had the pleasure to work alongside billionaire Dan Gilbert, [#118 on the Forbes 400](http://www.forbes.com/profile/daniel-gilbert/), whose a General Partner in our fund.
+[I moved to Detroit a little more than 2 years ago](http://tedserbinski.com/the-entrepreneurial-gold-rush-why-i-moved-from-san-francisco-to-detroit/), joining Detroit Venture Partners (DVP). While here, I've had the pleasure to work alongside billionaire Dan Gilbert, [#118 on the Forbes 400](http://www.forbes.com/profile/daniel-gilbert/), whose a General Partner in our fund.
 
 Unbeknownst to me in working alongside Dan, was the profound nuggets of business wisdom I'd gather. Below are 24 of my favorite insights I've learned since I've been at DVP.
 
@@ -30,7 +30,7 @@ Keyword is *new* ideas. When sharing new ideas, the more people you share with, 
 
 ### 3. If you're going to think, think big.
 
-This is excellent advice. It's also the same [advice George Zachary told me a couple years back](http://localhost:4000/the-best-startup-advice-ive-ever-gotten/).
+This is excellent advice. It's also the same [advice George Zachary told me a couple years back](http://tedserbinski.com/the-best-startup-advice-ive-ever-gotten/).
 
 <hr>
 
@@ -129,7 +129,7 @@ Embarrassed, I went over to the a/v team, where they had someone out to get some
 
 Since that moment of oops, I've always had extra mics and batteries on hand.
 
-Also, being an Eagle Scout, it's shed new light on the Scout's motto: be prepared.
+Also, being an Eagle Scout, this incidence shed new light on the Scout's motto: be prepared. Lesson learned!
 
 ![Boy Scouts Motto: Be Prepared][image-5]
 
@@ -211,7 +211,7 @@ Dan was giving a talk when someone in the audience asked him, "If you were to st
 
 [Another Quicken Loans ISM](http://www.quickenloans.com/press-room/fast-facts/our-isms), and apropos to startups, ignore the noise is about cutting through the noise to drive results. Whether criticism, excuses, or simply bad luck, ignore the noise so you can focus on winning.
 
-Bonus points for the startups that ignore the noise from Techcrunch buzz, the startup party scene, and actually focus on actually building a business that creates value.
+Bonus points for the startups that ignore the noise from Techcrunch buzz, the startup party scene, and actually focus on building a business that creates value.
 
 <hr>
 
