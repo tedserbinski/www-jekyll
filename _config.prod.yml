@@ -1,22 +1,13 @@
-title : Ted Serbinski
+title: Ted Serbinski
 
 permalink: /:categories/:title/
 
-pygments: true
+markdown: kramdown
 
-markdown: redcarpet # https://github.com/vmg/redcarpet
+lsi: true
 
-redcarpet:
-  extensions:
-    - no_intra_emphasis
-    - fenced_code_blocks
-    - autolink
-    - strikethrough
-    - superscript
-    - smart
-    - tables
-    - with_toc_data
-
+kramdown:
+  input: GFM
 
 # configuration options https://github.com/ixti/jekyll-assets
 assets:
@@ -31,11 +22,9 @@ assets:
   js_compressor: uglifier
   css_compressor: yui
   cachebust: soft
-  gzip: false # use https://github.com/laurilehmijoki/jekyll-s3 for gzipping
+  gzip: false # use https://github.com/laurilehmijoki/s3_website for gzipping
 
 exclude:
-  - Gemfile
-  - Gemfile.lock
   - Rakefile
 
 prod: true

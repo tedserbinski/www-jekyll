@@ -1,30 +1,23 @@
 require 'rubygems'
 require 'highline/import'
-require 'bundler/setup'
-
-Bundler.require
-
 
 
 desc 'update all libaries'
 task :update do
-  sh 'rvm get stable; rvm gemset update; brew update; brew upgrade; gem update --system; gem update; bundle update'
+  sh 'brew update; brew upgrade; gem update --system; gem update;'
 end
-
 
 
 desc 'generate new site and launch server'
 task :preview do
-  sh 'rm -rf _site ; jekyll server --lsi --watch --config=_config.local.yml ;'
+  sh 'jekyll serve --watch --config=_config.local.yml ;'
 end
-
 
 
 desc 're-generate site and upload to S3'
 task :publish do
-  sh 'rm -rf _site ; jekyll build --lsi --config=_config.prod.yml; s3_website push --headless ;'
+  sh 'jekyll build --config=_config.prod.yml; s3_website push --headless ;'
 end
-
 
 
 # Usage: rake new title="A Title" [date="2012-02-09"] [tags=[tag1, tag2]]

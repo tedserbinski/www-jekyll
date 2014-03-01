@@ -13,6 +13,7 @@ gzip:
   - .txt
   - .xml
 
+extensionless_mime_type: text/html
 
 redirects:
   taxonomy/term/17/0: drupal-code.html/
