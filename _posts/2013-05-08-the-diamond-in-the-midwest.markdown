@@ -2,7 +2,7 @@
 layout: post
 title: "The Diamond in the Midwest"
 description: "Detailing the startup advantages of being within the diamond of the Midwest: Chicago, Detroit, Pittsburgh, Cincinnati, Indianapolis."
-tags: ["52 Lessons"]
+tags: ["52 Lessons", "feature"]
 ---
 
 If you’ve been reading my previous posts, you’ll notice a common theme: **why Detroit**? I think I summed it well in my [entrepreneurial gold rush][1] post but I left out a key point: there’s a hidden diamond in the Midwest.

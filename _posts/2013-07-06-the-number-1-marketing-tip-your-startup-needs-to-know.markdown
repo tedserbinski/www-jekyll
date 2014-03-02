@@ -2,7 +2,7 @@
 layout: post
 title: "The #1 Marketing Tip Your Startup Needs to Know"
 description: "Read on to learn the #1 marketing tip your startup needs to know."
-tags: ["52 Lessons"]
+tags: ["52 Lessons", "feature"]
 ---
 
 <strong>Updated to include the new Samsung Galaxy S4 ads and how they compare to Apple's on August 12, 2013.</strong>

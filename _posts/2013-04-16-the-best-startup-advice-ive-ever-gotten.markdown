@@ -2,8 +2,8 @@
 layout: post
 title: "The Best Startup Advice I've Ever Gotten"
 description: "Read about the most inspirational startup advice I've ever gotten and how it changed my path in life, leading me to Detroit."
-category: 
-tags: ["52 Lessons"]
+category:
+tags: ["52 Lessons", "feature"]
 ---
 
 > **“Think bigger”**
@@ -17,11 +17,11 @@ It was June 21, 2011. My time at A+E Television was becoming increasingly grudgi
 
 I remember the day clearly: it was a typical, 70 degree sunny day down in the valley. I had my favorite [J.Crew blazer](http://www.jcrew.com/mens_feature/NewArrivals/sportcoatsandvests/PRDOVR~40336/40336.jsp) and jeans on, and a fresh, new checkered shirt. George was running 30 min late because of multiple hard drive failures at his house. It was true, no excuse, he *literally* brought in a handful of drives to our meetings. We instantly connected: nerd-to-nerd, talking about hard drives and then diving into my [Drupal experience](http://localhost:4000/drupal-code.html). Our meeting was excellent.
 
-Later that week, George followed up. He said he and his team wanted to dive deeper. I met his partners, [Saar](http://www.crv.com/team/profile/saar-gur) and [Max](http://www.crv.com/team/profile/max-gazor), on July 17, 2011. I had great meetings, one-on-one with each. I left ecstatic. 
+Later that week, George followed up. He said he and his team wanted to dive deeper. I met his partners, [Saar](http://www.crv.com/team/profile/saar-gur) and [Max](http://www.crv.com/team/profile/max-gazor), on July 17, 2011. I had great meetings, one-on-one with each. I left ecstatic.
 
 That next week, on July 24, 2011, I received an email from George. My heart skipped a beat. George writes:
 
-> “ *[…]* Everyone liked you quite a bit. At the same time, we didn’t sense you had the gut level excitement to move ahead. *[…]* We felt you didn’t radiate excitement. I want to stay in contact with you because I know you are going to do something great.” 
+> “ *[…]* Everyone liked you quite a bit. At the same time, we didn’t sense you had the gut level excitement to move ahead. *[…]* We felt you didn’t radiate excitement. I want to stay in contact with you because I know you are going to do something great.”
 
 *Gulp*.
 

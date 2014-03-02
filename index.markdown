@@ -9,7 +9,7 @@ description: "Startup lessons from an entreprenuer and open source hacker, turne
   <div class="span5 offset1">
     <h3>&raquo; New here? <small>Start with my best posts</small></h3>
     <ul class="posts unstyled">
-    {% for post in site.tags.top limit:5 %}
+    {% for post in site.tags.feature limit:5 %}
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
     </ul>
