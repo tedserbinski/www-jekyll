@@ -2,8 +2,6 @@ title: Ted Serbinski
 
 permalink: /:categories/:title/
 
-markdown: kramdown
-
 lsi: false
 
 kramdown:
