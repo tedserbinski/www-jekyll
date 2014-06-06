@@ -16,7 +16,7 @@ end
 
 desc 're-generate site and upload to S3'
 task :publish do
-  sh 'jekyll build --config=_config.prod.yml; s3_website push --headless ;'
+  sh 'jekyll build --config=_config.prod.yml; s3_website push ;'
 end
 
 
