@@ -42,6 +42,7 @@ Here’s what I recommend.
 	* *Tapas*: [La Feria](http://laferiadetroit.com/)
 	* *Mexican*: [Zenith](http://thezenithatthefisher.com/)
 	* *Comfort food*: [Roses Fine Food](https://www.facebook.com/pages/Roses-Fine-Food/1438157223092767)
+	* *Cuban* [Vicente's](http://www.vicente.us/)
 	* *Midday coffee*: [Urban Bean Co.](http://www.urbanbeanco.com/)
 
 ### Afternoon
@@ -72,7 +73,7 @@ Here’s what I recommend.
 	One of 7 tech hubs [sponsored by Google for Entrepreneurs](http://www.google.com/entrepreneurs/initiatives/na-tech-hubs.html).
 	* [Grand Circus](http://www.grandcircus.co/) — Co-working, events, and high-tech educational classes.
 	* [Bizdom](http://bizdom.com/) — Startup accelerator.
-	* [Detroit Labs](http://www.detroitlabs.com/) — They made the [iPhone app to order a Domino’s pizza](http://techcrunch.com/2014/04/24/dominos-launches-its-ipad-pizza-ordering-app-with-3d-custom-pizza-builder/). ‘Nuff said.
+	* [Detroit Labs](http://www.detroitlabs.com/) — They helped build the [iPhone app to order a Domino’s pizza](http://techcrunch.com/2014/04/24/dominos-launches-its-ipad-pizza-ordering-app-with-3d-custom-pizza-builder/). ‘Nuff said.
 
 * *0430pm* — [Bamboo Detroit](http://bamboodetroit.com/)
 	Great co-working space in Detroit. Home to over 50 entrepreneurs and creatives.
