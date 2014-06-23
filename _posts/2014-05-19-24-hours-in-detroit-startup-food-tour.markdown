@@ -42,7 +42,7 @@ Here’s what I recommend.
 	* *Tapas*: [La Feria](http://laferiadetroit.com/)
 	* *Mexican*: [Zenith](http://thezenithatthefisher.com/)
 	* *Comfort food*: [Roses Fine Food](https://www.facebook.com/pages/Roses-Fine-Food/1438157223092767)
-	* *Cuban* [Vicente's](http://www.vicente.us/)
+	* *Cuban:* [Vicente's](http://www.vicente.us/)
 	* *Midday coffee*: [Urban Bean Co.](http://www.urbanbeanco.com/)
 
 ### Afternoon
