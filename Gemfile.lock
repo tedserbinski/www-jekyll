@@ -67,6 +67,9 @@ GEM
       rb-inotify (>= 0.9)
     mercenary (0.3.3)
     multi_json (1.10.1)
+    neat (1.6.0)
+      bourbon (>= 3.1)
+      sass (>= 3.3)
     parslet (1.5.0)
       blankslate (~> 2.0)
     posix-spawn (0.3.8)
@@ -112,11 +115,12 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bourbon
+  bourbon (~> 4.0.2)
   image_optim
   jekyll (~> 2.0.3)
   jekyll-assets (~> 0.8.0)
   kramdown
+  neat (~> 1.6.0)
   rake
   s3_website (~> 2.1.13)
   sass (~> 3.3.9)
