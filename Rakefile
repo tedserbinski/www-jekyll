@@ -4,7 +4,7 @@ require 'highline/import'
 
 desc 'update all libaries'
 task :update do
-  sh 'brew update; brew upgrade; gem update --system; gem update;'
+  sh 'brew update; brew upgrade; brew cleanup; gem update --system; gem update;'
 end
 
 
