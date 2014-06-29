@@ -10,6 +10,7 @@ end
 
 desc 'generate new site and launch server'
 task :preview do
+  # http://quaran.to/blog/2013/01/09/use-jekyll-scss-coffeescript-without-plugins/
   sh 'jekyll serve --watch --config=_config.local.yml ;'
 end
 

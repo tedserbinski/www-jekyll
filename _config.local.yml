@@ -1,5 +1,3 @@
-title: Ted Serbinski
-
 permalink: /:categories/:title/
 
 lsi: false
@@ -17,6 +15,9 @@ assets:
     - _assets/img
     - _assets/img/posts
     - _assets/img/portfolio-logos
+  js_compressor: uglifier
+  css_compressor: sass
+  cachebust: soft # don't rename images that might be hotlinked from syndication partners
   gzip: false # use https://github.com/laurilehmijoki/s3_website for gzipping
 
 exclude:
