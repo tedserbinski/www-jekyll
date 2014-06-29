@@ -1,8 +1,10 @@
 $visual-grid: true;
 
 @import 'bourbon/bourbon';
+@import 'base/grid-settings';
 @import 'neat/neat';
+@import 'base/base';
 
-div.container {
+body {
    @include outer-container;
 }
