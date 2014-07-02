@@ -13,26 +13,26 @@ layout: nil
     	background:#b3d4fc;
     	text-shadow:none;
     }
-    
+
     ::selection {
     	background:#b3d4fc;
     	text-shadow:none;
     }
-    
+
     html {
     	padding:30px 10px;
     	font-size:20px;
     	line-height:1.4;
-    	color:#737373;
-    	background:#f0f0f0;
+    	color:#2c3e50;
+    	background:#2980b9;
     	-webkit-text-size-adjust:100%;
     	-ms-text-size-adjust:100%;
     }
-    
+
     html,input {
     	font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
     }
-    
+
     body {
     	max-width:500px;
     	_width:500px;
@@ -40,52 +40,52 @@ layout: nil
     	border:1px solid #b3b3b3;
     	border-radius:4px;
     	margin:0 auto;
-    	box-shadow:0 1px 10px #a7a7a7,inset 0 1px 0 #fff;
-    	background:#fcfcfc;
+    	box-shadow:0 1px 10px #3498db,inset 0 1px 0 #fff;
+    	background:#ecf0f1;
     	font-family: "HelveticaNeue", Helvetica, Arial, sans-serif;
-      text-rendering: optimizeLegibility;    	
+      text-rendering: optimizeLegibility;
     }
-    
+
     h1 {
     	margin:0 10px;
     	font-size:50px;
     	text-align:center;
     }
-    
+
     h1 span {
-    	color:#bbb;
+    	color:#95a5a6;
     }
-    
+
     h3 {
     	margin:1.5em 0 .5em;
     }
-    
+
     p {
     	margin:1em 0;
     }
-    
+
     ul {
     	padding:0 0 0 40px;
     	margin:1em 0;
     }
-    
+
     .container {
     	max-width:480px;
     	_width:480px;
     	margin:0 auto;
     }
-    
+
     /* google search */
     #goog-fixurl ul {
     	list-style:none;
     	padding:0;
     	margin:0;
     }
-    
+
     #goog-fixurl form {
     	margin:0;
     }
-    
+
     #goog-wm-qt,#goog-wm-sb {
     	border:1px solid #bbb;
     	font-size:16px;
@@ -94,7 +94,7 @@ layout: nil
     	color:#444;
     	border-radius:2px;
     }
-    
+
     #goog-wm-qt {
     	width:220px;
     	height:20px;
@@ -102,7 +102,7 @@ layout: nil
     	margin:5px 10px 0 0;
     	box-shadow:inset 0 1px 1px #ccc;
     }
-    
+
     #goog-wm-sb {
     	display:inline-block;
     	height:32px;
@@ -122,24 +122,24 @@ layout: nil
     	*display:inline;
     	*zoom:1;
     }
-    
+
     #goog-wm-sb:hover,#goog-wm-sb:focus {
     	border-color:#aaa;
     	box-shadow:0 1px 1px rgba(0,0,0,0.1);
     	background-color:#f8f8f8;
     }
-    
+
     #goog-wm-qt:hover,#goog-wm-qt:focus {
     	border-color:#105cb6;
     	outline:0;
     	color:#222;
     }
-    
+
     input::-moz-focus-inner {
     	padding:0;
     	border:0;
     }
-    
+
     #footer {
       text-align: center;
       font-size:14px;
@@ -156,30 +156,30 @@ layout: nil
 
     <script>var GOOG_FIXURL_LANG = (navigator.language || '').slice(0,2),GOOG_FIXURL_SITE = location.host;</script>
     <script src="http://linkhelp.clients.google.com/tbproxy/lh/wm/fixurl.js"></script>
-    
+
     <h3>Check out the latest posts:</h3>
     <ul class="posts unstyled">
-    {% for post in site.posts limit:5 %}    
+    {% for post in site.posts limit:5 %}
     <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
-    </ul>       
+    </ul>
 
   </div>
-  
+
   <footer id="footer">
-    Follow me on <a href="http://twitter.com/tedserbinski">Twitter</a>. Subscribe to my <a href="https://tinyletter.com/tedserbinski">Newsletter</a> and <a href="http://feeds.feedburner.com/tedserbinski-blog">RSS</a>.<br>&copy;2006-2013 <a href="https://plus.google.com/107707246099022430019?rel=author" rel="author">Ted Serbinski</a>.
-  </footer>  
-  
-  <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-361873-1']);
-    _gaq.push(['_trackPageview','/404error/?url=' + document.location.pathname + document.location.search + '&ref=' + document.referrer]);
-  
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-  </script>    
+    Follow me on <a href="http://twitter.com/tedserbinski">Twitter</a>. Subscribe to my <a href="https://tinyletter.com/tedserbinski">Newsletter</a> and <a href="http://feeds.feedburner.com/tedserbinski-blog">RSS</a>.<br>&copy;2006-{{ site.time | date: '%Y' }} <a href="https://plus.google.com/107707246099022430019?rel=author" rel="author">Ted Serbinski</a>.
+  </footer>
+
+  {% if site.prod %}
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-361873-1', 'auto');
+    ga('require', 'linkid', 'linkid.js');
+    ga('send', 'pageview');
+  </script>
+  {% endif %}
 </body>
 </html>
