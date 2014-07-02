@@ -6,6 +6,10 @@ $visual-grid: true;
 @import 'neat/neat';
 @import 'base/base';
 
+@import 'header';
+@import 'footer';
+@import 'content';
+
 body {
    @include outer-container;
 }
