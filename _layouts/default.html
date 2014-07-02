@@ -6,87 +6,80 @@
   {% assign desc = page.excerpt | strip_html | strip_newlines | xml_escape %}
 {% endif %}
 
-<!DOCTYPE html>
+<!doctype html>
+
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    {% if page.url != '/index.html' %}<title>{{ page.title }} | Ted Serbinski</title>
-    {% else %}<title>{{ page.title }}</title>{% endif %}
-    {% if desc != '' %}<meta name="description" content="{{ desc | truncate:155 }}">{% endif %}
-    <meta name="author" content="Ted Serbinski">
-    <meta name="HandheldFriendly" content="True">
-    <meta name="MobileOptimized" content="320">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    {% if page.pageid != 'home' %}
-    <meta property="og:type" content="article">
-    <meta property="og:site_name" content="Ted Serbinski">
-    <meta property="og:title" content="{{ page.title }}">
-    <meta property="og:url" content="http://tedserbinski.com{{ page.url }}">
-    {% if desc != '' %}<meta name="og:description" content="{{ desc | truncate:200 }}">{% endif %}
-    {% endif %}
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:site" content="@tedserbinski">
-    <meta name="twitter:creator" content="@tedserbinski">
-    <meta name="twitter:url" content="http://tedserbinski.com{{ page.url }}">
-    <meta name="twitter:title" content="{{ page.title }}">
-    {% if desc != '' %}<meta name="twitter:description" content="{{ desc | truncate:200 }}">{% endif %}
-    <script type="text/javascript">
-      (function() {
-        var config = {
-          kitId: 'jmj3nsk',
-          scriptTimeout: 3000
-        };
-        var h=document.getElementsByTagName("html")[0];h.className+=" wf-loading";var t=setTimeout(function(){h.className=h.className.replace(/(\s|^)wf-loading(\s|$)/g," ");h.className+=" wf-inactive"},config.scriptTimeout);var tk=document.createElement("script"),d=false;tk.src='//use.typekit.net/'+config.kitId+'.js';tk.type="text/javascript";tk.async="true";tk.onload=tk.onreadystatechange=function(){var a=this.readyState;if(d||a&&a!="complete"&&a!="loaded")return;d=true;clearTimeout(t);try{Typekit.load(config)}catch(b){}};var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(tk,s)
-      })();
 
-      function newsletter() {
-        var width=540, height=648;
-        var a = typeof window.screenX != 'undefined' ? window.screenX : window.screenLeft;
-        var i = typeof window.screenY != 'undefined' ? window.screenY : window.screenTop;
-        var g = typeof window.outerWidth!='undefined' ? window.outerWidth : document.documentElement.clientWidth;
-        var f = typeof window.outerHeight != 'undefined' ? window.outerHeight: (document.documentElement.clientHeight - 22);
-        var h = (a < 0) ? window.screen.width + a : a;
-        var left = parseInt(h + ((g - width) / 2), 10);
-        var top = parseInt(i + ((f-height) / 2.5), 10);
-        var params = 'width='+width+',height='+height+',left=' + left + ',top=' + top + ',scrollbars=0,location=1,toolbar=0';
-        return window.open('https://tinyletter.com/tedserbinski', 'popupwindow', params);
-      }
-    </script>
-    {% stylesheet styles %}
-    <link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/tedserbinski-blog">
-    <link rel="shortcut icon" href="{% asset_path favicon.png %}">
-    <link rel="canonical" href="http://tedserbinski.com{{ page.url | remove: 'index.html' }}">
-    <link type="text/plain" rel="author" href="http://tedserbinski.com/humans.txt">
-    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
-    <!--[if lt IE 9]>
-      {% javascript html5shiv %}
-    <![endif]-->
-  </head>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-  <body {% if page.pageid %} id="page-{{page.pageid}}"{% endif %}>
+  {% if page.pageid != 'home' %}
+  <title>{{ page.title }} | Ted Serbinski</title>
+  {% else %}
+  <title>{{ page.title }}</title>
+  {% endif %}
 
-    {{ content }}
+  <meta name="author" content="Ted Serbinski">
+  {% if desc != '' %}<meta name="description" content="{{ desc | truncate:155 }}">{% endif %}
+  <meta name="copyright" content="&copy; 2006-{{ site.time | date: '%Y' }} Ted Serbinski">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="cleartype" content="on">
 
-    <footer id="footer">
-      <div class="container-fluid">
-        <p class="muted credit">
-          Follow me on <a href="http://twitter.com/tedserbinski">Twitter</a>. Subscribe to my <a href="https://tinyletter.com/tedserbinski">Newsletter</a> and <a href="http://feeds.feedburner.com/tedserbinski-blog">RSS</a>. &copy;2006-2013 by <a href="https://plus.google.com/107707246099022430019?rel=author" rel="author">Ted Serbinski</a>.
-        </p>
-      </div>
-    </footer>
+  <link rel="shortcut icon" href="{% asset_path favicon.png %}">
+  <link rel="alternate" type="application/rss+xml" title="TedSerbinski.com RSS Feed" href="http://feeds.feedburner.com/tedserbinski-blog">
+  <link rel="author" type="text/plain" href="http://tedserbinski.com/humans.txt">
+  <link rel="canonical" href="http://tedserbinski.com{{ page.url | remove: 'index.html' }}">
+  {% stylesheet styles %}
 
-    {% if site.prod %}
-    <script type="text/javascript">
-      var _gaq = _gaq || [];
-      _gaq.push(['_setAccount', 'UA-361873-1']);
-      _gaq.push(['_trackPageview']);
+  <!--[if lt IE 9]>
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
 
-      (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-      })();
-    </script>
-    {% endif %}
-  </body>
+  <!-- Windows 8: see http://msdn.microsoft.com/en-us/library/ie/dn255024%28v=vs.85%29.aspx for details -->
+  <meta name="application-name" content="Ted Serbinski">
+  <meta name="msapplication-TileColor" content="">
+  <meta name="msapplication-TileImage" content="">
+  <meta name="msapplication-square150x150logo" content="">
+  <meta name="msapplication-square310x310logo" content="">
+  <meta name="msapplication-square70x70logo" content="">
+  <meta name="msapplication-wide310x150logo" content="">
+  <!-- Twitter: see https://dev.twitter.com/docs/cards/types/summary-card for details -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@tedserbinski">
+  <meta name="twitter:creator" content="@tedserbinski">
+  <meta name="twitter:title" content="{{ page.title }}">
+  <meta name="twitter:description" content="{{ desc | truncate:200 }}">
+  <meta name="twitter:url" content="http://tedserbinski.com{{ page.url | remove: 'index.html' }}">
+  <meta name="twitter:image" content="">
+  <!-- Facebook (and some others) use the Open Graph protocol: see http://ogp.me/ for details -->
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="Ted Serbinski">
+  <meta property="og:title" content="{{ page.title }}">
+  <meta property="og:description" content="{{ desc | truncate:200 }}">
+  <meta property="og:url" content="http://tedserbinski.com{{ page.url | remove: 'index.html' }}">
+  <meta property="og:image" content="">
+</head>
+
+<body {% if page.pageid %} id="page-{{page.pageid}}"{% endif %}>
+
+  {% include header.html %}
+
+  {{ content }}
+
+  <footer id="footer">
+    <h5>About</h5>
+    Follow me on <a href="http://twitter.com/tedserbinski">Twitter</a>.
+    Subscribe to my <a href="https://tinyletter.com/tedserbinski">Newsletter</a> and <a href="http://feeds.feedburner.com/tedserbinski-blog">RSS</a>.
+    &copy; 2006-{{ site.time | date: "%Y" }} by <a href="https://plus.google.com/107707246099022430019?rel=author" rel="author">Ted Serbinski</a>. All rights reserved.
+  </footer>
+
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  {% javascript script %}
+
+  {% if site.prod %}
+    <!-- GOOGLE ANALTICS CODE -->
+  {% endif %}
+</body>
+
 </html>

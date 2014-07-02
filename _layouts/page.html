@@ -2,24 +2,22 @@
 layout: default
 ---
 
-{% include header.html %}
+<main role="main">
 
-<!-- hatom microformat classes: http://microformats.org/wiki/hatom-examples --> 
-<article class="hfeed hentry entry">
-  <header>
-    <h1 class="entry-title instapaper_title text-center" id="{{ page.id | replace: '/','-' }}">{{ page.title }}</h1>
-  </header>
-  <section class="post entry-content instapaper_body">
-    
-    {{ content }}
+  <article class="h-entry" itemscope itemprop="blogPost" itemtype="http://schema.org/BlogPosting">
 
-    <hr>
- 
-    {% include newsletter.html %}
+    <header>
+      <h1 class="p-name" itemprop="name">{{ page.title }}</h1>
+    </header>
 
-    {% if page.url == '/jcalendar/index.html' %}
-      {% include comments.html %}
-    {% endif %}
+    <section class="e-content" itemprop="description articleBody">
+      {{ content }}
+    </section>
 
-  </section>
-</article>
+    <footer class="e-footer">
+
+    </footer>
+
+  </article>
+
+</main>
