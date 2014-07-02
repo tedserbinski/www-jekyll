@@ -16,12 +16,17 @@ gzip:
 cloudfront_invalidate_root: true
 
 redirects:
-  taxonomy/term/17/0: /drupal-code.html
+  52-startup-lessons.html: /startup-lessons
+  archive.html: /posts
+  bmw.html: /posts/index.html#bmw
+  drupal-code.html: /posts/index.html#drupal
+  taxonomy/term/17/0: /posts/index.html#drupal
   tags/drupal/creating-alpha-pager-with-views-2-and-drupal-6: /drupal/creating-an-alpha-pager-with-views-2-and-drupal-6
   tags/drupal/preventing-drupal-handling-404s-performance: /drupal/preventing-drupal-from-handling-404s-for-performance
   tags/jquery/how-prevent-duplicate-posts: /drupal/how-to-prevent-duplicate-posts
-  about: /about.html
-  contact: /
+  about: /about
+  about.html: /about
+  contact: /about
   tags/productivity/getting-things-done-david-allen-google: /getting-things-done-david-allen-at-google
   tags/bmw/how-often-do-you-change-your-oil: /bmw/how-often-do-you-change-your-oil
   2006/06/17/top_tier_gasoline: /bmw/top-tier-gasoline

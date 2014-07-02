@@ -1,8 +1,8 @@
 ---
 layout: page
-pageid: 52-startup-lessons
-title: "52 Startup Lessons"
-description: "52 startup lessons from Ted Serbinski, an entreprenuer and open source hacker turned early stage VC rebuilding Detroit."
+pageid: startup-lessons
+title: "Startup Lessons"
+description: "Startup lessons from Ted Serbinski, an entreprenuer and open source hacker turned early stage VC rebuilding Detroit."
 ---
 
 <p>Each week I'll share a new lesson I've learned from being an open source hacker, founder and now VC, whose helping to rebuild Detroit.</p>
@@ -12,7 +12,7 @@ and her <a href="http://52cups.tumblr.com/">52 Cups of Coffee</a> blog series.</
 
 <hr>
 
-<h3>The 52 Lessons</h3>
+<h3>Startup Lessons</h3>
 <ol>
 {% for post in site.tags["52 Lessons"] reversed %}
 <li><a href="{{ post.url }}">{{ post.title }}</a></li>
