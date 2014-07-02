@@ -5,6 +5,8 @@ gem 'rake'
 gem 'jekyll', '~>2.1.0'
 # gem 'gsl', :require => false
 gem 'kramdown'
+gem 'nokogiri'
+gem 'iconv'
 
 gem 'jekyll-assets', '~>0.8.0'
 gem 'uglifier'
