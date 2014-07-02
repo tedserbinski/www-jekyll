@@ -10,10 +10,10 @@ layout: nil
 	<id>http://tedserbinski.com</id>
 	<author>
 		<name>Ted Serbinski</name>
-		<uri>http://tedserbinski.com/about.html</uri>
+		<uri>http://tedserbinski.com/about/</uri>
 	</author>
 	<rights>Copyright (c) 2006-{{ site.time | date: "%Y" }} Ted Serbinski. All rights reserved.</rights>
-	
+
 	{% for post in site.posts %}
 	<entry>
 		<title>{{ post.title | xml_escape }}</title>
