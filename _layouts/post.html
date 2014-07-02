@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<main role="main">
+<main role="main" itemscope itemprop="mainContentOfPage" itemtype="http://schema.org/Blog">
 
   <article class="h-entry" itemscope itemprop="blogPost" itemtype="http://schema.org/BlogPosting">
     <header>
@@ -17,7 +17,7 @@ layout: default
       </a>
 
       {% for tag in page.tags %}
-        <a href="/archive/index.html#{{ tag | uri_escape }}" class="p-category">{{ tag }}</a>
+        <a href="/archive/index.html#{{ tag | uri_escape }}" class="p-category" rel="tag">{{ tag }}</a>
       {% endfor %}
 
       {% include share-subscribe.html %}
@@ -40,7 +40,7 @@ layout: default
 
 </main>
 
-<aside>
+<aside role="complementary">
   <h4>Top Posts</h4>
   <p>This post will take about {{ content | reading_time | pluralize: "minute" }} to read.</p>
 </aside>
