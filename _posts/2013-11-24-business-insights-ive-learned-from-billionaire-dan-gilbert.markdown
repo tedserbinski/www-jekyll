@@ -16,7 +16,7 @@ Dan was speaking at the Detroit Venture Partners' 2nd annual Leadership Summit w
 > “But just because you can't measure it, does that mean it has no value?
 > Not by a long shot.
 > It's important to understand this truth. Because in a world of 'spreadsheets', one can easily forget that the MOST valuable things cannot be measured...”
-> <small>Dan Gilbert</small>
+> <cite>Dan Gilbert</cite>
 
 ![Spreadsheets measure. They do NOT create.][image-1]
 
@@ -47,7 +47,7 @@ Super apropos in early stage investing. The investment might look good on paper,
 When explaining something high level, always gump it down. Don't assume everyone will understand.
 
 > “If you can't explain it to a six year old, you don't understand it yourself.”
-> ― Albert Einstein
+> <cite>Albert Einstein</cite>
 
 <hr>
 
@@ -103,7 +103,7 @@ If that's the case, then this a really expensive business to be in unless you fi
 What are the tipping points in your business? What kind of effort produces the greatest results? Focus on those, ignore the rest.
 
 > "Give me a lever long enough and a place to stand, and I could lift the world."
-> - Archimedes
+> <cite>Archimedes</cite>
 
 <hr>
 
@@ -203,7 +203,7 @@ Dan was giving a talk when someone in the audience asked him, "If you were to st
 "Hire a process improvement person. You'll get 5-100x return. Have them talk to front line people and improve your processes. At Quicken Loans, we have over 230 dedicated people to improve our processes. We've seen more growth in last 3 years than previous 25. We had 0 in 2004."
 
 > "Build a better mousetrap and the world will beat a path to your door."
-> <small>Ralph Waldo Emerson</small>
+> <cite>Ralph Waldo Emerson</cite>
 
 <hr>
 

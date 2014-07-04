@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: MothersClick Acquires MothersGroups.com
 created: 1202150954
@@ -7,7 +7,7 @@ Today, I am proud to announce that <a href="http://www.emediawire.com/releases/2
 
 <blockquote>
 <p><a href="http://mothersgroups.com/">MothersGroups.com</a> is a perfect example of a unique keyword domain that leverages the power of direct search while simultaneously driving increased SEO results within a highly targeted customer demographic</p>
-<small>Pete Lamson, SVP & GM of <a href="http://www.namemedia.com/">NameMedia's marketplace properties</a></small>
+<cite>Pete Lamson, SVP & GM of <a href="http://www.namemedia.com/">NameMedia's marketplace properties</a></cite>
 </blockquote>
 
 The domain <a href="http://mothersgroups.com/">MothersGroups.com</a> is our first direct search, SEO optimized, parenting portal and we plan to launch many more sites this year as we build out our network, pulling from over 150 parenting-related domains in our portfolio.

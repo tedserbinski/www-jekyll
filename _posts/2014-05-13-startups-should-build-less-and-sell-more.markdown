@@ -6,7 +6,7 @@ tags: ["52 Lessons"]
 ---
 
 > “If you build it, they will come.”
-> <small>[Field of Dreams][1]</small>
+> <cite>[Field of Dreams][1]</cite>
 
 In this iconic movie, Kevin Costner’s character hears a voice that tells him to plow part of his cornfield and build a baseball field. Once he builds it, they will come—the people he is supposed to help. And when he builds it, they do come.
 
@@ -51,7 +51,7 @@ Quick iterations, with built in feedback loops, would have let me build the feat
 ### Be Embarrassed
 
 > If you’re not embarrassed by what you shipped, you waited too long.
-> <small>[Reid Hoffman][19]</small>
+> <cite>[Reid Hoffman][19]</cite>
 
 Looking back to [every piece of code I shipped][15], every website I made (including [this blog][20]), the first iteration has always been embarrassing. Even with lots of planning, in retrospect, it always stunk. So why waste so much time on it?
 

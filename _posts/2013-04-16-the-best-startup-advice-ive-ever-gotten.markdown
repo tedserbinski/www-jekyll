@@ -7,7 +7,7 @@ tags: ["52 Lessons", "feature"]
 ---
 
 > **“Think bigger”**
-> <small>[George Zachary](http://georgezachary.com/), General Partner, [Charles River Ventures](http://crv.com/) *(early investor in Yammer, Twitter, Playdom)*</small>
+> <cite>[George Zachary](http://georgezachary.com/), General Partner, [Charles River Ventures](http://crv.com/) *(early investor in Yammer, Twitter, Playdom)*</cite>
 
 I could leave it at that. It’s succinct. Concise. *Even*, world changing.
 
@@ -41,4 +41,3 @@ I’m in Detroit. I’m leading the startup renaissance to establish a vibrant s
 
 [1]: http://paulstamatiou.com/
 [2]: http://detroitventurepartners.com
-

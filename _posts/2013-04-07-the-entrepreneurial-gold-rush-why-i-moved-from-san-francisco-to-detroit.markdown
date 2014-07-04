@@ -9,14 +9,14 @@ tags: ["52 Lessons", "top", "feature", "Detroit"]
 <strong>Updated to include Detroit filing for bankruptcy on Aug 12, 2013.</strong>
 
 > &ldquo;If Columbus had an advisory committee he would probably still be at the dock.&rdquo;
-> <small>Arthur Goldberg, American statesman and jurist</small>
+> <cite>Arthur Goldberg, American statesman and jurist</cite>
 
 Every week, in a bewildered state, someone asks me &ldquo;Hey Ted, why did you move from *San Francisco* to, uh, *Detroit*? Are you crazy?&rdquo;
 
 I pause, let out a sigh, and respond with:
 
 > Ten years from now, San Francisco will be just as good as it is today. But in ten years, Detroit will be a roaring city once again, defining a new technology hub at the intersection of muscle and brains. Where do you want to be in ten years? Status quo? Or one of the **heroes that rebuilt a city**?
-> <small>Ted Serbinski</small>
+> <cite>Ted Serbinski</cite>
 
 Almost before I can finish, I can see in that person&rsquo;s face the transition from bewilderment to excitement, as they realize, I didn&rsquo;t just relocate to Detroit for a job; [I relocated to create a legacy][1].
 
