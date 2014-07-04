@@ -15,7 +15,7 @@ and her <a href="http://52cups.tumblr.com/">52 Cups of Coffee</a> blog series.</
 <h3>Startup Lessons</h3>
 <ol>
 {% for post in site.tags["52 Lessons"] reversed %}
-<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+<li><a href="{{ post.url }}">{{ post.title }}</a> <span>{{ post.tags }}</span></li>
 {% endfor %}
 </ol>
 

@@ -11,7 +11,7 @@ description: "Blog posts written by Ted Serbinski."
 
 <ul>
 {% for post in posts %}
-  <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a> <span>{{ post.date | date: "%b %Y" }}</span></li>
+  <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a> <span>{{ post.tags }}</span> <span>{{ post.date | date: "%b %Y" }}</span></li>
 {% endfor %}
 </ul>
 
@@ -20,6 +20,6 @@ description: "Blog posts written by Ted Serbinski."
 
 <ul>
 {% for post in site.categories.bmw %}
-  <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a> <span>{{ post.date | date: "%b %Y" }}</span></li>
+  <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a> <span>{{ post.tags }}</span> <span>{{ post.date | date: "%b %Y" }}</span></li>
 {% endfor %}
 </ul>
