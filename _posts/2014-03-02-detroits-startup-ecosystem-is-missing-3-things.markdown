@@ -14,7 +14,7 @@ As an ex-Silicon Valley guy who co-founded and sold a company, I have a good sen
 Since I moved to Detroit, I’ve noticed many things about this southeast Michigan startup ecosystem. From my perspective, there are 3 critical pieces we need (or rather, need much more of).
 
 
-### Building a Startup Community
+## Building a Startup Community
 
 [Brad Feld](http://www.feld.com) wrote a book on this subject: [Startup Communities: Building an Entrepreneurial Ecosystem in Your City](http://www.amazon.com/gp/product/1118441540?ie=UTF8&camp=213733&creative=393185&creativeASIN=1118441540&linkCode=shr&tag=tedserbinski-20). After 20 years in Boulder, Brad, along with his partners at [Foundry Group](http://www.foundrygroup.com/), have transformed [Boulder into a top startup ecosystem in the country](http://www.jasonmendelson.com/wp/archives/2012/05/colorado-is-now-4-ranked-destination-for-early-stage-venture-capital-investment.php).
 
@@ -24,8 +24,7 @@ I agree completely with Brad’s thoughts and view myself in a bit of a hybrid r
 
 And what Detroit needs is more investors backing founders to discover startup gold in the region.
 
-
-### Discovering the Missing Ingredients
+## Discovering the Missing Ingredients
 
 Startups are simply an experiment to find a repeatable business model. Once found, the business scales by applying this model to find customers and revenue. Eventually, the startup can be acquired, merge with another company, or go public.
 
@@ -35,10 +34,7 @@ And these experiments need 2 basic things to thrive: funding and mentorship. The
 
 Detroit has a wealth of operational-experience mentors in the region. What it is missing is lots of value-add funding sources.
 
-
-
-
-### Attracting 3 Types of Funding to Detroit
+## Attracting 3 Types of Funding to Detroit
 
 1. **Accelerators that leverage the region’s strengths**
   Two of the more well known accelerators in Detroit are [Bizdom](http://bizdom.com) and [Techtown](http://techtowndetroit.org). I mentor both and sit on the board of directors for Techtown. The region needs both of these. But it also needs an accelerator that truly leverages the strengths of this region, such as, automotive, manufacturing, or urban renewal. What Detroit needs is our own [Brandery](http://www.brandery.org) (which I’m also a mentor of) which leverages the strengths of Cincinnati: the most designers-per-capita and home of P&G’s headquarters. Or, the just announced, [Techstars: Disney](http://disneyaccelerator.com/) based in Los Angeles, which leverages the many consumer and film resources in the region.
@@ -51,9 +47,7 @@ Detroit has a wealth of operational-experience mentors in the region. What it is
 3. **A-round funds that invest locally**
   When startups uncover their repeatable business model, they need more capital to scale, repeating this process for huge growth. While there are a handful of Michigan funds that have the capacity to lead a Series-A (including Detroit Venture Partners), there are only 2 with over $100M under management and headquartered in Michigan—[Arboretum Ventures](http://www.arboretumvc.com/) and [North Coast Technology Investors](http://www.northcoastvc.com/). What does that mean? There aren’t enough local funds with enough capital to take a startup to the mega-growth rounds we see on the coasts.
 
-
-
-### Contributing to Detroit’s Success
+## Contributing to Detroit’s Success
 
 Every startup ecosystem has to start somewhere. Detroit has a good base, but we need more, lots more.
 

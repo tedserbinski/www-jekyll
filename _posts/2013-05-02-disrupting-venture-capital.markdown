@@ -9,9 +9,9 @@ In my last post, I wrote about [the best startup advice I’ve ever gotten][1] �
 
 And in my first post, I talked about [the entrepreneurial gold rush going on in Detroit and why I moved here from San Francisco][2]. Another great post to get even more perspective.
 
-But so what? 
+But so what?
 
-I didn’t *just* move here to be part of rebuilding Detroit through entrepreneurial fire. 
+I didn’t *just* move here to be part of rebuilding Detroit through entrepreneurial fire.
 
 I didn’t *just* move here to think bigger.
 
@@ -23,7 +23,7 @@ Simple.
 
 > I’m a **blue collar VC**. I’m rolling up my sleeves, and getting down and dirty with my startup companies. I’m their silent co-founder, behind the scenes, working the midnight oil.
 
-But I’m not alone. I’m joined by a [team of street fighters at Detroit Venture Partners][3]. Yup, *street fighters*, helping our companies to fight and stay alive in an ever fierce corporate world. 
+But I’m not alone. I’m joined by a [team of street fighters at Detroit Venture Partners][3]. Yup, *street fighters*, helping our companies to fight and stay alive in an ever fierce corporate world.
 
 Why us? Everyone on our senior team has deep, startup operational experience. We know what it is like to start a company from scratch, to live on ramen and barely have enough money to make payroll. To know the ups and downs of startup life. We know *how to persevere*. We have *grit*. And most importantly, *we know how to win*.
 
@@ -33,14 +33,14 @@ We’re part of a [growing crop of venture capitalists that are building teams f
 
 With less than 100 *active* venture capital funds in the US, the landscape is changing quickly.
 
-> “I would say the next 10 years look phenomenal for venture capital. But the market expects more than money these days. I think that is a major shift in our industry.”
-> — [Mark Suster, General Partner at GRP Partners and 2x Entrepreneur][5]
+> &ldquo;I would say the next 10 years look phenomenal for venture capital. But the market expects more than money these days. I think that is a major shift in our industry.&rdquo;
+> <cite>[Mark Suster, General Partner at GRP Partners and 2x Entrepreneur][5]</cite>
 
 Mark does a great job of giving [his perspective on the disruption in venture capital in this video][6].
 
 > Forward-thinking VCs are using their operational experience in creative ways and raising their public profiles through blogs and social media, he said. Their greater public personae and more active portfolio company participation helps to differentiate them in a consolidating industry, Mark noted. The result is a shift in how deals are sourced and a crumbling of the old-boy networks that once led top portfolio companies to a small group of established firms.
 
-Well said. 
+Well said.
 
 Leaders in this emerging world include [Andreessen Horowitz][7], [First Round Capital][8], [Google Ventures][9], and [True Ventures][10].
 
