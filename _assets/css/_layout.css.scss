@@ -1,0 +1,8 @@
+body {
+  @include outer-container;
+}
+#wrapper {
+  @include span-columns(8);
+  @include shift(2);
+  margin-top: $header-line-height * 2;
+}
