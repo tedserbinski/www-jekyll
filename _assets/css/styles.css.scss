@@ -1,27 +1,12 @@
-$visual-grid:true;
+$visual-grid:false;
 
 @import 'normalize';
 @import 'bourbon/bourbon';
 @import 'base/grid-settings';
 @import 'neat/neat';
 @import 'base/base';
+@import 'layout';
 @import 'header';
 @import 'footer';
 @import 'content';
-
-body {
-  @include outer-container;
-}
-mark {
-  background: #ffc;
-  font-weight: 700;
-}
-a:link {
-  color: #2980b9
-}
-a:visited {
-  color: #8e44ad
-}
-a:hover {
-  color: #c0392b
-}
+@import 'print';
