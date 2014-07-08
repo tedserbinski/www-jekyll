@@ -7,6 +7,8 @@ a:visited {
 a:hover {
   color: #c0392b
 }
+::-moz-selection{background-color:$yellow-light !important}
+::selection{background-color:$yellow-light !important}
 
 cite {
   display: block;
@@ -23,9 +25,22 @@ hr {
 }
 
 mark {
-  background: #ffc;
-  font-weight: 700;
+  background: #f7ff7f;
+  font-weight: 600;
 }
+
+/*
+
+p {
+  font-family: $sans-serif;
+  font-weight: 400;
+  letter-spacing: 1;
+  margin-bottom: 1.5em;
+  font-size: 20px;
+  line-height:30px;
+}
+
+/* cleanup below *
 
 article {
   @include clearfix;
@@ -53,7 +68,7 @@ article {
     @include media($medium-screen) {
       font-size: 2.4em;
     }
-    */
+    *
   }
 
   h2 {
@@ -66,7 +81,7 @@ article {
     @include media($medium-screen) {
       font-size: 1.4em;
     }
-    */
+    *
   }
 
   code {
@@ -140,3 +155,4 @@ article {
     font-style: italic;
   }
 }
+*/

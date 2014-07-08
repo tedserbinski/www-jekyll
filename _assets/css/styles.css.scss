@@ -1,21 +1,24 @@
 $visual-grid:false;
 
-/* load frameworks */
-@import 'normalize';
-@import 'bourbon/bourbon';
-@import 'neat/neat';
-@import 'base/base';
-
 $sans-serif: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 $sans-serif-2: 'Roboto', Tahoma, Helvetica, Arial, sans-serif;
-$darkblue: #2c3e50;
+
+$base-font-family: $sans-serif;
+$header-font-family: $sans-serif-2;
+
+$dark-blue: #2c3e50;
 $blue: #2980b9;
 $yellow: #f1c40f;
-$lightgrey: #ecf0f1;
+$yellow-light: #f7ff7f;
+$light-grey: #ecf0f1;
 
-/* load custom css */
-@import 'layout';
-@import 'header';
-@import 'footer';
-@import 'content';
-@import 'print';
+@import 'vendor/normalize';
+@import 'vendor/bourbon/bourbon';
+@import 'vendor/neat/neat';
+
+@import 'custom/base_ts/base';
+@import 'custom/layout';
+@import 'custom/header';
+@import 'custom/footer';
+@import 'custom/content';
+@import 'custom/print';

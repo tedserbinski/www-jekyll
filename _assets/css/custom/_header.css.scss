@@ -1,5 +1,5 @@
 #masthead {
-  border-bottom: 6px solid $lightgrey;
+  border-bottom: 6px solid $light-grey;
   height: 48px;
   margin: 0 0 $header-line-height * 2 -12px;
   img {
@@ -18,7 +18,7 @@
     text-rendering: optimizeLegibility;
     letter-spacing: -1px;
     a {
-      color: $darkblue;
+      color: $dark-blue;
       padding-bottom: 4px;
       &:hover {
         color: $blue;
@@ -40,12 +40,12 @@
       padding-bottom: 8px;
       text-rendering: optimizeLegibility;
       font-family: $sans-serif;
-      border-bottom: 6px solid $lightgrey;
+      border-bottom: 6px solid $light-grey;
       font-weight: 600;
       color: $blue;
       text-transform: uppercase;
       &:hover {
-        color: $darkblue;
+        color: $dark-blue;
         border-color: $yellow;
       }
     }
