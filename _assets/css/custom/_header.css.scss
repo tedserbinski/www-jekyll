@@ -1,11 +1,11 @@
 #masthead {
-  border-bottom: 6px solid $light-grey;
+  border-bottom: 6px solid $light-gray;
   height: 48px;
-  margin: 0 0 $header-line-height * 2 -12px;
+  margin: 0 0 $base-spacing * 1.5 -12px;
   img {
     float: left;
-    margin: -$header-line-height * .25 12px 0 -72px;
-    border:none;
+    margin: -$base-spacing * .25 12px 0 -72px;
+    border: none;
   }
   h1,
   h4 {
@@ -37,12 +37,13 @@
     height: 48px;
     a {
       line-height: 48px;
-      padding-bottom: 8px;
+      padding-bottom: 7px;
       text-rendering: optimizeLegibility;
       font-family: $sans-serif;
-      border-bottom: 6px solid $light-grey;
+      border-bottom: 6px solid $light-gray;
       font-weight: 600;
       color: $blue;
+      font-size: 18px;
       text-transform: uppercase;
       &:hover {
         color: $dark-blue;

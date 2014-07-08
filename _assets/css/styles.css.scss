@@ -1,20 +1,12 @@
-$visual-grid:false;
-
-$sans-serif: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-$sans-serif-2: 'Roboto', Tahoma, Helvetica, Arial, sans-serif;
-
-$base-font-family: $sans-serif;
-$header-font-family: $sans-serif-2;
-
-$dark-blue: #2c3e50;
-$blue: #2980b9;
-$yellow: #f1c40f;
-$yellow-light: #f7ff7f;
-$light-grey: #ecf0f1;
-
 @import 'vendor/normalize';
 @import 'vendor/bourbon/bourbon';
+
+
+$visual-grid: false;
+$max-width: em(960, 18); /* must load after bourbon */
+
 @import 'vendor/neat/neat';
+
 
 @import 'custom/base_ts/base';
 @import 'custom/layout';
@@ -22,3 +14,4 @@ $light-grey: #ecf0f1;
 @import 'custom/footer';
 @import 'custom/content';
 @import 'custom/print';
+@import 'custom/pygments';

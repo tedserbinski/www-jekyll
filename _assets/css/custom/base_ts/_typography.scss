@@ -42,10 +42,21 @@ p {
   margin: 0 0 ($base-spacing / 2);
 }
 
+::-moz-selection {
+  background-color:$light-yellow !important;
+}
+::selection{
+  background-color:$light-yellow !important;
+}
+
 a {
   @include transition(color 0.1s linear);
   color: $base-link-color;
   text-decoration: none;
+
+  &:visited {
+    color: $purple;
+  }
 
   &:hover {
     color: $hover-link-color;
@@ -80,8 +91,15 @@ blockquote {
 cite {
   color: lighten($base-font-color, 25);
   font-style: italic;
+  display: block;
+  font-size:$base-font-size * .75;
 
   &:before {
     content: '\2014 \00A0';
   }
+}
+
+mark {
+  background: #f7ff7f;
+  font-weight: 600;
 }
