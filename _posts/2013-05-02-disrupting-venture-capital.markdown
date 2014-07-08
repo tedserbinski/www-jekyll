@@ -5,6 +5,8 @@ description: "Read about how Detroit Venture Partners is disrupting venture capi
 tags: ["52 Lessons"]
 ---
 
+<p class="summary"><span>Summary:</span> Detroit Venture Partners is disrupting venture capital in Michigan. Here's why...</p>
+
 In my last post, I wrote about [the best startup advice I’ve ever gotten][1] — *think bigger*. Truly the best advice I’ve ever gotten and I encourage you to read that post if you haven’t already.
 
 And in my first post, I talked about [the entrepreneurial gold rush going on in Detroit and why I moved here from San Francisco][2]. Another great post to get even more perspective.

@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: Automatically Extracting Tags from Nodes
 created: 1258765856
@@ -10,7 +10,7 @@ However, there is still one common issue with these services: they really need n
 
 Try any of those services with user generated content and you'll see a common tag each time around: FAIL.
 
-We experimented with over 20,000 pieces of content on <a href="http://www.mothersclick.com">MothersClick</a> and our results showed that these semantic services weren't producing quality & relevant tags: rather, we were getting very little, if any relevant tags for our user generated content. 
+We experimented with over 20,000 pieces of content on <a href="http://www.mothersclick.com">MothersClick</a> and our results showed that these semantic services weren't producing quality & relevant tags: rather, we were getting very little, if any relevant tags for our user generated content.
 
 After a little more trial and error, I then noticed a simple pattern: more often than not, the title to a user's post usually had the most applicable keywords to what their post was about, rather than the body of the post.
 
@@ -26,7 +26,7 @@ If you're using Drupal and the <a href="http://drupal.org/project/active_tags">a
 
 {% highlight js %}
 /**
- * Automatically determine Drupal taxonomy tags based 
+ * Automatically determine Drupal taxonomy tags based
  * on the user entered form title.
  */
 Drupal.behaviors.autoTag = function() {
