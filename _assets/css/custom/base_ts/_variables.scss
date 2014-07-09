@@ -6,17 +6,10 @@ $base-font-family: $sans-serif;
 $header-font-family: $sans-serif-2;
 
 // Font Sizes
-$base-font-size: 1.25em;
-$h1-font-size: golden-ratio($base-font-size, 1);
-$h2-font-size: $base-font-size * 1.75;
-$h3-font-size: $base-font-size * 1.5;
-$h4-font-size: $base-font-size * 1.25;
-$h5-font-size: $base-font-size;
-$h6-font-size: $base-font-size;
+$base-font-size: 18px;
 
 // Line height
-$base-line-height: 1.5;
-$header-line-height: 1.25;
+$base-line-height: 1.5556; // http://www.pearsonified.com/typography/ : font-size: 18px, line-height: 28, width: 632
 
 // Other Sizes
 $base-border-radius: 3px;
@@ -37,7 +30,7 @@ $red: #c0392b;
 $purple: #8e44ad;
 
 // Background Color
-$base-background-color: white;
+$base-background-color: transparent; //white
 
 // Font Colors
 $base-font-color: $dark-gray;

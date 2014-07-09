@@ -5,5 +5,5 @@ body {
 #wrapper {
   @include span-columns(8);
   @include shift(2);
-  margin-top: $base-spacing * 2;
+  margin-top: $base-spacing * 1.5;
 }

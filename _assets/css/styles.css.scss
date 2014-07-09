@@ -1,9 +1,10 @@
 @import 'vendor/normalize';
 @import 'vendor/bourbon/bourbon';
+@import 'custom/base_ts/variables';
 
 
 $visual-grid: false;
-$max-width: em(960, 18); /* must load after bourbon */
+$max-width: em(960, $base-font-size); /* must load after bourbon */
 
 @import 'vendor/neat/neat';
 
