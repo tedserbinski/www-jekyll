@@ -4,6 +4,7 @@
 
 
 $visual-grid: false;
+$visual-line-height: true;
 $max-width: em(960, $base-font-size); /* must load after bourbon */
 
 @import 'vendor/neat/neat';
