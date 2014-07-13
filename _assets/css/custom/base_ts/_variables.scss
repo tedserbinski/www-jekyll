@@ -20,14 +20,14 @@ $base-z-index: 0;
 $blue: #2980b9;
 $dark-blue: #2c3e50;
 $dark-gray: #333;
-$medium-gray: #999;
+$medium-gray: #BFBFBF;
 $light-gray: #ecf0f1;
 $light-red: #FBE3E4;
 $yellow: #f1c40f;
 $light-yellow: #f7ff7f;
 $light-green: #E6EFC2;
-$red: #c0392b;
-$purple: #8e44ad;
+$red: #F22613;
+$purple: #7A2A9C;
 
 // Background Color
 $base-background-color: transparent; //white
@@ -37,7 +37,7 @@ $base-font-color: $dark-gray;
 $base-accent-color: $blue;
 
 // Link Colors
-$base-link-color: $base-accent-color;
+$base-link-color: $blue;
 $hover-link-color: $red;
 $visited-link-color: $purple;
 $base-button-color: $base-link-color;

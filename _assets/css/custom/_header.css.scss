@@ -12,7 +12,7 @@ $masthead-height: 56px;
   h1,
   h4 {
     width: 248px;
-    font-size: 28px;
+    font-size: 26px;
     height: $masthead-height;
     float: left;
     line-height: 52px;
@@ -24,6 +24,7 @@ $masthead-height: 56px;
     a {
       color: $dark-blue;
       padding-bottom: 6px;
+      border:none;
       &:hover {
         color: $blue;
         border-bottom: 6px solid $yellow;
