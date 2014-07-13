@@ -15,10 +15,12 @@ $masthead-height: 56px;
     font-size: 28px;
     height: $masthead-height;
     float: left;
-    line-height: 26px;
+    line-height: 52px;
     font-family: $sans-serif-2;
     text-rendering: optimizeLegibility;
     letter-spacing: -1px;
+    padding:0;
+    margin:0;
     a {
       color: $dark-blue;
       padding-bottom: 6px;
