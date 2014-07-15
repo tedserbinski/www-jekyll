@@ -68,18 +68,19 @@
 <body {% if page.pageid %} id="page-{{page.pageid}}"{% endif %}>
   <div id="wrapper">
 
-  {% include header.html %}
+    {% include header.html %}
 
-  {{ content }}
+    {{ content }}
 
-  <footer id="footer">
-    <h5>About</h5>
-    Follow me on <a href="http://twitter.com/tedserbinski">Twitter</a>.
-    Subscribe to my <a href="https://tinyletter.com/tedserbinski">Newsletter</a> and <a href="http://feeds.feedburner.com/tedserbinski-blog">RSS</a>.
-    &copy; 2006-{{ site.time | date: "%Y" }} Ted Serbinski. All rights reserved. Built in Detroit; Made in Michigan.
-  </footer>
+    <footer id="footer">
+      <h5>About</h5>
+      Follow me on <a href="http://twitter.com/tedserbinski">Twitter</a>.
+      Subscribe to my <a href="https://tinyletter.com/tedserbinski">Newsletter</a> and <a href="http://feeds.feedburner.com/tedserbinski-blog">RSS</a>.
+      &copy; 2006-{{ site.time | date: "%Y" }} Ted Serbinski. All rights reserved. Built in Detroit; Made in Michigan.
+    </footer>
 
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  </div>
+
   {% javascript script %}
 
   {% if site.prod %}
@@ -93,8 +94,6 @@
     ga('send', 'pageview');
   </script>
   {% endif %}
-
-  </div>
 </body>
 
 </html>
