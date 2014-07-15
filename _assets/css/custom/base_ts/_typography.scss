@@ -119,3 +119,11 @@ mark {
   background: #f7ff7f;
   font-weight: 600;
 }
+
+ul {
+  @extend %default-ul;
+}
+
+ol {
+  @extend %default-ol;
+}
