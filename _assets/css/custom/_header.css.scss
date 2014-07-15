@@ -1,5 +1,26 @@
 $masthead-height: 56px;
 
+// http://ryantvenge.com/2013/04/expanding-underline-navigation-with-css/
+@mixin expand-border($border-color, $link-color) {
+  &:after {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 0;
+    background: $border-color;
+    margin-top: 12px;
+    @include transition(height .2s, margin .2s);
+  }
+  &:hover,
+  &:focus {
+    color: $link-color;
+    &:after {
+      height: 6px;
+      margin-top: 6px;
+    }
+  }
+}
+
 #masthead {
   border-bottom: 6px solid $light-gray;
   height: $masthead-height;
@@ -8,52 +29,97 @@ $masthead-height: 56px;
     float: left;
     margin: -2px 12px 0 -72px;
     border: none;
+    visibility: hidden;
   }
   h1,
   h4 {
-    width: 248px;
+    width: auto;
+    display: inline-block;
     font-size: 26px;
     height: $masthead-height;
     float: left;
-    line-height: 52px;
     font-family: $sans-serif-2;
     text-rendering: optimizeLegibility;
     letter-spacing: -1px;
-    padding:0;
-    margin:0;
+    padding: 0;
+    margin: 8px 0 0 0;
+    line-height: 36px;
     a {
       color: $dark-blue;
-      padding-bottom: 6px;
-      border:none;
-      &:hover {
-        color: $blue;
-        border-bottom: 6px solid $yellow;
-      }
+      border: none;
+      @include expand-border($yellow, $blue);
     }
   }
   ul {
     text-align: right;
     height: $masthead-height;
+    padding-top: 16px;
   }
   li {
-    display: inline;
+    display: inline-block;
     width: auto;
     margin-left: 24px;
     height: $masthead-height;
     a {
-      line-height: 59px;
-      padding-bottom: 9px;
       text-rendering: optimizeLegibility;
       font-family: $sans-serif;
-      border-bottom: 6px solid $light-gray;
+      border: none;
       font-weight: 600;
       color: $blue;
       font-size: 18px;
       text-transform: uppercase;
-      &:hover {
-        color: $dark-blue;
-        border-color: $yellow;
-      }
+      @include expand-border($yellow, $dark-blue);
     }
+  }
+}
+
+
+// http://www.justinaguilar.com/animations/index.html
+.fadeIn {
+  animation-name: fadeIn;
+  -webkit-animation-name: fadeIn;
+
+  animation-duration: 1.5s;
+  -webkit-animation-duration: 1.5s;
+
+  animation-timing-function: ease-in-out;
+  -webkit-animation-timing-function: ease-in-out;
+
+  visibility: visible !important;
+}
+
+@keyframes fadeIn {
+  0% {
+    transform: scale(0);
+    opacity: 0.0;
+  }
+  60% {
+    transform: scale(1.1);
+  }
+  80% {
+    transform: scale(0.9);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes fadeIn {
+  0% {
+    -webkit-transform: scale(0);
+    opacity: 0.0;
+  }
+  60% {
+    -webkit-transform: scale(1.1);
+  }
+  80% {
+    -webkit-transform: scale(0.9);
+    opacity: 1;
+  }
+  100% {
+    -webkit-transform: scale(1);
+    opacity: 1;
   }
 }
