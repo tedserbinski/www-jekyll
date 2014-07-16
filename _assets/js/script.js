@@ -42,7 +42,15 @@ $(function() {
 
 
 $(document).ready(function() {
-  $('#logo').addClass('fadeIn');
+  // only show animated headshot once per browser session
+  if (!sessionStorage.loaded) {
+    $("#logo").addClass("fadeIn");
+    sessionStorage.loaded = true;
+  }
+  else {
+    $("#logo").css("visibility", "visible");
+  }
+
 
   // load Twitter JavaScript after page is loaded
   !function(d, s, id) {
