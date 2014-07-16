@@ -68,6 +68,7 @@ a {
   color: $base-link-color;
   text-decoration: none;
   border-bottom:1px solid $light-gray;
+  font-weight:600;
 
   &:visited {
     color: $visited-link-color;
