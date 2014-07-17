@@ -53,11 +53,11 @@ $(document).ready(function() {
   }
 
   // http://www.webtutorialplus.com/flyout-card-recommended-articles-jquery/
-  $('article.h-entry').waypoint(function(direction) {
+  $('section.e-content').waypoint(function(direction) {
     $('#flyout').toggleClass('hidden', direction === 'up');
   }, {
     offset: function () {
-      return $.waypoints('viewportHeight') - $(this).height() + 750; // 750px from bottom of the article
+      return $.waypoints('viewportHeight') - $(this).height() + 250; // 250px from bottom of the article
     }
   });
 
