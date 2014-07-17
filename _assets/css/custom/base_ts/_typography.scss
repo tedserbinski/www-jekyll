@@ -15,45 +15,35 @@ h1, h2, h3, h4, h5, h6 {
 
 // h1-h6 computed with: https://drewish.com/tools/vertical-rhythm/
 h1 {
-  font-size: 1.6667em; /* 30px */
-  line-height: 1.4000em; /* 42px */
-  margin-top: 0.4667em;
+  font-size: 1.5000em; /* 30px */
+  line-height: 1.0000; /* 30px */
+  margin-top: 1.0000em;
 }
 
 h2 {
-  font-size: 1.4444em; /* 26px */
-  line-height: 1.0769em; /* 28px */
-  margin-top: 0.5385em;
+  font-size: 1.3000em; /* 26px */
+  line-height: 1.1538; /* 30px */
+  margin: (1.1538 * 1.5em) 0 (1.1538 / 2 * 1em) 0;
 }
 
 h3 {
-  font-size: 1.2222em; /* 22px */
-  line-height: 1.2727em; /* 28px */
-  margin-top: 0.6364em;
+  font-size: 1.1000em; /* 22px */
+  line-height: 1.3636; /* 30px */
+  margin: (1.3636 * 1.5em) 0 (1.3636 / 2 * 1em) 0;
 }
 
-h4 {
-  font-size: 1.0000em; /* 18px */
-  line-height: 1.5556em; /* 28px */
-  margin-top: 0.7778em;
-}
-
-h5 {
-  font-size: 1.0000em; /* 18px */
-  line-height: 1.5556em; /* 28px */
-  margin-top: 0.7778em;
-}
-
+h4,
+h5,
 h6 {
-  font-size: 1.0000em; /* 18px */
-  line-height: 1.5556em; /* 28px */
-  margin-top: 0.7778em;
+  font-size: 1.0000em; /* 20px */
+  line-height: 1.5000; /* 30px */
+  margin: (1.5000 * 1.5em) 0 (1.5000 / 2 * 1em) 0;
 }
 
 p {
-  font-size: 1em; /* 18px */
-  line-height: 1.5556em; /* 28px */
-  margin: 0 0 1.5556em 0;
+  font-size: 1em; /* 20px */
+  line-height: 1.5000; /* 30px */
+  margin: 0 0 1.5000em 0;
 }
 
 ::-moz-selection {
@@ -99,7 +89,7 @@ img {
 }
 
 blockquote {
-  border-left: 2px solid $base-border-color;
+  border-left: 6px solid $light-gray;
   color: lighten($base-font-color, 15);
   margin: $base-spacing 0;
   padding-left: $base-spacing / 2;
@@ -109,10 +99,26 @@ cite {
   color: lighten($base-font-color, 25);
   font-style: italic;
   display: block;
-  font-size:$base-font-size * .75;
+  font-size: $base-font-size * .75; // 15px
+  line-height: 2; // 30px
 
   &:before {
     content: '\2014 \00A0';
+  }
+}
+
+blockquote.large {
+  border: none;
+  color: $dark-blue;
+  font-size: 1.3000em; /* 26px */
+  line-height: 1.1538; /* 30px */
+  margin: (1.5em) -3em (1.5em) -3em;
+  padding:0;
+  text-align: center;
+
+  cite {
+    font-size: $base-font-size;
+    line-height: $base-line-height;
   }
 }
 

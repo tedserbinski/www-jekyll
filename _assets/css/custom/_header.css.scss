@@ -1,4 +1,4 @@
-$masthead-height: 56px;
+$masthead-height: 60px;
 
 // http://ryantvenge.com/2013/04/expanding-underline-navigation-with-css/
 @mixin expand-border($border-color, $link-color) {
@@ -42,7 +42,7 @@ $masthead-height: 56px;
     text-rendering: optimizeLegibility;
     letter-spacing: -1px;
     padding: 0;
-    margin: 8px 0 0 0;
+    margin: 12px 0 0 0;
     line-height: 36px;
     a {
       color: $dark-blue;
@@ -53,7 +53,7 @@ $masthead-height: 56px;
   ul {
     text-align: right;
     height: $masthead-height;
-    padding-top: 16px;
+    padding-top: 18px;
   }
   li {
     display: inline-block;
