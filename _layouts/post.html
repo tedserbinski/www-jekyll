@@ -7,45 +7,37 @@ layout: default
   <article class="h-entry" itemscope itemprop="blogPost" itemtype="http://schema.org/BlogPosting">
     <header>
       <h1 class="p-name" itemprop="name">{{ page.title }}</h1>
-      <p class="date">
-        <a href="http://tedserbinski.com{{ page.url | remove: 'index.html' }}" rel="bookmark" title="permalink" class="u-url" itemprop="url">
-          <time class="dt-published" itemprop="datePublished" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>
-        </a>
-        | {{ content | reading_time | pluralize: "minute" }} to read
+      <p class="meta">
+        <span class="reading-time">◷ {{ content | reading_time | pluralize: "minute" }} to read</span> |
+        <span><a href="{{ page.next.url }}" title="{{ page.next.title }}">Next post &rarr;</a></span>
       </p>
     </header>
     <section class="e-content" itemprop="description articleBody">
       {{ content }}
     </section>
     <footer class="e-footer">
+      <p class="meta">
+        <a href="http://tedserbinski.com{{ page.url | remove: 'index.html' }}" rel="bookmark" title="permalink" class="u-url" itemprop="url">
+          <time class="dt-published" itemprop="datePublished" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>
+        </a>
+         --
+        {% for tag in page.tags %}
+          <a href="/archive/index.html#{{ tag | uri_escape }}" class="p-category" rel="tag">{{ tag }}</a>
+        {% endfor %}
 
-
-      {% for tag in page.tags %}
-        <a href="/archive/index.html#{{ tag | uri_escape }}" class="p-category" rel="tag">{{ tag }}</a>
-      {% endfor %}
+      </p>
 
       {% include share-subscribe.html %}
     </footer>
     <section>
-      <ul>
-      {% if page.previous %}
-        <li class="prev"><a href="{{ page.previous.url }}" class="btn" title="{{ page.previous.title }}">&larr; Previous Post</a></li>
-      {% endif %}
-        <li><a href="/archive.html" class="btn">Post Archive</a></li>
-      {% if page.next %}
-        <li class="next"><a href="{{ page.next.url }}" class="btn" title="{{ page.next.title }}">Next Post &rarr;</a></li>
-      {% endif %}
-      </ul>
+      <h4>Read this next</h4>
+      <p><a href="{{ page.next.url }}" title="{{ page.next.title }}">{{ page.next.title }} &rarr;</a></p>
     </section>
     <section id="disqus_thread" class="p-comment" itemprop="comment" data-disqus-shortname="tedserbinski" data-disqus-url="http://tedserbinski.com{{ page.url | remove: 'index.html' }}">
     </section>
   </article>
 
 </main>
-
-<aside role="complementary">
-  <h4>Top Posts</h4>
-</aside>
 
 <aside id="flyout" class="hidden">
   <a href="https://twitter.com/tedserbinski"
