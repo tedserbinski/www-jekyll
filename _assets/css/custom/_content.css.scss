@@ -1,3 +1,21 @@
+p.meta {
+  color: lighten($dark-gray, 20%);
+  font-size: 0.8em;
+  line-height: 1.875; // 0.8 * 20px = 16 => 30 / 18 = 1.875
+  font-style: italic;
+  margin: (1.875 / 2 * 0.5em) 0 (1.875 * 0.75em) 0;
+
+  a {
+    color: lighten($dark-gray, 30%);
+    font-weight:400;
+
+    &:hover {
+      color: $hover-link-color;
+      border-color: $medium-gray;
+    }
+  }
+}
+
 #flyout {
   background: rgba(236, 240, 241, 0.9);
   border: 1px solid $dark-gray;
