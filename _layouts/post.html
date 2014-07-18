@@ -17,6 +17,9 @@ layout: default
     <section class="e-content" itemprop="description articleBody">
       {{ content }}
     </section>
+
+    <hr class="end">
+
     <footer class="e-footer">
       <p class="meta">
         <a href="http://tedserbinski.com{{ page.url | remove: 'index.html' }}" rel="bookmark" title="permalink" class="u-url" itemprop="url">
@@ -26,14 +29,12 @@ layout: default
         {% for tag in page.tags %}
           <a href="/archive/index.html#{{ tag | uri_escape }}" class="p-category" rel="tag">{{ tag }}</a>
         {% endfor %}
-
       </p>
-
-      {% include share-subscribe.html %}
     </footer>
-    <section>
+
+    <section class="next">
       {% if page.next %}
-      <h4>Read this next</h4>
+      <h4><mark>Read this next:</mark></h4>
       <p><a href="{{ page.next.url }}" title="{{ page.next.title }}">{{ page.next.title }} &rarr;</a></p>
       {% endif %}
     </section>
@@ -44,18 +45,25 @@ layout: default
 </main>
 
 <aside id="flyout" class="hidden">
-  <a href="https://twitter.com/tedserbinski"
-    class="twitter-follow-button"
-    data-show-count="true"
-    data-size="large"
-    rel="me">Follow @tedserbinski</a>
-
-  <a href="https://twitter.com/share"
-    class="twitter-share-button"
-    data-lang="en"
-    data-size="large"
-    data-count="none"
-    data-url="http://tedserbinski.com{{ page.url | remove: 'index.html' }}?utm_medium=social&amp;utm_source=twitter&amp;utm_campaign=sharebtnfly"
-    data-via="tedserbinski"
-    data-text="Great post! &gt; {{ page.title }}">Tweet</a>
+  <section>
+    <h4><mark>Like this post? Share it!</mark></h4>
+    <p>{{ page.title }} by @TedSerbinski</p>
+    <a href="https://twitter.com/share"
+      class="twitter-share-button"
+      data-lang="en"
+      data-size="large"
+      data-count="none"
+      data-url="http://tedserbinski.com{{ page.url | remove: 'index.html' }}?utm_medium=social&amp;utm_source=twitter&amp;utm_campaign=sharebtnfly"
+      data-via="tedserbinski"
+      data-text="Great post! &gt; {{ page.title }}">Tweet</a>
+  </section>
+  <section class="bottom">
+    <div id="twitter-follow">
+      <a href="https://twitter.com/tedserbinski"
+        class="twitter-follow-button"
+        data-show-count="true"
+        data-size="large"
+        rel="me">Follow @tedserbinski</a>
+    </div>
+  </section>
 </aside>
