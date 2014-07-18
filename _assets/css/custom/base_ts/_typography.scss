@@ -22,14 +22,19 @@ h1 {
 
 h2 {
   font-size: 1.3000em; /* 26px */
-  line-height: 1.1538; /* 30px */
-  margin: (1.1538 * 1.5em) 0 (1.1538 / 2 * 1em) 0;
+  line-height: 1.1539; /* 30px */  // round last digit up one to correct line-height off 1 issues
+  margin: (1.1538 * 2em) 0 (1.1538 * 1em) 0;
 }
 
 h3 {
   font-size: 1.1000em; /* 22px */
-  line-height: 1.3636; /* 30px */
-  margin: (1.3636 * 1.5em) 0 (1.3636 / 2 * 1em) 0;
+  line-height: 1.3637; /* 30px */  // round last digit up one to correct line-height off 1 issues
+  margin: (1.3636 * 2em) 0 (1.3636 * 1em) 0;
+}
+
+h2+h3,
+h3+h4 {
+  margin-top: 0;
 }
 
 h4,
@@ -37,7 +42,7 @@ h5,
 h6 {
   font-size: 1.0000em; /* 20px */
   line-height: 1.5000; /* 30px */
-  margin: (1.5000 * 1.5em) 0 (1.5000 / 2 * 1em) 0;
+  margin: (1.5000 * 2em) 0 (1.5000 * 1em) 0;
 }
 
 p {
@@ -90,7 +95,10 @@ img {
 
 blockquote {
   border-left: 6px solid $light-gray;
-  color: lighten($base-font-color, 15);
+  color: $dark-blue;
+  font-weight: 600;
+  font-size: 0.9em;
+  line-height: 1.668; // 0.9em * 20px = 18px -> 30px / 20px = 1.667   // round last digit up one to correct line-height off 1 issues
   margin: $base-spacing 0;
   padding-left: $base-spacing / 2;
 }
@@ -125,12 +133,4 @@ blockquote.large {
 mark {
   background: #f7ff7f;
   font-weight: 600;
-}
-
-ul {
-  @extend %default-ul;
-}
-
-ol {
-  @extend %default-ol;
 }

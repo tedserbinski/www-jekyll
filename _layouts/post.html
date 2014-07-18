@@ -8,8 +8,10 @@ layout: default
     <header>
       <h1 class="p-name" itemprop="name">{{ page.title }}</h1>
       <p class="meta">
-        <span class="reading-time">◷ {{ content | reading_time | pluralize: "minute" }} to read</span> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
-        <span><a href="{{ page.next.url }}" title="{{ page.next.title }}">Next post &rarr;</a></span>
+        <span class="reading-time">◷ {{ content | reading_time | pluralize: "minute" }} to read</span>
+        {% if page.next %}
+        &nbsp;&nbsp;⁓&nbsp;&nbsp; <span><a href="{{ page.next.url }}" title="{{ page.next.title }}">Next post &rarr;</a></span>
+        {% endif %}
       </p>
     </header>
     <section class="e-content" itemprop="description articleBody">
@@ -20,7 +22,7 @@ layout: default
         <a href="http://tedserbinski.com{{ page.url | remove: 'index.html' }}" rel="bookmark" title="permalink" class="u-url" itemprop="url">
           <time class="dt-published" itemprop="datePublished" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>
         </a>
-         --
+         &nbsp;&nbsp;⁓&nbsp;&nbsp;
         {% for tag in page.tags %}
           <a href="/archive/index.html#{{ tag | uri_escape }}" class="p-category" rel="tag">{{ tag }}</a>
         {% endfor %}
@@ -30,8 +32,10 @@ layout: default
       {% include share-subscribe.html %}
     </footer>
     <section>
+      {% if page.next %}
       <h4>Read this next</h4>
       <p><a href="{{ page.next.url }}" title="{{ page.next.title }}">{{ page.next.title }} &rarr;</a></p>
+      {% endif %}
     </section>
     <section id="disqus_thread" class="p-comment" itemprop="comment" data-disqus-shortname="tedserbinski" data-disqus-url="http://tedserbinski.com{{ page.url | remove: 'index.html' }}">
     </section>
