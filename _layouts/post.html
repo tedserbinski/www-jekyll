@@ -38,8 +38,7 @@ layout: default
       <p><a href="{{ page.next.url }}" title="{{ page.next.title }}">{{ page.next.title }} &rarr;</a></p>
       {% endif %}
     </section>
-    <section id="disqus_thread" class="p-comment" itemprop="comment" data-disqus-shortname="tedserbinski" data-disqus-url="http://tedserbinski.com{{ page.url | remove: 'index.html' }}">
-    </section>
+    <section id="disqus_thread" class="p-comment" itemprop="comment" data-disqus-shortname="tedserbinski" data-disqus-url="http://tedserbinski.com{{ page.url | remove: 'index.html' }}"></section>
   </article>
 
 </main>
@@ -55,7 +54,7 @@ layout: default
       data-count="none"
       data-url="http://tedserbinski.com{{ page.url | remove: 'index.html' }}?utm_medium=social&amp;utm_source=twitter&amp;utm_campaign=sharebtnfly"
       data-via="tedserbinski"
-      data-text="Great post! &gt; {{ page.title }}">Tweet</a>
+      data-text="Great post! &ldquo;{{ page.title }}&rdquo;">Tweet</a>
   </section>
   <section class="bottom">
     <div id="twitter-follow">
