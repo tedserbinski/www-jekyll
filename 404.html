@@ -34,8 +34,8 @@ layout: nil
     }
 
     body {
-    	max-width:500px;
-    	_width:500px;
+    	max-width:524px;
+    	_width:524px;
     	padding:30px 20px 50px;
     	border:1px solid #b3b3b3;
     	border-radius:4px;
@@ -44,6 +44,7 @@ layout: nil
     	background:#ecf0f1;
     	font-family: "HelveticaNeue", Helvetica, Arial, sans-serif;
       text-rendering: optimizeLegibility;
+      font-size:16px;
     }
 
     h1 {
@@ -62,6 +63,12 @@ layout: nil
 
     p {
     	margin:1em 0;
+    }
+
+    #copyright {
+      border-top:1px solid #95a5a6;
+      margin-top:2em;
+      padding:1em;
     }
 
     ul {
@@ -164,11 +171,9 @@ layout: nil
     {% endfor %}
     </ul>
 
-  </div>
+    <p id="copyright">&copy; 2006-{{ site.time | date: "%Y" }} Ted Serbinski. All rights reserved. Made in Detroit, Michigan.</p>
 
-  <footer id="footer">
-    Follow me on <a href="http://twitter.com/tedserbinski">Twitter</a>. Subscribe to my <a href="https://tinyletter.com/tedserbinski">Newsletter</a> and <a href="http://feeds.feedburner.com/tedserbinski-blog">RSS</a>.<br>&copy;2006-{{ site.time | date: '%Y' }} <a href="https://plus.google.com/107707246099022430019?rel=author" rel="author">Ted Serbinski</a>.
-  </footer>
+  </div>
 
   {% if site.prod %}
   <script>
