@@ -19,7 +19,7 @@
   }
 
   #callout {
-    background: rgba(24, 24, 24, 0.8);
+    background: rgba(255, 255, 255, 0.85);
     height: 524px;
     @include span-columns(5 of 12);
     @include shift();
@@ -30,11 +30,7 @@
     h2 {
       font-size: 1.5em;
       margin: 0 0 1.5em 0;
-      color: #fff;
       line-height: 1.5;
-    }
-    label {
-      color: #fff;
     }
     label,
     input,
@@ -48,10 +44,10 @@
       width: auto;
     }
     button {
-      background: $light-green;
+      background: $green;
     }
     button:hover {
-      background: $green;
+      background: $light-green;
     }
   }
   section.column {
