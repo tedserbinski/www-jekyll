@@ -25,10 +25,12 @@ layout: default
         <a href="http://tedserbinski.com{{ page.url | remove: 'index.html' }}" rel="bookmark" title="permalink" class="u-url" itemprop="url">
           <time class="dt-published" itemprop="datePublished" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>
         </a>
+        {% comment %}
          &nbsp;&nbsp;⁓&nbsp;&nbsp;
         {% for tag in page.tags %}
           <a href="/archive/index.html#{{ tag | uri_escape }}" class="p-category" rel="tag">{{ tag }}</a>
         {% endfor %}
+        {% endcomment %}
       </p>
     </footer>
 
