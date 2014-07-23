@@ -43,8 +43,10 @@ $(function() {
 
 
 $(document).ready(function() {
-  // only show animated headshot once per browser session
-  if (!sessionStorage.loaded) {
+  var homepage = $(location).attr('pathname') == '/';
+
+  // only show animated headshot once per browser session, don't include homepage
+  if (!sessionStorage.loaded && !homepage) {
     $('#logo').addClass('fadeIn');
     sessionStorage.loaded = true;
   }
