@@ -11,10 +11,11 @@ assets:
   baseurl: /assets/
   sources:
     - _assets/js
+    - _assets/js/vendor
     - _assets/css
     - _assets/img
+    - _assets/img/headshots
     - _assets/img/posts
-    - _assets/img/portfolio-logos
   js_compressor: uglifier
   css_compressor: sass
   cachebust: soft # don't rename images that might be hotlinked from syndication partners
