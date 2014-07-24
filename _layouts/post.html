@@ -45,26 +45,4 @@ layout: default
 
 </main>
 
-<aside id="flyout" class="hidden">
-  <section>
-    <h4><mark>Like this post? Share it!</mark></h4>
-    <p>{{ page.title }} by @TedSerbinski</p>
-    <a href="https://twitter.com/share"
-      class="twitter-share-button"
-      data-lang="en"
-      data-size="large"
-      data-count="none"
-      data-url="http://tedserbinski.com{{ page.url | remove: 'index.html' }}?utm_medium=social&amp;utm_source=twitter&amp;utm_campaign=sharebtnfly"
-      data-via="tedserbinski"
-      data-text="Great post! &ldquo;{{ page.title }}&rdquo;">Tweet</a>
-  </section>
-  <section class="bottom">
-    <div id="twitter-follow">
-      <a href="https://twitter.com/tedserbinski"
-        class="twitter-follow-button"
-        data-show-count="true"
-        data-size="large"
-        rel="me">Follow @tedserbinski</a>
-    </div>
-  </section>
-</aside>
+{% include flyout.html param="post" %}

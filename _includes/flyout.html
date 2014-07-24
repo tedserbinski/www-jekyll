@@ -1,0 +1,44 @@
+<aside id="flyout" class="hidden">
+
+  {% if include.param == 'post' %}
+  <section>
+    <h4><mark>Like this post? Share it!</mark></h4>
+    <p>{{ page.title }} by @TedSerbinski</p>
+    <a href="https://twitter.com/share"
+      class="twitter-share-button"
+      data-lang="en"
+      data-size="large"
+      data-count="none"
+      data-url="http://tedserbinski.com{{ page.url | remove: 'index.html' }}?utm_medium=social&amp;utm_source=twitter&amp;utm_campaign=sharebtnfly"
+      data-via="tedserbinski"
+      data-text="Great post! &ldquo;{{ page.title }}&rdquo;">Tweet</a>
+  </section>
+  {% endif %}
+
+  <section>
+    {% if include.param == 'post' %}
+    <h4>Join My Newsletter</h4>
+    {% else %}
+    <h4><mark>Join My Newsletter</mark></h4>
+    {% endif %}
+
+    <form action="//tedserbinski.us8.list-manage.com/subscribe/post?u=71ad9613efdfc7e1af5e08cf1&amp;id=95f2c0915d" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+	     <label for="mce-EMAIL">Signup today for free email updates.</label>
+	     <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+       <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+       <div style="position: absolute; left: -5000px;"><input type="text" name="b_71ad9613efdfc7e1af5e08cf1_95f2c0915d" tabindex="-1" value=""></div>
+       <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+    </form>
+  </section>
+
+  <section class="bottom">
+    <div id="twitter-follow">
+      <a href="https://twitter.com/tedserbinski"
+        class="twitter-follow-button"
+        data-show-count="true"
+        data-size="large"
+        rel="me">Follow @tedserbinski</a>
+    </div>
+  </section>
+
+</aside>
