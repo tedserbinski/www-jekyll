@@ -76,4 +76,22 @@ $(document).ready(function() {
     }
   }(document, 'script', 'twitter-wjs');
 
+
+  // add Christmas decorations from Thanksgiving to the Epiphany
+  !function() {
+    var today = new Date();
+    var thisYear = today.getFullYear();
+    var thanksgivingDay = function(year) {
+      var day_of_week, first;
+      first = new Date(year, 10, 1);
+      day_of_week = first.getDay();
+      return 22 + (11 - day_of_week) % 7;
+    };
+    var dayAfterThanksgiving = new Date(thisYear, 10, thanksgivingDay(thisYear) + 1);
+
+    // today's date is after thanksgiving or before/on Jan 6, Epiphany
+    if ((today >= dayAfterThanksgiving) || (today.getMonth() == 0 && today.getDate() < 7)) {
+      $('body').css({'margin-top': '2em', 'background': 'url(<%= asset_path "christmas-lights.png" %>) repeat-x' });
+    }
+  }();
 });

@@ -13,6 +13,7 @@ assets:
     - _assets/js
     - _assets/js/vendor
     - _assets/css
+    - _assets/css/custom
     - _assets/img
     - _assets/img/headshots
     - _assets/img/posts
