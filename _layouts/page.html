@@ -14,12 +14,10 @@ layout: default
       {{ content }}
     </section>
 
-    <footer class="e-footer">
-
-    </footer>
-
   </article>
 
 </main>
 
+{% if page.show_flyout %}
 {% include flyout.html param="page" %}
+{% endif %}

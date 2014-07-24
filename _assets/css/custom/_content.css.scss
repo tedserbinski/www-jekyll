@@ -1,3 +1,21 @@
+section.e-content figure {
+  margin:0 0 $base-spacing 0;
+
+  &.wide {
+    width: 855px;
+    margin-left: -90px;
+  }
+
+  img {
+    width: 100%;
+  }
+
+  figcaption {
+    font-size: 75%;
+    text-align: center;
+  }
+}
+
 p.meta {
   color: lighten($dark-gray, 20%);
   font-size: 0.8em;

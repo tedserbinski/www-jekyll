@@ -1,0 +1,19 @@
+---
+layout: page
+show_flyout: true
+flyout: inline
+---
+
+<p>These are the lessons I've learned from being an open source hacker, founder and now venture capitalist, whose helping to rebuild Detroit.</p>
+<p><a href="/contact/">Email me any suggestions, comments, or critiques</a> and enjoy my lessons learned!</p>
+
+<hr>
+
+<h3>Startup Lessons</h3>
+<ol>
+{% for post in site.tags["52 Lessons"] reversed %}
+<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ol>
+
+<small>Started on April 7, 2013</small>

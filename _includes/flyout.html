@@ -1,4 +1,8 @@
+{% if page.flyout == 'inline' %}
+<aside id="flyout" class="inline">
+{% else %}
 <aside id="flyout" class="hidden">
+{% endif %}
 
   {% if include.param == 'post' %}
   <section>
