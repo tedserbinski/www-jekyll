@@ -2,6 +2,7 @@
 
 max_age:
   "assets/*": 314496000
+  "*.ico": 2592000
   "*.html": 43200
   "*": 86400
 
@@ -12,6 +13,7 @@ gzip:
   - .js
   - .txt
   - .xml
+  - .ico
 
 cloudfront_invalidate_root: true
 
