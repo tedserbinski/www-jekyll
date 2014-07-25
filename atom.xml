@@ -17,10 +17,13 @@ layout: nil
 	{% for post in site.posts %}
 	<entry>
 		<title>{{ post.title | xml_escape }}</title>
-		<link href="http://tedserbinski.com{{ post.url }}"/>
+		<link href="http://tedserbinski.com{{ post.url }}?utm_medium=feed&amp;utm_source=rss&amp;utm_campaign=link"/>
 		<updated>{{ post.date | date_to_xmlschema }}</updated>
 		<id>http://tedserbinski.com{{ post.id }}</id>
-		<content type="html">{{ post.content | xml_escape }}</content>
+		<content type="html">
+			{{ post.content | xml_escape }}
+			<p>The post <a href="http://tedserbinski.com{{ post.url }}?utm_medium=feed&amp;utm_source=rss&amp;utm_campaign=footerlink">{{ post.title | xml_escape }}</a> appeared first on <a href="http://tedserbinski.com/?utm_medium=feed&amp;utm_source=rss&amp;utm_campaign=footerlink">Ted Serbinski</a>.</p>
+		</content>
 	</entry>
 	{% endfor %}
 </feed>
