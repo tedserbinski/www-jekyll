@@ -40,30 +40,25 @@
   <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
 
-  <!-- Windows 8: see http://msdn.microsoft.com/en-us/library/ie/dn255024%28v=vs.85%29.aspx for details -->
-  <meta name="application-name" content="Ted Serbinski">
-  <meta name="msapplication-TileColor" content="">
-  <meta name="msapplication-TileImage" content="">
-  <meta name="msapplication-square150x150logo" content="">
-  <meta name="msapplication-square310x310logo" content="">
-  <meta name="msapplication-square70x70logo" content="">
-  <meta name="msapplication-wide310x150logo" content="">
-  <!-- Twitter: see https://dev.twitter.com/docs/cards/types/summary-card for details -->
+  {% if page.social_photo %}
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image:src" content="{{ page.social_photo | asset_path }}">
+  {% else %}
   <meta name="twitter:card" content="summary">
+  {% endif %}
   <meta name="twitter:site" content="@tedserbinski">
   <meta name="twitter:creator" content="@tedserbinski">
   <meta name="twitter:title" content="{{ page.title }}">
+  <meta name="twitter:domain" content="tedserbinski.com">
   <meta name="twitter:description" content="{{ desc | truncate:200 }}">
   <meta name="twitter:url" content="http://tedserbinski.com{{ page.url | remove: 'index.html' }}">
-  <meta name="twitter:image" content="">
-  <!-- Facebook (and some others) use the Open Graph protocol: see http://ogp.me/ for details -->
   <meta property="og:type" content="article">
   <meta property="og:site_name" content="Ted Serbinski">
   <meta property="article:author" content="https://www.facebook.com/tedserbinski">
   <meta property="og:title" content="{{ page.title }}">
   <meta property="og:description" content="{{ desc | truncate:200 }}">
   <meta property="og:url" content="http://tedserbinski.com{{ page.url | remove: 'index.html' }}">
-  <meta property="og:image" content="">
+  {% if page.social_photo %}<meta property="og:image" content="{{ page.social_photo | asset_path }}">{% endif %}
 </head>
 
 <body {% if page.pageid %} id="page-{{page.pageid}}"{% endif %}>
