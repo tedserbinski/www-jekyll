@@ -2,7 +2,7 @@
 layout: post
 title: "Detroit's Startup Tech Resurgence: Be Part of the Inaugural Tech Week"
 description: "Detroit's inaugural Techweek will be May 19-25, 2014, in downtown Detroit."
-tags: ["52 Lessons", "Detroit"]
+tags: ["startups", "detroit"]
 ---
 
 Detroit's inaugural Techweek celebration will take place May 19-25th in downtown Detroit. [Sign up here](http://techweek.com/detroit/) and be part of the largest tech conference for entrepreneurs in Detroit.

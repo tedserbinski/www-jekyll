@@ -2,7 +2,7 @@
 layout: post
 title: "Disrupting Venture Capital"
 description: "Read about how Detroit Venture Partners is disrupting venture capital in Michigan."
-tags: ["52 Lessons"]
+tags: ["startups", "vc"]
 ---
 
 <p class="summary"><span>Summary:</span> Detroit Venture Partners is disrupting venture capital in Michigan. Here's why...</p>

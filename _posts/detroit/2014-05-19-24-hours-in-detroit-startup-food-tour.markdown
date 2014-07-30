@@ -2,7 +2,7 @@
 layout: post
 title: "24 Hours in Detroit: A Startup & Food Tour"
 description: "Visiting Detroit for the day? Check out this must-see list of startup places and restaurants."
-tags: ["52 Lessons", "Detroit"]
+tags: ["startups", "detroit"]
 ---
 
 I get a lot of inquiries from terrific startup folks around the country. Many mention they will be in Detroit for the day and want to get a good sense of the startup ecosystem. They want to see what [Detroit's entrepreneurial gold rush](http://tedserbinski.com/the-entrepreneurial-gold-rush-why-i-moved-from-san-francisco-to-detroit/) is all about. To help them, I started sharing a quick guide to Detroit by email and it’s grown over time.

@@ -1,17 +1,17 @@
---- 
+---
 layout: post
 title: Top Tier Gasoline
 created: 1150560192
-category: bmw
-tag: top
+category: cars
+tag: "top post"
 ---
 <em>This blog post has been featured in the <a href="http://www.pcafcr.org/klatsch/2007/Klatsch_newsletter_Aug_07_v3.pdf">August 2007 issue of Klatsch</a>, the  <a href="http://www.pcafcr.org/">Florida Crown Region Porsche Club</a> newsletter.</em>
 
-In the November 2005 issue of <a href="http://www.bmwcca.org/members/am/template.cfm?section=roundel">BMW CCA's Roundel</a> magazine, there was a fantastic article written about gasoline and what you're really pumping into your car each time you fill it up. 
+In the November 2005 issue of <a href="http://www.bmwcca.org/members/am/template.cfm?section=roundel">BMW CCA's Roundel</a> magazine, there was a fantastic article written about gasoline and what you're really pumping into your car each time you fill it up.
 
 So what <em>do you really</em> put into your car each time you fill it up?
 
-From a chemical standpoint, gasoline is simply a mixture of hyrdocarbons, with the most widely known of these being octane, ya know, that 87 or 93 number you see on the yellow sticker at the gas pump. 
+From a chemical standpoint, gasoline is simply a mixture of hyrdocarbons, with the most widely known of these being octane, ya know, that 87 or 93 number you see on the yellow sticker at the gas pump.
 
 Does it really matter which octane rating (or number) you really select? Most certainly. The octane rating is "nothing more than an index of a motor fuel's ability to resist knocking or pinging, so called for the sounds that the engine may make. Knock is also known as pre-ignition," explains Doug McGregor, an emissions compliance engineer for <a href="http://www.bmwusa.com/">BMW NA</a>. "It's what happens when the combustion process occurs too early, when there is not a gentle rise in the combustion process... Engine knock at it's worse can seriously damage an engine." Not good at all! This happens when the fuel/air mixture ignites before the spark plug fires, often as a result using a low octane rated gasoline, which is ignited by heat and compression. Hence the reason you see race cars using gasoline with an octane rating of 110 or higher; their engines are operating at such high RPMs and generating so much heat, they need a higher octane rated fuel to prevent knocking. [1]
 

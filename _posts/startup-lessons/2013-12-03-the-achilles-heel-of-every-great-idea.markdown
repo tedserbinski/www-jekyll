@@ -1,9 +1,7 @@
 ---
 layout: post
 title: "The Achilles Heel of Every Great Idea"
-description: " "
-category:
-tags: ["52 Lessons"]
+tags: ["startups", "ideas"]
 ---
 
 ![The value of an idea lies in the using of it. - Thomas Edison][image-1]

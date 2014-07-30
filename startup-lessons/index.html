@@ -12,9 +12,9 @@ description: "Startup lessons from Ted Serbinski, an entreprenuer and open sourc
 
 <hr>
 
-<h3>Startup Lessons</h3>
+<h2>Startup Lessons</h2>
 <ol>
-{% for post in site.tags["52 Lessons"] reversed %}
+{% for post in site.categories["startup-lessons"] reversed %}
 <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ol>

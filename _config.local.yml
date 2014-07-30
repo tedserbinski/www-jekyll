@@ -1,4 +1,4 @@
-permalink: /:categories/:title/
+permalink: /:title/
 
 lsi: false
 

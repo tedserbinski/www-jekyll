@@ -2,7 +2,7 @@
 layout: post
 title: "The One Competitor Your Startup Forgot About"
 description: "Every startup has competition, but most startups, forget about this one competitor."
-tags: ["52 Lessons"]
+tags: ["startups", "competition"]
 ---
 
 ![Now Leaving Status Quo: The Place that Never Changes][image-1]
@@ -80,4 +80,3 @@ So if you're reading this and are in a startup, here are the cliff notes about s
 - Lastly, it took about 6 years for this entire social networking space for moms to mature. 2 business are still standing strong: CafeMom and PopSugar. Some were acquired (including us), and many shutdown. That's true of competition in any market: stay in business, be acquired, or shutdown.
 
 [image-1]: {% asset_path status_quo.jpg %} "Now Leaving Status Quo"
-

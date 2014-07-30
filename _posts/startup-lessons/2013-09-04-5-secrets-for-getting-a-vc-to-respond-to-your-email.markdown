@@ -2,7 +2,7 @@
 layout: post
 title: "5 Secrets for Getting a VC to Respond to Your Email"
 description: "Read on for 5 tips on how to compose an email to get a response."
-tags: ["52 Lessons"]
+tags: ["startups", "vc", "email"]
 ---
 
 I get a lot of email. I mean a lot. Close to 100,000 emails last year.

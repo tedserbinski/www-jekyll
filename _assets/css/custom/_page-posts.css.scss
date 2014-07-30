@@ -1,0 +1,13 @@
+#postnav {
+  margin-top: $base-spacing * 2;
+  width: 100%;
+
+  li {
+    display: inline-block;
+    width: auto;
+    background: $light-gray;
+    padding: 6px;
+    margin-right:2px;
+    height: 42px;
+  }
+}

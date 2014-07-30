@@ -2,7 +2,7 @@
 layout: post
 title: "24 Business Insights I’ve Learned from Billionaire Dan Gilbert"
 description: "The top 24 business insights I've learned working alongside Dan Gilbert for 2 years."
-tags: ["52 Lessons"]
+tags: ["startups", "detroit"]
 ---
 
 [I moved to Detroit a little more than 2 years ago](http://tedserbinski.com/the-entrepreneurial-gold-rush-why-i-moved-from-san-francisco-to-detroit/), joining Detroit Venture Partners (DVP). While here, I've had the pleasure to work alongside billionaire Dan Gilbert, [#118 on the Forbes 400](http://www.forbes.com/profile/daniel-gilbert/), whose a General Partner in our fund.

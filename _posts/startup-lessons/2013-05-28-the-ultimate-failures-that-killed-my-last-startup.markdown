@@ -2,7 +2,7 @@
 layout: post
 title: "The Ultimate Failures that Killed My Last Startup"
 description: "This is a story about the final failures that ultimately killed my last startup, ParentsClick."
-tags: ["52 Lessons", "feature"]
+tags: ["startups", "lessons", "top post"]
 ---
 
 *This is a story that has never been shared in its entirety. Despite a successful [sale of our startup, ParentsClick, to Lifetime Television in 2008](https://www.google.com/search?q=lifetime+parentsclick&oq=lifetime+parentsclick), eventually it became a massive failure that very few people know about. I was a co-founder and CTO of ParentsClick, starting in 2006.*
