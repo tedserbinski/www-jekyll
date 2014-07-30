@@ -36,8 +36,11 @@ $(function() {
         }
       };
 
-    $(window).scroll(check);
-    check();
+    // only load comments on iPad and larger displays
+    if (window.matchMedia("(min-width: 768px)").matches) {
+      $(window).scroll(check);
+      check();
+    }
   }
 });
 
@@ -54,12 +57,13 @@ $(document).ready(function() {
     $('#logo').css('visibility', 'visible');
   }
 
+
   // http://www.webtutorialplus.com/flyout-card-recommended-articles-jquery/
   $('section.e-content').waypoint(function(direction) {
     $('#flyout').toggleClass('hidden', direction === 'up');
   }, {
     offset: function () {
-      return $.waypoints('viewportHeight') - $(this).height() + 250; // 250px from bottom of the article
+      return $.waypoints('viewportHeight') - $(this).height() + 200; // 200px from bottom of the article
     }
   });
 

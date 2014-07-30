@@ -1,0 +1,79 @@
+// iPhone 5 in portrait & landscape
+$mobile:new-breakpoint(min-width 320px max-width 568px);
+// iPad in portrait & landscape
+$tablet:new-breakpoint(min-width 768px max-width 1024px);
+
+@include media($mobile) {
+  body {
+    font-size: 16px;
+  }
+  #wrapper {
+    margin-top: $base-spacing;
+    @include span-columns(10);
+    @include shift();
+  }
+  #masthead {
+    height: 120px;
+    margin: 0;
+    padding-bottom: 128px;
+    img {
+      margin: 0 0 0 38px;
+    }
+    h1,
+    h4 {
+      margin-top: 24px;
+    }
+    ul {
+      text-align: center;
+      clear: both;
+      margin: 0 0 0 16px;
+      padding: 0;
+      li {
+        margin: 0 16px 0 0;
+        a:hover, a:focus, a:after {
+          border: none;
+          background: none;
+        }
+      }
+    }
+  }
+  #flyout {
+    position: relative;
+    transition: none;
+    top: 0;
+    right: 0;
+    width: auto;
+    border-radius: 0;
+    h4, p {
+      font-size: 1em;
+    }
+    input,
+    label {
+      font-size: 90%;
+    }
+    section.bottom {
+      background: none;
+    }
+  }
+  #footer {
+    @include span-columns(10);
+    @include shift();
+    @include pad();
+    font-size: 1em;
+    #about, #footernav, #copyright {
+      @include span-columns(10 of 10);
+      @include shift(0);
+    }
+    #footernav ul li {
+      width: 100%;
+      font-size: 1.2em;
+      background: #fff;
+      margin-bottom: 6px;
+      padding: 6px 0;
+      text-align: center;
+      a {
+        border: none;
+      }
+    }
+  }
+}
