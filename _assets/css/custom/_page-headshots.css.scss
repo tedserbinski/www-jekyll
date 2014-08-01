@@ -1,46 +1,47 @@
-.copy.zeroclipboard-is-hover,
-.copy.zeroclipboard-is-active {
-  background-color: $light-green;
-}
-section.half {
-  @include span-columns(4 of 8);
-  @include omega(2n);
-}
-section.full {
-  @include span-columns(8 of 8);
-}
-h2 {
-  margin: 1.1538em * 2 0 0.5769em 0;
-  display: inline-block;
-}
-a.button,
-button {
-  display: inline;
-  padding: .2em .6em .3em;
-  font-size: 75%;
-  color: #fff;
-  text-align: center;
-  vertical-align: middle;
-  border-radius: .25em;
-  background-color: $blue;
-  border: none;
-  margin: 0 0 6px 6px;
-  &:hover {
-    background-color: $green;
+#headshots {
+  .copy.zeroclipboard-is-hover, .copy.zeroclipboard-is-active {
+    background-color: $light-green;
   }
-}
-div.copy {
-  background: $light-gray;
-  border: 1px solid $medium-gray;
-  padding: 0.5em;
-  font-size: 75%;
-}
-span.success {
-  background: $green;
-  color: #fff;
-  padding: 0 .6em;
-  font-size: 75%;
-  font-weight: 600;
-  display: inline-block;
-  margin-left:1em;
+  section.half {
+    @include span-columns(4 of 8);
+    @include omega(2n);
+  }
+  section.full {
+    @include span-columns(8 of 8);
+  }
+  h2 {
+    margin: 1.1538em * 2 0 0.5769em 0;
+    display: inline-block;
+  }
+  a.button,
+  button {
+    display: inline;
+    padding: .2em .6em .3em;
+    font-size: 75%;
+    color: #fff;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: .25em;
+    background-color: $blue;
+    border: none;
+    margin: 0 0 6px 6px;
+    &:hover {
+      background-color: $green;
+    }
+  }
+  div.copy {
+    background: $light-gray;
+    border: 1px solid $medium-gray;
+    padding: 0.5em;
+    font-size: 75%;
+  }
+  span.success {
+    background: $green;
+    color: #fff;
+    padding: 0 .6em;
+    font-size: 75%;
+    font-weight: 600;
+    display: inline-block;
+    margin-left: 1em;
+  }
 }

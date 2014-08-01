@@ -5,7 +5,7 @@ description: "Start selling before you're ready. Ship code early and often. Sell
 tags: ["startups", "product/market fit"]
 ---
 
-> “If you build it, they will come.”
+> &ldquo;If you build it, they will come.&rdquo;
 > <cite>[Field of Dreams][1]</cite>
 
 In this iconic movie, Kevin Costner’s character hears a voice that tells him to plow part of his cornfield and build a baseball field. Once he builds it, they will come—the people he is supposed to help. And when he builds it, they do come.
@@ -14,7 +14,7 @@ As a [former open source developer][2], I’m quite familiar with the build ment
 
 But, unlike the movie, just because you build it (e.g., a web app or an iPhone app), it doesn’t mean they (users or customers) will come.
 
-### Solve a Real Problem
+## Solve a Real Problem
 
 Don’t fall into the trap of building to build. Build something that solves a real problem, ideally one that you have faced. As Paul Graham writes, [you don’t want your startup solving a problem no one has][4].
 
@@ -24,7 +24,7 @@ Many startups and “[wantrepreneurs][5]” believe a product is a business. It 
 
 I continue to be amazed by how many startups fail to understand this simple fact.
 
-### Run More Experiments
+## Run More Experiments
 
 A startup is an experiment to find a repeatable business model. 
 
@@ -37,7 +37,7 @@ Figure out what business you’re in before you get too far. [Keep it manual at 
 * [Kickstarter lets you sell your idea before you build it][9]. Probably one of the greatest ways to build less and sell more. The entire point of Kickstarter is to convince people to fund development of your project. Only after is there enough demand to back a project, does it get funded so the team can get to work. Throw in [the power of $1 campaigns][10] and you can experiment with a product before building it.
 * [Hemingway has a link to download a desktop version it hasn’t built yet][11]. This is the app I use to edit every blog post. They are testing demand for a desktop version (which I want) with a simple “download link” in the upper left. When you click it, it asks if you would pay $5 for a desktop version. Then it asks for your email to be notified, since it hasn’t been built yet. Now they can compare how many people use the web app verse how many signup for the desktop version. This will give them a good sense of the demand for a desktop version—without having to build it. Build less, sell more.
 
-### Don’t Over Engineer
+## Don’t Over Engineer
 
 Ship code and new versions often. Focus on a single or small set of features. Iterate.
 
@@ -48,9 +48,9 @@ When I was building [MothersClick, as co-founder and CTO][13], I suffered this s
 Quick iterations, with built in feedback loops, would have let me build the features that really mattered, instead of developing ones no one wanted.
 
 
-### Be Embarrassed
+## Be Embarrassed
 
-> If you’re not embarrassed by what you shipped, you waited too long.
+> &ldquo;If you’re not embarrassed by what you shipped, you waited too long.&rdquo;
 > <cite>[Reid Hoffman][19]</cite>
 
 Looking back to [every piece of code I shipped][15], every website I made (including [this blog][20]), the first iteration has always been embarrassing. Even with lots of planning, in retrospect, it always stunk. So why waste so much time on it?

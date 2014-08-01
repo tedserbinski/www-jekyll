@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Achilles Heel of Every Great Idea"
+social_photo: startup-quotes-edison-ideas.png
 tags: ["startups", "ideas"]
 ---
 
@@ -31,7 +32,7 @@ So how do I respond when someone says this to me now?
 Well, I say, before you tell me about your idea, let me tell you about my great startup idea. And no, [I'm not going to steal your idea](http://cdixon.org/2009/08/22/why-you-shouldnt-keep-your-startup-idea-secret/).
 
 
-### My Great Startup Idea
+## My Great Startup Idea
 
 So here's my *great idea*. And it's ok if you want to steal it, I've got my *secret sauce* anyways.
 
@@ -59,7 +60,7 @@ But there is a lot of variance. Some are decent fast food spots. Others are hidd
 
 If every restaurant is based upon the same great idea, than what causes such a huge variance in quality, notoriety, and success?
 
-### The achilles heel of great ideas
+## The achilles heel of great ideas
 
 **Execution.**
 
@@ -79,7 +80,7 @@ Where should my restaurant be located? What kind of decor should be on the insid
 
 It is answering these questions and hundreds more, that turn this great restaurant idea into a greatly *executed* restaurant.
 
-### Attention to Detail
+## Attention to Detail
 
 ![Pizzeria Picco][image-2]
 
@@ -94,7 +95,7 @@ Sure enough, this wasn't just any pepper. It was [specialty pepper from Le Sanct
 The attention to detail was phenomenal. Instead of using cheap pepper that would diminish the flavor of the pizza, the chef turned to just the right pepper that *actually* enhanced the flavor. Perfectly executed.
 
 
-### Key Takeaways
+## Key Takeaways
 
 Whether your idea is around starting a company, a specific feature on a product you're helping to build, or just an idea for a backyard BBQ, remember, it's not just about having great ideas. It's about great execution on these great ideas.
 

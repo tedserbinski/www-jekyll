@@ -10,7 +10,7 @@ As a [computer engineer and former CTO](http://tedserbinski.com/about.html), sta
 
 Here are my 4 best tips for hiring an awesome software engineer (or developer or hacker) to join your startup.
 
-### 1. Embrace Open Source
+## 1. Embrace Open Source
 
 Hands down, the best way to find incredible software developers is to look at their open source history. You can find mine on [Drupal.org](https://drupal.org/user/12932) and [Github](https://github.com/tedserbinski).
 
@@ -18,13 +18,13 @@ Why is this important? Open source profiles show passionate developers. These ar
 
 The developers that shy away from open source tend to favor a 9-5-type job. They aren’t the type of folks you’d want on your startup team.
 
-### 2. Grab a Beer
+## 2. Grab a Beer
 
 Developers love free beer (or root beer for the non-drinkers). Take them out for a beer and get to know them. Do they have other interests or hobbies? What’s their life story? Can they hold up a conversation?
 
 This is a key insight into how a developer will act on your team. Developers don’t work in isolation. They need to work with product folks, UI/UX designers, marketing, and business teams. They will constantly be communicating with different teams. If you can have a conversation with the developer, then there is a good chance they will work well with the rest of your startup team.
 
-### 3. Look at Their Background
+## 3. Look at Their Background
 
 Where did they go to school? Have they taken online code classes at [Udacity](https://www.udacity.com/), [Treehouse](http://teamtreehouse.com/), or [Codecademy](http://www.codecademy.com/)? What companies have they worked for?
 
@@ -36,7 +36,7 @@ Note, I never mentioned they need a computer science or computer engineering deg
 
 One red flag to watch out for: too many coding languages listed on a resume. No one can be proficient in a ton of coding languages. Look for focus and specialization to show they can go deep on languages your startup uses the most.
 
-### 4. Conduct a Code Challenge or Whiteboard Session
+## 4. Conduct a Code Challenge or Whiteboard Session
 
 This last tip is one of my favorites. This tip will show you how a software engineer thinks—a key insight to know before someone joins your startup.
 
@@ -53,7 +53,7 @@ When reviewing the coding challenge, you’ll gain huge insight into how this pe
 
 **Flavor 2**: Bring in your developer for a whiteboard session. Give them a problem to solve on the whiteboard, one your startup is currently facing or one you have already solved. This will give you insight into how this developer would work on your team. It will also shed light on their ability to solve engineering problems.
 
-### Hire an Awesome Software Engineer
+## Hire an Awesome Software Engineer
 
 Those are my 4 best tips for hiring a software developer. I feel they give a strong balance of technical capability, problem solving capacity, and general awesomeness.
 

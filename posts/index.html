@@ -9,6 +9,12 @@ description: "Blog posts written by Ted Serbinski."
 
 <ul id="postnav">
   <li>
+    <a href="#startup-lessons">Startup Lessons</a>
+  </li>
+  <li>
+    <a href="#detroit">Detroit</a>
+  </li>
+  <li>
     <a href="#tech">Tech</a>
   </li>
   <li>
@@ -20,6 +26,26 @@ description: "Blog posts written by Ted Serbinski."
   <li>
     <a href="#other">Other</a>
   </li>
+</ul>
+
+<hr>
+
+<h2 id="startup-lessons">Startup Lessons</h2>
+<ul>
+  {% for post in site.categories['startup-lessons'] %}
+  <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a> <span>{{ post.date | date: "%b %Y" }}</span>
+  </li>
+  {% endfor %}
+</ul>
+
+<hr>
+
+<h2 id="detroit">Detroit</h2>
+<ul>
+  {% for post in site.categories.detroit %}
+  <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a> <span>{{ post.date | date: "%b %Y" }}</span>
+  </li>
+  {% endfor %}
 </ul>
 
 <hr>

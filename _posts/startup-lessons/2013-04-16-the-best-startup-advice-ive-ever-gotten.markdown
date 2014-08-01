@@ -5,8 +5,8 @@ description: "Read about the most inspirational startup advice I've ever gotten 
 tags: ["startups", "insights", "top post"]
 ---
 
-> **“Think bigger”**
-> <cite>[George Zachary](http://georgezachary.com/), General Partner, [Charles River Ventures](http://crv.com/) *(early investor in Yammer, Twitter, Playdom)*</cite>
+> &ldquo;Think bigger&rdquo;
+> <cite>[George Zachary](http://georgezachary.com/), General Partner, [Charles River Ventures](http://crv.com/) *(early investor in Twitter &amp; Yammer)*</cite>
 
 I could leave it at that. It’s succinct. Concise. *Even*, world changing.
 
@@ -20,11 +20,13 @@ Later that week, George followed up. He said he and his team wanted to dive deep
 
 That next week, on July 24, 2011, I received an email from George. My heart skipped a beat. George writes:
 
-> “ *[…]* Everyone liked you quite a bit. At the same time, we didn’t sense you had the gut level excitement to move ahead. *[…]* We felt you didn’t radiate excitement. I want to stay in contact with you because I know you are going to do something great.”
+> &ldquo; *[…]* Everyone liked you quite a bit. At the same time, we didn’t sense you had the gut level excitement to move ahead. *[…]* We felt you didn’t radiate excitement. I want to stay in contact with you because I know you are going to do something great.&rdquo;
 
 *Gulp*.
 
-I talked with George further. And then it came out. **“Think bigger”**.
+I talked with George further. And then it came out.
+
+<blockquote class="large">“Think bigger”</blockquote>
 
 I had shared with them my vision for QR codes, a startup called Aniter (hint: retina spelled backwards), a time when QR codes hadn’t taken off. And some might say, they still haven’t really taken off, and even, might not ever take off.
 

@@ -2,6 +2,7 @@
 layout: post
 title: "The Ultimate Failures that Killed My Last Startup"
 description: "This is a story about the final failures that ultimately killed my last startup, ParentsClick."
+social_photo: parentsclick-mothersclick-mom-blog-network-logos.png
 tags: ["startups", "lessons", "top post"]
 ---
 
@@ -9,7 +10,9 @@ tags: ["startups", "lessons", "top post"]
 
 It was July 2008. We had just signed all the docs to close the [sale of ParentsClick to Lifetime Television](http://tedserbinski.com/mothersclick-acquired-by-lifetime-networks/), their first digital acquisition. Our flagship products, MothersClick (a social network for moms) and Mom Blog Network (the largest mom blogger network at the time), along with FathersClick, and our nationwide network of parenting sites, were now part of the largest TV network for women, Lifetime Television.
 
-![ParentsClick, MothersClick, and Mom Blog Network logos][image-1]
+<figure>
+<img src="{% asset_path parentsclick-mothersclick-mom-blog-network-logos.png %}" title="ParentsClick, MothersClick, and Mom Blog Network logos">
+</figure>
 
 To us, this acquisition was a match made in heaven. With our technology and online network for moms, combined with Lifetime’s massive TV reach, we thought we had an unstoppable, winning combination.
 
@@ -45,7 +48,7 @@ Finally, in Feb of 2009 [we launched the new Lifetime community website](http://
 
 And it fell flat on its face. It barely moved the needle. Users barely noticed.
 
-**The first failure**.
+The <mark>first failure</mark>.
 
 But hey, we finished the project, all to Lifetime's spec. I knew it didn't feel right but that didn't matter. It is what Lifetime had wanted.
 
@@ -85,7 +88,7 @@ We had alienated our users for months working on other projects, and now we spri
 
 An overnight success? How about an **overnight failure that was a year in the making**.
 
-The **second failure**.
+The <mark>second failure</mark>.
 
 But that was only the beginning.
 
@@ -95,7 +98,7 @@ It was late summer 2009, more than a year after our acquistion. And we were to s
 
 **Design by committee failure at its best**.
 
-The **third failure**.
+The <mark>third failure</mark>.
 
 From late 2009 to early 2010, we again focused 100% on MothersClick and Mom Blog Network. For the former, we simplified the site, improved the messaging, and made it feel more like a mom-site again.
 
@@ -105,7 +108,7 @@ The damage was done.
 
 This 2nd redesign of a site didn't do anything to move the needle. Our community was gone. The internet had shifted: Facebook and mobile were booming and our approach was antiquated. We were too busy with our heads down on other projects to notice the trend.
 
-The **fourth failure**.
+The <mark>fourth failure</mark>.
 
 Hundreds of thousands dollars, gone. Numerous contracting agencies fired and bridges burned. Developers quit.
 
@@ -117,7 +120,7 @@ We had none of that. And it wasn't because we couldn't. It's because we listened
 
 So we lost nearly all of our earnout.
 
-The **fifth failure**.
+The <mark>fifth failure</mark>.
 
 We fought it. But after 2.5 years since our acquisition, the fight was weak. We were worn down.
 
@@ -128,5 +131,3 @@ So I quit my role as Director of Technology in 2011 and [moved to Detroit](http:
 The burning lessons learned from this acquistion are still fresh in my memory. These are the keepsakes I'm passing on to the [startup companies I've invested in and mentor](http://tedserbinski.com/startup-portfolio.html).
 
 And the words **fail faster** hang above my desk, reminding me daily of the failures endured over 3 years after what was such a smashing successful and promising exit.
-
-[image-1]: {% asset_path parentsclick-mothersclick-mom-blog-network-logos.png %}

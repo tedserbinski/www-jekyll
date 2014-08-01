@@ -2,6 +2,7 @@
 layout: post
 title: "The One Competitor Your Startup Forgot About"
 description: "Every startup has competition, but most startups, forget about this one competitor."
+social_photo: status_quo.jpg
 tags: ["startups", "competition"]
 ---
 

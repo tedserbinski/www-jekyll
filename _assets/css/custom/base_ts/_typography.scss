@@ -37,6 +37,9 @@ h3+h4,
 hr+h2 {
   margin-top: 0;
 }
+h2+ol {
+  margin: 0.88em 0 0 0;
+}
 
 h4,
 h5,
@@ -99,42 +102,51 @@ blockquote {
   color: $dark-blue;
   font-weight: 600;
   font-size: 0.9em;
-  line-height: 1.668; // 0.9em * 20px = 18px -> 30px / 20px = 1.667   // round last digit up one to correct line-height off 1 issues
+  line-height: 1.668; // 0.9em * 20px = 18px -> 30px / 18px = 1.667   // round last digit up one to correct line-height off 1 issues
   margin: $base-spacing 0;
   padding-left: $base-spacing / 2;
-}
 
-cite {
-  color: lighten($base-font-color, 25);
-  font-style: italic;
-  display: block;
-  font-size: $base-font-size * .75; // 15px
-  line-height: 2; // 30px
-
-  &:before {
-    content: '\2014 \00A0';
+  p {
+    line-height: 1.668;
+    margin-bottom: 1.668em;
   }
-}
-
-blockquote.large {
-  border: none;
-  color: $dark-blue;
-  font-size: 1.3000em; /* 26px */
-  line-height: 1.1538; /* 30px */
-  margin: (1.5em) -3em (1.5em) -3em;
-  padding:0;
-  text-align: center;
 
   cite {
-    font-size: $base-font-size;
-    line-height: $base-line-height;
+    color: lighten($base-font-color, 25);
+    font-style: italic;
+    display: block;
+    font-size: $base-font-size * .75; // 15px
+    line-height: 2; // 30px
+
+    &:before {
+      content: '\2014 \00A0';
+    }
+  }
+
+  &.large {
+    font-size: 1.3em;
+    line-height: 1.1;
+    margin: $base-spacing * 2 -90px;
+    border: none;
+    padding:0;
+    text-align: center;
+
+    p {
+      line-height: 1.1;
+      margin-bottom: 0.96em;
+    }
+
+    cite {
+      font-size: $base-font-size;
+      line-height: $base-line-height;
+    }
   }
 }
 
 mark {
   background: $light-yellow;
   font-weight: 600;
-  padding:4px;
+  padding:2px;
 }
 
 b,

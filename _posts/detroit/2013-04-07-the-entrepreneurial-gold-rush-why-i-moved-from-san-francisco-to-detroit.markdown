@@ -3,6 +3,7 @@ layout: post
 title: "The Entrepreneurial Gold Rush: Why I moved from San Francisco to Detroit"
 description: "Where do you want to be in ten years? Status quo? Or one of the heroes that rebuilt a city? Read on for why."
 date: 2013-04-07 14:41:45 -0400
+social_photo: magic-happens-your-comfort-zone.jpg
 tags: ["startups", "detroit", "top post"]
 ---
 
@@ -15,8 +16,9 @@ Every week, in a bewildered state, someone asks me &ldquo;Hey Ted, why did you m
 
 I pause, let out a sigh, and respond with:
 
-> Ten years from now, San Francisco will be just as good as it is today. But in ten years, Detroit will be a roaring city once again, defining a new technology hub at the intersection of muscle and brains. Where do you want to be in ten years? Status quo? Or one of the **heroes that rebuilt a city**?
-> <cite>Ted Serbinski</cite>
+<blockquote class="large">&ldquo;Ten years from now, San Francisco will be just as good as it is today. But in ten years, Detroit will be a roaring city once again, defining a new technology hub at the intersection of muscle and brains. Where do you want to be in ten years? Status quo? Or one of the <mark>heroes that rebuilt a city</mark>?&rdquo;
+<cite>Ted Serbinski</cite>
+</blockquote>
 
 Almost before I can finish, I can see in that person&rsquo;s face the transition from bewilderment to excitement, as they realize, I didn&rsquo;t just relocate to Detroit for a job; [I relocated to create a legacy][1].
 
@@ -30,13 +32,13 @@ Together, as part of [Detroit Venture Partners][5], we are on a mission to shatt
 
 The common thread that unites us is summed up well by [Josh&rsquo;s article in Forbes][6]:
 
-> Focus on impact more than personal gain. If you&rsquo;re championing a cause and making a difference, your results will be better and more widespread.
+<blockquote class="large">&ldquo;Focus on impact more than personal gain. If you&rsquo;re championing a cause and making a difference, your results will be better and more widespread.&rdquo;</blockquote>
 
 Couldn&rsquo;t have said it any better myself.
 
 But it&rsquo;s more than just us.
 
-**Detroit is about to get hit by a perfect storm of economical drivers**.
+<mark>Detroit is about to get hit by a perfect storm of economical drivers.</mark>
 
 - **The Bankruptcy** &mdash; Detroit filing for bankruptcy finally lets Detroit get out of an overwhelming amount of liabilities. With nearly $18 billion in debt, and only $1 billion in revenue, Detroit is upside down. Nearly $0.60 on every dollar of income is paying down debt. It's not going to better the city, but rather, pay off decades of past mistakes. The bankruptcy finally restructures this debt so that more of the city's income can go to improving its own infrastructure and solving issues.
 - **The Business Titans** &mdash; [Dan Gilbert][7] (founder of Quicken Loans, majority owner Cleveland Cavaliers), [Roger Penske][8] (owner of Penkse Racing and a number of related automobile companies), [Mike Ilitch][9] (owner of the Detroit Tigers, Detroit Red Wings and Little Caesars Pizza), and [Bill Ford][10] (yes, that Ford).

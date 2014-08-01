@@ -11,6 +11,8 @@ layout: default
         <span class="reading-time">◷ {{ content | reading_time | pluralize: "minute" }} to read</span>
         {% if page.next %}
         &nbsp;&nbsp;⁓&nbsp;&nbsp; <span><a href="{{ page.next.url }}" title="{{ page.next.title }}">Next post &rarr;</a></span>
+        {% else %}
+        &nbsp;&nbsp;⁓&nbsp;&nbsp; <span><a href="/posts/" title="All blog posts">More posts &rarr;</a></span>
         {% endif %}
       </p>
     </header>
@@ -35,9 +37,11 @@ layout: default
     </footer>
 
     <section class="next">
-      {% if page.next %}
       <h4><mark>Read this next:</mark></h4>
+      {% if page.next %}
       <p><a href="{{ page.next.url }}" title="{{ page.next.title }}">{{ page.next.title }} &rarr;</a></p>
+      {% else %}
+      <p><a href="/posts/" title="All blog posts">More great posts &rarr;</a></p>
       {% endif %}
     </section>
     <section id="disqus_thread" class="p-comment" itemprop="comment" data-disqus-shortname="tedserbinski" data-disqus-url="http://tedserbinski.com{{ page.url | remove: 'index.html' }}"></section>

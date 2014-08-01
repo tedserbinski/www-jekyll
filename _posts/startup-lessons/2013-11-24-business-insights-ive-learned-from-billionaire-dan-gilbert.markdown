@@ -2,6 +2,7 @@
 layout: post
 title: "24 Business Insights I’ve Learned from Billionaire Dan Gilbert"
 description: "The top 24 business insights I've learned working alongside Dan Gilbert for 2 years."
+social_photo: dan-gilbert-spreadsheets.jpg
 tags: ["startups", "detroit"]
 ---
 
@@ -13,9 +14,9 @@ Unbeknownst to me in working alongside Dan, was the profound nuggets of business
 
 Dan was speaking at the Detroit Venture Partners' 2nd annual Leadership Summit when he remarked:
 
-> “But just because you can't measure it, does that mean it has no value?
+> &ldquo;But just because you can't measure it, does that mean it has no value?
 > Not by a long shot.
-> It's important to understand this truth. Because in a world of 'spreadsheets', one can easily forget that the MOST valuable things cannot be measured...”
+> It's important to understand this truth. Because in a world of 'spreadsheets', one can easily forget that the MOST valuable things cannot be measured...&rdquo;
 > <cite>Dan Gilbert</cite>
 
 ![Spreadsheets measure. They do NOT create.][image-1]
@@ -102,7 +103,7 @@ If that's the case, then this a really expensive business to be in unless you fi
 
 What are the tipping points in your business? What kind of effort produces the greatest results? Focus on those, ignore the rest.
 
-> "Give me a lever long enough and a place to stand, and I could lift the world."
+> &ldquo;Give me a lever long enough and a place to stand, and I could lift the world.&rdquo;
 > <cite>Archimedes</cite>
 
 <hr>
@@ -202,7 +203,7 @@ Dan was giving a talk when someone in the audience asked him, "If you were to st
 
 "Hire a process improvement person. You'll get 5-100x return. Have them talk to front line people and improve your processes. At Quicken Loans, we have over 230 dedicated people to improve our processes. We've seen more growth in last 3 years than previous 25. We had 0 in 2004."
 
-> "Build a better mousetrap and the world will beat a path to your door."
+> &ldquo;Build a better mousetrap and the world will beat a path to your door.&rdquo;
 > <cite>Ralph Waldo Emerson</cite>
 
 <hr>

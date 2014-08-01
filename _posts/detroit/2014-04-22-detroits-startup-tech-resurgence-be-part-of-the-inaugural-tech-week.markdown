@@ -11,7 +11,7 @@ Detroit's inaugural Techweek celebration will take place May 19-25th in downtown
 
 I am super stoked to announce this event. Interested in participating? Contact me!
 
-### Celebrating Startups & Tech in Detroit
+## Celebrating Startups & Tech in Detroit
 
 In a previous blog post, I wrote about [the entrepreneurial gold rush happening in Detroit](http://tedserbinski.com/the-entrepreneurial-gold-rush-why-i-moved-from-san-francisco-to-detroit/). It's been almost 4 years since Detroit hit rock bottom, but you wouldn't know that. The enthusiasm and passion in the air downtown is contagious, and the amount of cool new stuff in Detroit, seems never ending.
 
@@ -24,7 +24,7 @@ The momentum is building every day.
 And it's time for an event to celebrate and strengthen the growing entrepreneurial community downtown. An event that can grow year-over-year in Detroit. An event led by entrepreneurs, a key anchor in building startup communities, as outlined by [Brad Feld in his book, Startup Communities](http://www.amazon.com/gp/product/1118441540?ie=UTF8&camp=213733&creative=393185&creativeASIN=1118441540&linkCode=shr&tag=tedserbinski-20&qid=1397788309).
 
 
-### Bringing Techweek to Detroit
+## Bringing Techweek to Detroit
 
 In 2013 I was exchanging emails with [Dan Gilbert](http://tedserbinski.com/business-insights-ive-learned-from-billionaire-dan-gilbert/) about having our own SxSw-like event in Detroit. At the end of the email chain, Dan quipped, "Make it happen, Ted".
 
@@ -38,7 +38,7 @@ After a few more calls, [the Techweek crew](http://techweek.com/what-is-techweek
 
 And May 2014 it was.
 
-### Building Up the Startup Ecosystem
+## Building Up the Startup Ecosystem
 
 My vision for Detroit's startup ecosystem includes many startup oriented events, happening every month. Events that help further define Detroit's presence as a fast-growing region for high tech startups.
 

@@ -23,6 +23,7 @@ I agree completely with Brad’s thoughts and view myself in a bit of a hybrid r
 
 And what Detroit needs is more investors backing founders to discover startup gold in the region.
 
+
 ## Discovering the Missing Ingredients
 
 Startups are simply an experiment to find a repeatable business model. Once found, the business scales by applying this model to find customers and revenue. Eventually, the startup can be acquired, merge with another company, or go public.
@@ -32,6 +33,7 @@ Experiments, therefore, are the basic ingredient to create a rich ecosystem of s
 And these experiments need 2 basic things to thrive: funding and mentorship. The best experiments (or startups) have value-add funding and operational-experienced mentors.
 
 Detroit has a wealth of operational-experience mentors in the region. What it is missing is lots of value-add funding sources.
+
 
 ## Attracting 3 Types of Funding to Detroit
 
@@ -45,6 +47,7 @@ Detroit has a wealth of operational-experience mentors in the region. What it is
 
 3. **A-round funds that invest locally**
   When startups uncover their repeatable business model, they need more capital to scale, repeating this process for huge growth. While there are a handful of Michigan funds that have the capacity to lead a Series-A (including Detroit Venture Partners), there are only 2 with over $100M under management and headquartered in Michigan—[Arboretum Ventures](http://www.arboretumvc.com/) and [North Coast Technology Investors](http://www.northcoastvc.com/). What does that mean? There aren’t enough local funds with enough capital to take a startup to the mega-growth rounds we see on the coasts.
+
 
 ## Contributing to Detroit’s Success
 

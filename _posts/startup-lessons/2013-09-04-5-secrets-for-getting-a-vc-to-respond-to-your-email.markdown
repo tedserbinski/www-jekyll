@@ -2,6 +2,7 @@
 layout: post
 title: "5 Secrets for Getting a VC to Respond to Your Email"
 description: "Read on for 5 tips on how to compose an email to get a response."
+social_photo: verbose-email.png
 tags: ["startups", "vc", "email"]
 ---
 
@@ -68,25 +69,24 @@ As I went to publish this post, I received an email via [AngelList](https://ange
 I responded immediately to this email. And I've traded a handful of emails with Nate. I've resposted this email with permission of the author to share with others.
 
 <hr>
-<em>
-Hi Ted,
 
-I hope you are having a fantastic day! My name is Nate, and I’m a co-founder at XS. I am reaching out because you backed Miso Media, which I love, and I wanted to get your advice about our new company since we have just opened our seed round. To thank you for your time, if you’re interested in surfing and you find yourself back in the San Francisco Bay Area, I’d love to give you a lesson, or more traditionally, buy you a cup of coffee.
-
-I know your time is really valuable so in the spirit of the 30 second pitch here is an overview of XS.
-
-XS is creating a mobile community for action sports enthusiasts. Our app is a place where people can view and share high quality user generated & professional photos/videos. As we grow, we’ll leverage user behavior and information to sell discounted sporting goods. Think Instagram/Pinterest meets Fab for sports.
-
-1.  Pitch deck: http://joinus.xsapp.co
-2.  3 min pitch video: http://www.youtube.com/watch?v=3MgExhuSJsw
-
-Thanks for your time and I look forward to meeting you in the near future!
-Best,
-
-Nate Mihalovich
-Co-founder, XS
-www.xsapp.co
-</em>
+> Hi Ted,
+>
+> I hope you are having a fantastic day! My name is Nate, and I’m a co-founder at XS. I am reaching out because you backed Miso Media, which I love, and I wanted to get your advice about our new company since we have just opened our seed round. To thank you for your time, if you’re interested in surfing and you find yourself back in the San Francisco Bay Area, I’d love to give you a lesson, or more traditionally, buy you a cup of coffee.
+>
+> I know your time is really valuable so in the spirit of the 30 second pitch here is an overview of XS.
+>
+> XS is creating a mobile community for action sports enthusiasts. Our app is a place where people can view and share high quality user generated & professional photos/videos. As we grow, we’ll leverage user behavior and information to sell discounted sporting goods. Think Instagram/Pinterest meets Fab for sports.
+>
+> 1.  Pitch deck: http://joinus.xsapp.co
+> 2.  3 min pitch video: http://www.youtube.com/watch?v=3MgExhuSJsw
+>
+> Thanks for your time and I look forward to meeting you in the near future!
+> Best,
+>
+> Nate Mihalovich
+> Co-founder, XS
+> www.xsapp.co
 <hr>
 
 Do you have any favorite secrets for getting a VC to open your email? Or seen any great examples? Please share below in the comments for others.

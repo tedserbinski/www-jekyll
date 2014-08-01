@@ -2,6 +2,7 @@
 layout: post
 title: "The #1 Marketing Tip Your Startup Needs to Know"
 description: "Read on to learn the #1 marketing tip your startup needs to know."
+social_photo: listerine-total-care-zero.png
 tags: ["startups", "marketing"]
 ---
 

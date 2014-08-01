@@ -1,4 +1,8 @@
 section.e-content figure {
+  -webkit-margin-before: 0;
+  -webkit-margin-after: 0;
+  -webkit-margin-start: 0;
+  -webkit-margin-end: 0;
   margin:0 0 $base-spacing 0;
 
   &.wide {
@@ -7,7 +11,7 @@ section.e-content figure {
   }
 
   img {
-    width: 100%;
+    max-width: 100%;
   }
 
   figcaption {
