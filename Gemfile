@@ -10,7 +10,7 @@ gem 'iconv'
 
 gem 'jekyll-assets', '~>0.9.1'
 gem 'uglifier'
-gem 's3_website', '~>2.1.16'
+gem 's3_website', '~>2.2.0'
 gem 'image_optim'
 gem 'sass', '~>3.3.11'
 gem 'bourbon', '~>4.0.2'

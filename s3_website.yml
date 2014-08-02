@@ -17,6 +17,9 @@ gzip:
 
 cloudfront_invalidate_root: true
 
+# advanced redirects
+# https://github.com/laurilehmijoki/configure-s3-website#configuring-redirects
+
 redirects:
   24-hours-in-detroit-startup-food-tour: /detroit/24-hours-in-detroit-startup-food-tour
   startups-should-build-less-and-sell-more: /startup-lessons/startups-should-build-less-and-sell-more
