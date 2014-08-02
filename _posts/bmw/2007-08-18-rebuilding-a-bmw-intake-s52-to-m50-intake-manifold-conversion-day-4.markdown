@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rebuilding a BMW intake: S52 to M50 intake manifold conversion, day 4"
+title: "Rebuilding a BMW intake: S52 to M50 manifold conversion, day 4"
 created: 1187481391
 category: bmw
 ---

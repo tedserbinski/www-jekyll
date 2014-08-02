@@ -50,8 +50,8 @@ redirects:
   tags/productivity/getting-things-done-david-allen-google: /getting-things-done-david-allen-at-google
   tags/bmw/how-often-do-you-change-your-oil: /cars/how-often-do-you-change-your-oil
   bmw/how-often-do-you-change-your-oil: /cars/how-often-do-you-change-your-oil
-  2006/06/17/top_tier_gasoline: /cars/top-tier-gasoline
-  bmw/top-tier-gasoline: /cars/top-tier-gasoline
+  2006/06/17/top_tier_gasoline: /bmw/top-tier-gasoline
+  bmw/top-tier-gasoline: /bmw/top-tier-gasoline
   tags/drupal/blueprint-drupal-theme-released: /drupal/blueprint-drupal-theme-released
   tags/css/website-crashes-ie8-browser-sysfaderexe-exception: /tech/website-crashes-ie8-browser-with-sysfader-exe-exception
   drupal/website-crashes-ie8-browser-with-sysfader-exe-exception: /tech/website-crashes-ie8-browser-with-sysfader-exe-exception

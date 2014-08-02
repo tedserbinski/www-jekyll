@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rebuilding a BMW intake: S52 to M50 intake manifold conversion, day 5"
+title: "Rebuilding a BMW intake: S52 to M50 manifold conversion, day 5"
 created: 1187925195
 category: bmw
 ---
@@ -48,4 +48,3 @@ In the mean time, check out <a href="http://www.flickr.com/photos/tedserbinski/1
 <li>Print diagrams from <a href="http://www.realoem.com/bmw/">RealOEM.com</a></li>
 <li>Take <strong>before</strong> pictures and lots of them as you take things apart if you haven't done this before</li>
 </ul>
-

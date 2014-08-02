@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "Rebuilding a BMW intake: S52 to M50 intake manifold conversion, a list of parts"
-created: 1188587904
+title: "Rebuilding a BMW intake: S52 to M50 manifold conversion, a list of parts"
 category: bmw
 ---
 <em>Coming to you live from my parents garage in this 7 part series, are the chronicled adventures my dad and myself had converting an S52 intake manifold to the larger M50 intake manifold.

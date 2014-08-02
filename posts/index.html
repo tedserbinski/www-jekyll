@@ -3,8 +3,8 @@ layout: page
 pageid: posts
 show_flyout: true
 flyout: inline
-title: "Blog Posts"
-description: "Blog posts written by Ted Serbinski."
+title: "All Blog Posts"
+description: "All blog posts written by Ted Serbinski."
 ---
 
 <ul id="postnav">
@@ -30,63 +30,21 @@ description: "Blog posts written by Ted Serbinski."
 
 <hr>
 
-<h2 id="startup-lessons">Startup Lessons</h2>
-<ul>
-  {% for post in site.categories['startup-lessons'] %}
-  <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a> <span>{{ post.date | date: "%b %Y" }}</span>
+{% comment %}
+You can't assign arrays in Liquid: http://docs.shopify.com/themes/liquid-documentation/basics/types
+{% endcomment %}
+
+{% assign categories = "Startup Lessons|Detroit|Tech|Drupal|BMW|Other" | split: '|' %}
+
+{% for category in categories %}
+{% assign category_id = category | replace:' ','-' | downcase %}
+<h2 id="{{ category_id }}">{{ category }}</h2>
+<ul class="posts">
+  {% for post in site.categories[category_id] %}
+  <li>
+    <span class="post-date">{{ post.date | date: "%b %Y" }}</span>
+    <span class="post"><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></span>
   </li>
   {% endfor %}
 </ul>
-
-<hr>
-
-<h2 id="detroit">Detroit</h2>
-<ul>
-  {% for post in site.categories.detroit %}
-  <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a> <span>{{ post.date | date: "%b %Y" }}</span>
-  </li>
-  {% endfor %}
-</ul>
-
-<hr>
-
-<h2 id="tech">Tech</h2>
-<ul>
-  {% for post in site.categories.tech %}
-  <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a> <span>{{ post.date | date: "%b %Y" }}</span>
-  </li>
-  {% endfor %}
-</ul>
-
-<hr>
-
-<h2 id="drupal">Drupal</h2>
-<ul>
-  {% for post in site.categories.drupal %}
-  <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a> <span>{{ post.date | date: "%b %Y" }}</span>
-  </li>
-  {% endfor %}
-</ul>
-
-<hr>
-
-<h2 id="bmw">My BMW M3</h2>
-<ul>
-  {% for post in site.categories.cars %}
-  <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a> <span>{{ post.date | date: "%b %Y" }}</span>
-  </li>
-  {% endfor %} {% for post in site.categories.bmw %}
-  <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a> <span>{{ post.date | date: "%b %Y" }}</span>
-  </li>
-  {% endfor %}
-</ul>
-
-<hr>
-
-<h2 id="other">Other</h2>
-<ul>
-  {% for post in site.categories.other %}
-  <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a> <span>{{ post.date | date: "%b %Y" }}</span>
-  </li>
-  {% endfor %}
-</ul>
+{% endfor %}
