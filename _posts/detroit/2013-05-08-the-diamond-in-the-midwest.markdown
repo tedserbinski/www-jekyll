@@ -38,7 +38,7 @@ Not only that, but you know you’re on to something when the satirical sources 
 But it’s not about this region being better than another region.
 
 > &ldquo;The world would be much better if we had 50 more Silicon Valleys&rdquo;
-> <cite>Marc Andreessen, co-founder and general partner of [Andreessen Horowitz][2], being [interviewed at she++ conference][3]</cite>
+> <cite>Marc Andreessen, General Partner of [Andreessen Horowitz][2], being [interviewed at she++ conference][3]</cite>
 
 Well Marc, we’re not trying to be like a coastal valley.
 

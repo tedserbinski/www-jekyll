@@ -10,7 +10,7 @@ tags: ["startups", "detroit"]
 
 Unbeknownst to me in working alongside Dan, was the profound nuggets of business wisdom I'd gather. Below are 24 of my favorite insights I've learned since I've been at DVP.
 
-### 1. Spreadsheets measure, they don't create
+## 1. Spreadsheets measure, they don't create
 
 Dan was speaking at the Detroit Venture Partners' 2nd annual Leadership Summit when he remarked:
 
@@ -21,27 +21,23 @@ Dan was speaking at the Detroit Venture Partners' 2nd annual Leadership Summit w
 
 ![Spreadsheets measure. They do NOT create.][image-1]
 
-<hr>
 
-### 2. Always CC 3x as many people as you should on new ideas
+## 2. Always CC 3x as many people as you should on new ideas
 
 Keyword is *new* ideas. When sharing new ideas, the more people you share with, the more likely that idea can come to life. Knowledge is power. Don't create silos at your company.
 
-<hr>
 
-### 3. If you're going to think, think big.
+## 3. If you're going to think, think big.
 
 This is excellent advice. It's also the same [advice George Zachary told me a couple years back](http://tedserbinski.com/the-best-startup-advice-ive-ever-gotten/).
 
-<hr>
 
-### 4. There is no such thing as a *good deal* with a *bad guy*
+## 4. There is no such thing as a *good deal* with a *bad guy*
 
 Super apropos in early stage investing. The investment might look good on paper, but what does the long term result look like?
 
-<hr>
 
-### 5. GUMP it down
+## 5. GUMP it down
 
 ![Forrest Gump][image-2]
 
@@ -50,32 +46,28 @@ When explaining something high level, always gump it down. Don't assume everyone
 > “If you can't explain it to a six year old, you don't understand it yourself.”
 > <cite>Albert Einstein</cite>
 
-<hr>
 
-### 6. How good of a deal is this?
+## 6. How good of a deal is this?
 
 I was working on a cap table for a new investment of ours and was walking Dan through it to get sign off (he's on our investment committee). Dan remarked "Is this a good deal or not? I don’t care about valuation, I care about how much of the company I’m going to own relative to others."
 
 It made me think. A lower valuation doesn't necessarily mean a better deal. You need to zoom out and look holistically at the deal. *(ps: turns out this one was in fact a great deal)*
 
-<hr>
 
-### 7. Starting up is messy
+## 7. Starting up is messy
 
 Have you ever seen a clean and organized construction site? Why should starting your company or initiative, be any different?
 
-<hr>
 
-### 8. You can only make money by being right about something that most people think is wrong
+## 8. You can only make money by being right about something that most people think is wrong
 
 Fred Wilson wrote a great [blog post on return and ridicule being highly correlated](http://www.avc.com/a_vc/2013/04/return-and-ridicule.html). He's spot on. Dan is doing the same exact thing in Detroit, investing billions, while [60 Minutes posts a video about the ruins in Detroit](http://www.cbsnews.com/video/watch/?id=50157064n), completely missing the massive opportunity ahead.
 
 <blockquote class="twitter-tweet"><p>.<a href="https://twitter.com/fredwilson">@fredwilson</a> “you can only make money by being right about something that most people think is wrong” truth</p>&mdash; Greg Rosen (@grosen) <a href="https://twitter.com/grosen/statuses/327428753959575554">April 25, 2013</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<hr>
 
-### 9. How much does it cost you to make $1?
+## 9. How much does it cost you to make $1?
 
 At first, this wasn't an obvious question to me. But it's ingenious.
 
@@ -97,18 +89,16 @@ If that's the case, then this a really expensive business to be in unless you fi
 
 *Key advice for a startup*: I'd love to see this in your deck.
 
-<hr>
 
-### 10. Focus on the leverage points in your business
+## 10. Focus on the leverage points in your business
 
 What are the tipping points in your business? What kind of effort produces the greatest results? Focus on those, ignore the rest.
 
 > &ldquo;Give me a lever long enough and a place to stand, and I could lift the world.&rdquo;
 > <cite>Archimedes</cite>
 
-<hr>
 
-### 11. Do the "Dan math"
+## 11. Do the "Dan math"
 
 Another favorite of mine. We were reviewing a cap table with Dan and he busts out a big and simple calculator. He found an error in our cap table--the numbers added up correctly, but back-of-the-napkin math showed a different result.
 
@@ -116,9 +106,8 @@ Taught me an invaluable lesson on how taking a simplistic approach can uncover i
 
 ![Big display calculator][image-3]
 
-<hr>
 
-### 12. Be prepared
+## 12. Be prepared
 
 At our Detroit Venture Partners 2nd Annual Leadership Summit, I was standing off to the side during one session, when the microphones stopped working for audience Q&A.
 
@@ -135,15 +124,13 @@ Also, being an Eagle Scout, this incidence shed new light on the Scout's motto: 
 ![Boy Scouts Motto: Be Prepared][image-5]
 
 
-<hr>
 
-### 13. There is no Plan B; Plan B would distract from Plan A
+## 13. There is no Plan B; Plan B would distract from Plan A
 
 If you're always planning for the alternative, you're not planning for your ideal outcome. Make it a reality.
 
-<hr>
 
-### 14. Don't do $10/hr work
+## 14. Don't do $10/hr work
 
 This was an enlightening moment when I heard this one. Don't do the $10/hr work, pay someone to do that, so you can focus on the $100+/hour work.
 
@@ -152,15 +139,13 @@ So very true.
 It's also the basis for [Tim Ferriss' book the 4 Hour Workweek](http://www.amazon.com/gp/product/B002WE46UW?ie=UTF8&camp=213733&creative=393177&creativeASIN=B002WE46UW&linkCode=shr&tag=tedserbinski-20).
 
 
-<hr>
 
-### 15. Focus on making dollars, not saving cents
+## 15. Focus on making dollars, not saving cents
 
 Are you focusing on cutting costs or driving more revenue? If you increase the top line, you'll take care of your bottom line.
 
-<hr>
 
-### 16. Give before you get
+## 16. Give before you get
 
 Many startup folks have written about this including [Brad Feld](http://www.feld.com/wp/archives/2013/01/give-before-you-get.html) and [Mark Suster](http://www.bothsidesofthetable.com/2013/06/12/why-you-should-give-before-you-get).
 
@@ -168,9 +153,8 @@ It's a personal core belief of mine and what fueled my [open source development 
 
 It's also great to see that same philosophy resonants deeply within a billionaire too.
 
-<hr>
 
-### 17. Always raise your level of awareness
+## 17. Always raise your level of awareness
 
 [A Quicken Loans ISM](http://www.quickenloans.com/press-room/fast-facts/our-isms) raised my awareness about being aware.
 
@@ -179,9 +163,8 @@ Sounds silly, but it's amazing the things you'll see when you're really present 
 
 ![Burnt out bulb][image-4]
 
-<hr>
 
-### 18. Define your company's culture
+## 18. Define your company's culture
 
 Clarify your culture from the start.
 
@@ -195,9 +178,8 @@ People make decisions when you are not there.
 
 That's how you scale. You only have 24 hours in a day.
 
-<hr>
 
-### 19. Build a better mousetrap
+## 19. Build a better mousetrap
 
 Dan was giving a talk when someone in the audience asked him, "If you were to start over again, what would you do from the start?"
 
@@ -206,23 +188,20 @@ Dan was giving a talk when someone in the audience asked him, "If you were to st
 > &ldquo;Build a better mousetrap and the world will beat a path to your door.&rdquo;
 > <cite>Ralph Waldo Emerson</cite>
 
-<hr>
 
-### 20. Ignore the noise
+## 20. Ignore the noise
 
 [Another Quicken Loans ISM](http://www.quickenloans.com/press-room/fast-facts/our-isms), and apropos to startups, ignore the noise is about cutting through the noise to drive results. Whether criticism, excuses, or simply bad luck, ignore the noise so you can focus on winning.
 
 Bonus points for the startups that ignore the noise from Techcrunch buzz, the startup party scene, and actually focus on building a business that creates value.
 
-<hr>
 
-### 21. Pull the threads
+## 21. Pull the threads
 
 There are over [100 companies in the Quicken Loans family](http://www.quickenloans.com/about/partner-company). This week I'll be in Cincinnati for the 5th annual family reunion that brings over 300 executives across these companies together. The purpose: to pull the threads, focusing on ways to find common ties (or threads) between companies, to improve business outcomes. You can [follow the event on Twitter here](https://twitter.com/familyreunion5).
 
-<hr>
 
-### 22. Balance the hardware with software
+## 22. Balance the hardware with software
 
 Another interesting insight is Dan's approach to rebuilding Detroit. You need to balance what buildings you own (e.g., the hardware), with what companies lease them (e.g., the software), along with properly connecting building to building via [placemaking](http://en.wikipedia.org/wiki/Placemaking) (e.g., more software), to create a truly vibrant area.
 
@@ -232,19 +211,16 @@ It's thinking holistically in a approach to create harmony.
 >
 > The sum is greater than the parts
 
-<hr>
 
-### 23. Innovation is rewarded, execution is worshiped
+## 23. Innovation is rewarded, execution is worshiped
 
 Another [Quicken Loans ISM](http://www.quickenloans.com/press-room/fast-facts/our-isms) and one of my favorites, it's not just about a great idea, it's about the great implementation of that idea. So get out there and start doing!
 
-<hr>
 
-### 24. The 27 Things that Dan Gilbert has learned in 27 years
+## 24. The 27 Things that Dan Gilbert has learned in 27 years
 
 And finally, straight from the source, [27 things Dan's learned in 27 years](http://choosethinking.com/2012/12/27-things-ive-learned-in-27-years/). More great nuggets of wisdom.
 
-<hr>
 
 Do you have a favorite insight? Or is there an insight you'd like me to dive deeper in a future post? Let me know by leaving a comment below.
 

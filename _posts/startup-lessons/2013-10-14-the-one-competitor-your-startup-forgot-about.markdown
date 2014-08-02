@@ -8,8 +8,6 @@ tags: ["startups", "competition"]
 
 ![Now Leaving Status Quo: The Place that Never Changes][image-1]
 
-<hr>
-
 ## Startup Competition is Good
 
 Startups are competitive by nature. They are out to solve a problem or change the world in an innovative way. As they take on funding, acquire paying customers, and generate revenue, others notice, and the competition heats up.
@@ -21,8 +19,6 @@ As a result, the product or service the startup is offering continually gets bet
 Back in 2007, at my 2nd startup, [ParentsClick](http://www.crunchbase.com/company/parentsclick-network) (I was co-founder and CTO), we were in the middle of MothersClick version 3 (our flagship product). We were competing against a number of competitors that I'll describe below. Each and every one forced us to think more critically about our own offering and pushed us to continually up our game and "[do more faster](http://www.amazon.com/gp/product/B0046H9BBM/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0046H9BBM&linkCode=as2&tag=tedserbinski-20)".
 
 But ultimately, **our biggest competitor was the *least* obvious one**. It was one we almost forgot about. It was one we should have focused on more. It was one that almost every single startup that [pitches me](http://angel.co/tedserbinski) forgets about too.
-
-<hr>
 
 ## Direct vs Indirect Competition
 
@@ -51,8 +47,6 @@ A few of the larger, indirect competitors:
 - [ParentsConnect](http://www.nickmom.com/parentsconnect/): Started at MTV, ParentsConnect was a borderline direct/indirect competitor. It offered many of the same features we had, but had a more celebrity / MTVish focus on parents--for both moms and dads. They eventually shutdown.
 - [BigTent](http://www.bigtent.com/): This was our biggest indirect competitor. BigTent focused on tools to help groups manage themselves. While any organizational group could signup, they had a niche user base of moms groups. Their group features were superior to ours, but they were more narrowly focused. They were eventually [acquired by Federated Media](http://paidcontent.org/2010/11/03/419-federated-media-expands-parenting-vertical-with-bigtent-acquisition/).
 
-<hr>
-
 ## The One Startup Competitor You Forgot About: The Status Quo
 
 This is the competitor that almost every startup forgets about. Yet, it is largely one of the most important. **The status quo**.
@@ -67,7 +61,7 @@ We never could get them to move over to MothersClick, despite many conversations
 
 Oddly enough, since our acquisition, GGMG, migrated over to BigTent, which was our biggest *indirect competitor*!
 
-<hr id="key-takeaways">
+<a id="key-takeaways"></a>
 
 ## Key Takeaways for Startups
 

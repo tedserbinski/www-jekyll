@@ -10,37 +10,29 @@ tags: ["startups", "marketing"]
 
 So what's the #1 marketing tip your startup needs to know? Well, it is a tip that focuses on how to sell your startup product or service to customers (or investors!). And, it’s actually quite simple.
 
-> Sell the benefits, not the features
+<blockquote class="large">Sell the benefits, not the features</blockquote>
 
 Might sound obvious, but in reality, most startups fail to do this.
 
 Let’s take a look at a simple example to illustrate the difference.
 
-<hr>
-
-#### How most startups sell their product or service
+## How most startups sell their product or service
 
 ![How most startups sell their product or service][image-1]
 
-<hr>
-
-#### How startups **should** sell their product or service
+## How startups **should** sell their product or service
 
 ![How startups should sell their product or service][image-2]
-
-<hr>
 
 If you were buying a hammer, which would you buy? Why would you buy it?
 
 Do you really know if those features (in Hammer 2.0) will make your life better? Maybe the rubber will be grippier and easier to hold. The polished head looks cool, does it make your life better? Does the curve claw type make it easy to pull stuck nails?
 
-> Don’t describe what it is. Describe what you can do with it.
+<blockquote class="large">Don’t describe what it is. Describe what you can do with it.</blockquote>
 
 In the 2nd example, look at how clear the benefits of this hammer are stated. Your construction job will be a lot easier with a *70% shock reduction* for a repeated-use job. And you don't have to worry about losing it, the bright yellow will make it easy to spot. And if any nails get stuck, the rip claws will make it easy to remove them.
 
-<hr>
-
-#### Listerine does a great job of describing its benefits
+## Listerine does a great job of describing its benefits
 
 When you're comparing products on a shelf, do you go with the one with 6 clear benefits? Or the one that doesn't list any at all?
 
@@ -48,15 +40,15 @@ When you're comparing products on a shelf, do you go with the one with 6 clear b
 
 <hr>
 
-### Apple vs. Samsung
+## Apple vs. Samsung
 
-#### Apple shows the benefits of an iPhone 5
+### Apple shows the benefits of an iPhone 5
 
 No mention of features like camera, video, auto-focus, crop, apps, email, etc. Just benefits of those features in action.
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/jZGzXEExZcc?rel=0" frameborder="0" allowfullscreen></iframe>
 
-#### Samsung shows the benefits of a Galaxy S4
+### Samsung shows the benefits of a Galaxy S4
 
 Again, no mentions of specific features like a huge screen, touchless glass, or automatic video-photo conversion. Just the benefits, again, in action.
 
@@ -66,9 +58,7 @@ Which phone would you chose? Samsung makes an extremely compelling case. While A
 
 Benefits alone, Samsung Galaxy S4 wins hands down in this ad comparison.
 
-<hr>
-
-### Are you selling features or benefits?
+## Are you selling features or benefits?
 
 So how are you selling your startup product or service?
 

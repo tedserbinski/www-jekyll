@@ -130,6 +130,7 @@ blockquote {
     border: none;
     padding:0;
     text-align: center;
+    text-rendering: optimizeLegibility; // Fix the character spacing for headings
 
     p {
       line-height: 1.1;

@@ -52,7 +52,8 @@ But it&rsquo;s more than just us.
 - **The Most Beautiful Place in America** &mdash; Sleeping Bear Dunes, a short 4 hour drive from Detroit, was named [the Most Beautiful Place in America by Good Morning America.][17]
 - **The Rising Costs of Coastal Cities** &mdash; Can you actually afford a wonderful house in a great neighborhood, live in an amazing school district, and not break the bank? San Francisco and New York, not a chance. But in Michigan, you can. In fact, [5 towns in Michigan were rated by Money Magazine as best places to live][18].
 - **Steve Blank said to Start Your Company Here** &mdash; One of the greatest minds in startups said to start your company in Michigan, not San Francisco. &lsquo;Nuff said.
-  ![Steve Blank - Silicon Valley is out of A players. Don't start your company here, start it in Ann Arbor.][image-1]
+
+![Steve Blank - Silicon Valley is out of A players. Don't start your company here, start it in Ann Arbor.][image-1]
 
 **So, step out of your comfort zone and come to Detroit!**
 ![Where the magic happens vs your comfort zone.][image-2]

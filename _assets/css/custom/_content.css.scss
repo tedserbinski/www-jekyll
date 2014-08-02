@@ -1,22 +1,28 @@
-section.e-content figure {
-  -webkit-margin-before: 0;
-  -webkit-margin-after: 0;
-  -webkit-margin-start: 0;
-  -webkit-margin-end: 0;
-  margin:0 0 $base-spacing 0;
-
-  &.wide {
-    width: 855px;
-    margin-left: -90px;
+section.e-content {
+  .twitter-tweet {
+    margin-bottom: $base-spacing;
   }
 
-  img {
-    max-width: 100%;
-  }
+  figure {
+    -webkit-margin-before: 0;
+    -webkit-margin-after: 0;
+    -webkit-margin-start: 0;
+    -webkit-margin-end: 0;
+    margin:0 0 $base-spacing 0;
 
-  figcaption {
-    font-size: 75%;
-    text-align: center;
+    &.wide {
+      width: 855px;
+      margin-left: -90px;
+    }
+
+    img {
+      max-width: 100%;
+    }
+
+    figcaption {
+      font-size: 75%;
+      text-align: center;
+    }
   }
 }
 

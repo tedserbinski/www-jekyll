@@ -13,16 +13,16 @@ So where should a visitor to Detroit go in 24 hours to see our quickly growing s
 
 Here’s what I recommend.
 
-### Morning
+## Morning
 
-#### All Around Detroit
+### All Around Detroit
 * *0700am* — **Morning run**
 	* [Run along the Detroit / Canada border](http://www.mapmyrun.com/us/detroit-mi/3-50mi-run-on-5-20-13-route-212193317)
 	  This is the only place in America where you head *south* into Canada.
 	* [Eastern Market](http://www.detroiteasternmarket.com/)  
 		The largest open-air farmers market in the country. It’s packed on Saturdays during the spring and summer.
 
-#### Corktown
+### Corktown
 
 * *0830am* — **Coffee & breakfast**
 	* [Astro Coffee](http://www.astrodetroit.com/)
@@ -45,9 +45,9 @@ Here’s what I recommend.
 	* *Cuban:* [Vicente's](http://www.vicente.us/)
 	* *Midday coffee*: [Urban Bean Co.](http://www.urbanbeanco.com/)
 
-### Afternoon
+## Afternoon
 
-#### Midtown
+### Midtown
 
 * *0100pm* — [Green Garage](http://greengaragedetroit.com/)  
 	Triple bottom line co-working. Incredible space. Formerly a showroom for Model T automobiles in the 1920s.
@@ -64,7 +64,7 @@ Here’s what I recommend.
 * *0245pm* — [Willys](https://www.facebook.com/WillysDetroit)
 	Curated, American-made goods. Awesome finds from the folks behind Shinola.
 
-#### Downtown
+### Downtown
 
 * *0300pm* — [Madison Building](http://www.eventsatmadison.com/)
 	Home to [Detroit Venture Partners](http://www.detroitventurepartners.com/), [Draper Triangle](http://www.crainsdetroit.com/article/20140126/NEWS/301269967/vc-draper-triangle-invests-here), [Microsoft Ventures](http://www.mlive.com/business/detroit/index.ssf/2014/05/microsoft_ventures_coming_to_d.html), [Ludlow Ventures](http://ludlowventures.com/), [Twitter](http://www.huffingtonpost.com/2012/04/04/twitter-opens-detroit-office-madison-building_n_1402644.html) and over a [dozen startups](http://www.detroitventurepartners.com/portfolio/index.html).
@@ -84,7 +84,7 @@ Here’s what I recommend.
 * *0530pm* — [D:Hive](http://dhivedetroit.org/) — All the resources to live, work, and play in Detroit.
 
 
-### Evening
+## Evening
 
 * *0600pm* — **Happy Hour**
 	* [Two James Spirits](http://twojames.com/)  
@@ -107,7 +107,7 @@ Here’s what I recommend.
 	* [Firehouse ](http://www.crainsdetroit.com/article/20130304/BLOG014/130309957/the-firepower-behind-the-detroit-firehouse-boutique-hotel)  
 		Coming soon. Detroit Fire Department's historic headquarters to become a hotel fall 2014.
 
-### Bonus
+## Bonus
 * Use [Uber](https://www.uber.com/) or [Lyft](https://www.lyft.com/) to get around (and in [2016 the M1 rail](http://en.wikipedia.org/wiki/Detroit_M-1_Rail_Line))
 * [Detroit Institute of Arts Museum](http://www.dia.org/)
 * [Signal Return](http://signalreturnpress.org/)

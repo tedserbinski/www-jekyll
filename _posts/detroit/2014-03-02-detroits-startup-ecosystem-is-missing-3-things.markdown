@@ -55,7 +55,7 @@ Every startup ecosystem has to start somewhere. Detroit has a good base, but we 
 
 I’ve been working on many initiatives to bring more of the above 3 to town in a variety of capacities. You could say I focus on biz dev for Detroit’s startup ecosystem in my "free time”. I’m even [speaking at SxSw on this topic of startups and turnaround economies](http://schedule.sxsw.com/2014/events/event_IAP27494).
 
-> Where do you want to be in ten years? Status quo? Or one of the heroes that rebuilt a city through entrepreneurial fire? <cite>[Ted Serbinski](http://tedserbinski.com/the-entrepreneurial-gold-rush-why-i-moved-from-san-francisco-to-detroit/)</cite>
+> Where do you want to be in ten years? Status quo? Or one of the heroes that rebuilt a city through entrepreneurial fire? <cite>[Ted Serbinski](http://tedserbinski.com/detroit/the-entrepreneurial-gold-rush-why-i-moved-from-san-francisco-to-detroit/)</cite>
 
 Get the word out. Tweet about this article, send it to your colleagues. Leave a comment or shoot me an email if you have ideas to attract more of the above 3 funding sources to Detroit.
 
