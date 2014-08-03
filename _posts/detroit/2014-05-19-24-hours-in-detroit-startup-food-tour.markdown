@@ -97,6 +97,7 @@ Here’s what I recommend.
 	* Meat: [Roast](http://www.roastdetroit.com/)
 	* Historic ambiance: [Craft Work](http://www.craftworkdetroit.com/)
 	* Mexican: [El Barzon](http://upbizbiz.wix.com/el-barzon)
+	* Gastropub: [Wright & Company](https://www.facebook.com/wrightdetroit)
 
 * *0900pm* — **Night Cap**
 	* [Sugar House](http://www.sugarhousedetroit.com/)
