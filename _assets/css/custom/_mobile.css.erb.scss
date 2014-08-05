@@ -29,7 +29,7 @@ $tablet:new-breakpoint(min-width 768px max-width 1024px);
       margin: 0 0 0 16px;
       padding: 0;
       li {
-        margin: 0 16px 0 0;
+        margin: 0 12px 0 0;
         a:hover, a:focus, a:after {
           border: none;
           background: none;
@@ -47,9 +47,16 @@ $tablet:new-breakpoint(min-width 768px max-width 1024px);
     h4, p {
       font-size: 1em;
     }
-    input,
-    label {
-      font-size: 90%;
+    form {
+      font-size: 1.2em;
+      margin-bottom: $base-spacing;
+
+      label {
+        display: block;
+      }
+      input {
+        display: inline;
+      }
     }
     section.bottom {
       background: none;
@@ -73,6 +80,48 @@ $tablet:new-breakpoint(min-width 768px max-width 1024px);
       text-align: center;
       a {
         border: none;
+      }
+    }
+  }
+  #page-home {
+    #wrapper {
+      background: none;
+    }
+    #callout {
+      height: auto;
+      float: none;
+      width: 100%;
+    }
+    section.column {
+      float: none;
+      width: auto;
+    }
+    #masthead {
+      #headernav {
+        margin-right: 0;
+      }
+      h1 {
+        background: url('http://localhost:4000/assets/ted-serbinski-headshot-oct-90x90.png?cb=58466d47355de632965f6d4ea3fd8816') no-repeat 42px;
+        height: 90px;
+        padding: 28px 0 0 50px;
+        vertical-align: middle;
+        margin-top: 0;
+        display: block;
+
+        a {
+          padding-left: 90px;
+        }
+      }
+    }
+  }
+  section.e-content {
+    figure.wide {
+      width: auto;
+      margin-left: 0;
+
+      img {
+        height: auto;
+        width: auto;
       }
     }
   }
