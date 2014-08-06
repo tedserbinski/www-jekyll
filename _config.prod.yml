@@ -1,29 +1,4 @@
-permalink: /:categories/:title/
-
-lsi: false
-
-kramdown:
-  input: GFM
-
-# configuration options https://github.com/ixti/jekyll-assets
 assets:
-  dirname: assets
   baseurl: http://d3bzjcbbiattc5.cloudfront.net/assets/
-  sources:
-    - _assets/js
-    - _assets/js/vendor
-    - _assets/css
-    - _assets/css/custom
-    - _assets/img
-    - _assets/img/headshots
-    - _assets/img/posts
-    - _assets/img/pages
-  js_compressor: uglifier
-  css_compressor: sass
-  cachebust: soft # don't rename images that might be hotlinked from syndication partners
-  gzip: false # use https://github.com/laurilehmijoki/s3_website for gzipping
-
-exclude:
-  - Rakefile
 
 prod: true
