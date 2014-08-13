@@ -7,7 +7,7 @@ description: "Startup lessons from an entrepreneur and open source hacker, turne
 
 <div id="callout">
 
-  <h2>Hello! I'm a venture capitalist in Detroit. I invest in high tech startups across the Midwest.</h2>
+  <h2>{{ site.tagline_homepage }}</h2>
 
   <form action="https://tinyletter.com/tedserbinski" method="post" target="popupwindow" onsubmit="newsletter();return true;">
     <label for="tlemail">Signup today for free email updates</label>
@@ -26,7 +26,7 @@ description: "Startup lessons from an entrepreneur and open source hacker, turne
   <h3>&raquo; New here? <small>Start with my best posts</small></h3>
   <ul>
     {% for post in site.tags["top post"] limit:5 %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a>
+    <li><a href="{{ site.domain }}{{ post.url }}">{{ post.title }}</a>
     </li>
     {% endfor %}
   </ul>
@@ -36,10 +36,10 @@ description: "Startup lessons from an entrepreneur and open source hacker, turne
   <h3>&raquo; Back again? <small>Here's the latest</small></h3>
   <ul>
     {% for post in site.posts limit:4 %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a>
+    <li><a href="{{ site.domain }}{{ post.url }}">{{ post.title }}</a>
     </li>
     {% endfor %}
-    <li><a href="/posts/">&hellip; all of my blog posts</a>
+    <li><a href="{{ site.domain }}/posts/">&hellip; all of my blog posts</a>
     </li>
   </ul>
 </section>

@@ -1,15 +1,15 @@
 <header id="masthead">
-  <a href="/"><img src="{% asset_path ted-serbinski-headshot-oct-90x90.png %}" width="90" height="90" title="Ted Serbinski headshot" id="logo"></a>
+  <a href="{{ site.domain }}/"><img src="{% asset_path ted-serbinski-headshot-oct-90x90.png %}" width="90" height="90" title="Ted Serbinski headshot" id="logo"></a>
   {% if page.pageid != 'home' %}
-  <h4><a href="/">Ted Serbinski</a></h4>
+  <h4><a href="{{ site.domain }}/">Ted Serbinski</a></h4>
   {% else %}
-  <h1><a href="/">Ted Serbinski</a></h1>
+  <h1><a href="{{ site.domain }}/">Ted Serbinski</a></h1>
   {% endif %}
   <nav id="headernav" role="navigation">
     <ul>
-      <li><a href="/startup-lessons/">Startup Lessons</a></li>
-      <li><a href="/detroit/">Detroit</a></li>
-      <li><a href="/about/">About</a>
+      <li><a href="{{ site.domain }}/startup-lessons/">Startup Lessons</a></li>
+      <li><a href="{{ site.domain }}/detroit/">Detroit</a></li>
+      <li><a href="{{ site.domain }}/about/">About</a>
       </li>
     </ul>
   </nav>

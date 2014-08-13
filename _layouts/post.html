@@ -10,9 +10,9 @@ layout: default
       <p class="meta">
         <span class="reading-time">◷ {{ content | reading_time | pluralize: "minute" }} to read</span>
         {% if page.next %}
-        &nbsp;&nbsp;⁓&nbsp;&nbsp; <span><a href="{{ page.next.url }}" title="{{ page.next.title }}">Next post &rarr;</a></span>
+        &nbsp;&nbsp;⁓&nbsp;&nbsp; <span><a href="{{ site.domain }}{{ page.next.url }}" title="{{ page.next.title }}">Next post &rarr;</a></span>
         {% else %}
-        &nbsp;&nbsp;⁓&nbsp;&nbsp; <span><a href="/posts/" title="All blog posts">More posts &rarr;</a></span>
+        &nbsp;&nbsp;⁓&nbsp;&nbsp; <span><a href="{{ site.domain }}/posts/" title="All blog posts">More posts &rarr;</a></span>
         {% endif %}
       </p>
     </header>
@@ -24,13 +24,13 @@ layout: default
 
     <footer class="e-footer">
       <p class="meta">
-        <a href="http://tedserbinski.com{{ page.url | remove: 'index.html' }}" rel="bookmark" title="permalink" class="u-url" itemprop="url">
+        <a href="{{ site.domain }}{{ page.url | remove: 'index.html' }}" rel="bookmark" title="permalink" class="u-url" itemprop="url">
           <time class="dt-published" itemprop="datePublished" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>
         </a>
         {% comment %}
          &nbsp;&nbsp;⁓&nbsp;&nbsp;
         {% for tag in page.tags %}
-          <a href="/archive/index.html#{{ tag | uri_escape }}" class="p-category" rel="tag">{{ tag }}</a>
+          <a href="{{ site.domain }}/archive/index.html#{{ tag | uri_escape }}" class="p-category" rel="tag">{{ tag }}</a>
         {% endfor %}
         {% endcomment %}
       </p>
@@ -39,12 +39,12 @@ layout: default
     <section class="next">
       <h4><mark>Read this next:</mark></h4>
       {% if page.next %}
-      <p><a href="{{ page.next.url }}" title="{{ page.next.title }}">{{ page.next.title }} &rarr;</a></p>
+      <p><a href="{{ site.domain }}{{ page.next.url }}" title="{{ page.next.title }}">{{ page.next.title }} &rarr;</a></p>
       {% else %}
-      <p><a href="/posts/" title="All blog posts">More great posts &rarr;</a></p>
+      <p><a href="{{ site.domain }}/posts/" title="All blog posts">More great posts &rarr;</a></p>
       {% endif %}
     </section>
-    <section id="disqus_thread" class="p-comment" itemprop="comment" data-disqus-shortname="tedserbinski" data-disqus-url="http://tedserbinski.com{{ page.url | remove: 'index.html' }}"></section>
+    <section id="disqus_thread" class="p-comment" itemprop="comment" data-disqus-shortname="tedserbinski" data-disqus-url="{{ site.domain }}{{ page.url | remove: 'index.html' }}"></section>
   </article>
 
 </main>
