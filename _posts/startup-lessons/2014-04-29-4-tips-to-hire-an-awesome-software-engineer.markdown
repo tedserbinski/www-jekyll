@@ -2,6 +2,7 @@
 layout: post
 title: "4 Tips to Hire an Awesome Software Engineer"
 description: "These are my 4 best tips for hiring an awesome software engineer to join your startup."
+categories: ["startup-lessons"]
 tags: ["startups", "hiring"]
 ---
 

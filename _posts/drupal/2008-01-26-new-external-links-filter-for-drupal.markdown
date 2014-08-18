@@ -2,7 +2,7 @@
 layout: post
 title: New external links filter for Drupal
 created: 1201402351
-category: drupal
+categories: ["drupal"]
 ---
 <strong>Update: <a href="http://drupal.org/node/214805">version 2 has been released</a> that fixes some bugs and adds new features.</strong>
 

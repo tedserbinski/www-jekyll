@@ -2,7 +2,7 @@
 layout: post
 title: Simplemenu 5.0 released
 created: 1201390298
-category: drupal
+categories: ["drupal"]
 ---
 I'm pleased to announce that <a href="http://drupal.org/project/simplemenu">Simplemenu 5.0 has been released</a>. This new release fixes issues with IE6/7, improves compatibility with different themes, and adds some new options for controlling the menu effects and timing.
 

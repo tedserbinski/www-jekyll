@@ -2,7 +2,7 @@
 layout: post
 title: Automatically Extracting Tags from Nodes
 created: 1258765856
-category: drupal
+categories: ["drupal"]
 ---
 Automatically tagging content is becoming easier with services like <a href="http://opencalais.com/">OpenCalais</a> and <a href="http://developer.yahoo.com/search/content/V1/termExtraction.html">Yahoo Terms Extractor</a>, offering their APIs for free semantic analysis of content. There's even a great Drupal module, <a href="http://drupal.org/project/autotagging">Auto Tagging</a> (with <a href="http://www.workhabit.com/labs/autotagging-content-drupal">a great writeup on usage</a>) that ties these services together and makes it even easier.
 

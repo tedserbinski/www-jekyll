@@ -2,7 +2,7 @@
 layout: post
 title: "ted 3.0: A Drupal Blog Redesign"
 created: 1203904327
-category: drupal
+categories: ["drupal"]
 ---
 
 About <a href="http://tedserbinski.com/drupal/ted-2-0-a-site-redesign/">9 months ago I redesigned this blog</a> unveiling the black & blue theme. For a while the redesign was great and reflected my current state of mind--the previous year had been a bit bumpy and the black & blue was to be symbolic of the "bruises" along the way.

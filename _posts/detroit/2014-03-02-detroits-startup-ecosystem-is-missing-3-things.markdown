@@ -2,6 +2,7 @@
 layout: post
 title: "Detroit's Startup Ecosystem is Missing 3 Things"
 description: "An ex-Silicon Valley guy's perspective on what Detroit's startup ecosystem needs."
+categories: ["detroit"]
 tags: ["startups", "detroit"]
 ---
 

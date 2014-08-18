@@ -2,6 +2,7 @@
 layout: post
 title: "How to Host Your Static Website on Amazon S3: Step-by-Step Guide"
 date: 2013-04-01 22:29:50 -0400
+categories: ["tech"]
 ---
 
 1. Login to your Amazon AWS account

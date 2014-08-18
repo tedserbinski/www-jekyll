@@ -2,7 +2,7 @@
 layout: post
 title: ted 2.0 - a site redesign
 created: 1179696544
-category: drupal
+categories: ["drupal"]
 ---
 Well it's been almost a year since this site has had an overhaul. The previous design, "Orange Mint" was a 4.7 beta site and held up well over the past year, despite it being very out of date.
 

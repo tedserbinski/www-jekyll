@@ -2,7 +2,7 @@
 layout: post
 title: How to prevent duplicate posts?
 created: 1168543857
-category: drupal
+categories: ["drupal"]
 ---
 So one of the problems with Drupal (and well just about any other website out there) is the fact that it is quite easy to post forms more than once. Why do you think ecommerce sites take such huge precautions for preventing multiple form submissions?
 

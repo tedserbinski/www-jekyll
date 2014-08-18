@@ -2,7 +2,7 @@
 layout: post
 title: I have left Lullabot
 created: 1179986401
-category: drupal
+categories: ["drupal"]
 ---
 Yes, you read that right folks. I have indeed left <a href="http://www.lullabot.com/">Lullabot</a> and have embarked on a new journey :-)
 

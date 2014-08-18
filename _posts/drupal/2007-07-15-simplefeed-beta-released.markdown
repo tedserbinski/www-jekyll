@@ -2,7 +2,7 @@
 layout: post
 title: SimpleFeed beta released!
 created: 1184556342
-category: drupal
+categories: ["drupal"]
 ---
 So, ahem, <a href="http://tedserbinski.com/drupal/simplefeed-1-0-ships/">my earlier post</a> was <em>slightly</em> off. A <a href="http://drupal.org/project/simplefeed">beta release of SimpleFeed</a> didn't come for nearly 3 months, doh! 
 

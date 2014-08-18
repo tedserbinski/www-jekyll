@@ -2,7 +2,7 @@
 layout: post
 title: My First Podcast!
 created: 1143603142
-category: drupal
+categories: ["drupal"]
 ---
 Yes, it's true, I'm appearing regularly now on a weekly podcast about <a href="http://www.drupal.org">Drupal</a>, wahoo! <a href="http://www.lullabot.com/podcasts/drupal_podcast_no_7">My first appearance on a podcast</a> was a quick intro about me joining the <a href="http://www.lullabot.com">Lullabot team</a> and a quick update on the status of Drupal 4.7. And then <a href="http://www.lullabot.com/node/64">my first full length episode</a> was recorded just last week, so cool! 
 

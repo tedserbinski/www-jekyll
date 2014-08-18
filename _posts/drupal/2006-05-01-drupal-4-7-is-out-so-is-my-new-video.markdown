@@ -2,7 +2,7 @@
 layout: post
 title: Drupal 4.7 is out! So is my new video...
 created: 1146522359
-category: drupal
+categories: ["drupal"]
 ---
 So <a href="http://drupal.org/drupal-4.7.0">Drupal 4.7 is finally out</a>! It's been almost a year, but it's certainly been worth it. Look at all of the cool new features! It's a really great feeling having contributed many hours to this release myself, including one whole new feature of my own: MySQLi support!
 

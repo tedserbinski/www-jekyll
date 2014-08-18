@@ -2,7 +2,7 @@
 layout: post
 title: JavaScript Compression
 created: 1175193743
-category: drupal
+categories: ["drupal"]
 ---
 As I was re-rolling my <a href="http://drupal.org/node/119441">JS aggregation patch for Drupal</a>, I stumbled upon an interesting solution to an age old problem I've encountered numerous times.
 

@@ -3,6 +3,7 @@ layout: post
 title: "The Diamond in the Midwest"
 description: "Detailing the startup advantages of being within the diamond of the Midwest: Chicago, Detroit, Pittsburgh, Cincinnati, Indianapolis."
 social_photo: startup-diamond-in-midwest.jpg
+categories: ["detroit"]
 tags: ["startups", "detroit", "top post"]
 ---
 

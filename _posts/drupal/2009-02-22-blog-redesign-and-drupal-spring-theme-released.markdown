@@ -2,7 +2,7 @@
 layout: post
 title: Blog Redesign and Drupal "Spring Theme" Released
 created: 1235290917
-category: drupal
+categories: ["drupal"]
 ---
 Almost exactly 1 year ago I redesigned this blog and today, I unveil yet another new design. This time, it's running Drupal 6 and all that goodness. I've enhanced the contrast on the design quite a bit and really improved the readability on posts and comments, along with using the <a href="http://drupal.org/project/geshifilter">GeSHi code filter</a> for much better display of code snippets. This theme was built on top of the <a href="http://drupal.org/project/blueprint">Drupal Blueprint theme</a>, which I maintain, and also made theming this site quick and simple.
 

@@ -2,7 +2,7 @@
 layout: post
 title: Drupal on Inside the Net
 created: 1150349791
-category: drupal
+categories: ["drupal"]
 ---
 In <a href="http://twit.tv/itn25">episode 25 of Inside the Net</a>, hosts <a href="http://www.leoville.com/">Leo Laporte</a> and <a href="http://ambermac.com/">Amber MacArthur</a> talk with my co-worker <a href="http://www.jjeff.com/">Jeff Robins</a> about <a href="http://drupal.org">Drupal</a>. Jeff explains why we're using it as the choice CMS for many of our clients, including the redesign of the <a href="http://twit.tv">TWiT.tv</a> site and the new <a href="http://www.mtv.co.uk">MTV UK</a> site.
 

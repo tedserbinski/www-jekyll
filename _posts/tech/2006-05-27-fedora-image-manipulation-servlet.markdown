@@ -2,6 +2,7 @@
 layout: post
 title: "Fedora: Image Manipulation Servlet"
 created: 1148747489
+categories: ["tech"]
 ---
 During the 2nd semester of my junior year at <a href="http://www.cornell.edu">Cornell University</a> (circa April 2003), I worked on an independent study where I developed an image manipulation servlet to tie into <a href="http://www.fedora.info/">Fedora</a>, an "open source software [package that] gives organizations a flexible service-oriented architecture for managing and delivering their digital content."
 

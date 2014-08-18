@@ -2,7 +2,7 @@
 layout: post
 title: TWiT.tv
 created: 1152841849
-category: drupal
+categories: ["drupal"]
 ---
 After many months, the new <a href="http://www.twit.tv">TWiT.tv</a> has launched! This has been an amazing project to work on and certainly my best work to date. I originally started on this project back in March 2006 when I joined <a href="http://www.lullabot.com">Lullabot</a> in its infancy as their first senior web architect. From the start I was ecstatic; <a href="http://www.twit.tv/twit">TWiT</a> was the first podcast I ever listened to and to be working closely with <a href="http://leoville.vox.com/">Leo Laporte</a> to develop his new site was an amazing opportunity.
 

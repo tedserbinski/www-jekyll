@@ -2,6 +2,7 @@
 layout: post
 title: MothersClick Acquires MothersGroups.com
 created: 1202150954
+categories: ["other"]
 ---
 Today, I am proud to announce that <a href="http://www.emediawire.com/releases/2008/2/prweb674954.htm">MothersClick has acquired the domain MothersGroups.com</a>. This strategic acquisition allows us to improve our online presence for helping moms to find local groups and activities.
 

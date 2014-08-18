@@ -2,7 +2,7 @@
 layout: post
 title: How to make theming in Drupal easier
 created: 1147320153
-category: drupal
+categories: ["drupal"]
 ---
 Drupal is an amazing web framework. You can build almost any type of website with it super easily. Just check out <a href="http://www.zacker.org/screencast-drupal-mashup-machine">Zack's screencast</a> for an example of this.
 

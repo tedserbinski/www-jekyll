@@ -2,6 +2,7 @@
 layout: post
 title: "24 Hours in Detroit: A Startup & Food Tour"
 description: "Visiting Detroit for the day? Check out this must-see list of startup places and restaurants."
+categories: ["detroit"]
 tags: ["startups", "detroit"]
 ---
 

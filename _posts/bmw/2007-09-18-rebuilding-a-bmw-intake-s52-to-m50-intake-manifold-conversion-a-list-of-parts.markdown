@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rebuilding a BMW intake: S52 to M50 manifold conversion, a list of parts"
-category: bmw
+categories: ["bmw"]
 ---
 <em>Coming to you live from my parents garage in this 7 part series, are the chronicled adventures my dad and myself had converting an S52 intake manifold to the larger M50 intake manifold.
 <a href="http://tedserbinski.com/2007/08/04/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-1">Day 1</a>&nbsp;&nbsp;&nbsp; <a href="http://tedserbinski.com/2007/08/11/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-2">Day 2</a>&nbsp;&nbsp;&nbsp; <a href="http://tedserbinski.com/2007/08/17/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-3">Day 3</a>&nbsp;&nbsp;&nbsp; <a href="http://tedserbinski.com/2007/08/18/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-4">Day 4</a>&nbsp;&nbsp;&nbsp; <a href="http://tedserbinski.com/2007/08/23/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-5">Day 5</a>&nbsp;&nbsp;&nbsp; <a href="http://tedserbinski.com/2007/08/30/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-6">Day 6</a>&nbsp;&nbsp;&nbsp; <a href="http://tedserbinski.com/2007/08/31/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-list-parts">List of parts</a>&nbsp;&nbsp;&nbsp; <a href="http://tedserbinski.com/2007/09/17/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-7">Day 7</a></em>

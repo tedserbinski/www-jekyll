@@ -1,7 +1,8 @@
---- 
+---
 layout: post
 title: OpenDNS
 created: 1176774203
+categories: ["tech"]
 ---
 <a href="http://www.opendns.com/">OpenDNS</a> is a great new service that:
 

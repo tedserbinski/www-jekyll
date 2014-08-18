@@ -1,7 +1,8 @@
---- 
+---
 layout: post
 title: Tracking External Links and "In-Network" Links with Google Analytics and jQuery
 created: 1212378436
+categories: ["tech"]
 ---
 <a href="http://www.mothersclick.com/">MothersClick</a> is a flourishing site that is growing very quickly. As such, tracking user behavior with <a href="http://www.google.com/analytics/">Google Analytics</a> is becoming very important as it helps to determine how to adjust the site to better meet the needs of our users. And now, as we prepare to launch our full ParentsClick Network of sites, we need to track what they are doing <strong>across</strong> our network of sites.
 
@@ -47,14 +48,13 @@ Sure there has gotta be, jQuery is wonderful and we could use that. So I googled
       }
       // IE7 throws errors often when dealing with irregular links, such as:
       // <a href="node/10"></a> Empty tags.
-      // <a href="http://user:pass@example.com">example</a> User:pass syntax.      
+      // <a href="http://user:pass@example.com">example</a> User:pass syntax.
       catch(error) {
         return false;
-      }      
-    }); 
-  });    
+      }
+    });
+  });
 </script>
 {% endhighlight %}
 
 Hope that helps someone else, makes tracking all of that stuff considerably easier.
-

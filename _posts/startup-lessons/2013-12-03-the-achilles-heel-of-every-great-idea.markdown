@@ -2,6 +2,7 @@
 layout: post
 title: "The Achilles Heel of Every Great Idea"
 social_photo: startup-quotes-edison-ideas.png
+categories: ["startup-lessons"]
 tags: ["startups", "ideas"]
 ---
 

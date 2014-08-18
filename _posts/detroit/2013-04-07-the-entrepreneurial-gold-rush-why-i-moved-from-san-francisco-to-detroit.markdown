@@ -4,6 +4,7 @@ title: "The Entrepreneurial Gold Rush: Why I moved from San Francisco to Detroit
 description: "Where do you want to be in ten years? Status quo? Or one of the heroes that rebuilt a city? Read on for why."
 date: 2013-04-07 14:41:45 -0400
 social_photo: magic-happens-your-comfort-zone.jpg
+categories: ["detroit"]
 tags: ["startups", "detroit", "top post"]
 ---
 

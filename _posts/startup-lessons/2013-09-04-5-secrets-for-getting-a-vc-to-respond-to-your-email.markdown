@@ -3,6 +3,7 @@ layout: post
 title: "5 Secrets for Getting a VC to Respond to Your Email"
 description: "Read on for 5 tips on how to compose an email to get a response."
 social_photo: verbose-email.png
+categories: ["startup-lessons"]
 tags: ["startups", "vc", "email"]
 ---
 

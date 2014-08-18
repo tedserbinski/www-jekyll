@@ -1,7 +1,8 @@
---- 
+---
 layout: post
 title: Mom Blog Network launches!
 created: 1194303787
+categories: ["other"]
 ---
 
 That's right, the all new <a href="http://www.momblognetwork.com/">Mom Blog Network</a> has finally launched!

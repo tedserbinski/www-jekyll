@@ -2,7 +2,7 @@
 layout: post
 title: Speeding up CSS and JS in Drupal
 created: 1180715330
-category: drupal
+categories: ["drupal"]
 ---
 Whoohoo! <a href="http://drupal.org/node/119441">My JS aggregation patch</a> has finally made it into core to join my other CSS preprocessor patch :-)
 

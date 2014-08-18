@@ -2,6 +2,7 @@
 layout: post
 title: "Startups Should Build Less and Sell More"
 description: "Start selling before you're ready. Ship code early and often. Sell more and build less."
+categories: ["startup-lessons"]
 tags: ["startups", "product/market fit"]
 ---
 

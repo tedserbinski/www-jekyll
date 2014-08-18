@@ -2,7 +2,7 @@
 layout: post
 title: "Preventing duplicate posts: part 2"
 created: 1180998230
-category: drupal
+categories: ["drupal"]
 ---
 <a href="http://tedserbinski.com/drupal/how-to-prevent-duplicate-posts/">In a previous article</a>, I wrote about how to use jQuery to remove submit form buttons and replacing it with some "Saving..." text to prevent duplicate form submissions. 
 

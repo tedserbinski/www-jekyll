@@ -3,6 +3,7 @@ layout: post
 title: "The Ultimate Failures that Killed My Last Startup"
 description: "This is a story about the final failures that ultimately killed my last startup, ParentsClick."
 social_photo: parentsclick-mothersclick-mom-blog-network-logos.png
+categories: ["startup-lessons"]
 tags: ["startups", "lessons", "top post"]
 ---
 

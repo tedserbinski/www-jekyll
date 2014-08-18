@@ -2,7 +2,7 @@
 layout: post
 title: "Black & Blue Drupal Theme Released"
 created: 1203961293
-category: drupal
+categories: ["drupal"]
 ---
 
 When I redesign my blog, I like to release the previous theme out into the open for anyone to make use of. I did this last year with the <a href="http://tedserbinski.com/drupal/orange-mint-drupal-theme-for-download/">Orange Mint theme release</a> and it worked out well.

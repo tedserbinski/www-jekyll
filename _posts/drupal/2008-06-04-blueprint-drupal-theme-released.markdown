@@ -2,7 +2,7 @@
 layout: post
 title: Blueprint Drupal Theme Released
 created: 1212595962
-category: drupal
+categories: ["drupal"]
 ---
 Well, it took longer than I expected (<a href="http://drupalmao.com/ted-serbinski-interview">announced it a couple months back</a>), but I'm pleased to announce that my <a href="http://drupal.org/project/blueprint">Blueprint Drupal Theme</a> has been released! 
 

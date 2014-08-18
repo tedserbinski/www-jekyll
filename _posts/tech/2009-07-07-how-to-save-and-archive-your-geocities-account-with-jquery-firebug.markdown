@@ -1,7 +1,8 @@
---- 
+---
 layout: post
 title: How to Save and Archive Your Geocities Account (with jQuery + Firebug)
 created: 1246950016
+categories: ["tech"]
 ---
 Back in the late 1990s, <a href="http://en.wikipedia.org/wiki/GeoCities">Geocities</a> was all the rage and free 2MB of space for hosting your website rocked. It was in 1997 that I first put my own websites online and Geocities made it very easy to host.
 
@@ -18,8 +19,8 @@ Visit your Geocities account and the filemanager page. Once on a listing of file
 var o = '';
 $("form[name=dispfiles]")
   .find("a:contains(View)")
-  .each(function(i, val) { 
-    o+= 'wget '+ val.href +';'; 
+  .each(function(i, val) {
+    o+= 'wget '+ val.href +';';
   });
 console.log(o);
 {% endhighlight %}

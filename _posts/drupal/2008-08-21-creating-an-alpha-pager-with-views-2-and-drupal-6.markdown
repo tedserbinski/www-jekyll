@@ -2,7 +2,7 @@
 layout: post
 title: Creating an Alpha Pager with Views 2 and Drupal 6
 created: 1219360097
-category: drupal
+categories: ["drupal"]
 tag: top
 ---
 <div class="alert alert-error">UPDATE: <a href="http://tedserbinski.com/drupal/creating-an-alpha-pager-with-views-2-and-drupal-6/">Earl comments below</a> how this is already built in. Two different ways to achieve a similar result, each with their own pros/cons.</div>

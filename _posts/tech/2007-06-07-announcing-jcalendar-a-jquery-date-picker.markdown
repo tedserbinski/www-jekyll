@@ -1,8 +1,9 @@
---- 
+---
 layout: post
 title: Announcing jCalendar - a jQuery date picker
 created: 1181244915
 tag: top
+categories: ["tech"]
 ---
 <p><strong>NOTE: This project has been superceded by the most excellent <a href="http://jquery.com/plugins/project/jquery-calendar">jQuery Calendar</a>. All development on this plugin will now be merged with that project.</strong></p>
 

@@ -2,7 +2,7 @@
 layout: post
 title: SimpleFeed 2.1 Release, New Maintainer, and a Look at Performance
 created: 1213215900
-category: drupal
+categories: ["drupal"]
 ---
 <h3>SimpleFeed 2.1</h3>
 

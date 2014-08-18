@@ -2,7 +2,7 @@
 layout: post
 title: New OLF module, released from SF
 created: 1160353631
-category: drupal
+categories: ["drupal"]
 ---
 Yes, that's correct--my new <a href="http://drupal.org/project/olf">OLF module</a> is ready for consumption. What's OLF? Well it stands for "outgoing links filter" and this module is a simple filter that finds all outgoing links (e.g., links that point to external websites relative to your website) and allows you to add a customizable class to these links. From there, you can easily add some CSS magic to add in icons or attach some unobtrusive JavaScript.
 

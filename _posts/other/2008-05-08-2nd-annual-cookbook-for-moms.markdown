@@ -1,7 +1,8 @@
---- 
+---
 layout: post
 title: 2nd Annual "Cookbook for Moms"
 created: 1210296471
+categories: ["other"]
 ---
 <img src="/files/mc-cookbook.jpg" width="223" height="299" style="float:left;margin-right:6px;margin-bottom:6px;" /> Just in time for Mother's Day, the <a href="http://www.mothersclick.com/cookbook">2nd Annual "Cookbook for Moms"</a> is now <a href="http://www.blurb.com/bookstore/detail/235383">for sale</a>! This year we have teamed up with Missy Chase Lapine, author of <a href="http://www.thesneakychef.com/">"The Sneaky Chef"</a> in helping us raise money for the <a href="http://www.bgca.org/">Boys and Girls Club</a>.
 

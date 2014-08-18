@@ -2,7 +2,7 @@
 layout: post
 title: Getting Drupal to Play Nice with Your CDN
 created: 1219347022
-category: drupal
+categories: ["drupal"]
 ---
 <div class="alert alert-error">Note: A better version of this patch is going into Drupal 7. <a href="http://drupal.org/node/499156">View the issue/patch here</a>.</div>
 

@@ -3,6 +3,7 @@ layout: post
 title: "24 Business Insights I’ve Learned from Billionaire Dan Gilbert"
 description: "The top 24 business insights I've learned working alongside Dan Gilbert for 2 years."
 social_photo: dan-gilbert-spreadsheets.jpg
+categories: ["startup-lessons"]
 tags: ["startups", "detroit"]
 ---
 
