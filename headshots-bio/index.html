@@ -6,8 +6,6 @@ title: "Headshots &amp; Bio"
 description: "Ted Serbinski's headshots and bio."
 ---
 
-<h1>Headshots &amp; Bio</h1>
-
 <section class="half">
   <h2>Ted #1</h2><button onclick="location.href='{% asset_path ted-serbinski-headshot-s-500x500.jpg %}'">Download JPG</button>
   <a target="_new" href="{% asset_path ted-serbinski-headshot-s-500x500.jpg %}"><img src="{% asset_path headshot-01-square-preview.jpg %}" width="250" height="150"></a>
@@ -29,10 +27,18 @@ description: "Ted Serbinski's headshots and bio."
 </section>
 
 <section class="full">
+  <h2>Ted Bio: Micro</h2><button class="copy" data-clipboard-target="bio-micro">Copy</button>
+
+  <div class="copy" id="bio-micro">
+    {{ site.bio_micro }}
+  </div>
+</section>
+
+<section class="full">
   <h2>Ted Bio: Short</h2><button class="copy" data-clipboard-target="bio-short">Copy</button>
 
   <div class="copy" id="bio-short">
-    <p>Short, lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis ante non nisi auctor gravida.</p>
+    {{ site.bio_short }}
   </div>
 </section>
 
@@ -40,8 +46,6 @@ description: "Ted Serbinski's headshots and bio."
   <h2>Ted Bio: Regular</h2><button class="copy" data-clipboard-target="bio-regular">Copy</button>
 
   <div class="copy" id="bio-regular">
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis ante non nisi auctor gravida.</p>
-    <p>Donec interdum posuere turpis, in lobortis dolor mattis sed. Proin sollicitudin turpis quis blandit facilisis.</p>
-    <p>Nulla et gravida nisl. <strong>Nam ut malesuada eros</strong>, in vestibulum mauris. Curabitur id condimentum enim, id ultricies elit.</p>
+    {{ site.bio_regular }}
   </div>
 </section>
