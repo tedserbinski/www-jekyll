@@ -5,9 +5,14 @@
   section.half {
     @include span-columns(4 of 8);
     @include omega(2n);
+
+    a {
+      border: none;
+    }
   }
   section.full {
     @include span-columns(8 of 8);
+    margin-top: $base-spacing;
   }
   h2 {
     margin: 1.1538em * 2 0 0.5769em 0;
