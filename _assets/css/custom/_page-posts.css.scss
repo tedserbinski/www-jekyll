@@ -15,10 +15,14 @@
 
   section.e-content {
     @include clearfix;
-    
+
     h2 {
       clear: both;
       @include clearfix;
+
+      small {
+        color: $medium-gray;
+      }
     }
 
     ul.posts {
