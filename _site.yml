@@ -8,7 +8,7 @@ tagline_copyright: "Ted Serbinski. All rights reserved. Made in Detroit, Michiga
 ## Bios
 
 bio_footer: >
-  Hi, I'm <a href="https://twitter.com/tedserbinski" rel="author">Ted Serbinski</a>. I live in Metro Detroit and am a Partner at <a href="http://detroitventurepartners.com">Detroit Venture Partners</a>. I love <a href="http://katieserbinski.com">my wife</a> & family, investing in startups, and contributing to the startup renaissance in Detroit. <a href="{{ site.domain }}/about/">Learn more</a>.
+  Hi, I'm <a href="https://twitter.com/tedserbinski" rel="author">Ted Serbinski</a>. I live in Metro Detroit and am a Partner at <a href="http://detroitventurepartners.com">Detroit Venture Partners</a>. I love <a href="http://katieserbinski.com">my wife</a> & family, investing in startups, and contributing to the startup renaissance in Detroit. <a href="/about/">Learn more</a>.
 
 
 bio_about: ""

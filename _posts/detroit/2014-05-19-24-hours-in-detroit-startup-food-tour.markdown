@@ -6,7 +6,7 @@ categories: ["detroit"]
 tags: ["startups", "detroit"]
 ---
 
-I get a lot of inquiries from terrific startup folks around the country. Many mention they will be in Detroit for the day and want to get a good sense of the startup ecosystem. They want to see what [Detroit's entrepreneurial gold rush](http://tedserbinski.com/the-entrepreneurial-gold-rush-why-i-moved-from-san-francisco-to-detroit/) is all about. To help them, I started sharing a quick guide to Detroit by email and it’s grown over time.
+I get a lot of inquiries from terrific startup folks around the country. Many mention they will be in Detroit for the day and want to get a good sense of the startup ecosystem. They want to see what [Detroit's entrepreneurial gold rush](/detroit/the-entrepreneurial-gold-rush-why-i-moved-from-san-francisco-to-detroit/) is all about. To help them, I started sharing a quick guide to Detroit by email and it’s grown over time.
 
 Now, I'm expanding this email into a dedicated blog post for all to enjoy and contribute to. If there are any hot startup locations or must-eat restaurants missing from this list, please leave a comment so I can add them.
 
@@ -68,7 +68,7 @@ Here’s what I recommend.
 ### Downtown
 
 * *0300pm* — [Madison Building](http://www.eventsatmadison.com/)
-	Home to [Detroit Venture Partners](http://www.detroitventurepartners.com/), [Draper Triangle](http://www.crainsdetroit.com/article/20140126/NEWS/301269967/vc-draper-triangle-invests-here), [Microsoft Ventures](http://www.mlive.com/business/detroit/index.ssf/2014/05/microsoft_ventures_coming_to_d.html), [Ludlow Ventures](http://ludlowventures.com/), [Twitter](http://www.huffingtonpost.com/2012/04/04/twitter-opens-detroit-office-madison-building_n_1402644.html) and over a [dozen startups](http://www.detroitventurepartners.com/portfolio/index.html).
+	Home to [Detroit Venture Partners](http://www.detroitventurepartners.com/), [Draper Triangle](http://www.crainsdetroit.com/article/20140126/NEWS/301269967/vc-draper-triangle-invests-here), [Microsoft Ventures](http://www.mlive.com/business/detroit/index.ssf/2014/05/microsoft_ventures_coming_to_d.html), [Ludlow Ventures](http://ludlowventures.com/), [Twitter](http://www.huffingtonpost.com/2012/04/04/twitter-opens-detroit-office-madison-building_n_1402644.html) and over a [dozen startups](http://www.detroitventurepartners.com/portfolio.html).
 
 * *0345pm* — [Madison Block](http://www.madisonblock.com/)  
 	One of 7 tech hubs [sponsored by Google for Entrepreneurs](http://www.google.com/entrepreneurs/initiatives/na-tech-hubs.html).

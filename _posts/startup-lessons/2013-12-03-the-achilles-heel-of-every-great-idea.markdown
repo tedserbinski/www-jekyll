@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Achilles Heel of Every Great Idea"
+description: "Every great idea has the same weakness. Read on to see what it is."
 social_photo: startup-quotes-edison-ideas.png
 categories: ["startup-lessons"]
 tags: ["startups", "ideas"]
@@ -75,7 +76,7 @@ A poor execution turns a great idea into a horrible mess.
 
 Every great execution revolves around implementing the tiniest of details.
 
-It's also [one of my favorite insights that I've learned since I've moved to Detroit](http://tedserbinski.com/24-business-insights-ive-learned-from-billionaire-dan-gilbert/) and a Quicken Loans' ISM "[Innovation is Rewarded but Execution Is Worshipped](http://www.quickenloans.com/press-room/fast-facts/our-isms)."
+It's also [one of my favorite insights that I've learned since I've moved to Detroit](/startup-lessons/business-insights-ive-learned-from-billionaire-dan-gilbert/) and a Quicken Loans' ISM "[Innovation is Rewarded but Execution Is Worshipped](http://www.quickenloans.com/press-room/fast-facts/our-isms)."
 
 Where should my restaurant be located? What kind of decor should be on the inside? What kind of music should we play to create an inviting atmosphere? Should we even play music or let people focus on food and great conversation? What type of cuisine should we serve? Where should we get our ingredients? How should we market our restaurant? Should we make a funny viral video on Vine?
 

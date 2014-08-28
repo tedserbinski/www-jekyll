@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Entrepreneurial Gold Rush: Why I moved from San Francisco to Detroit"
-description: "Where do you want to be in ten years? Status quo? Or one of the heroes that rebuilt a city? Read on for why."
+description: "I moved to Detroit from San Francisco. Read on to see why I did."
 date: 2013-04-07 14:41:45 -0400
 social_photo: magic-happens-your-comfort-zone.jpg
 categories: ["detroit"]
@@ -40,6 +40,7 @@ Couldn&rsquo;t have said it any better myself.
 But it&rsquo;s more than just us.
 
 <mark>Detroit is about to get hit by a perfect storm of economical drivers.</mark>
+
 
 - **The Bankruptcy** &mdash; Detroit filing for bankruptcy finally lets Detroit get out of an overwhelming amount of liabilities. With nearly $18 billion in debt, and only $1 billion in revenue, Detroit is upside down. Nearly $0.60 on every dollar of income is paying down debt. It's not going to better the city, but rather, pay off decades of past mistakes. The bankruptcy finally restructures this debt so that more of the city's income can go to improving its own infrastructure and solving issues.
 - **The Business Titans** &mdash; [Dan Gilbert][7] (founder of Quicken Loans, majority owner Cleveland Cavaliers), [Roger Penske][8] (owner of Penkse Racing and a number of related automobile companies), [Mike Ilitch][9] (owner of the Detroit Tigers, Detroit Red Wings and Little Caesars Pizza), and [Bill Ford][10] (yes, that Ford).
