@@ -1,0 +1,65 @@
+// Typography
+$sans-serif: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$sans-serif-2: 'Roboto', Tahoma, Helvetica, Arial, sans-serif;
+$serif: $georgia;
+$base-font-family: $sans-serif;
+$header-font-family: $sans-serif-2;
+
+// Font Sizes
+$base-font-size: 20px;
+
+// Line height
+$base-line-height: 1.5; // http://www.pearsonified.com/typography/ : font-size: 20px, line-height: 30, width: 675
+
+// Other Sizes
+$base-border-radius: 3px;
+$base-spacing: $base-line-height * 1em;
+$base-z-index: 0;
+
+// Colors
+$blue: #2980b9;
+$dark-blue: #2c3e50;
+$dark-gray: #333;
+$medium-gray: #BFBFBF;
+$light-gray: #ecf0f1;
+$light-red: #FBE3E4;
+$yellow: #f1c40f;
+$light-yellow: #ffff98;
+$light-green: #2ecc71;
+$green:#27ae60;
+$red: #F22613;
+$purple: #7A2A9C;
+
+// Background Color
+$base-background-color: transparent; //white
+
+// Font Colors
+$base-font-color: $dark-gray;
+$base-accent-color: $blue;
+
+// Link Colors
+$base-link-color: $blue;
+$hover-link-color: $red;
+$visited-link-color: $purple;
+$base-button-color: $base-link-color;
+$hover-button-color: $hover-link-color;
+
+// Flash Colors
+$alert-color: $light-yellow;
+$error-color: $light-red;
+$notice-color: lighten($base-accent-color, 40);
+$success-color: $light-green;
+
+// Border color
+$base-border-color: $light-gray;
+$base-border: 1px solid $base-border-color;
+
+// Forms
+$form-border-color: $base-border-color;
+$form-border-color-hover: darken($base-border-color, 10);
+$form-border-color-focus: $base-accent-color;
+$form-border-radius: $base-border-radius;
+$form-box-shadow: inset 0 1px 3px rgba(black,0.06);
+$form-box-shadow-focus: $form-box-shadow, 0 0 5px rgba(darken($form-border-color-focus, 5), 0.7);
+$form-font-size: $base-font-size;
+$form-font-family: $base-font-family;

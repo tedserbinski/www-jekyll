@@ -1,0 +1,24 @@
+---
+layout: page
+pageid: detroit
+show_flyout: true
+flyout: inline
+social_photo: detroit-move.jpg
+title: "Detroit"
+description: "Blog posts by an ex-Silicon Valley guy living in Detroit."
+---
+
+<p>I moved from San Francisco to Detroit on Oct 3, 2011. I've been here <mark><script>document.write(Math.ceil(((new Date()).getTime() - (new Date("10/3/2011")).getTime()) / (86400 * 1000)))</script> days</mark> and love it.</p>
+
+<figure class="wide">
+  <img src="{% asset_path detroit-move.jpg %}" width="855" height="510">
+  <figcaption>
+    Just arrived in Dearborn, MI after driving <a href="https://www.google.com/maps/dir/San+Francisco,+CA/Dearborn,+MI/@42.8517935,-102.8153122,5z/data=!4m14!4m13!1m5!1m1!1s0x80859a6d00690021:0x4a501367f076adff!2m2!1d-122.4194155!2d37.7749295!1m5!1m1!1s0x883b3506c9c0d86b:0x70fd341efca36c0!2m2!1d-83.1763145!2d42.3222599!5i1">2,392 miles from San Francisco</a>
+  </figcaption>
+</figure>
+
+<ul>
+{% for post in site.categories.detroit reversed %}
+  <li><a href="{{ site.domain }}{{ post.url }}">{{ post.title }}</a> <span>{{ post.date | date: "%b %Y" }}</span></li>
+{% endfor %}
+</ul>

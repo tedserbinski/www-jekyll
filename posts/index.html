@@ -1,0 +1,50 @@
+---
+layout: page
+pageid: posts
+show_flyout: true
+flyout: inline
+title: "All Blog Posts"
+description: "Startup Lessons, Detroit, Tech, and BMW blog posts written by Ted Serbinski."
+---
+
+<ul id="postnav">
+  <li>
+    <a href="#startup-lessons">Startup Lessons</a>
+  </li>
+  <li>
+    <a href="#detroit">Detroit</a>
+  </li>
+  <li>
+    <a href="#tech">Tech</a>
+  </li>
+  <li>
+    <a href="#drupal">Drupal</a>
+  </li>
+  <li>
+    <a href="#bmw">My BMW M3</a>
+  </li>
+  <li>
+    <a href="#other">Other</a>
+  </li>
+</ul>
+
+<hr>
+
+{% comment %}
+You can't assign arrays in Liquid: http://docs.shopify.com/themes/liquid-documentation/basics/types
+{% endcomment %}
+
+{% assign categories = "Startup Lessons|Detroit|Tech|Drupal|BMW|Other" | split: '|' %}
+
+{% for category in categories %}
+{% assign category_id = category | replace:' ','-' | downcase %}
+<h2 id="{{ category_id }}">{{ category }} <small>&mdash; {{ site.categories[category_id] | size }} posts</small></h2>
+<ul class="posts">
+  {% for post in site.categories[category_id] %}
+  <li>
+    <span class="post-date">{{ post.date | date: "%b %Y" }}</span>
+    <span class="post"><a href="{{ site.domain }}{{ post.url }}">{{ post.title }}</a></span>
+  </li>
+  {% endfor %}
+</ul>
+{% endfor %}

@@ -1,0 +1,27 @@
+body {
+  @include outer-container;
+}
+
+#wrapper {
+  @include span-columns(8);
+  @include shift(2);
+  margin-top: $base-spacing * 1.5;
+}
+
+#footer {
+  @include span-columns(12);
+
+  #about {
+    @include span-columns(4 of 12);
+    @include shift(2);
+  }
+
+  #footernav {
+    @include span-columns(4 of 12);
+    @include shift(1);
+  }
+
+  #copyright {
+    @include span-columns(12 of 12);
+  }
+}

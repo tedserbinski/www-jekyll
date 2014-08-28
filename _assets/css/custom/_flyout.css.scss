@@ -1,0 +1,65 @@
+#flyout {
+  background: rgba(255, 255, 255, 0.95);
+  border: 1px solid $medium-gray;
+  border-radius: 12px;
+  position: fixed;
+  top: $base-spacing * 2;
+  right: $base-spacing * 2;
+  width: 300px;
+  opacity: 1;
+  @include transition (opacity 1s ease-in-out, right 1s, ease-in-out);
+  h4, p {
+    margin: 0;
+    padding: 0;
+  }
+  h4 {
+    font-size: 0.9em;
+    margin-bottom: 6px;
+  }
+  p {
+    font-size: 0.8em;
+    margin-bottom: 12px;
+  }
+  section {
+    padding: 12px;
+  }
+  section.bottom {
+    background: $light-gray;
+    padding-top: 18px;
+    @include border-bottom-radius(12px);
+  }
+  form {
+    input, label {
+      font-size: 75%;
+      display: inline;
+      width: auto;
+    }
+    input.button {
+      background-color: $light-green;
+      &:hover {
+        background-color: $green;
+      }
+    }
+  }
+  &.hidden {
+    right: -350px;
+    opacity: 0;
+  }
+  &.inline {
+    background: transparent;
+    position: relative;
+    border: none;
+    border-top: 1px solid $medium-gray;
+    border-radius: 0;
+    width: auto;
+    transition: none;
+    top: 0;
+    right: 0;
+    margin: $base-spacing 0;
+    padding-top: $base-spacing;
+    section {
+      padding: 0;
+      background: transparent;
+    }
+  }
+}

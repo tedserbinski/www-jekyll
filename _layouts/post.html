@@ -2,56 +2,51 @@
 layout: default
 ---
 
-{% include header.html %}
+<main role="main" itemscope itemprop="mainContentOfPage" itemtype="http://schema.org/Blog">
 
-<!-- hatom microformat classes: http://microformats.org/wiki/hatom-examples -->
-<article class="hfeed hentry entry">
-  <header>
-    <h1 class="entry-title instapaper_title text-center" id="{{ page.id | replace: '/','-' }}">{{ page.title }}</h1>
+  <article class="h-entry" itemscope itemprop="blogPost" itemtype="http://schema.org/BlogPosting">
+    <header>
+      <h1 class="p-name" itemprop="name">{{ page.title }}</h1>
+      <p class="meta">
+        <span class="reading-time">◷ {{ content | reading_time | pluralize: "minute" }} to read</span>
+        {% if page.next %}
+        &nbsp;&nbsp;⁓&nbsp;&nbsp; <span><a href="{{ site.domain }}{{ page.next.url }}" title="{{ page.next.title }}">Next post &rarr;</a></span>
+        {% else %}
+        &nbsp;&nbsp;⁓&nbsp;&nbsp; <span><a href="{{ site.domain }}/posts/" title="All blog posts">More posts &rarr;</a></span>
+        {% endif %}
+      </p>
+    </header>
+    <section class="e-content" itemprop="description articleBody">
+      {{ content }}
+    </section>
 
-    <p class="muted posted text-center">
-      <span class="authored"><span class="vcard author">Written by <span class="fn"><a href="https://plus.google.com/107707246099022430019?rel=author">Ted</a></span></span> on <span class="date updated published" title="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y"  }}</span></span>
-      <span class="meta">
-        <a class="comment-count" href="#disqus_thread">Read&nbsp;Comments</a>
-        {% if page.previous %}<a class="prev" href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr;&nbsp;Previous</a> {% endif %}
-        {% if page.next %}<a class="next" href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next&nbsp;&rarr;</a> {% endif %}
-      </span>
-    </p>
-  </header>
-  <section class="post entry-content instapaper_body">
+    <hr class="end">
 
-    {{ content }}
+    <footer class="e-footer">
+      <p class="meta">
+        <a href="{{ site.domain }}{{ page.url | remove: 'index.html' }}" rel="bookmark" title="permalink" class="u-url" itemprop="url">
+          <time class="dt-published" itemprop="datePublished" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>
+        </a>
+        {% comment %}
+         &nbsp;&nbsp;⁓&nbsp;&nbsp;
+        {% for tag in page.tags %}
+          <a href="{{ site.domain }}/archive/index.html#{{ tag | uri_escape }}" class="p-category" rel="tag">{{ tag }}</a>
+        {% endfor %}
+        {% endcomment %}
+      </p>
+    </footer>
 
-    <hr>
-
-    <div class="pagination pagination-small pagination-centered">
-      <ul>
-      {% if page.previous %}
-        <li class="prev"><a href="{{ page.previous.url }}" class="btn" title="{{ page.previous.title }}">&larr; Previous Post</a></li>
-      {% endif %}
-        <li><a href="/archive.html" class="btn">Post Archive</a></li>
+    <section class="next">
+      <h4><mark>Read this next:</mark></h4>
       {% if page.next %}
-        <li class="next"><a href="{{ page.next.url }}" class="btn" title="{{ page.next.title }}">Next Post &rarr;</a></li>
+      <p><a href="{{ site.domain }}{{ page.next.url }}" title="{{ page.next.title }}">{{ page.next.title }} &rarr;</a></p>
+      {% else %}
+      <p><a href="{{ site.domain }}/posts/" title="All blog posts">More great posts &rarr;</a></p>
       {% endif %}
-      </ul>
-    </div>
+    </section>
+    <section id="disqus_thread" class="p-comment" itemprop="comment" data-disqus-shortname="tedserbinski" data-disqus-url="{{ site.domain }}{{ page.url | remove: 'index.html' }}"></section>
+  </article>
 
-    <hr>
+</main>
 
-    {% include newsletter.html %}
-
-    <div class="alert alert-block related">
-      <h4>Have you read these other great posts written by Ted?</h4>
-      <ul class="posts unstyled">
-      {% for post in site.related_posts limit:5 %}
-      <li>&raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-      {% endfor %}
-      </ul>
-    </div>
-
-    <hr id="comments">
-
-    {% include comments.html %}
-
-  </section>
-</article>
+{% include flyout.html param="post" %}

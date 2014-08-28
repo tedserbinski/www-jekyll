@@ -1,0 +1,128 @@
+// iPhone 5 in portrait & landscape
+$mobile:new-breakpoint(min-width 320px max-width 568px);
+// iPad in portrait & landscape
+$tablet:new-breakpoint(min-width 768px max-width 1024px);
+
+@include media($mobile) {
+  body {
+    font-size: 16px;
+  }
+  #wrapper {
+    margin-top: $base-spacing;
+    @include span-columns(10);
+    @include shift();
+  }
+  #masthead {
+    height: 120px;
+    margin: 0;
+    padding-bottom: 128px;
+    img {
+      margin: 0 0 0 38px;
+    }
+    h1,
+    h4 {
+      margin-top: 24px;
+    }
+    ul {
+      text-align: center;
+      clear: both;
+      margin: 0 0 0 16px;
+      padding: 0;
+      li {
+        margin: 0 12px 0 0;
+        a:hover, a:focus, a:after {
+          border: none;
+          background: none;
+        }
+      }
+    }
+  }
+  #flyout {
+    position: relative;
+    transition: none;
+    top: 0;
+    right: 0;
+    width: auto;
+    border-radius: 0;
+    h4, p {
+      font-size: 1em;
+    }
+    form {
+      font-size: 1.2em;
+      margin-bottom: $base-spacing;
+
+      label {
+        display: block;
+      }
+      input {
+        display: inline;
+      }
+    }
+    section.bottom {
+      background: none;
+    }
+  }
+  #footer {
+    @include span-columns(10);
+    @include shift();
+    @include pad();
+    font-size: 1em;
+    #about, #footernav, #copyright {
+      @include span-columns(10 of 10);
+      @include shift(0);
+    }
+    #footernav ul li {
+      width: 100%;
+      font-size: 1.2em;
+      background: #fff;
+      margin-bottom: 6px;
+      padding: 6px 0;
+      text-align: center;
+      a {
+        border: none;
+      }
+    }
+  }
+  #page-home {
+    #wrapper {
+      background: none;
+    }
+    #callout {
+      height: auto;
+      float: none;
+      width: 100%;
+    }
+    section.column {
+      float: none;
+      width: auto;
+    }
+    #masthead {
+      #headernav {
+        margin-right: 0;
+      }
+      h1 {
+        background: url('http://localhost:4000/assets/ted-serbinski-headshot-oct-90x90.png?cb=58466d47355de632965f6d4ea3fd8816') no-repeat 42px;
+        height: 90px;
+        padding: 28px 0 0 50px;
+        vertical-align: middle;
+        margin-top: 0;
+        display: block;
+
+        a {
+          padding-left: 90px;
+        }
+      }
+    }
+  }
+  section.e-content {
+    figure.wide {
+      width: auto;
+      margin-left: 0;
+
+      img {
+        height: auto;
+        width: auto;
+      }
+    }
+  }
+}

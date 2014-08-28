@@ -1,0 +1,45 @@
+---
+layout: default
+pageid: home
+title: "Ted Serbinski"
+description: "Startup lessons from an entrepreneur and open source hacker, turned early stage VC at Detroit Venture Partners, helping to rebuild Detroit and the Midwest."
+---
+
+<div id="callout">
+
+  <h2>{{ site.tagline_homepage }}</h2>
+
+  <form action="https://tinyletter.com/tedserbinski" method="post" target="popupwindow" onsubmit="newsletter();return true;">
+    <label for="tlemail">Signup today for free email updates</label>
+    <input type="email" placeholder="your@email.com" required name="email" id="tlemail">
+    <input type="hidden" value="1" name="embed" />
+    <button type="submit">Sign Up</button>
+  </form>
+
+  <div id="twitter-follow">
+    <a href="https://twitter.com/tedserbinski" class="twitter-follow-button" data-show-count="true" data-size="large" rel="me">Follow @tedserbinski</a>
+  </div>
+
+</div>
+
+<section class="column first">
+  <h3>&raquo; New here? <small>Start with my best posts</small></h3>
+  <ul>
+    {% for post in site.tags["top post"] limit:5 %}
+    <li><a href="{{ site.domain }}{{ post.url }}">{{ post.title }}</a>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+
+<section class="column last">
+  <h3>&raquo; Back again? <small>Here's the latest</small></h3>
+  <ul>
+    {% for post in site.posts limit:4 %}
+    <li><a href="{{ site.domain }}{{ post.url }}">{{ post.title }}</a>
+    </li>
+    {% endfor %}
+    <li><a href="{{ site.domain }}/posts/">&hellip; all of my blog posts</a>
+    </li>
+  </ul>
+</section>

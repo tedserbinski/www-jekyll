@@ -1,0 +1,156 @@
+body {
+  -webkit-font-smoothing: antialiased;
+  background-color: $base-background-color;
+  color: $base-font-color;
+  font-family: $base-font-family;
+  font-size: $base-font-size;
+  line-height: $base-line-height;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $header-font-family;
+  margin: 0;
+  text-rendering: optimizeLegibility; // Fix the character spacing for headings
+}
+
+// h1-h6 computed with: https://drewish.com/tools/vertical-rhythm/
+h1 {
+  font-size: 1.5000em; /* 30px */
+  line-height: 1.0000; /* 30px */
+  margin-top: 1.0000em;
+}
+
+h2 {
+  font-size: 1.3000em; /* 26px */
+  line-height: 1.1539; /* 30px */  // round last digit up one to correct line-height off 1 issues
+  margin: (1.1538 * 2em) 0 (1.1538 * 1em) 0;
+}
+
+h3 {
+  font-size: 1.1000em; /* 22px */
+  line-height: 1.3637; /* 30px */  // round last digit up one to correct line-height off 1 issues
+  margin: (1.3636 * 2em) 0 (1.3636 * 1em) 0;
+}
+
+h2+h3,
+h3+h4,
+hr+h2 {
+  margin-top: 0;
+}
+h2+ol {
+  margin: 0.88em 0 0 0;
+}
+
+h4,
+h5,
+h6 {
+  font-size: 1.0000em; /* 20px */
+  line-height: 1.5000; /* 30px */
+  margin: (1.5000 * 1em) 0 (1.5000 * 1em) 0;
+}
+
+p {
+  font-size: 1em; /* 20px */
+  line-height: 1.5000; /* 30px */
+  margin: 0 0 1.5000em 0;
+}
+
+::-moz-selection {
+  background-color:$light-yellow !important;
+}
+::selection{
+  background-color:$light-yellow !important;
+}
+
+a {
+  @include transition(color 0.1s linear);
+  color: $base-link-color;
+  text-decoration: none;
+  border-bottom:1px solid $light-gray;
+  font-weight:600;
+
+  &:visited {
+    color: $visited-link-color;
+  }
+
+  &:hover {
+    color: $hover-link-color;
+    border-color: $medium-gray;
+  }
+
+  &:active, &:focus {
+    color: $hover-link-color;
+    outline: none;
+  }
+}
+
+hr {
+  border-bottom: $base-border;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  margin: $base-spacing 0;
+}
+
+img {
+  margin: 0;
+  max-width: 100%;
+}
+
+blockquote {
+  border-left: 6px solid $light-gray;
+  color: $dark-blue;
+  font-weight: 600;
+  font-size: 0.9em;
+  line-height: 1.668; // 0.9em * 20px = 18px -> 30px / 18px = 1.667   // round last digit up one to correct line-height off 1 issues
+  margin: $base-spacing 0;
+  padding-left: $base-spacing / 2;
+
+  p {
+    line-height: 1.668;
+    margin-bottom: 1.668em;
+  }
+
+  cite {
+    color: lighten($base-font-color, 25);
+    font-style: italic;
+    display: block;
+    font-size: $base-font-size * .75; // 15px
+    line-height: 2; // 30px
+
+    &:before {
+      content: '\2014 \00A0';
+    }
+  }
+
+  &.large {
+    font-size: 1.3em;
+    line-height: 1.1;
+    margin: $base-spacing * 2 -90px;
+    border: none;
+    padding:0;
+    text-align: center;
+    text-rendering: optimizeLegibility; // Fix the character spacing for headings
+
+    p {
+      line-height: 1.1;
+      margin-bottom: 0.96em;
+    }
+
+    cite {
+      font-size: $base-font-size;
+      line-height: $base-line-height;
+    }
+  }
+}
+
+mark {
+  background: $light-yellow;
+  font-weight: 600;
+  padding:2px;
+}
+
+b,
+strong {
+  font-weight: 600;
+}

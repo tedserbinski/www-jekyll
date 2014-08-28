@@ -1,0 +1,25 @@
+---
+layout: post
+title: TWiT.tv
+created: 1152841849
+categories: ["drupal"]
+---
+After many months, the new <a href="http://www.twit.tv">TWiT.tv</a> has launched! This has been an amazing project to work on and certainly my best work to date. I originally started on this project back in March 2006 when I joined <a href="http://www.lullabot.com">Lullabot</a> in its infancy as their first senior web architect. From the start I was ecstatic; <a href="http://www.twit.tv/twit">TWiT</a> was the first podcast I ever listened to and to be working closely with <a href="http://leoville.vox.com/">Leo Laporte</a> to develop his new site was an amazing opportunity.
+
+From the start, I took over this project completely--from developing to managing to client interactions to acting as the sole architect of the site--my skillset was stretched through a wide gamut. The project started with Leo sending me the design comps from <a href="http://www.arktyp.ca/">Arktyp</a>. They were certainly beautiful and well thoughout!
+
+After reviewing the design comps I noticed a problem: the XHTML and CSS templates in the comps weren't up to par. Sure they were tableless, but they lacked full semantic markup--easily noticed when you turned off the CSS and images, just a blob of text, yuck! Not to mention, with images turned off, the site wasn't usable, so that was an accessibility blow.
+
+So my first task involved rewriting all of the CSS, over 1200 lines worth in the end!  With that in place, along with a proper XHTML template, I converted this into a "Drupalized" page template. I then had to retheme some things to make up for Drupal's lackluster CSS (something I'm going to improving significantly for the next 4.8/5.0 release this fall/winter). I also wanted to integrate the admin area into the theme too. The design comps didn't specify this so I built the admin theme to mimic the rest of the site, carrying the same colors and spacing and so forth. The result was fanstic--just have a look at <a href="{{ site.domain }}/files/twit_01.png">this screenshot</a> and <a href="{{ site.domain }}/files/twit_02.png">this one</a>
+
+With a solid new theme built from scratch in place, I moved on to functionality. Luckily, <a href="http://drupal.org/project/cck">CCK</a> and <a href="http://drupal.org/project/views">Views</a> were in such great shape that a lot of the functionality was essentially ready to go.
+
+I used CCK to define 2 new node types: a show page and a podcast. The show page is what you see on the landing pages for various shows (e.g., <a href="http://www.twit.tv/itn">Inside the Net</a>) and the podcasts were the individual episodes. With those types in place, it was quite easy to theme those so that show pages and podcast pages met the original design requirements.
+
+To develop the nifty episode guide, I used the wonderfuly built Views module. <a href="http://www.angrydonuts.com/">Earl</a> has done a fantastic job on this module, not only with its simplicity for developing views, but for also extending and theming them. With only a handful of code (about 15 lines worth) I was able to easily develop an episode guide view that was dynamic for each view and automatically page. So easy!
+
+With those out of the way, honestly, there wasn't a whole lot left, really. Drupal was handling everything else exceptionally well. I only had to kick it and massage it in a few places to make it work even better :-)
+
+And how did Drupal fare? Well after an intense day of traffic and digging, Leo has said he has barely noticed any hiccups. Tremendous indeed!
+
+So check out <a href="http://drupal.org/node/73547">the Drupal story</a> and <a href="http://digg.com/design/TWiT.tv_redesign,_at_last!">Digg it!</a> as well. And leave any comments below for any bugs you find or any questions on how I built certain aspects of the site. I do plan to write up future articles on both <a href="http://www.lullabot.com">Lullabot</a> and this blog where I will delve into much greater (e.g., code examples!) detail, so stay tuned!

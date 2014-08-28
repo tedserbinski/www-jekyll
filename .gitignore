@@ -1,4 +1,5 @@
 .DS_Store
+.sass-cache
 _site/
 _credentials.yml
 files/

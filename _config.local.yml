@@ -1,25 +1,6 @@
-title: Ted Serbinski
+domain: http://localhost:4000
 
-permalink: /:categories/:title/
-
-lsi: false
-
-kramdown:
-  input: GFM
-
-# configuration options https://github.com/ixti/jekyll-assets
 assets:
-  dirname: assets
   baseurl: /assets/
-  sources:
-    - _assets/js
-    - _assets/css
-    - _assets/img
-    - _assets/img/posts
-    - _assets/img/portfolio-logos
-  gzip: false # use https://github.com/laurilehmijoki/s3_website for gzipping
-
-exclude:
-  - Rakefile
 
 prod: false

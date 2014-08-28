@@ -2,6 +2,7 @@
 
 max_age:
   "assets/*": 314496000
+  "*.ico": 2592000
   "*.html": 43200
   "*": 86400
 
@@ -12,21 +13,48 @@ gzip:
   - .js
   - .txt
   - .xml
+  - .ico
 
 cloudfront_invalidate_root: true
 
+# advanced redirects
+# https://github.com/laurilehmijoki/configure-s3-website#configuring-redirects
+
 redirects:
-  taxonomy/term/17/0: /drupal-code.html
+  24-hours-in-detroit-startup-food-tour: /detroit/24-hours-in-detroit-startup-food-tour
+  startups-should-build-less-and-sell-more: /startup-lessons/startups-should-build-less-and-sell-more
+  4-tips-to-hire-an-awesome-software-engineer: /startup-lessons/4-tips-to-hire-an-awesome-software-engineer
+  detroits-startup-tech-resurgence-be-part-of-the-inaugural-tech-week: /detroit/detroits-startup-tech-resurgence-be-part-of-the-inaugural-tech-week
+  detroits-startup-ecosystem-is-missing-3-things: /detroit/detroits-startup-ecosystem-is-missing-3-things
+  the-achilles-heel-of-every-great-idea: /startup-lessons/the-achilles-heel-of-every-great-idea
+  business-insights-ive-learned-from-billionaire-dan-gilbert: /startup-lessons/business-insights-ive-learned-from-billionaire-dan-gilbert
+  the-one-competitor-your-startup-forgot-about: /startup-lessons/the-one-competitor-your-startup-forgot-about
+  5-secrets-for-getting-a-vc-to-respond-to-your-email: /startup-lessons/5-secrets-for-getting-a-vc-to-respond-to-your-email
+  the-number-1-marketing-tip-your-startup-needs-to-know: /startup-lessons/the-number-1-marketing-tip-your-startup-needs-to-know
+  the-ultimate-failures-that-killed-my-last-startup: /startup-lessons/the-ultimate-failures-that-killed-my-last-startup
+  the-diamond-in-the-midwest: /detroit/the-diamond-in-the-midwest
+  disrupting-venture-capital: /detroit/disrupting-venture-capital
+  the-best-startup-advice-ive-ever-gotten: /startup-lessons/the-best-startup-advice-ive-ever-gotten
+  the-entrepreneurial-gold-rush-why-i-moved-from-san-francisco-to-detroit: /detroit/the-entrepreneurial-gold-rush-why-i-moved-from-san-francisco-to-detroit
+  52-startup-lessons.html: /startup-lessons
+  archive.html: /posts
+  bmw.html: /posts/index.html#bmw
+  drupal-code.html: /posts/index.html#drupal
+  taxonomy/term/17/0: /posts/index.html#drupal
   tags/drupal/creating-alpha-pager-with-views-2-and-drupal-6: /drupal/creating-an-alpha-pager-with-views-2-and-drupal-6
   tags/drupal/preventing-drupal-handling-404s-performance: /drupal/preventing-drupal-from-handling-404s-for-performance
   tags/jquery/how-prevent-duplicate-posts: /drupal/how-to-prevent-duplicate-posts
-  about: /about.html
-  contact: /
+  about: /about
+  about.html: /about
+  contact: /contact
   tags/productivity/getting-things-done-david-allen-google: /getting-things-done-david-allen-at-google
-  tags/bmw/how-often-do-you-change-your-oil: /bmw/how-often-do-you-change-your-oil
+  tags/bmw/how-often-do-you-change-your-oil: /cars/how-often-do-you-change-your-oil
+  bmw/how-often-do-you-change-your-oil: /cars/how-often-do-you-change-your-oil
   2006/06/17/top_tier_gasoline: /bmw/top-tier-gasoline
+  bmw/top-tier-gasoline: /bmw/top-tier-gasoline
   tags/drupal/blueprint-drupal-theme-released: /drupal/blueprint-drupal-theme-released
-  tags/css/website-crashes-ie8-browser-sysfaderexe-exception: /drupal/website-crashes-ie8-browser-with-sysfader-exe-exception
+  tags/css/website-crashes-ie8-browser-sysfaderexe-exception: /tech/website-crashes-ie8-browser-with-sysfader-exe-exception
+  drupal/website-crashes-ie8-browser-with-sysfader-exe-exception: /tech/website-crashes-ie8-browser-with-sysfader-exe-exception
   2007/08/04/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-1: /bmw/rebuilding-a-bmw-intake-s52-to-m50-intake-manifold-conversion-day-1
   2007/08/11/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-2: /bmw/rebuilding-a-bmw-intake-s52-to-m50-intake-manifold-conversion-day-2
   2007/08/17/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-3: /bmw/rebuilding-a-bmw-intake-s52-to-m50-intake-manifold-conversion-day-3

@@ -1,18 +1,22 @@
 ---
-layout: nil
+layout: empty
 ---
 
+# http://humanstxt.org/
+
+
 /* TEAM */
-    Author: Ted Serbinski
-    Developer: Ted Serbinski
-    Contact: hi@tedserbinski.com
-    Twitter: @TedSerbinski
-    From: Detroit, Michigan, USA
+
+  Developer & Designer: Ted Serbinski
+  Contact: hi@tedserbinski.com
+  Twitter: @tedserbinski
+  Location: Detroit, Michigan, USA
+
 
 /* SITE */
-    Last update: {{ site.time | date: "%Y/%m/%d" }}
-    Language: English
-    Standards: HTML5, CSS3
-    Components: Bootstrap
-    Software: Coda, Transmit
-    Hosting: AWS S3
+
+  Last update: {{ site.time | date: "%Y/%m/%d" }}
+  Standards: HTML5, CSS3, microdata, microformats
+  Components: Jekyll, Sass, Bourbon, Neat, Bitters, jQuery
+  Hosting: AWS S3
+  Software: Mac, Atom, Fireworks

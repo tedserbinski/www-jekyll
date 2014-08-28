@@ -1,0 +1,63 @@
+#page-home {
+  #wrapper {
+    @include span-columns(12);
+    @include shift(0);
+    background: url(<%= asset_path "bg.jpg" %>) no-repeat 0 4em;
+  }
+  #masthead {
+    margin-left: 0;
+    img {
+      display: none;
+    }
+    h1 {
+      @include shift();
+      @include pad(0 0 0 default);
+    }
+    #headernav {
+      margin-right: 5em;
+    }
+  }
+
+  #callout {
+    background: rgba(255, 255, 255, 0.85);
+    height: 524px;
+    @include span-columns(5 of 12);
+    @include shift();
+    @include pad();
+    #twitter-follow {
+      margin-top: $base-spacing * 2;
+    }
+    h2 {
+      font-size: 1.5em;
+      margin: 0 0 1.5em 0;
+      line-height: 1.5;
+    }
+    label,
+    input,
+    button {
+      font-size: 0.8em;
+      vertical-align: top;
+    }
+    input,
+    button {
+      display: inline;
+      width: auto;
+    }
+    #tlemail {
+      width: 16em;
+    }
+    button {
+      background: $green;
+    }
+    button:hover {
+      background: $light-green;
+    }
+  }
+  section.column {
+    @include span-columns(5 of 12);
+    @include shift();
+    &.last {
+      @include pad(0 default 0 0)
+    }
+  }
+}

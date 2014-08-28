@@ -1,12 +1,16 @@
-<div id="nav">
-  {% include nav.html %}
-</div>
-
-<header id="header">
-  <div class="container">
-    <div class="hero-unit small">
-      <h2><small>Hi, I'm</small> <a href="/index.html">Ted Serbinski</a></h2>
-      <p class="about"><small>I'm an entrepreneur &amp; open source hacker<br>turned <b><a href="/about.html">early stage VC</a></b> rebuilding Detroit</small></p>
-    </div>
-  </div>
+<header id="masthead">
+  <a href="{{ site.domain }}/"><img src="{% asset_path ted-serbinski-headshot-oct-90x90.png %}" width="90" height="90" title="Ted Serbinski headshot" id="logo"></a>
+  {% if page.pageid != 'home' %}
+  <h4><a href="{{ site.domain }}/">Ted Serbinski</a></h4>
+  {% else %}
+  <h1><a href="{{ site.domain }}/">Ted Serbinski</a></h1>
+  {% endif %}
+  <nav id="headernav" role="navigation">
+    <ul>
+      <li><a href="{{ site.domain }}/startup-lessons/">Startup Lessons</a></li>
+      <li><a href="{{ site.domain }}/detroit/">Detroit</a></li>
+      <li><a href="{{ site.domain }}/about/">About</a>
+      </li>
+    </ul>
+  </nav>
 </header>

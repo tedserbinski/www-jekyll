@@ -1,0 +1,51 @@
+---
+layout: page
+pageid: headshots
+show_flyout: false
+title: "Headshots &amp; Bio"
+description: "Ted Serbinski's headshots and bio."
+---
+
+<section class="half">
+  <h2>Ted #1</h2><button onclick="location.href='{% asset_path ted-serbinski-headshot-s-500x500.jpg %}'">Download JPG</button>
+  <a target="_new" href="{% asset_path ted-serbinski-headshot-s-500x500.jpg %}"><img src="{% asset_path headshot-01-square-preview.jpg %}" width="250" height="150"></a>
+</section>
+
+<section class="half">
+  <h2>Ted #2</h2><button onclick="location.href='{% asset_path ted-serbinski-headshot-c-500x500.jpg %}'">Download JPG</button><button onclick="location.href='{% asset_path ted-serbinski-headshot-ct-500x500.png %}'">Download PNG</button>
+  <a target="_new" href="{% asset_path ted-serbinski-headshot-c-500x500.jpg %}"><img src="{% asset_path headshot-02-circle-preview.jpg %}" width="250" height="150"></a>
+</section>
+
+<section class="half">
+  <h2>Ted #3</h2><button onclick="location.href='{% asset_path ted-serbinski-full-size-01-3000x2000.jpg %}'">Download JPG</button>
+  <a target="_new" href="{% asset_path ted-serbinski-full-size-01-3000x2000.jpg %}"><img src="{% asset_path headshot-03-full-preview.jpg %}" width="250" height="150"></a>
+</section>
+
+<section class="half">
+  <h2>Ted #4</h2><button onclick="location.href='{% asset_path ted-serbinski-full-size-02-3000x2000.jpg %}'">Download JPG</button>
+  <a target="_new" href="{% asset_path ted-serbinski-full-size-02-3000x2000.jpg %}"><img src="{% asset_path headshot-04-full-preview.jpg %}" width="250" height="150"></a>
+</section>
+
+<section class="full">
+  <h2>Ted Bio: Micro</h2><button class="copy" data-clipboard-target="bio-micro">Copy</button>
+
+  <div class="copy" id="bio-micro">
+    {{ site.bio_micro }}
+  </div>
+</section>
+
+<section class="full">
+  <h2>Ted Bio: Short</h2><button class="copy" data-clipboard-target="bio-short">Copy</button>
+
+  <div class="copy" id="bio-short">
+    {{ site.bio_short }}
+  </div>
+</section>
+
+<section class="full">
+  <h2>Ted Bio: Regular</h2><button class="copy" data-clipboard-target="bio-regular">Copy</button>
+
+  <div class="copy" id="bio-regular">
+    {{ site.bio_regular }}
+  </div>
+</section>

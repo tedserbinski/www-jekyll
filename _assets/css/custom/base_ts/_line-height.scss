@@ -1,0 +1,9 @@
+// http://basehold.it/
+
+@if $visual-line-height == true {
+  $px: round(strip_units($base-spacing * $base-font-size));
+
+  html {
+    background-image: url(http://basehold.it/i/#{$px});
+  }
+}
