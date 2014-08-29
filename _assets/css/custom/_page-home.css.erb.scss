@@ -33,23 +33,21 @@
       line-height: 1.5;
     }
     label,
-    input,
-    button {
+    input {
       font-size: 0.8em;
       vertical-align: top;
     }
-    input,
-    button {
+    input.email {
       display: inline;
       width: auto;
     }
-    #tlemail {
+    #mce-EMAIL {
       width: 16em;
     }
-    button {
+    input.button {
       background: $green;
     }
-    button:hover {
+    input.button:hover {
       background: $light-green;
     }
   }
