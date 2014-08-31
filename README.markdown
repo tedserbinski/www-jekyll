@@ -1,25 +1,29 @@
 ## Ted Serbinski
-- Entreprenuer and open source hacker turned early stage VC rebuilding Detroit
-- [Read more about me](http://tedserbinski.com/about.html)
+- Ex-Silicon Valley entrepreneur and early stage startup investor leading the startup renaissance in Detroit.
+- [Read more about me](http://tedserbinski.com/about/)
 
 ## tedserbinski.com
 
 This site built with a handful of open source projects:
 
-- [jekyll](http://jekyllrb.com/)
-- [Twitter Bootstrap](http://twitter.github.com/bootstrap/)
+- [Jekyll](http://jekyllrb.com/)
+- [Bourbon](http://bourbon.io/)
+- [Neat](http://neat.bourbon.io/)
+- [Bitters](http://bitters.bourbon.io/)
+- [jQuery](http://jquery.com/)
 
-Built with love on a Mac with [Coda](http://panic.com/coda).
+Built on a Mac with [Atom](https://atom.io/).
 
 ## License
 
-The following directories and their contents are Copyright Ted Serbinski. You may not reuse anything therein without my permission:
+The following directories and their contents are &copy; Ted Serbinski. You may not reuse anything therein without my permission:
 
 * _posts/
-* img/
+* _assets/img/
+* *.html files
 
 All other directories and files are MIT Licensed. Feel free to use the HTML and CSS as you please. If you do use them, a link back to http://tedserbinski.com would be appreciated, but is not required.
 
 ## Contact
 
-[Email me anytime](mailto:hi@tedserbinski.com)
+[Email me anytime](http://tedserbinski.com/contact/)
