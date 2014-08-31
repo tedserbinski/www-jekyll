@@ -27,10 +27,22 @@
     #twitter-follow {
       margin-top: $base-spacing * 2;
     }
-    h2 {
-      font-size: 1.5em;
+    #about {
+      font-size: 1.25em;
       margin: 0 0 1.5em 0;
       line-height: 1.5;
+      font-family: $header-font-family;
+      text-rendering: optimizeLegibility; // Fix the character spacing for headings
+
+      a:link,
+      a:visited {
+        color: $dark-gray;
+        border-color:$blue;
+
+        &:hover {
+          border-color:$medium-gray;
+        }
+      }
     }
     label,
     input {
