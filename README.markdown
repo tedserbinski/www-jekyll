@@ -2,9 +2,10 @@
 - Ex-Silicon Valley entrepreneur and early stage startup investor leading the startup renaissance in Detroit.
 - [Read more about me](http://tedserbinski.com/about/)
 
+
 ## tedserbinski.com
 
-This site built with a handful of open source projects:
+This site is built on a Mac, coded with [Atom](https://atom.io/), and uses these open source projects:
 
 - [Jekyll](http://jekyllrb.com/)
 - [Bourbon](http://bourbon.io/)
@@ -12,11 +13,10 @@ This site built with a handful of open source projects:
 - [Bitters](http://bitters.bourbon.io/)
 - [jQuery](http://jquery.com/)
 
-Built on a Mac with [Atom](https://atom.io/).
 
 ## License
 
-The following directories and their contents are &copy; Ted Serbinski. You may not reuse anything therein without my permission:
+The following directories and their contents are &copy;Ted Serbinski. You may not reuse anything therein without my permission:
 
 * _posts/
 * _assets/img/
