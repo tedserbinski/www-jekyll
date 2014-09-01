@@ -46,6 +46,7 @@
     opacity: 0;
   }
   &.inline {
+    clear: both;
     background: transparent;
     position: relative;
     border: none;

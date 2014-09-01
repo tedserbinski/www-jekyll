@@ -19,8 +19,11 @@ description: "Blog posts by an ex-Silicon Valley guy living in Detroit."
   </figcaption>
 </figure>
 
-<ul>
+<ul class="posts">
 {% for post in site.categories.detroit reversed %}
-  <li><a href="{{ site.domain }}{{ post.url }}">{{ post.title }}</a> <span>{{ post.date | date: "%b %Y" }}</span></li>
+  <li>
+    <span class="post-date">{{ post.date | date: "%b %Y" }}</span>
+    <span class="post"><a href="{{ site.domain }}{{ post.url }}">{{ post.title }}</a></span>
+  </li>
 {% endfor %}
 </ul>

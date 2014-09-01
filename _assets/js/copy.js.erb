@@ -10,7 +10,7 @@ $(document).ready(function() {
   copy.on('ready', function(event) {
 
     this.on('aftercopy', function(event) {
-      $('<span class="success">Copied!</span>').insertAfter($(event.target)).delay(1400).fadeOut();
+      $('<span class="success">✓ Copied</span>').insertAfter($(event.target)).delay(1400).fadeOut();
     });
 
   });
