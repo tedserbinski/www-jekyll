@@ -11,13 +11,13 @@ end
 desc 'generate new site and launch server'
 task :preview do
   # http://quaran.to/blog/2013/01/09/use-jekyll-scss-coffeescript-without-plugins/
-  sh 'jekyll serve --watch --config _site.yml,_config.common.yml,_config.local.yml ;'
+  sh 'rm -rf _site/ ; jekyll serve --watch --config _site.yml,_config.common.yml,_config.local.yml ;'
 end
 
 
 desc 're-generate site and upload to S3'
 task :publish do
-  sh 'jekyll build --config _site.yml,_config.common.yml,_config.prod.yml ; s3_website push ;'
+  sh 'rm -rf _site/ ; jekyll build --config _site.yml,_config.common.yml,_config.prod.yml ; s3_website push ;'
 end
 
 
