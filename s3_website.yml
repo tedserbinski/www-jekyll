@@ -3,8 +3,8 @@
 max_age:
   "assets/*": 314496000
   "*.ico": 2592000
-  "*.html": 43200
-  "*": 86400
+  "*.html": 604800
+  "*": 604800
 
 gzip: true
 gzip:
@@ -21,49 +21,62 @@ cloudfront_invalidate_root: true
 # https://github.com/laurilehmijoki/configure-s3-website#configuring-redirects
 
 redirects:
-  24-hours-in-detroit-startup-food-tour: /detroit/24-hours-in-detroit-startup-food-tour
-  startups-should-build-less-and-sell-more: /startup-lessons/startups-should-build-less-and-sell-more
-  4-tips-to-hire-an-awesome-software-engineer: /startup-lessons/4-tips-to-hire-an-awesome-software-engineer
-  detroits-startup-tech-resurgence-be-part-of-the-inaugural-tech-week: /detroit/detroits-startup-tech-resurgence-be-part-of-the-inaugural-tech-week
-  detroits-startup-ecosystem-is-missing-3-things: /detroit/detroits-startup-ecosystem-is-missing-3-things
-  the-achilles-heel-of-every-great-idea: /startup-lessons/the-achilles-heel-of-every-great-idea
-  business-insights-ive-learned-from-billionaire-dan-gilbert: /startup-lessons/business-insights-ive-learned-from-billionaire-dan-gilbert
-  the-one-competitor-your-startup-forgot-about: /startup-lessons/the-one-competitor-your-startup-forgot-about
-  5-secrets-for-getting-a-vc-to-respond-to-your-email: /startup-lessons/5-secrets-for-getting-a-vc-to-respond-to-your-email
-  the-number-1-marketing-tip-your-startup-needs-to-know: /startup-lessons/the-number-1-marketing-tip-your-startup-needs-to-know
-  the-ultimate-failures-that-killed-my-last-startup: /startup-lessons/the-ultimate-failures-that-killed-my-last-startup
-  the-diamond-in-the-midwest: /detroit/the-diamond-in-the-midwest
-  disrupting-venture-capital: /detroit/disrupting-venture-capital
-  the-best-startup-advice-ive-ever-gotten: /startup-lessons/the-best-startup-advice-ive-ever-gotten
-  the-entrepreneurial-gold-rush-why-i-moved-from-san-francisco-to-detroit: /detroit/the-entrepreneurial-gold-rush-why-i-moved-from-san-francisco-to-detroit
-  52-startup-lessons.html: /startup-lessons
-  archive.html: /posts
+  tags/lullabot: /posts/#drupal
+  how-to-host-your-static-website-on-amazon-s3-step-by-step-guide/index.html: /tech/how-to-host-your-static-website-on-amazon-s3-step-by-step-guide/
+  24-hours-in-detroit-startup-food-tour/index.html: /detroit/24-hours-in-detroit-startup-food-tour/
+  startups-should-build-less-and-sell-more/index.html: /startup-lessons/startups-should-build-less-and-sell-more/
+  4-tips-to-hire-an-awesome-software-engineer/index.html: /startup-lessons/4-tips-to-hire-an-awesome-software-engineer/
+  detroits-startup-tech-resurgence-be-part-of-the-inaugural-tech-week/index.html: /detroit/detroits-startup-tech-resurgence-be-part-of-the-inaugural-tech-week/
+  detroits-startup-ecosystem-is-missing-3-things/index.html: /detroit/detroits-startup-ecosystem-is-missing-3-things/
+  the-achilles-heel-of-every-great-idea/index.html: /startup-lessons/the-achilles-heel-of-every-great-idea/
+  business-insights-ive-learned-from-billionaire-dan-gilbert/index.html: /startup-lessons/business-insights-ive-learned-from-billionaire-dan-gilbert/
+  24-business-insights-ive-learned-from-billionaire-dan-gilbert/index.html: /startup-lessons/business-insights-ive-learned-from-billionaire-dan-gilbert/
+  the-one-competitor-your-startup-forgot-about/index.html: /startup-lessons/the-one-competitor-your-startup-forgot-about/
+  5-secrets-for-getting-a-vc-to-respond-to-your-email/index.html: /startup-lessons/5-secrets-for-getting-a-vc-to-respond-to-your-email/
+  the-number-1-marketing-tip-your-startup-needs-to-know/index.html: /startup-lessons/the-number-1-marketing-tip-your-startup-needs-to-know/
+  the-ultimate-failures-that-killed-my-last-startup/index.html: /startup-lessons/the-ultimate-failures-that-killed-my-last-startup/
+  the-diamond-in-the-midwest/index.html: /detroit/the-diamond-in-the-midwest/
+  disrupting-venture-capital/index.html: /detroit/disrupting-venture-capital/
+  the-best-startup-advice-ive-ever-gotten/index.html: /startup-lessons/the-best-startup-advice-ive-ever-gotten/
+  the-entrepreneurial-gold-rush-why-i-moved-from-san-francisco-to-detroit/index.html: /detroit/the-entrepreneurial-gold-rush-why-i-moved-from-san-francisco-to-detroit/
+  opendns/index.html: /tech/opendns/
+  counting-lines-of-code/index.html: /tech/counting-lines-of-code/
+  startup-porfolio.html: /about/
+  2006/10/08/new_olf_module_released_from_sf: /drupal/new-olf-module-released-from-sf/
+  2007/11/22/simplemenu-4-0-released: /drupal/simplemenu-4-0-released/
+  2006/09/20/menu_bar_2_0_released_from_belgium: /drupal/menu-bar-2-0-released-from-belgium/
+  mothersclick-acquired-by-lifetime-networks/index.html: /other/mothersclick-acquired-by-lifetime-networks/
+  tags/parentsclick-network/mothersclick-acquired-lifetime-networks:  /other/mothersclick-acquired-by-lifetime-networks/
+  52-startup-lessons.html: /startup-lessons/
+  archive.html: /posts/
   bmw.html: /posts/index.html#bmw
   drupal-code.html: /posts/index.html#drupal
   taxonomy/term/17/0: /posts/index.html#drupal
-  tags/drupal/creating-alpha-pager-with-views-2-and-drupal-6: /drupal/creating-an-alpha-pager-with-views-2-and-drupal-6
-  tags/drupal/preventing-drupal-handling-404s-performance: /drupal/preventing-drupal-from-handling-404s-for-performance
-  tags/jquery/how-prevent-duplicate-posts: /drupal/how-to-prevent-duplicate-posts
-  about: /about
-  about.html: /about
-  contact: /contact
-  tags/productivity/getting-things-done-david-allen-google: /getting-things-done-david-allen-at-google
-  tags/bmw/how-often-do-you-change-your-oil: /cars/how-often-do-you-change-your-oil
-  bmw/how-often-do-you-change-your-oil: /cars/how-often-do-you-change-your-oil
-  2006/06/17/top_tier_gasoline: /bmw/top-tier-gasoline
-  bmw/top-tier-gasoline: /bmw/top-tier-gasoline
-  tags/drupal/blueprint-drupal-theme-released: /drupal/blueprint-drupal-theme-released
-  tags/css/website-crashes-ie8-browser-sysfaderexe-exception: /tech/website-crashes-ie8-browser-with-sysfader-exe-exception
-  drupal/website-crashes-ie8-browser-with-sysfader-exe-exception: /tech/website-crashes-ie8-browser-with-sysfader-exe-exception
-  2007/08/04/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-1: /bmw/rebuilding-a-bmw-intake-s52-to-m50-intake-manifold-conversion-day-1
-  2007/08/11/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-2: /bmw/rebuilding-a-bmw-intake-s52-to-m50-intake-manifold-conversion-day-2
-  2007/08/17/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-3: /bmw/rebuilding-a-bmw-intake-s52-to-m50-intake-manifold-conversion-day-3
-  2007/08/18/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-4: /bmw/rebuilding-a-bmw-intake-s52-to-m50-intake-manifold-conversion-day-4
-  2007/08/23/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-5: /bmw/rebuilding-a-bmw-intake-s52-to-m50-intake-manifold-conversion-day-5
-  2007/08/30/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-6: /bmw/rebuilding-a-bmw-intake-s52-to-m50-intake-manifold-conversion-day-6
-  2007/08/31/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-list-parts: /bmw/rebuilding-a-bmw-intake-s52-to-m50-intake-manifold-conversion-a-list-of-parts
-  2007/09/17/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-7: /bmw/rebuilding-a-bmw-intake-s52-to-m50-intake-manifold-conversion-day-7
-  tags/drupal/automatically-extracting-tags-nodes: /drupal/automatically-extracting-tags-from-nodes
-  tags/drupal/getting-drupal-play-nice-your-cdn: /drupal/getting-drupal-to-play-nice-with-your-cdn
-  tags/parentsclick/hot-swapping-drupal-themes: /drupal/hot-swapping-of-drupal-themes
+  tags/drupal/creating-alpha-pager-with-views-2-and-drupal-6: /drupal/creating-an-alpha-pager-with-views-2-and-drupal-6/
+  tags/drupal/preventing-drupal-handling-404s-performance: /drupal/preventing-drupal-from-handling-404s-for-performance/
+  tags/jquery/how-prevent-duplicate-posts: /drupal/how-to-prevent-duplicate-posts/
+  about: /about/
+  about.html: /about/
+  contact: /contact/
+  tags/productivity/getting-things-done-david-allen-google: /getting-things-done-david-allen-at-google/
+  tags/bmw/how-often-do-you-change-your-oil: /cars/how-often-do-you-change-your-oil/
+  bmw/how-often-do-you-change-your-oil: /cars/how-often-do-you-change-your-oil/
+  2006/06/17/top_tier_gasoline: /bmw/top-tier-gasoline/
+  bmw/top-tier-gasoline: /bmw/top-tier-gasoline/
+  tags/drupal/blueprint-drupal-theme-released: /drupal/blueprint-drupal-theme-released/
+  tags/css/website-crashes-ie8-browser-sysfaderexe-exception: /tech/website-crashes-ie8-browser-with-sysfader-exe-exception/
+  drupal/website-crashes-ie8-browser-with-sysfader-exe-exception: /tech/website-crashes-ie8-browser-with-sysfader-exe-exception/
+  2007/08/04/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-1: /bmw/rebuilding-a-bmw-intake-s52-to-m50-intake-manifold-conversion-day-1/
+  2007/08/11/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-2: /bmw/rebuilding-a-bmw-intake-s52-to-m50-intake-manifold-conversion-day-2/
+  2007/08/17/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-3: /bmw/rebuilding-a-bmw-intake-s52-to-m50-intake-manifold-conversion-day-3/
+  2007/08/18/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-4: /bmw/rebuilding-a-bmw-intake-s52-to-m50-intake-manifold-conversion-day-4/
+  2007/08/23/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-5: /bmw/rebuilding-a-bmw-intake-s52-to-m50-intake-manifold-conversion-day-5/
+  2007/08/30/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-6: /bmw/rebuilding-a-bmw-intake-s52-to-m50-intake-manifold-conversion-day-6/
+  2007/08/31/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-list-parts: /bmw/rebuilding-a-bmw-intake-s52-to-m50-intake-manifold-conversion-a-list-of-parts/
+  2007/09/17/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-7: /bmw/rebuilding-a-bmw-intake-s52-to-m50-intake-manifold-conversion-day-7/
+  tags/drupal/automatically-extracting-tags-nodes: /drupal/automatically-extracting-tags-from-nodes/
+  tags/drupal/getting-drupal-play-nice-with-your-cdn: /drupal/getting-drupal-to-play-nice-with-your-cdn/
+  tags/parentsclick/hot-swapping-drupal-themes: /drupal/hot-swapping-of-drupal-themes/
   2006/08/24/drupal_admin_menu_bar_released: /drupal/drupal-admin-menu-bar-released/
+  drupal/website-crashes-ie8-browser-with-sysfader-exe-exception/index.html: /tech/website-crashes-ie8-browser-with-sysfader-exe-exception/
+  code/how-to-host-your-static-website-on-amazon-s3-step-by-step-guide/index.html: /tech/how-to-host-your-static-website-on-amazon-s3-step-by-step-guide/
