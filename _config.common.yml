@@ -27,5 +27,5 @@ assets:
     - _assets/img/pages
   js_compressor: uglifier
   css_compressor: sass
-  cachebust: soft # don't rename images that might be hotlinked from syndication partners
+  cachebust: hard # this renames images that might be hotlinked from syndication partners
   gzip: false # use https://github.com/laurilehmijoki/s3_website for gzipping
