@@ -28,7 +28,7 @@ description: "Ex-Silicon Valley entrepreneur and early stage startup investor le
 </section>
 
 <section class="column first">
-  <h3>&raquo; New here? <small>Start with my best posts</small></h3>
+  <h2>&raquo; New here? <small>Start with my best posts</small></h2>
   <ul>
     {% for post in site.tags["top post"] limit:5 %}
     <li><a href="{{ site.domain }}{{ post.url }}">{{ post.title }}</a>
@@ -38,7 +38,7 @@ description: "Ex-Silicon Valley entrepreneur and early stage startup investor le
 </section>
 
 <section class="column last">
-  <h3>&raquo; Back again? <small>Here's the latest</small></h3>
+  <h2>&raquo; Back again? <small>Here's the latest</small></h2>
   <ul>
     {% for post in site.posts limit:4 %}
     <li><a href="{{ site.domain }}{{ post.url }}">{{ post.title }}</a>
