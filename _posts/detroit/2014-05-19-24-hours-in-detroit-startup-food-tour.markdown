@@ -116,6 +116,6 @@ Here’s what I recommend.
 * [Tour with Detroit Experience Factory](http://www.weknowdetroit.com/)
 * [Signal Return](http://signalreturnpress.org/)
 * [Workshop Detroit](http://workshopdetroit.com/)
-* [Red Bull House of Art](http://www.redbull.com/us/en/events/1331618729312/red-bull-house-of-art)
+* [Red Bull House of Art](http://www.redbullhouseofart.com)
 * Instagram yourself fist bumping [Joe Louis Monument](http://en.wikipedia.org/wiki/Monument_to_Joe_Louis)
 * [Send me a tweet](http://twitter.com/tedserbinski) letting me know about your awesome 24-hours in Detroit
