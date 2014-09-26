@@ -129,6 +129,6 @@ We had built a wonderful company, small, but wonderful. Sold it to a billion dol
 
 So I quit my role as Director of Technology in 2011 and [moved to Detroit](http://tedserbinski.com/the-entrepreneurial-gold-rush-why-i-moved-from-san-francisco-to-detroit/) and I’ve never looked back.
 
-The burning lessons learned from this acquistion are still fresh in my memory. These are the keepsakes I'm passing on to the [startup companies I've invested in and mentor](http://tedserbinski.com/startup-portfolio.html).
+The burning lessons learned from this acquistion are still fresh in my memory. These are the keepsakes I'm passing on to the [startup companies I've invested in and mentor](https://angel.co/tedserbinski).
 
 And the words **fail faster** hang above my desk, reminding me daily of the failures endured over 3 years after what was such a smashing successful and promising exit.
