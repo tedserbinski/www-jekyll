@@ -39,6 +39,7 @@ Here’s what I recommend.
 	* *BBQ*: [Slows BBQ](http://slowsbarbq.com/)
 	* *Sliders*: [Green Dot Stables](http://greendotstables.com/)
 	* *Sandwiches*: [Mudgies](http://www.mudgiesdeli.com/)
+	* *More sandwiches* [Dime Store](http://www.eatdimestore.com/)
 	* *Coneys*: [Lafayette](http://www.yelp.com/biz/lafayette-coney-island-detroit) or [American](http://www.americanconeyisland.com/) ([my fav is Lafayette](http://www.freep.com/article/20100309/FEATURES02/100309063/1320/Top-coney-islands-to-have-Food-Wars-taste-off))
 	* *Tapas*: [La Feria](http://laferiadetroit.com/)
 	* *Mexican*: [Zenith](http://thezenithatthefisher.com/)
@@ -112,6 +113,7 @@ Here’s what I recommend.
 ## Bonus
 * Use [Uber](https://www.uber.com/) or [Lyft](https://www.lyft.com/) to get around (and in [2016 the M1 rail](http://en.wikipedia.org/wiki/Detroit_M-1_Rail_Line))
 * [Detroit Institute of Arts Museum](http://www.dia.org/)
+* [Tour with Detroit Experience Factory](http://www.weknowdetroit.com/)
 * [Signal Return](http://signalreturnpress.org/)
 * [Workshop Detroit](http://workshopdetroit.com/)
 * [Red Bull House of Art](http://www.redbull.com/us/en/events/1331618729312/red-bull-house-of-art)
