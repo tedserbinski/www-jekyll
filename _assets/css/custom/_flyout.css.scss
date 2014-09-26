@@ -7,7 +7,7 @@
   right: $base-spacing * 2;
   width: 300px;
   opacity: 1;
-  @include transition (opacity 1s ease-in-out, right 1s, ease-in-out);
+  @include transition (opacity 1s ease-in-out, right 1s ease-in-out);
   h4, p {
     margin: 0;
     padding: 0;
