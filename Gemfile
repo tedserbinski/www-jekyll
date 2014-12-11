@@ -2,15 +2,15 @@ source "https://rubygems.org"
 
 gem 'rake'
 
-gem 'jekyll', '~>2.4.0'
+gem 'jekyll', '~>2.5.0'
 # gem 'gsl', :require => false
 gem 'kramdown'
 gem 'nokogiri'
 gem 'iconv'
 
-gem 'jekyll-assets', '~>0.9'
+gem 'jekyll-assets', '~>0.12'
 gem 'uglifier'
-gem 's3_website', '~>2.3'
+gem 's3_website', '~>2.7'
 gem 'image_optim'
 gem 'sass', '~>3.4'
 gem 'bourbon', '~>4.0.2'
