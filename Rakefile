@@ -4,14 +4,14 @@ require 'highline/import'
 
 desc 'update all libaries'
 task :update do
-  sh 'brew update; brew upgrade; brew cleanup; gem update --system; gem update;'
+  sh 'brew update; brew upgrade; brew cleanup; gem update --system; gem update; gem cleanup; bundle update;'
 end
 
 
 desc 'generate new site and launch server'
 task :preview do
   # http://quaran.to/blog/2013/01/09/use-jekyll-scss-coffeescript-without-plugins/
-  sh 'rm -rf _site/ ; jekyll serve --watch --config _site.yml,_config.common.yml,_config.local.yml ;'
+  sh 'rm -rf _site/ ; jekyll serve --config _site.yml,_config.common.yml,_config.local.yml ;'
 end
 
 
