@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 gem 'rake'
 
-gem 'jekyll', '~>2.5.0'
+gem 'jekyll', '~>2.5'
 # gem 'gsl', :require => false
 gem 'kramdown'
 gem 'nokogiri'
