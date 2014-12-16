@@ -23,7 +23,7 @@ One of these is a startup accelerator that leverages Detroit’s strengths.
 
 I remember 2 years ago walking downtown Detroit with my colleague Jake Cohen. We were talking about the future of Detroit and its startup ecosystem.
 
-As we talked, we both honed in on the same observation: we needed Techstars to come to Detroit. There were a number of great accelerators in and around Detroit. We didn't need just another accelerator but one that could take advantage of the massive resource we had in our backyard: the automotive industry. The thought was, that if done right, startups from all around the world would want to be in Detroit for this uniquely positioned accelerator. Not only that, but if Techstars did decide to come to Detroit, it would confirm our thesis that Detroit's startup ecosystem has a bright future.
+As we talked, we both honed in on the same observation: we needed [Techstars](http://www.techstars.com/) to come to Detroit. There were a number of great accelerators in and around Detroit. We didn't need just another accelerator but one that could take advantage of the massive resource we had in our backyard: the automotive industry. The thought was, that if done right, startups from all around the world would want to be in Detroit for this uniquely positioned accelerator. Not only that, but if Techstars did decide to come to Detroit, it would confirm our thesis that Detroit's startup ecosystem has a bright future.
 
 Techstars was the ideal choice. It is the gold standard in startup accelerators. They have a massive network of 3,000 successful entrepreneurs, mentors, investors and corporate sponsors geared towards helping startups [do more faster](http://www.amazon.com/Do-More-Faster-TechStars-Accelerate/dp/0470929839). Since 2006, Techstars has launched 15 programs worldwide that have trained nearly 500 companies that have seen $2 billion in market capitalization. Quite an impressive feat and Techstars is [open about their results](http://www.techstars.com/companies/stats/).
 
@@ -32,7 +32,7 @@ Techstars has historically entered emerging startup markets. Boulder in 2007, Se
 
 ## Announcing Techstars Mobility, Driven by Detroit
 
-I’m proud to say that Techstars is now coming to downtown Detroit.
+I’m proud to say that [Techstars](http://www.techstars.com/) is now coming to downtown Detroit.
 
 On December 11th, in front of a crowd of a couple hundred journalists at Ford’s headquarters in Detroit, [Bill Ford](http://en.wikipedia.org/wiki/William_Clay_Ford,_Jr.) [unveiled Techstars Mobility, driven by Detroit](https://media.ford.com/content/fordmedia/fna/us/en/news/2014/12/11/ford-drives-innovation-with-launch-of-startup-business-incubator.html).
 

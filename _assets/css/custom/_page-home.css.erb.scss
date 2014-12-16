@@ -25,7 +25,7 @@
     @include shift();
     @include pad();
     #twitter-follow {
-      margin-top: $base-spacing * 2;
+      margin-top: $base-spacing / 2;
     }
     #about {
       font-size: 1.25em;
@@ -42,6 +42,10 @@
         &:hover {
           border-color:$medium-gray;
         }
+      }
+
+      p.tag2, p.tag3 {
+        font-size: 0.7em;
       }
     }
     label,
