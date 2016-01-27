@@ -1,5 +1,8 @@
 .DS_Store
 .sass-cache
+.asset-cache
+.jekyll-metadata
 _site/
 _credentials.yml
 files/
+Gemfile.lock
