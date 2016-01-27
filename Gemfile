@@ -1,16 +1,16 @@
 source "https://rubygems.org"
 
 gem 'rake'
+gem 'highline'
 
-gem 'jekyll', '~>2.5'
-# gem 'gsl', :require => false
-gem 'kramdown'
+gem 'jekyll', '~>3.1'
 gem 'nokogiri'
 gem 'iconv'
-
-gem 'jekyll-assets', '~>0.12'
 gem 'uglifier'
-gem 's3_website', '~>2.7'
+
+gem 'jekyll-assets'
+gem 's3_website', '~>2.12.2'
+##
 gem 'image_optim'
 gem 'sass', '~>3.4'
 gem 'bourbon', '~>4.0.2'
