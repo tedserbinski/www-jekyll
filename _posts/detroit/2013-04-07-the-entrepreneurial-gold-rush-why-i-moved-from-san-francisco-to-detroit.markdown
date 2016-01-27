@@ -43,7 +43,7 @@ But it&rsquo;s more than just us.
 
 
 - **The Bankruptcy** &mdash; Detroit filing for bankruptcy finally lets Detroit get out of an overwhelming amount of liabilities. With nearly $18 billion in debt, and only $1 billion in revenue, Detroit is upside down. Nearly $0.60 on every dollar of income is paying down debt. It's not going to better the city, but rather, pay off decades of past mistakes. The bankruptcy finally restructures this debt so that more of the city's income can go to improving its own infrastructure and solving issues.
-- **The Business Titans** &mdash; [Dan Gilbert][7] (founder of Quicken Loans, majority owner Cleveland Cavaliers), [Roger Penske][8] (owner of Penkse Racing and a number of related automobile companies), [Mike Ilitch][9] (owner of the Detroit Tigers, Detroit Red Wings and Little Caesars Pizza), and [Bill Ford][10] (yes, that Ford).
+- **The Business Titans** &mdash; [Dan Gilbert][7] (founder of Quicken Loans, majority owner Cleveland Cavaliers), [Roger Penske][8] (owner of Penske Racing and a number of related automobile companies), [Mike Ilitch][9] (owner of the Detroit Tigers, Detroit Red Wings and Little Caesars Pizza), and [Bill Ford][10] (yes, that Ford).
 - **Michigan Governor** &mdash; Governor of Michigan, [Rick Snyder][11], Republican strategist, former chairman of the board of Gateway, Inc., and one of the first venture capitalists in Michigan.
 - **The M-1 Rail** &mdash; Connecting downtown Detroit to greater parts of Metro Detroit through a [light rail/streetcar system][12].
 - **Startup America** &mdash; With the American economy in a slump, the focus is on jobs. And startups create the most jobs. [Startup America Partnership][13], chaired by AOL co-founder [Steve Case][14] is leading the charge.
