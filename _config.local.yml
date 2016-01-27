@@ -1,6 +1,3 @@
 domain: http://localhost:4000
 
-assets:
-  baseurl: /assets/
-
 prod: false

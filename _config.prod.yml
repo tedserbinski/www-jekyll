@@ -1,6 +1,3 @@
 domain: http://tedserbinski.com
 
-assets:
-  baseurl: http://d3bzjcbbiattc5.cloudfront.net/assets/
-
 prod: true

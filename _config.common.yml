@@ -1,7 +1,5 @@
 permalink: /:categories/:title/
 
-lsi: false
-
 kramdown:
   input: GFM
 
@@ -11,11 +9,17 @@ exclude:
   - Rakefile
   - README.markdown
   - s3_website.yml
-
+  - .jekyll-metadata
+  - .asset-cache
+  - .sass-cache
+  - .git
 
 # configuration options https://github.com/ixti/jekyll-assets
 assets:
-  dirname: assets
+  cdn: http://d3bzjcbbiattc5.cloudfront.net
+  prefix: "/assets"
+  assets:
+    - "christmas-lights.png"
   sources:
     - _assets/js
     - _assets/js/vendor
@@ -25,7 +29,5 @@ assets:
     - _assets/img/headshots
     - _assets/img/posts
     - _assets/img/pages
-  js_compressor: uglifier
-  css_compressor: sass
-  cachebust: hard # this renames images that might be hotlinked from syndication partners
-  gzip: false # use https://github.com/laurilehmijoki/s3_website for gzipping
+  features:
+    liquid: true
