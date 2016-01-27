@@ -101,7 +101,7 @@ $tablet:new-breakpoint(min-width 768px max-width 1024px);
         margin-right: 0;
       }
       h1 {
-        background: url(<%= asset_path "ted-serbinski-headshot-oct-90x90.png" %>) no-repeat 42px;
+        background: url(asset_path("ted-serbinski-headshot-oct-90x90.png")) no-repeat 42px;
         height: 90px;
         padding: 28px 0 0 50px;
         vertical-align: middle;

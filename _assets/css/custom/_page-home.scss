@@ -2,7 +2,7 @@
   #wrapper {
     @include span-columns(12);
     @include shift(0);
-    background: url(<%= asset_path "bg.jpg" %>) no-repeat 0 4em;
+    background: url(asset_path("bg.jpg")) no-repeat 0 4em;
   }
   #masthead {
     margin-left: 0;
