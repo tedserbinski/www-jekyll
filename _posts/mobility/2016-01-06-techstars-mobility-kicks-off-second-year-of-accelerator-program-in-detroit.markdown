@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Techstars Mobility Kicks Off Second Year of Accelerator Program in Detroit"
+social_photo: mark-fields-ces-ford-keynote-techstars-mobility.jpg
 categories: ["mobility"]
 tags: ["startups", "techstars", "techstars mobility"]
 ---
