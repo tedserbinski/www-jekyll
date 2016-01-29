@@ -17,7 +17,7 @@ module Jekyll
 		end
 
 		def reading_time(html)
-			(count_words(html) / 270.0).ceil
+			(count_words(html) / 200.0).ceil
 		end
 
 		private
