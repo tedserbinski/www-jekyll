@@ -38,29 +38,7 @@ $tablet:new-breakpoint(min-width 768px max-width 1024px);
     }
   }
   #flyout {
-    position: relative;
-    transition: none;
-    top: 0;
-    right: 0;
-    width: auto;
-    border-radius: 0;
-    h4, p {
-      font-size: 1em;
-    }
-    form {
-      font-size: 1.2em;
-      margin-bottom: $base-spacing;
-
-      label {
-        display: block;
-      }
-      input {
-        display: inline;
-      }
-    }
-    section.bottom {
-      background: none;
-    }
+    display: none;
   }
   #footer {
     @include span-columns(10);
