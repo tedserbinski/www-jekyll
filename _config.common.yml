@@ -20,6 +20,7 @@ assets:
   prefix: "/assets"
   assets:
     - "christmas-lights.png"
+    - "bg.jpg"
   sources:
     - _assets/js
     - _assets/js/vendor
