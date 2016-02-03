@@ -54,7 +54,7 @@ Techstars is committed to operating this program in Detroit, operating at the in
 <h2><b>2016 Recruiting Event Tour Dates</b></h2>
 <ul>
 <li>Jan 6 – CES, Panel and Pitch competition [<a href="http://go.techstars.com/ces/">click here for info</a>]</li>
-<li>Feb 2 – Detroit Meetup [<a href="https://www.eventbrite.com/e/techstars-mobility-detroit-information-session-tickets-20041442494">click here to RSVP</a>]</li>
+<li>Feb 3 – Detroit Meetup [<a href="https://www.eventbrite.com/e/techstars-mobility-detroit-information-session-tickets-20041442494">click here to RSVP</a>]</li>
 <li>Feb 9 – NYC Meetup [<a href="https://www.eventbrite.com/e/techstars-mobility-on-tour-in-new-york-tickets-20042561842" >click here to RSVP</a>]</li>
 <li>Feb 11 – Boston Meetup [<a href="https://www.eventbrite.com/e/techstars-second-thursday-event-boston-tickets-20077172363" >click here to RSVP</a>]</li>
 <li>Feb 23 – Ann Arbor Meetup [<a href="https://www.eventbrite.com/e/techstars-mobility-on-tour-in-ann-arbor-tickets-20042392335" >click here to RSVP</a>]</li>
