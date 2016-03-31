@@ -3,7 +3,7 @@ layout: post
 title: "Techstars Mobility Kicks Off Second Year of Accelerator Program in Detroit"
 social_photo: mark-fields-ces-ford-keynote-techstars-mobility.jpg
 categories: ["mobility"]
-tags: ["startups", "techstars", "techstars mobility"]
+tags: ["startups", "mobility", "techstars", "techstars mobility"]
 ---
 
 I’m excited to announce that we’ve opened applications for the 2016 class of Techstars Mobility. You can apply online by going to <a href="http://www.techstars.com/apply/">techstars.com/apply</a>. Applications are open through March 20.
