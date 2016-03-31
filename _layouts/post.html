@@ -25,7 +25,7 @@ layout: default
     <footer class="e-footer">
       <p class="meta">
         <a href="{{ site.domain }}{{ page.url | remove: 'index.html' }}" rel="bookmark" title="permalink" class="u-url" itemprop="url">
-          <time class="dt-published" itemprop="datePublished" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>
+          {% if page.date %}<time class="dt-published" itemprop="datePublished" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>{% endif %}
         </a>
         {% comment %}
          &nbsp;&nbsp;⁓&nbsp;&nbsp;
