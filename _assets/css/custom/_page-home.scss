@@ -45,10 +45,12 @@
       }
 
       p.tag2, p.tag3 {
-        font-size: 0.7em;
+        font-size: 0.8em;
       }
     }
-    label,
+    label {
+      font-size: 0.7em;
+    }
     input {
       font-size: 0.8em;
       vertical-align: top;
