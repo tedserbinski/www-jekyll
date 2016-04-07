@@ -1,4 +1,9 @@
 section.e-content {
+  h2.sub-title {
+    background:$light-gray;
+    margin-top: 0;
+    padding: 12px;
+  }
   .twitter-tweet {
     margin-bottom: $base-spacing;
   }
@@ -56,7 +61,7 @@ section.next {
 
   h4, p {
     display:inline;
-    font-size: $base-font-size * .75;
+    font-size: $base-font-size * 1;
     line-height: 1.667;
   }
 }
