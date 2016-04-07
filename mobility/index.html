@@ -1,0 +1,45 @@
+---
+layout: page
+pageid: mobility
+show_flyout: true
+flyout: inline
+social_photo: techstars-mobility-demo-day.jpg
+title: "Mobility"
+description: "Blog posts on mobility and the future of transportation."
+---
+
+<p>I am the founding Managing Director of the <a href="http://www.techstars.com/mobility">Techstars Mobility</a> program. <a href="https://www.youtube.com/watch?v=639PRd2jnYw">Watch this video</a> for an excellent overview of the program. Since 2015, <a href="https://angel.co/tedserbinski">I have invested</a> in <strong>10 startups in the mobility space</strong>. </p>
+<p>I <a href="/mobility/defining-mobility/">define mobility</a> as any technology or service that enables people and goods to move around more freely.</p>
+
+<h2>About Techstars Mobility</h2>
+<p>On Dec 11th, 2014, <a href="https://www.youtube.com/watch?v=QhSb2K5gwHk&feature=share">Bill Ford introduced Techstars Mobility</a> to the world. Here's a <a href="https://www.youtube.com/watch?v=8bWTsnAJiz8">video clip from that inaugural announcement</a>. The day before, Detroit exited the biggest-ever U.S. municipal bankruptcy. That morning, the Detroit Free Press captured both of these historic events.</p>
+<figure class="wide">
+  <img src="{% asset_path detroit-free-press-bankruptcy-techstars.jpg %}" width="855" height="276" title="Detroit Free Press - December 11, 2014">
+  <figcaption>
+    The front page of the Detroit Free Press, December 11, 2014.
+  </figcaption>
+</figure>
+
+<p></p>
+
+<p>Since December 2014, I have interacted with nearly 1000 startups through video chats and their applications to Techstars Mobility. I am amazed by the innovation around the world as people think about the future of transportation through new mobility technologies and services.</p>
+<p>I've seen nearly 1000 applications from 42 countries, across 6 continents across the 2015 and 2016 programs.</p>
+
+<figure class="wide">
+  <img src="{% asset_path techstars-mobility-demo-day.jpg %}" width="855" height="510" title="Techstars Mobility Demo Day - 2015">
+  <figcaption>
+    The inagurual <a href="https://mattermark.com/the-first-10-startups-at-techstars-mobility-demo-day-2015/">Techstars Mobilty 2015 class of 10 startups</a> at Demo Day.
+  </figcaption>
+</figure>
+
+<h2>Thoughts on Mobility</h2>
+<p>Below are my thoughts on the space and how startups are disrupting the way people and goods move around. I also include my thoughts on running Techstars Mobility in Detroit, at the intersection of 2 of Detroit's biggest strengths: it's automotive domainces and it's <a href="http://tedserbinski.com/detroit/the-entrepreneurial-gold-rush-why-i-moved-from-san-francisco-to-detroit/">entrepreneurial resurgence</a>.</p>
+
+<ul class="posts">
+{% for post in site.categories.mobility reversed %}
+  <li>
+    {% if post.date %}<span class="post-date">{{ post.date | date: "%b %Y" }}</span>{% endif %}
+    <span class="post"><a href="{{ site.domain }}{{ post.url }}">{{ post.title }}</a></span>
+  </li>
+{% endfor %}
+</ul>
