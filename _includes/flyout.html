@@ -1,8 +1,16 @@
+{% comment %}
+Disable popup share for now and keep inline
 {% if page.flyout == 'inline' %}
 <aside id="flyout" class="inline">
 {% else %}
 <aside id="flyout" class="hidden">
 {% endif %}
+{% endcomment %}
+
+<aside id="flyout" class="inline">
+
+  {% comment %}
+  Disable popup share for now and keep inline
 
   {% if include.param == 'post' %}
   <section>
@@ -18,16 +26,23 @@
       data-text="Great post! &ldquo;{{ page.title }}&rdquo;">Tweet</a>
   </section>
   {% endif %}
+  {% endcomment %}
 
   <section>
+    {% comment %}
+    Disable popup share for now and keep inline
+    
     {% if include.param == 'post' %}
-    <h4>Join My Newsletter</h4>
+    <h4>Get my latest thoughts on Mobility, Startups, &amp; Detroit</h4>
     {% else %}
-    <h4><mark>Join My Newsletter</mark></h4>
+    <h4><mark>Get my latest thoughts on Mobility, Startups, &amp; Detroit</mark></h4>
     {% endif %}
+    {% endcomment %}
+
+    <h4><mark>Get my latest thoughts on Mobility, Startups, &amp; Detroit</mark></h4>
 
     <form action="//tedserbinski.us8.list-manage.com/subscribe/post?u=71ad9613efdfc7e1af5e08cf1&amp;id=95f2c0915d" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-	     <label for="mce-EMAIL">Signup today for free email updates.</label>
+	     <label for="mce-EMAIL">Yes, send me new blog posts, 1-3 times a month. No Spam.</label>
 	     <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
        <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
        <div style="position: absolute; left: -5000px;"><input type="text" name="b_71ad9613efdfc7e1af5e08cf1_95f2c0915d" tabindex="-1" value=""></div>
