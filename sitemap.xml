@@ -19,7 +19,7 @@ layout: empty
   {% for post in site.posts %}
   <url>
     <loc>http://tedserbinski.com{{ post.url | remove: '/index.html' }}</loc>
-    <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+    {% if post.date %}<lastmod>{{ post.date | date_to_xmlschema }}</lastmod>{% endif %}
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>

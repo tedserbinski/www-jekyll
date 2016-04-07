@@ -16,7 +16,7 @@ description: "Startup lessons from Ted Serbinski, an entreprenuer and open sourc
 <ul class="posts">
 {% for post in site.categories["startup-lessons"] reversed %}
 <li>
-  <span class="post-date">{{ post.date | date: "%b %Y" }}</span>
+  {% if post.date %}<span class="post-date">{{ post.date | date: "%b %Y" }}</span>{% endif %}
   <span class="post"><a href="{{ site.domain }}{{ post.url }}">{{ post.title }}</a></span>
 </li>
 {% endfor %}

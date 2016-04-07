@@ -18,7 +18,7 @@ layout: empty
 	<entry>
 		<title>{{ post.title | xml_escape }}</title>
 		<link href="http://tedserbinski.com{{ post.url }}?utm_medium=feed&amp;utm_source=rss&amp;utm_campaign=link"/>
-		<updated>{{ post.date | date_to_xmlschema }}</updated>
+		{% if post.date %}<updated>{{ post.date | date_to_xmlschema }}</updated>{% endif %}
 		<id>http://tedserbinski.com{{ post.id }}</id>
 		<content type="html">
 			{{ post.content | xml_escape }}
