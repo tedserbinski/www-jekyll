@@ -1,14 +1,15 @@
 ---
 layout: post
 title: "Defining Mobility"
-description: "Defining mobility to include technologies and services that enable people and goods to move around more freely."
+description: "What is mobility? Technologies and services that enable people and goods to move around more freely."
 social_photo: techstars-mobility-thesis.png
 categories: ["mobility"]
 tags: ["mobility", "techstars", "techstars mobility", "top post"]
+excerpt: "Since launching Techstars Mobility in Dec of 2014, the #1 question I get asked is: What does mobility mean? And the follow up: How does this relate to the automotive industry? Read on to see how I define mobility for the automotive industry."
 ---
 <h2 class="sub-title"><small>Mobility includes technologies and services that enable people and goods to move around more freely.</small></h2>
 
-Since [launching Techstars Mobility in Dec of 2014](/mobility), the #1 question I get asked is: <strong>What does mobility mean?</strong>
+Since [launching Techstars Mobility in Dec of 2014](/mobility), the #1 question I get asked is: <strong>What does mobility mean?</strong> And the follow up: <strong>How does this relate to the automotive industry?</strong>
 
 And to be honest, when we launched the program, I didn’t have a great way to answer this question. Thankfully, I had some friends that had a better sense than me. <a href="http://fontinalis.com/">Fontinalis Partners</a>, a VC firm co-founded by Bill Ford, along with <a href="http://www.ford.com/">Ford</a>, and <a href="http://www.magna.com/">Magna</a> all shared their perspectives with me. And it became clear: their definitions were different and changing frequently to address the rapidly expanding market. As with any new, emerging market, it’ll take time and experience to offer a clear and consistent definition.
 
@@ -51,7 +52,7 @@ Automotive is now too narrow of a term. A new term needs to be used to include a
 Bill Ford was years ahead of the industry. He introduced his "<a href="http://www.thetruthaboutcars.com/2012/02/bill-fords-blueprint-for-mobility-calls-for-cars-bicycles-pedestrians-in-integrated-network/">Blueprint for Mobility</a>" back in early 2012. He <a href="https://www.ted.com/talks/bill_ford_a_future_beyond_traffic_gridlock?language=en">talked about a future beyond traffic gridlock</a> in 2011. And in 2009 he started <a href="http://fontinalis.com/our-story/">Fontinalis Partners</a> to invest in this emerging sector.
 
 > We become a piece of the mobility ecosystem. In this new world, we need to figure out what we have to own and what we don’t and to be a great integrator of technologies and services. We need to figure out who are friends, who are foes, and how do we turn our foes into friends.
-> [Bill Ford, Executive Chairman, Ford](http://www.mckinsey.com/industries/automotive-and-assembly/our-insights/bill-ford-charts-a-course-for-the-future)
+> <br>&mdash; [Bill Ford, Executive Chairman, Ford](http://www.mckinsey.com/industries/automotive-and-assembly/our-insights/bill-ford-charts-a-course-for-the-future)
 
 Fast forward 4 years, and we're seeing the automotive companies turning this vision into a reality. Looking at 2 of the Big 3, we see just that.
 
