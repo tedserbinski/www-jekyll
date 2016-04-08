@@ -21,8 +21,8 @@ layout: empty
 		{% if post.date %}<updated>{{ post.date | date_to_xmlschema }}</updated>{% endif %}
 		<id>http://tedserbinski.com{{ post.id }}</id>
 		<content type="html">
-			{{ post.content | xml_escape }}
-			<p>The post <a href="http://tedserbinski.com{{ post.url }}?utm_medium=feed&amp;utm_source=rss&amp;utm_campaign=footerlink">{{ post.title | xml_escape }}</a> appeared first on <a href="http://tedserbinski.com/?utm_medium=feed&amp;utm_source=rss&amp;utm_campaign=footerlink">Ted Serbinski</a>.</p>
+			{{ post.excerpt | strip_html | replace: '\n', ' ' | strip | xml_escape }}
+			<p>To read the rest of this post, goto <a href="http://tedserbinski.com{{ post.url }}?utm_medium=feed&amp;utm_source=rss&amp;utm_campaign=footerlink">http://tedserbinski.com{{ post.url }}</a></p>
 		</content>
 	</entry>
 	{% endfor %}
