@@ -44,9 +44,10 @@ layout: default
       <p><a href="{{ site.domain }}/posts/" title="All blog posts">More great posts &rarr;</a></p>
       {% endif %}
     </section>
-    <section id="disqus_thread" class="p-comment" itemprop="comment" data-disqus-shortname="tedserbinski" data-disqus-url="{{ site.domain }}{{ page.url | remove: 'index.html' }}"></section>
   </article>
 
 </main>
 
 {% include flyout.html param="post" %}
+
+<section id="disqus_thread" class="p-comment" itemprop="comment" data-disqus-shortname="tedserbinski" data-disqus-url="{{ site.domain }}{{ page.url | remove: 'index.html' }}"></section>
