@@ -1,0 +1,36 @@
+---
+layout: empty
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Ted Serbinski - {{ site.tagline_feed }}</title>
+    <description>Ted Serbinski is the Managing Director of Techstars Mobility. He regularly blogs on mobility, startups, and Detroit.</description>
+    <link>http://tedserbinski.com</link>
+    <atom:link href="http://tedserbinski.com/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    <language>en-US</language>
+    {% for post in site.posts limit:20 %}
+      {% unless post.link %}
+      <item>
+        <title>{{ post.title | xml_escape }}</title>
+        <dc:creator>Ted Serbinski</dc:creator>
+        <description><![CDATA[
+        {% if post.social_photo %}
+          <a href="http://tedserbinski.com{{ post.url }}?utm_medium=feed&amp;utm_source=rss&amp;utm_campaign=image"><img src="{{ post.social_photo | asset_path }}" /></a><br /><br />
+        {% endif %}
+        {% if post.excerpt %}
+          {{ post.excerpt | xml_escape }}
+        {% else %}
+          {{ post.content | xml_escape }}
+        {% endif %}
+        <br/><br/>To read the rest of this post, goto <a href="http://tedserbinski.com{{ post.url }}?utm_medium=feed&amp;utm_source=rss&amp;utm_campaign=footerlink">http://tedserbinski.com{{ post.url }}</a>
+        ]]></description>
+        {% if post.date %}<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>{% endif; %}
+        <link>http://tedserbinski.com{{ post.url }}?utm_medium=feed&amp;utm_source=rss&amp;utm_campaign=link</link>
+        <guid isPermaLink="true">http://tedserbinski.com{{ post.url }}</guid>
+      </item>
+      {% endunless %}
+    {% endfor %}
+  </channel>
+</rss>

@@ -28,7 +28,7 @@
 
   <link rel="shortcut icon" href="{{ site.domain }}/favicon.ico">
   <link rel="icon" sizes="16x16 32x32" href="{{ site.domain }}/favicon.ico">
-  <link rel="alternate" type="application/rss+xml" title="TedSerbinski.com RSS Feed" href="http://feeds.feedburner.com/tedserbinski-blog">
+  <link rel="alternate" type="application/rss+xml" title="TedSerbinski.com RSS Feed" href="tedserbinski.com/feed.xml">
   <link rel="author" type="text/plain" href="{{ site.domain }}/humans.txt">
   <link rel="canonical" href="{{ site.domain }}{{ page.url | remove: 'index.html' }}">
 
@@ -87,7 +87,10 @@
     ga('require', 'displayfeatures');
     ga('send', 'pageview');
   </script>
+
+  {% if page.pageid != 'home' %}
   <script src="//my.hellobar.com/d2f60123c986727beb5adbcf1b584033a61ba02b.js" type="text/javascript" async></script>
+  {% endif %}
   {% endif %}
 
 </body>
