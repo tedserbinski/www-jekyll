@@ -8,8 +8,8 @@ gem 'nokogiri'
 gem 'iconv'
 gem 'uglifier'
 
-gem 'jekyll-assets'
-gem 's3_website', '~>2.12.2'
+gem 'jekyll-assets', '~>2.2'
+gem 's3_website', '~>2.13'
 ##
 gem 'image_optim'
 gem 'sass', '~>3.4'
