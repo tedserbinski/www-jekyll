@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Defining Mobility"
+title: "Defining Mobility for the Automotive Industry"
 description: "What is mobility? Technologies and services that enable people and goods to move around more freely."
 social_photo: techstars-mobility-thesis.png
 categories: ["mobility"]

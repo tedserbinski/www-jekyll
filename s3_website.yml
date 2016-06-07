@@ -21,6 +21,7 @@ cloudfront_invalidate_root: true
 # https://github.com/laurilehmijoki/configure-s3-website#configuring-redirects
 
 redirects:
+  mobility/defining-mobility/: /mobility/defining-mobility-for-the-automotive-industry/
   tags/lullabot: /posts/#drupal
   how-to-host-your-static-website-on-amazon-s3-step-by-step-guide/index.html: /tech/how-to-host-your-static-website-on-amazon-s3-step-by-step-guide/
   24-hours-in-detroit-startup-food-tour/index.html: /detroit/24-hours-in-detroit-startup-food-tour/
