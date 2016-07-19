@@ -4,7 +4,7 @@ title: "Introducing the Techstars Mobility Class of 2016"
 description: "Announcing the 12 companies selected for the Techstars Mobility Class of 2016."
 social_photo: techstars-mobility-class-of-2016.png
 categories: ["mobility"]
-tags: ["mobility", "techstars", "techstars mobility", "top post"]
+tags: ["mobility", "techstars", "techstars mobility"]
 excerpt: "Today I’m excited to introduce the 12 companies part of the Techstars Mobility Class of 2016. These startup companies are building automotive mobility technologies and services that enable people and goods to move around more freely. On September 8, 2016, we will be hosting our 2nd annual demo day, where we expect over 1000 people to come see and meet these 12 startups.<br><br>Read on to see what 12 companies were selected for 2016."
 ---
 <h2 class="sub-title"><small>Announcing the 12 companies selected for the Techstars Mobility Class of 2016.</small></h2>
