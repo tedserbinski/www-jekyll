@@ -1,5 +1,5 @@
 require 'rubygems'
-require 'highline/import'
+require 'highline'
 
 
 desc 'update all libaries'
