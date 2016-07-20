@@ -13,7 +13,7 @@ Read on to see what we learned!"
 ---
 <h2 class="sub-title"><small>In this post, I take a look at the sourcing and application data behind the 2016 Techstars Mobility program. I share some fascinating trends and insights about startups in the mobility and automotive space below.</small></h2>
 
-As we enter week 6 of Techstars Mobility, I thought it'd be fun to analyze the data from sourcing startups and reading applications since [launching the 2016 Techstars Mobility program](http://tedserbinski.com/mobility/techstars-mobility-kicks-off-second-year-of-accelerator-program-in-detroit/).
+As we enter week six of Techstars Mobility, I thought it'd be fun to analyze the data from sourcing startups and reading applications since [launching the 2016 Techstars Mobility program](http://tedserbinski.com/mobility/techstars-mobility-kicks-off-second-year-of-accelerator-program-in-detroit/).
 
 We read a ton of applications and met a lot of great founders from all around the world. These conversations led to fascinating insights and trends.
 
