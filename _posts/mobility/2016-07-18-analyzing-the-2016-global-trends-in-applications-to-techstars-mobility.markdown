@@ -9,7 +9,7 @@ excerpt: "As we enter week 6 of Techstars Mobility, I thought it'd be fun to ana
 <br><br>
 We read a ton of applications and met a lot of great founders from all around the world. These conversations led to fascinating insights and trends.
 <br><br>
-Read on to see what I learned!"
+Read on to see what we learned!"
 ---
 <h2 class="sub-title"><small>In this post, I take a look at the sourcing and application data behind the 2016 Techstars Mobility program. I share some fascinating trends and insights about startups in the mobility and automotive space below.</small></h2>
 
