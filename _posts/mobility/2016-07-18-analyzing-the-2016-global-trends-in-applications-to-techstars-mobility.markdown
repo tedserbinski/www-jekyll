@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Analyzing the 2016 Global Trends in Applications to Techstars Mobility"
-description: "This blog post analyzes nearly 500 applications to Techstars Mobility and shares insights and trends across the global mobility and automotive market."
+description: "This blog post analyzes the applications to Techstars Mobility in 2016. Insights and trends across the global mobility and automotive market are shared."
 social_photo: techstars-mobility-trends.png
 categories: ["mobility"]
 tags: ["mobility", "techstars", "techstars mobility"]
