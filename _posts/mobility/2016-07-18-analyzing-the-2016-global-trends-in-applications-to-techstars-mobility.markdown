@@ -26,9 +26,7 @@ We read a ton of applications and met a lot of great founders from all around th
 
 ## 2016 Applications and Interviews
 
-In 2016 we hit a huge milestone: <mark>more than 1000 startups that either applied or discussed with us about participating in Techstars Mobility</mark>. What's remarkable about this is the program has only been running for 16 months ([here's my post announcing it back in Dec of 2014](http://tedserbinski.com/detroit/joining-techstars-in-detroit/)). [Do more faster](http://domorefaster.techstars.com/) indeed!
-
-With *nearly 500 applications alone in 2016*, we saw a 27% increase in total applications from 2015. But more importantly, we saw a 44% increase in mobility-focused applications. These are applications that align with how I   [define mobility for the automotive industry](http://tedserbinski.com/mobility/defining-mobility-for-the-automotive-industry/).
+In 2016, we saw a 27% increase in total applications from 2015. But more importantly, we saw a 44% increase in mobility-focused applications. These are applications that align with how I [define mobility for the automotive industry](http://tedserbinski.com/mobility/defining-mobility-for-the-automotive-industry/). What's remarkable about this is the program has only been running for 16 months (**[here's my post announcing it back in Dec of 2014](http://tedserbinski.com/detroit/joining-techstars-in-detroit/)**). [Do more faster](http://domorefaster.techstars.com/) indeed!
 
 The quality of applications was also up. While harder to measure, it became quite clear the 2016 applications were from companies that were farther along in their businesses. They had either more revenue or funds raised, as compared to the 2015 applications.
 
@@ -48,26 +46,26 @@ The Top 10 locations to apply to Techstars Mobility in 2016 were:
 
 1. United States
 2. United Kingdom
-3. Canada and India *[same # of applications]*
-5. Germany and Russia *[same # of applications]*
+3. Canada and India *[tied]*
+5. Germany and Russia *[tied]*
 7. Ukraine
 8. Spain
-9. Mexico and Israel and France *[same # of applications]*
+9. Mexico and Israel and France *[tied]*
 
 When we drill down further, we see that only 19 startups from Michigan applied to Techstars Mobility. Put another way, we saw more applications from Eastern Europe than we did our own home state, the center of the automotive world!
 
-While surprising in comparison, in my opinion, this is actually a great observation. The demand of high quality automotive mobility startups wanting to be in Michigan is much greater than our own supply. This is great signal that the rest of the world wants to build their future mobility solutions right here in Detroit. The [entrepreneurial gold rush in Detroit](http://tedserbinski.com/detroit/the-entrepreneurial-gold-rush-why-i-moved-from-san-francisco-to-detroit/) is quite appealing.
+While surprising in comparison, in my opinion, this is actually a great observation. The demand of high quality automotive mobility startups wanting to be in Michigan is much greater than our own supply. <mark>This is great signal that the rest of the world wants to build their future mobility solutions right here in Detroit</mark>. The [entrepreneurial gold rush in Detroit](http://tedserbinski.com/detroit/the-entrepreneurial-gold-rush-why-i-moved-from-san-francisco-to-detroit/) is quite appealing.
 
 
 ## Trends in Mobility Startup Applications
 
-What's most fascinating is what these startups are building.
+What's most fascinating is the type of technologies and businesses these startups are building.
 
-When a sector as hot as mobility and automotive emerges, we often see copycats and imitators emerge. This data is insightful because it shows:
+When a sector as hot as mobility and automotive emerges, we often see copycats and imitators emerge. Our data is insightful because it shows:
 
-1. What automotive mobility themes are the easiest to start a business in?
-2. What automotive mobility themes does the general market feel aren't yet ubiquitous or solving their needs?
-3. Where are there gaps and opportunities that startups aren't pursuing?
+1. What areas of the automotive mobility industry have the lowest barriers to entry?
+2. What problems still exist without widespread adoption of solutions?
+3. What are the gaps in the automotive and mobility market that startups aren't pursuing?
 
 Looking at our 2016 applications, here were the most common themes in order:
 
@@ -89,9 +87,9 @@ Looking at our 2016 applications, here were the most common themes in order:
 
 What we learned was just as fascinating as the conversations we had with founders throughout 2016.
 
-- There was a lack of autonomous and self-driving startup applications. This is surprising but easily explained. Building a self-driving startup is hard. Very hard. From artificial intelligence to deep learning to sensor design, this is complex stuff. Fortunately, we were able to select a couple startups in this space including both [Braiq](http://braiq.net/) and [Algocian](http://algocian.com/).
+- The lack of autonomous and self-driving startup applications was surprising but can easily be explained. Building a self-driving startup is hard. Very hard. From artificial intelligence to deep learning to sensor design, this is complex stuff. Fortunately, we were able to select a couple startups in this space including both [Braiq](http://braiq.net/) and [Algocian](http://algocian.com/).
 
-- There were many startups incorporating artificial intelligence and big data to tackle all aspects of transportation. Transportation is a complex system, it's great to see that startups are using cutting edge technology to start to solve a variety of transportation problems.
+- Many startups are incorporating artificial intelligence and big data to tackle all aspects of transportation. Transportation is a complex system, it's great to see that startups are using cutting edge technology to start to solve a variety of transportation problems.
 
 - Startups were embracing Tesla as a platform. This was quite fascinating. Because of Telsa's entirely different model in both building and selling their cars, startups were using this as an opportunity to exploit new business models. I expect we'll see more of this when [GM unveils their Bolt this fall](http://www.chevrolet.com/bolt-ev-electric-vehicle.html).
 
@@ -101,9 +99,6 @@ What we learned was just as fascinating as the conversations we had with founder
 
 - There is a huge demand from mobility and automotive startups that want to come to Detroit and build their companies here. This is evident through conversations with 100s of startups and 96% of applicants being outside the Michigan region. It's quite reassuring that Techstars Mobility is on to something here by operating at the intersection of Detroit's biggest strengths: its automotive dominance and its entrepreneurial resurgence.
 
-
-Choosing the 2016 class was extremely hard. We are looking for startups in the connected, shared, autonomous and electric markets.
-
-While trends data is insightful, it's not always useful. We choose a class with high quality teams, with a portfolio approach, that we could accelerate in 90 days. Check out the [full list of the 2016 Techstars Mobility companies here](http://tedserbinski.com/mobility/introducing-the-techstars-mobility-class-of-2016/).
+The startups we chose for our 2016 class were primarily focused in these 4 mobility themes: connected, shared, autonomous and electric. Check out the [full list of the 2016 Techstars Mobility companies here](http://tedserbinski.com/mobility/introducing-the-techstars-mobility-class-of-2016/).
 
 And if you'd like to attend our demo day on Sep 8, in downtown Detroit, and meet these companies, [send me a note](http://tedserbinski.com/contact/). We're expecting over 1000 individuals from 50 different automotive and transportation companies and investment funds like we did for our [2015 demo day](https://www.youtube.com/watch?v=el78Qj9dVBM). See you there!
