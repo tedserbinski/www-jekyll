@@ -56,8 +56,8 @@
   <meta property="og:title" content="{{ page.title }}">
   <meta property="og:description" content="{{ desc | truncate:200 }}">
   <meta property="og:url" content="{{ site.domain }}{{ page.url | remove: 'index.html' }}">
-  {% if page.social_photo %}<meta property="og:image" content="{{ site.domain }}{{ page.social_photo | asset_path }}">
-  {% else %}<meta property="og:image" content="{{ site.domain }}{{ 'ted-serbinski.jpg' | asset_path }}">{% endif %}
+  {% if page.social_photo %}<meta property="og:image" content="{{ page.social_photo | asset_path }}">
+  {% else %}<meta property="og:image" content="{{ 'ted-serbinski.jpg' | asset_path }}">{% endif %}
 </head>
 
 <body {% if page.pageid %} id="page-{{page.pageid}}"{% endif %}>
