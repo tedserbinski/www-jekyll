@@ -25,7 +25,7 @@ To kickoff the 2016 program, I’m at CES and it’s pretty clear the entire ind
 For full coverage on all of Ford’s other mobility announcements check out &nbsp;<a href="http://live.cnet.com/Event/Ford_CES_2016_press_conference?Page=0">this article on CNET</a>. You can also <a href="https://media.ford.com/content/fordmedia/fna/us/en/news/2016/01/05/got-a-startup-to-get-people-moving-techstars.html">check out the full Ford press release announced Techstars Mobility 2016 here</a>.
 
 <h2><b>What is Techstars Mobility?</b></h2>
-Techstars Mobility, driven by Detroit, focuses on the rapidly changing mobility and transportation industry. <strong>We’ve partnered with 8 leading mobility corporations including Ford, Verizon, Manga, Dana, Honda, McDonald’s, Munich Re and Michelin.</strong>
+Techstars Mobility, driven by Detroit, focuses on the rapidly changing mobility and transportation industry. <strong>We’ve partnered with 8 leading mobility corporations including Ford, Verizon, Magna, Dana, Honda, McDonald’s, Munich Re and Michelin.</strong>
 
 We look for software, hardware, and advanced materials businesses across all stages of development — pre-seed, seed, Series A and later. Because of the 8 corporate partnerships, no startup is “too far along” to see a huge benefit from participation in the program.
 
