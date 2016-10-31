@@ -17,7 +17,8 @@ module Jekyll
 		end
 
 		def reading_time(html)
-			(count_words(html) / 200.0).ceil
+      # Medium uses 275wpm: https://help.medium.com/hc/en-us/articles/214991667-Read-time
+      (count_words(html) / 275.0).ceil
 		end
 
 		private
