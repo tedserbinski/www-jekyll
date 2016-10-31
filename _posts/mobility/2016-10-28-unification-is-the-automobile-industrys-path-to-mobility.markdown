@@ -82,3 +82,7 @@ As a radar view of where this is headed, we can point to the recent [Techstars M
 * *$36B:  Insurance industry size US autos*
 
 *GM offered its own financing through GMAC, insurance through Motors Insurance Corporation, and fuel in part through its shared ownership of Ethyl Corporation with Esso and duPont.*  
+
+--
+
+**Also published on [Medium](https://medium.com/@reillybrennan/unification-is-the-automobile-industrys-path-to-mobility-54060897864a).**
