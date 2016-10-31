@@ -10,7 +10,7 @@ excerpt: "I co-wrote this blog post with my good friend Reilly Brennan at Trucks
 In this blog post, we talk about the '5 horsemen' of car ownership and the 4 components of the unification of automotive mobility."
 ---
 
-*I co-wrote this article with [Reilly Brennan](), Partner at Trucks Venture Capital. He writes an awesome weekly newsletter on the [Future of Transportation, subscribe here](http://tinyletter.com/transportation).*
+*I co-wrote this article with [Reilly Brennan](https://twitter.com/reillybrennan), Partner at Trucks Venture Capital. He writes an awesome weekly newsletter on the [Future of Transportation, subscribe here](http://tinyletter.com/transportation).*
 
 It’s not difficult for us to visit each other in Detroit and San Francisco. We don’t own a plane. We don’t maintain the plane. We don’t worry if there is gas in the plane. We don’t consider the most optimal flight route. We don’t even have to park the plane. All we do is buy the ticket and take the ride.
 
