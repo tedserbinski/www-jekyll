@@ -20,7 +20,7 @@ description: "Blog posts by an ex-Silicon Valley guy living in Detroit."
 </figure>
 
 <ul class="posts">
-{% for post in site.categories.detroit reversed %}
+{% for post in site.categories.detroit %}
   <li>
     {% if post.date %}<span class="post-date">{{ post.date | date: "%b %Y" }}</span>{% endif %}
     <span class="post"><a href="{{ site.domain }}{{ post.url }}">{{ post.title }}</a></span>
