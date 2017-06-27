@@ -24,7 +24,6 @@ layout: empty
         {% else %}
           {{ post.content | xml_escape }}
         {% endif %}
-        <br/><br/>To read the rest of this post, goto <a href="http://tedserbinski.com{{ post.url }}?utm_medium=feed&amp;utm_source=rss&amp;utm_campaign=footerlink">http://tedserbinski.com{{ post.url }}</a>
         ]]></description>
         {% if post.date %}<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>{% endif; %}
         <link>http://tedserbinski.com{{ post.url }}?utm_medium=feed&amp;utm_source=rss&amp;utm_campaign=link</link>
