@@ -4,6 +4,7 @@ title: "Detroit's Mobility Startup Ecosystem on the Rise"
 description: " "
 categories: ["mobility"]
 tags: ["mobility"]
+social_photo: detroit-skyline.jpg
 excerpt: "I’m excited to announce that we have brought on four new partners for the Techstars Mobility Accelerator in 2017: next47 (the independent investment arm of Siemens), Bosch, InMotion (powered by Jaguar Land Rover), and AAA.
 
 In addition, Mighty AI is opening an office in Detroit operating out of the Techstars Mobility Accelerator office."
