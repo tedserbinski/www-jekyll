@@ -15,7 +15,9 @@ gzip:
   - .xml
   - .ico
 
+s3_reduced_redundancy: true
 cloudfront_invalidate_root: true
+cloudfront_wildcard_invalidation: true
 
 # advanced redirects
 # https://github.com/laurilehmijoki/configure-s3-website#configuring-redirects
