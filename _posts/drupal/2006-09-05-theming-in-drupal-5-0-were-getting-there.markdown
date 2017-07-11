@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: Theming in Drupal 5 - We're Getting There
 created: 1157510293
@@ -9,7 +9,6 @@ As a self-proclaimed Drupal theming &ldquo;ninja&rdquo;, I&rsquo;ve built plenty
 <ul>
 <li><a href="http://drupal.org/node/73961">#73961</a> &mdash; Simplify adding CSS in Drupal</li>
 <p>This was a great little patch that made it very clear and consistent how to add CSS files in Drupal. In 4.7, adding CSS files was a bit of a mystery, as <a href="http://www.lullabot.com/articles/how_to_properly_add_css_files">I outlined in a previous Lullabot article</a>. Now, starting with 5.0, it&rsquo;s very easy: <code>drupal_add_css($cssFile, $type = 'module')</code>. That&rsquo;s it. Just specify the type of CSS file, core, module, or theme, and this function will handle the rest, loading them in a correct and consistent cascading order.</p>
-</li>
 
 <li><a href="http://drupal.org/node/77183">#77183</a> &mdash; Goodbye drupal.css</li>
 <p>Building upon a simple way for adding CSS files was the ultimate theming patch for Drupal 5.0&mdash;obliterating drupal.css. Gone are the days of overriding this humongous and fairly out of control CSS file. Now, the CSS is split into per module CSS files, so it&rsquo;ll be easier to track down CSS styles, along with styles only being loaded if you are using that specific module. Using the new phpTemplate $styles variable, one can easily swap out any module CSS file for a different one or <a href="http://drupal.org/node/64292#drupal-add-css">simply unset()</a> it as well.</p>
