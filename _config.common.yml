@@ -14,7 +14,7 @@ exclude:
   - .sass-cache
   - .git
 
-# configuration options https://github.com/ixti/jekyll-assets
+# configuration options https://github.com/jekyll/jekyll-assets
 assets:
   cdn: http://d3bzjcbbiattc5.cloudfront.net
   prefix: "/assets"
