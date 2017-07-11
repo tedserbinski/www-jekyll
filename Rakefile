@@ -21,7 +21,7 @@ end
 
 desc 're-generate site and upload to S3'
 task :publish do
-  sh 'JEKYLL_ENV=production jekyll build --config _site.yml,_config.common.yml,_config.prod.yml ; s3_website push ;'
+  sh 'JEKYLL_ENV=production jekyll build --config _site.yml,_config.common.yml,_config.prod.yml ; s3_website push --force;'
 end
 
 
