@@ -39,6 +39,7 @@ Your engine, transmission, airbags, antilock brakes and cruise control are all c
 
 Like the http protocol that powers the internet, systems can be built on top of the CAN bus to enable entirely new applications, like cars that drive themselves. In the automotive world, examples include:
 
+* Ford's contributions to [OpenXC Platform](http://openxcplatform.com/) and [OOBD](http://oobd.org/doku.php) provide access to the CAN bus and diagnostic information.
 * <a href="https://polysync.io/">PolySync</a> developed an <a href="http://oscc.io/">open source car control project</a> detailing the conversion of a vehicle into an autonomous driving vehicle.
 * <a href="http://www.theverge.com/2016/11/30/13779336/comma-ai-autopilot-canceled-autonomous-car-software-free">George Hotz is giving away the code behind his self-driving car project</a>, an open source alternative to Tesla&rsquo;s Autopilot.
 * <a href="http://www.ros.org/">ROS is a Robot Operating System</a> that is enabling R&amp;D teams at automotive companies to quickly develop and prototype autonomous vehicles and sensor-rich vehicles.
