@@ -49,10 +49,13 @@ task :new do
     post.puts "---"
     post.puts "layout: post"
     post.puts "title: \"#{title}\""
-    post.puts 'description: " "'
-    post.puts "category: "
-    post.puts "tags: [\"#{tags}\"]"
+    post.puts "categories: [\"mobility\"] "
+    post.puts "tags: [\"mobility\"] "
+    post.puts "social_photo: filename.jpg"
+    post.puts "excerpt: \"\""
     post.puts "---"
+    post.puts ""
+    post.puts "<h2 class=\"sub-title\"><small></small></h2>"
     post.puts ""
   end
 end
