@@ -1,5 +1,5 @@
 ## Ted Serbinski
-- Ex-Silicon Valley entrepreneur and early stage startup investor leading the startup renaissance in Detroit.
+- Ex-Silicon Valley entrepreneur and early-stage startup investor fueling the startup renaissance in Detroit.
 - [Read more about me](http://tedserbinski.com/about/)
 
 
