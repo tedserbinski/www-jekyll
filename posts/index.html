@@ -9,6 +9,9 @@ description: "Startup Lessons, Detroit, Tech, and BMW blog posts written by Ted 
 
 <ul id="postnav">
   <li>
+    <a href="#mobility">Mobility</a>
+  </li>
+  <li>
     <a href="#startup-lessons">Startup Lessons</a>
   </li>
   <li>
@@ -34,7 +37,7 @@ description: "Startup Lessons, Detroit, Tech, and BMW blog posts written by Ted 
 You can't assign arrays in Liquid: http://docs.shopify.com/themes/liquid-documentation/basics/types
 {% endcomment %}
 
-{% assign categories = "Startup Lessons|Detroit|Tech|Drupal|BMW|Other" | split: '|' %}
+{% assign categories = "Mobility|Startup Lessons|Detroit|Tech|Drupal|BMW|Other" | split: '|' %}
 
 {% for category in categories %}
 {% assign category_id = category | replace:' ','-' | downcase %}
@@ -43,7 +46,7 @@ You can't assign arrays in Liquid: http://docs.shopify.com/themes/liquid-documen
   {% for post in site.categories[category_id] %}
   <li>
     <span class="post-date">{{ post.date | date: "%b %Y" }}</span>
-    <span class="post"><a href="{{ site.domain }}{{ post.url }}">{{ post.title }}</a></span>
+    <span class="post"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></span>
   </li>
   {% endfor %}
 </ul>
