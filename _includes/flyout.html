@@ -15,15 +15,7 @@ Disable popup share for now and keep inline
   {% if include.param == 'post' %}
   <section>
     <h4><mark>Like this post? Share it!</mark></h4>
-    <p>{{ page.title }} by @TedSerbinski</p>
-    <a href="https://twitter.com/share"
-      class="twitter-share-button"
-      data-lang="en"
-      data-size="large"
-      data-count="none"
-      data-url="{{ site.domain }}{{ page.url | remove: 'index.html' }}?utm_medium=social&amp;utm_source=twitter&amp;utm_campaign=sharebtnfly"
-      data-via="tedserbinski"
-      data-text="Great post! &ldquo;{{ page.title }}&rdquo;">Tweet</a>
+    <a class="twitter-share-button" data-size="large" href="https://twitter.com/intent/tweet?text={{ page.title }}&amp;url={{ site.url }}{{ page.url | remove: 'index.html' }}%3Futm_medium=social&amp;utm_source=twitter&amp;utm_campaign=sharebtnfly&amp;via=tedserbinski">Tweet</a>
   </section>
   {% endif %}
   {% endcomment %}
@@ -51,16 +43,7 @@ Disable popup share for now and keep inline
   </section>
 
   <section class="bottom">
-    {% comment %}
-    <div id="twitter-follow">
-      <a href="https://twitter.com/tedserbinski"
-        class="twitter-follow-button"
-        data-show-count="true"
-        data-size="large"
-        rel="me">Follow @tedserbinski</a>
-    </div>
-    {% endcomment %}
-    <iframe id="twitter-widget-1" scrolling="no" frameborder="0" allowtransparency="true" src="http://platform.twitter.com/widgets/follow_button.1409790579.html#_=1410225941776&amp;id=twitter-widget-1&amp;lang=en&amp;screen_name=tedserbinski&amp;show_count=true&amp;show_screen_name=true&amp;size=l" class="twitter-follow-button twitter-follow-button" title="Twitter Follow Button" data-twttr-rendered="true" style="width: 296px; height: 28px;"></iframe>
+    <a href="https://twitter.com/tedserbinski" class="twitter-follow-button" data-size="large" rel="me">Follow @tedserbinski</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
   </section>
 
 </aside>
