@@ -34,10 +34,6 @@
 
   {% stylesheet styles %}
 
-  <!--[if lt IE 9]>
-  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
-
   {% if page.social_photo %}
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:image:src" content="{{ page.social_photo | asset_path }}">
