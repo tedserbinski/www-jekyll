@@ -5,8 +5,14 @@ id: -jcalendar
 ---
 
 <br>
-<iframe src="http://tedserbinski.com/jcalendar/jcalendar.html" width="675" height="460" scrolling="no" frameborder="0"></iframe>
+<iframe src="https://tedserbinski.com/jcalendar/jcalendar.html" width="675" height="460" scrolling="no" frameborder="0"></iframe>
 <br>
 
-<section id="disqus_thread" class="p-comment" itemprop="comment" data-disqus-shortname="tedserbinski" data-disqus-url="{{ site.domain }}{{ page.url | remove: 'index.html' }}">
+<script type="text/javascript" async>
+  var disqus_config = function () {
+    this.page.url = "{{ site.url }}{{ page.url | remove: 'index.html' }}"
+  };
+</script>
+
+<section id="disqus_thread" class="p-comment" itemprop="comment" data-disqus-shortname="tedserbinski" data-disqus-url="{{ site.url }}{{ page.url | remove: 'index.html' }}">
 </section>
