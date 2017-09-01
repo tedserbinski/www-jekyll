@@ -10,8 +10,7 @@ end
 
 desc 'generate new site and launch server'
 task :preview do
-  # http://quaran.to/blog/2013/01/09/use-jekyll-scss-coffeescript-without-plugins/
-  sh 'JEKYLL_ENV=development jekyll serve --config _config.yml,_config.dev.yml --incremental --future --drafts;'
+  sh 'JEKYLL_ENV=development jekyll serve --detach --incremental --future --drafts;'
 end
 
 desc 'shutdown local jekyll server'
