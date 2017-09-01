@@ -26,11 +26,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="cleartype" content="on">
 
-  <link rel="shortcut icon" href="{{ site.domain }}/favicon.ico">
-  <link rel="icon" sizes="16x16 32x32" href="{{ site.domain }}/favicon.ico">
-  <link rel="alternate" type="application/rss+xml" title="TedSerbinski.com RSS Feed" href="http://tedserbinski.com/feed.xml">
-  <link rel="author" type="text/plain" href="{{ site.domain }}/humans.txt">
-  <link rel="canonical" href="{{ site.domain }}{{ page.url | remove: 'index.html' }}">
+  <link rel="shortcut icon" href="{{ site.url }}/favicon.ico">
+  <link rel="icon" sizes="16x16 32x32" href="{{ site.url }}/favicon.ico">
+  <link rel="alternate" type="application/rss+xml" title="TedSerbinski.com RSS Feed" href="{{ site.url }}/feed.xml">
+  <link rel="author" type="text/plain" href="{{ site.url }}/humans.txt">
+  <link rel="canonical" href="{{ site.url }}{{ page.url | remove: 'index.html' }}">
 
   {% stylesheet styles %}
 
@@ -49,13 +49,13 @@
   <meta name="twitter:title" content="{{ page.title }}">
   <meta name="twitter:domain" content="tedserbinski.com">
   <meta name="twitter:description" content="{{ desc | truncate:200 }}">
-  <meta name="twitter:url" content="{{ site.domain }}{{ page.url | remove: 'index.html' }}">
+  <meta name="twitter:url" content="{{ site.url }}{{ page.url | remove: 'index.html' }}">
   <meta property="og:type" content="article">
   <meta property="og:site_name" content="Ted Serbinski">
   <meta property="article:author" content="https://www.facebook.com/tedserbinski">
   <meta property="og:title" content="{{ page.title }}">
   <meta property="og:description" content="{{ desc | truncate:200 }}">
-  <meta property="og:url" content="{{ site.domain }}{{ page.url | remove: 'index.html' }}">
+  <meta property="og:url" content="{{ site.url }}{{ page.url | remove: 'index.html' }}">
   {% if page.social_photo %}<meta property="og:image" content="{{ page.social_photo | asset_path }}">
   {% else %}<meta property="og:image" content="{{ 'ted-serbinski.jpg' | asset_path }}">{% endif %}
 </head>

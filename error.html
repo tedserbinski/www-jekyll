@@ -166,7 +166,7 @@ permalink: error.html
     <h3>Check out the latest posts:</h3>
     <ul class="posts unstyled">
     {% for post in site.posts limit:5 %}
-    <li><a href="{{ site.domain }}{{ post.url }}">{{ post.title }}</a></li>
+    <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
     </ul>
 

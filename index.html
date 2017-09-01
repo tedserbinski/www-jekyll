@@ -26,7 +26,7 @@ description: "Ex-Silicon Valley entrepreneur and early stage startup investor fu
   <h2>&raquo; New here? <small>Start with my best posts</small></h2>
   <ul>
     {% for post in site.tags["top post"] limit:5 %}
-    <li><a href="{{ site.domain }}{{ post.url }}">{{ post.title }}</a>
+    <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
     </li>
     {% endfor %}
   </ul>
@@ -36,10 +36,10 @@ description: "Ex-Silicon Valley entrepreneur and early stage startup investor fu
   <h2>&raquo; Back again? <small>Here's the latest</small></h2>
   <ul>
     {% for post in site.posts limit:4 %}
-    <li><a href="{{ site.domain }}{{ post.url }}">{{ post.title }}</a>
+    <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
     </li>
     {% endfor %}
-    <li><a href="{{ site.domain }}/posts/">&hellip; all of my blog posts</a>
+    <li><a href="{{ site.url }}/posts/">&hellip; all of my blog posts</a>
     </li>
   </ul>
 </section>

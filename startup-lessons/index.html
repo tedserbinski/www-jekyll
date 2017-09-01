@@ -8,7 +8,7 @@ description: "Startup lessons from Ted Serbinski, an entreprenuer and open sourc
 ---
 
 <p>These are the lessons I've learned from being an open source developer, startup founder and venture capitalist.</p>
-<p><a href="{{ site.domain }}/contact/">Email me suggestions, comments, or critiques</a>.</p>
+<p><a href="{{ site.url }}/contact/">Email me suggestions, comments, or critiques</a>.</p>
 
 <hr>
 
@@ -17,7 +17,7 @@ description: "Startup lessons from Ted Serbinski, an entreprenuer and open sourc
 {% for post in site.categories["startup-lessons"] reversed %}
 <li>
   {% if post.date %}<span class="post-date">{{ post.date | date: "%b %Y" }}</span>{% endif %}
-  <span class="post"><a href="{{ site.domain }}{{ post.url }}">{{ post.title }}</a></span>
+  <span class="post"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></span>
 </li>
 {% endfor %}
 </ul>

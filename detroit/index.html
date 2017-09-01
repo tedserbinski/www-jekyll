@@ -23,7 +23,7 @@ description: "Blog posts by an ex-Silicon Valley guy living in Detroit."
 {% for post in site.categories.detroit %}
   <li>
     {% if post.date %}<span class="post-date">{{ post.date | date: "%b %Y" }}</span>{% endif %}
-    <span class="post"><a href="{{ site.domain }}{{ post.url }}">{{ post.title }}</a></span>
+    <span class="post"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></span>
   </li>
 {% endfor %}
 </ul>
