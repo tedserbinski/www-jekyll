@@ -1,16 +1,8 @@
-{% comment %}
-Disable popup share for now and keep inline
 {% if page.flyout == 'inline' %}
 <aside id="flyout" class="inline">
 {% else %}
 <aside id="flyout" class="hidden">
 {% endif %}
-{% endcomment %}
-
-<aside id="flyout" class="inline">
-
-  {% comment %}
-  Disable popup share for now and keep inline
 
   {% if include.param == 'post' %}
   <section>
@@ -18,20 +10,13 @@ Disable popup share for now and keep inline
     <a class="twitter-share-button" data-size="large" href="https://twitter.com/intent/tweet?text={{ page.title }}&amp;url={{ site.url }}{{ page.url | remove: 'index.html' }}%3Futm_medium=social&amp;utm_source=twitter&amp;utm_campaign=sharebtnfly&amp;via=tedserbinski">Tweet</a>
   </section>
   {% endif %}
-  {% endcomment %}
 
   <section>
-    {% comment %}
-    Disable popup share for now and keep inline
-    
     {% if include.param == 'post' %}
     <h4>Get my latest thoughts on Mobility, Startups, &amp; Detroit</h4>
     {% else %}
     <h4><mark>Get my latest thoughts on Mobility, Startups, &amp; Detroit</mark></h4>
     {% endif %}
-    {% endcomment %}
-
-    <h4><mark>Get my latest thoughts on Mobility, Startups, &amp; Detroit</mark></h4>
 
     <form action="//tedserbinski.us8.list-manage.com/subscribe/post?u=71ad9613efdfc7e1af5e08cf1&amp;id=95f2c0915d" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 	     <label for="mce-EMAIL">Yes, send me new blog posts, 1-3 times a month. No Spam.</label>
