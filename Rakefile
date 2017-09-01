@@ -15,7 +15,7 @@ end
 
 desc 'shutdown local jekyll server'
 task :shutdown do
-  sh 'pkill -f jekyll'
+  sh 'ps aux | grep jekyll'
 end
 
 desc 're-generate site and upload to S3'
