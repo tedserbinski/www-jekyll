@@ -2,9 +2,6 @@ url: "https://tedserbinski.com"
 
 permalink: /:categories/:title/
 
-kramdown:
-  input: GFM
-
 exclude:
   - Gemfile
   - Gemfile.lock
