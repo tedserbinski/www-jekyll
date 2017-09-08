@@ -60,8 +60,8 @@ And that’s [another reason I’ve moved from San Francisco to Detroit][13].
 **I’m here to disrupt**.
 
 
-[1]:  http://tedserbinski.com/the-best-startup-advice-ive-ever-gotten/
-[2]:  http://tedserbinski.com/the-entrepreneurial-gold-rush-why-i-moved-from-san-francisco-to-detroit/
+[1]:  https://tedserbinski.com/the-best-startup-advice-ive-ever-gotten/
+[2]:  https://tedserbinski.com/the-entrepreneurial-gold-rush-why-i-moved-from-san-francisco-to-detroit/
 [3]:  http://detroitventurepartners.com/team
 [4]:  http://techcrunch.com/2013/04/14/the-vc-world-returns-to-its-operating-roots/
 [5]:  http://www.bothsidesofthetable.com/
@@ -72,4 +72,4 @@ And that’s [another reason I’ve moved from San Francisco to Detroit][13].
 [10]: http://www.trueventures.com/
 [11]: http://detroitventurepartners.com/
 [12]: http://detroitventurepartners.com
-[13]: http://tedserbinski.com/the-entrepreneurial-gold-rush-why-i-moved-from-san-francisco-to-detroit/
+[13]: https://tedserbinski.com/the-entrepreneurial-gold-rush-why-i-moved-from-san-francisco-to-detroit/

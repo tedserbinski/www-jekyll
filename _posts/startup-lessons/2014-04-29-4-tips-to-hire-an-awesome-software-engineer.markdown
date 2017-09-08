@@ -7,7 +7,7 @@ tags: ["startups", "hiring"]
 ---
 
 
-As a [computer engineer and former CTO](http://tedserbinski.com/about.html), startups often ask me “how can I hire an awesome developer?” and “how do I an interview a software engineer?” It can be tough, but it shouldn’t be much harder than hiring a non-technical person to join your team.
+As a [computer engineer and former CTO](https://tedserbinski.com/about.html), startups often ask me “how can I hire an awesome developer?” and “how do I an interview a software engineer?” It can be tough, but it shouldn’t be much harder than hiring a non-technical person to join your team.
 
 Here are my 4 best tips for hiring an awesome software engineer (or developer or hacker) to join your startup.
 

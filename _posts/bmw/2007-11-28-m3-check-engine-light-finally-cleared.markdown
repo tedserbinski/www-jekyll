@@ -4,7 +4,7 @@ title: M3 Check engine light finally cleared
 created: 1196289747
 categories: ["bmw"]
 ---
-In <a href="http://tedserbinski.com/2007/09/17/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-7">my previous post</a> I thought the car was finally fixed---no more vacuum leaks and driving great. Turns out I was a bit too optimistic.
+In <a href="https://tedserbinski.com/2007/09/17/rebuilding-bmw-intake-s52-m50-intake-manifold-conversion-day-7">my previous post</a> I thought the car was finally fixed---no more vacuum leaks and driving great. Turns out I was a bit too optimistic.
 
 The next day that little bugger, the check engine light (CEL), came back on. Misfires, bad coils, O2 sensors gone awry. Car running like crap again. What to do?
 

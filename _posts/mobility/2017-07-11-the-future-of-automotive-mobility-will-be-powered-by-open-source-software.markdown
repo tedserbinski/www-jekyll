@@ -18,7 +18,7 @@ The juggernaut tech companies, <a href="http://www.apple.com/opensource/">Apple<
 
 Over the past decade, I&rsquo;ve worked with Fortune 500 companies, including MTV and Sony. I&rsquo;ve helped them make the switch from proprietary content management systems to <a href="https://www.drupal.com/">Drupal</a>. I&rsquo;ve been an active open source developer, <a href="https://www.drupal.org/search/site/m3avrck">contributing over a 1000 code commits</a> to the Drupal framework. Today, Drupal powers over a million websites, including <a href="http://tesla.com">Tesla.com</a>.
 
-Since then, I&rsquo;ve transitioned from building open source websites to investing in startups. At <a href="http://tedserbinski.com/mobility/">Techstars Mobility</a>, I am investing in technologies that will shape the future of transportation. <mark>I believe that future of transportation will be powered by open source. That is the only way to truly leverage synergistic software at scale.</mark>
+Since then, I&rsquo;ve transitioned from building open source websites to investing in startups. At <a href="https://tedserbinski.com/mobility/">Techstars Mobility</a>, I am investing in technologies that will shape the future of transportation. <mark>I believe that future of transportation will be powered by open source. That is the only way to truly leverage synergistic software at scale.</mark>
 
 This future of transportation includes the convergence of manufactured metal and software-driven cloud solutions. Open source will be at the core of this transformation and will drive innovation faster. Soon we will see Ford, GM, Fiat Chrysler, BMW and other manufacturers launching their own open source initiatives.
 

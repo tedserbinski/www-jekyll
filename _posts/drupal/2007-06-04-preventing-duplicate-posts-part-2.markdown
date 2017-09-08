@@ -4,7 +4,7 @@ title: "Preventing duplicate posts: part 2"
 created: 1180998230
 categories: ["drupal"]
 ---
-<a href="http://tedserbinski.com/drupal/how-to-prevent-duplicate-posts/">In a previous article</a>, I wrote about how to use jQuery to remove submit form buttons and replacing it with some "Saving..." text to prevent duplicate form submissions. 
+<a href="https://tedserbinski.com/drupal/how-to-prevent-duplicate-posts/">In a previous article</a>, I wrote about how to use jQuery to remove submit form buttons and replacing it with some "Saving..." text to prevent duplicate form submissions. 
 
 While this works well, it only works about 90-95% of the time--rest of the time the user either reloads the page and resubmits or has JavaScript off.
 

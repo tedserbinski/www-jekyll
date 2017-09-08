@@ -3,7 +3,7 @@
  *
  * Some code based on jQuery Date Picker (http://kelvinluck.com/assets/jquery/datePicker/)
  *
- * Copyright (c) 2007 Theodore Serbinski (http://tedserbinski.com)
+ * Copyright (c) 2007 Theodore Serbinski (https://tedserbinski.com)
  * Dual licensed under the MIT (MIT-LICENSE.txt)
  * and GPL (GPL-LICENSE.txt) licenses.
  */

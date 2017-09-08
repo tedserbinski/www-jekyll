@@ -14,7 +14,7 @@ Since then, Detroit Venture Partners has invested in 24 companies. Along the way
 
 In partnership with Dan Gilbert’s [Bedrock Real Estate](http://www.bedrockmgt.com/), we opened the [M@dison building](http://www.eventsatmadison.com/) in late 2011. Shortly after, Inc. Magazine named it one of the [world’s coolest offices in 2012](http://www.inc.com/ss/worlds-coolest-offices-2012?slide=12). With 13 of our startups headquartered in this building, along with strategic partners [Ludlow Ventures](http://www.ludlowventures.com/), [Twitter’s Detroit office](http://www.huffingtonpost.com/2012/04/04/twitter-opens-detroit-office-madison-building_n_1402644.html), and many more, we created the start to a thriving startup ecosystem in downtown Detroit.
 
-Despite this great growth, Detroit still needs [3 important ingredients to grow into a competitive startup hub](http://tedserbinski.com/detroit/detroits-startup-ecosystem-is-missing-3-things/index.html#attracting-3-types-of-funding-to-detroit).
+Despite this great growth, Detroit still needs [3 important ingredients to grow into a competitive startup hub](https://tedserbinski.com/detroit/detroits-startup-ecosystem-is-missing-3-things/index.html#attracting-3-types-of-funding-to-detroit).
 
 One of these is a startup accelerator that leverages Detroit’s strengths.
 
@@ -38,7 +38,7 @@ On December 11th, in front of a crowd of a couple hundred journalists at Ford’
 
 [Ford Motor Co.](http://www.ford.com/), along with [Magna International](http://www.magna.com/) and [Verizon Telematics](https://www.verizontelematics.com/), are the 3 founding corporate partners for [Techstars Mobility](http://www.techstars.com/program/locations/mobility/).
 
-As part of this new program, I will be joining Techstars as the Managing Director of their [Detroit Mobility program](http://www.techstars.com/program/locations/mobility/). I’m excited about this new role and further putting the spotlight on startups in Detroit. This also addresses [the first missing ingredient to building a thriving startup ecosystem in Detroit](http://tedserbinski.com/detroit/detroits-startup-ecosystem-is-missing-3-things/index.html#attracting-3-types-of-funding-to-detroit).
+As part of this new program, I will be joining Techstars as the Managing Director of their [Detroit Mobility program](http://www.techstars.com/program/locations/mobility/). I’m excited about this new role and further putting the spotlight on startups in Detroit. This also addresses [the first missing ingredient to building a thriving startup ecosystem in Detroit](https://tedserbinski.com/detroit/detroits-startup-ecosystem-is-missing-3-things/index.html#attracting-3-types-of-funding-to-detroit).
 
 I’ve enjoyed helping build up Detroit Venture Partners and put Detroit startups on the map. I will continue to work with the team and portfolio companies, as we all work together in building up Detroit's startup ecosystem.
 
@@ -57,4 +57,4 @@ And I'm proud to be a part of the next step in the mission to make Detroit a top
 
 Have a startup that is changing the world and its need for next generation mobility? [Apply to the Techstars Mobility program by clicking here](http://www.techstars.com/program/locations/mobility/). Applications will close for this inaugural class on March 15, 2015.
 
-[Keep updated with my thoughts on Detroit startups, mobility and more by signing up here](http://tedserbinski.us8.list-manage.com/subscribe/post?u=71ad9613efdfc7e1af5e08cf1&amp;id=95f2c0915d).
+[Keep updated with my thoughts on Detroit startups, mobility and more by signing up here](https://tedserbinski.us8.list-manage.com/subscribe/post?u=71ad9613efdfc7e1af5e08cf1&amp;id=95f2c0915d).

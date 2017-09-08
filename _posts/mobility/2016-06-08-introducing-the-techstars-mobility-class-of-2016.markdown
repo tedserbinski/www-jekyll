@@ -9,7 +9,7 @@ excerpt: "Today I’m excited to introduce the 12 companies part of the Techstar
 ---
 <h2 class="sub-title"><small>Announcing the 12 companies selected for the Techstars Mobility Class of 2016.</small></h2>
 
-Today I’m excited to introduce the 12 companies part of the Techstars Mobility Class of 2016. These startup companies are building [automotive mobility technologies and services that enable people and goods to move around more freely](http://tedserbinski.com/mobility/defining-mobility/). On September 8, 2016, we will be hosting our 2nd annual demo day, where we expect over 1000 people to come see and meet these 12 startups.
+Today I’m excited to introduce the 12 companies part of the Techstars Mobility Class of 2016. These startup companies are building [automotive mobility technologies and services that enable people and goods to move around more freely](https://tedserbinski.com/mobility/defining-mobility/). On September 8, 2016, we will be hosting our 2nd annual demo day, where we expect over 1000 people to come see and meet these 12 startups.
 
 The quality of teams and companies applying this year has been incredible. We saw a world-wide response with applications from 52 countries across 6 continents. There was a 44% increase in mobility-focused companies. Most impressive, 50% of the 2016 companies include founders with diverse backgrounds.
 

@@ -4,7 +4,7 @@ title: Menu bar 2.0, released from Belgium!
 created: 1158759556
 categories: ["drupal"]
 ---
-A little less than one month ago, <a href="http://tedserbinski.com/drupal/drupal-admin-menu-bar-released/">I released version 1.0 of my Drupal admin menu bar</a>. 
+A little less than one month ago, <a href="https://tedserbinski.com/drupal/drupal-admin-menu-bar-released/">I released version 1.0 of my Drupal admin menu bar</a>. 
 
 Today, here at <a href="http://conferences.oreillynet.com/euos2006/">EuroOSCON 2006 in Belgium</a>, I am pleased to announce that version 2.0  of <a href="http://drupal.org/project/menu_bar">Menu bar for Drupal</a> is now out--a full blown module, fully contained, no more theming hacks necessary :-)
 

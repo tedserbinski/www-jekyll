@@ -48,6 +48,6 @@ We’re Detroit. We’re rolling up our sleeves and we’re getting to work. Thi
 [image-1]: {% asset_path startup-diamond-in-midwest.jpg %}
 [image-2]: {% asset_path steve-blank-quote.png %}
 
-[1]:  http://tedserbinski.com/the-entrepreneurial-gold-rush-why-i-moved-from-san-francisco-to-detroit/
+[1]:  https://tedserbinski.com/the-entrepreneurial-gold-rush-why-i-moved-from-san-francisco-to-detroit/
 [2]:  http://a16z.com/
 [3]:  http://techcrunch.com/2013/04/20/marc-andreessen-the-world-would-be-much-better-if-we-had-50-more-silicon-valleys/

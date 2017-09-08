@@ -35,7 +35,7 @@ All of these non-vehicle items together represent some 60% of what you'll spend.
 
 The day you take possession of a new car, you have unwittingly become your car's general contractor, forced to constantly re-organize and schedule things such that your vehicle can be at the minimum functional and, hopefully, legal. These non-trivial set of services represent an aggregate of $400B annually within the US economy, but have all the organization of a dog's breakfast.
 
-Startups at the forefront of innovation have noticed this problem too. Techstars Mobility saw hundreds of applications from 52 countries across 6 continents for its 2016 program. When we [analyzed these global mobility applications for trends](http://tedserbinski.com/mobility/analyzing-the-2016-global-trends-in-applications-to-techstars-mobility/), we saw that the second biggest trend was startups attacking the full lifecycle of customer experience for owning and maintaining a vehicle.
+Startups at the forefront of innovation have noticed this problem too. Techstars Mobility saw hundreds of applications from 52 countries across 6 continents for its 2016 program. When we [analyzed these global mobility applications for trends](https://tedserbinski.com/mobility/analyzing-the-2016-global-trends-in-applications-to-techstars-mobility/), we saw that the second biggest trend was startups attacking the full lifecycle of customer experience for owning and maintaining a vehicle.
 
 ## The 4 Components of Mobility’s Coming Unification
 
@@ -69,7 +69,7 @@ Announcements of autonomous fleets from [Ford](http://www.recode.net/2016/8/16/1
 
 Today's automotive and mobility companies that design around unification -- even if they are selling a traditional ownership model -- will dramatically simplify the lives of their consumers. And they will be in a stronger position to transition to a full service model as their customers give up the burden of today’s uncoordinated vehicles.
 
-As a radar view of where this is headed, we can point to the recent [Techstars Mobility demo day](http://youtube.com/watch?v=9R2p90Gmljo) last month in downtown Detroit. Over 2500 individuals watched in person or [remotely via the livestream](https://www.youtube.com/watch?v=9R2p90Gmljo) of [12 startups impacting the future of mobility](http://tedserbinski.com/mobility/introducing-the-techstars-mobility-class-of-2016/). Autonomous, connected, and shared mobility startups all demonstrated how they are taking these unification principles and shaping the future of transportation.
+As a radar view of where this is headed, we can point to the recent [Techstars Mobility demo day](http://youtube.com/watch?v=9R2p90Gmljo) last month in downtown Detroit. Over 2500 individuals watched in person or [remotely via the livestream](https://www.youtube.com/watch?v=9R2p90Gmljo) of [12 startups impacting the future of mobility](https://tedserbinski.com/mobility/introducing-the-techstars-mobility-class-of-2016/). Autonomous, connected, and shared mobility startups all demonstrated how they are taking these unification principles and shaping the future of transportation.
 
 --
 

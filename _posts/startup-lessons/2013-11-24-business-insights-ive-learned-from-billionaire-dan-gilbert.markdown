@@ -7,7 +7,7 @@ categories: ["startup-lessons"]
 tags: ["startups", "detroit"]
 ---
 
-[I moved to Detroit a little more than 2 years ago](http://tedserbinski.com/the-entrepreneurial-gold-rush-why-i-moved-from-san-francisco-to-detroit/), joining Detroit Venture Partners (DVP). While here, I've had the pleasure to work alongside billionaire Dan Gilbert, [#118 on the Forbes 400](http://www.forbes.com/profile/daniel-gilbert/), whose a General Partner in our fund.
+[I moved to Detroit a little more than 2 years ago](https://tedserbinski.com/the-entrepreneurial-gold-rush-why-i-moved-from-san-francisco-to-detroit/), joining Detroit Venture Partners (DVP). While here, I've had the pleasure to work alongside billionaire Dan Gilbert, [#118 on the Forbes 400](http://www.forbes.com/profile/daniel-gilbert/), whose a General Partner in our fund.
 
 Unbeknownst to me in working alongside Dan, was the profound nuggets of business wisdom I'd gather. Below are 24 of my favorite insights I've learned since I've been at DVP.
 
@@ -30,7 +30,7 @@ Keyword is *new* ideas. When sharing new ideas, the more people you share with, 
 
 ## 3. If you're going to think, think big.
 
-This is excellent advice. It's also the same [advice George Zachary told me a couple years back](http://tedserbinski.com/the-best-startup-advice-ive-ever-gotten/).
+This is excellent advice. It's also the same [advice George Zachary told me a couple years back](https://tedserbinski.com/the-best-startup-advice-ive-ever-gotten/).
 
 
 ## 4. There is no such thing as a *good deal* with a *bad guy*

@@ -9,7 +9,7 @@ tags: ["startups", "lessons", "top post"]
 
 *This is a story that has never been shared in its entirety. Despite a successful [sale of our startup, ParentsClick, to Lifetime Television in 2008](https://www.google.com/search?q=lifetime+parentsclick&oq=lifetime+parentsclick), eventually it became a massive failure that very few people know about. I was a co-founder and CTO of ParentsClick, starting in 2006.*
 
-It was July 2008. We had just signed all the docs to close the [sale of ParentsClick to Lifetime Television](http://tedserbinski.com/mothersclick-acquired-by-lifetime-networks/), their first digital acquisition. Our flagship products, MothersClick (a social network for moms) and Mom Blog Network (the largest mom blogger network at the time), along with FathersClick, and our nationwide network of parenting sites, were now part of the largest TV network for women, Lifetime Television.
+It was July 2008. We had just signed all the docs to close the [sale of ParentsClick to Lifetime Television](https://tedserbinski.com/mothersclick-acquired-by-lifetime-networks/), their first digital acquisition. Our flagship products, MothersClick (a social network for moms) and Mom Blog Network (the largest mom blogger network at the time), along with FathersClick, and our nationwide network of parenting sites, were now part of the largest TV network for women, Lifetime Television.
 
 <figure>
 <img src="{% asset_path parentsclick-mothersclick-mom-blog-network-logos.png %}" title="ParentsClick, MothersClick, and Mom Blog Network logos">
@@ -45,7 +45,7 @@ That Christmas, we still weren’t done pivoting all of the Project Runway work 
 
 > I was working even harder than when we were a startup. I didn't know that was possible. But this time, I couldn’t see the results or understand Lifetime’s strategy. This was crazy.
 
-Finally, in Feb of 2009 [we launched the new Lifetime community website](http://tedserbinski.com/drupal/mylifetime-community-launches/).
+Finally, in Feb of 2009 [we launched the new Lifetime community website](https://tedserbinski.com/drupal/mylifetime-community-launches/).
 
 And it fell flat on its face. It barely moved the needle. Users barely noticed.
 
@@ -127,7 +127,7 @@ We fought it. But after 2.5 years since our acquisition, the fight was weak. We 
 
 We had built a wonderful company, small, but wonderful. Sold it to a billion dollar company. And then, watched it crumbled, failure after failure, from within.
 
-So I quit my role as Director of Technology in 2011 and [moved to Detroit](http://tedserbinski.com/the-entrepreneurial-gold-rush-why-i-moved-from-san-francisco-to-detroit/) and I’ve never looked back.
+So I quit my role as Director of Technology in 2011 and [moved to Detroit](https://tedserbinski.com/the-entrepreneurial-gold-rush-why-i-moved-from-san-francisco-to-detroit/) and I’ve never looked back.
 
 The burning lessons learned from this acquistion are still fresh in my memory. These are the keepsakes I'm passing on to the [startup companies I've invested in and mentor](https://angel.co/tedserbinski).
 

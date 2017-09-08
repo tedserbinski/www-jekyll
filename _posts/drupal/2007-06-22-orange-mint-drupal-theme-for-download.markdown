@@ -4,7 +4,7 @@ title: "Orange Mint Drupal theme for download"
 created: 1182527762
 categories: ["drupal"]
 ---
-As noted in <a href="http://tedserbinski.com/drupal/ted-2-0-a-site-redesign/">my previous post</a>, the previous <strong>ts</strong> theme, called "Orange Mint" is now available for download :-)
+As noted in <a href="https://tedserbinski.com/drupal/ted-2-0-a-site-redesign/">my previous post</a>, the previous <strong>ts</strong> theme, called "Orange Mint" is now available for download :-)
 
 Note, this theme works with Drupal 4.7, but will require a tiny bit of work to work with Drupal 5, I leave this as an exercise for the reader :-)
 

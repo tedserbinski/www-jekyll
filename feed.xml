@@ -6,8 +6,8 @@ layout: empty
   <channel>
     <title>Ted Serbinski - {{ site.tagline_feed }}</title>
     <description>Ted Serbinski is the Managing Director of Techstars Mobility. He regularly blogs on mobility, startups, and Detroit.</description>
-    <link>http://tedserbinski.com</link>
-    <atom:link href="http://tedserbinski.com/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://tedserbinski.com</link>
+    <atom:link href="https://tedserbinski.com/feed.xml" rel="self" type="application/rss+xml" />
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <language>en-US</language>
     {% for post in site.posts limit:20 %}
@@ -17,7 +17,7 @@ layout: empty
         <dc:creator>Ted Serbinski</dc:creator>
         <description><![CDATA[
         {% if post.social_photo %}
-          <a href="http://tedserbinski.com{{ post.url }}?utm_medium=feed&amp;utm_source=rss&amp;utm_campaign=image"><img src="{{ post.social_photo | asset_path }}" /></a><br /><br />
+          <a href="https://tedserbinski.com{{ post.url }}?utm_medium=feed&amp;utm_source=rss&amp;utm_campaign=image"><img src="{{ post.social_photo | asset_path }}" /></a><br /><br />
         {% endif %}
         {% if post.excerpt %}
           {{ post.excerpt | xml_escape }}
@@ -26,8 +26,8 @@ layout: empty
         {% endif %}
         ]]></description>
         {% if post.date %}<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>{% endif; %}
-        <link>http://tedserbinski.com{{ post.url }}?utm_medium=feed&amp;utm_source=rss&amp;utm_campaign=link</link>
-        <guid isPermaLink="true">http://tedserbinski.com{{ post.url }}</guid>
+        <link>https://tedserbinski.com{{ post.url }}?utm_medium=feed&amp;utm_source=rss&amp;utm_campaign=link</link>
+        <guid isPermaLink="true">https://tedserbinski.com{{ post.url }}</guid>
       </item>
       {% endunless %}
     {% endfor %}

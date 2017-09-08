@@ -8,4 +8,4 @@ Yes, that's correct--my new <a href="http://drupal.org/project/olf">OLF module</
 
 So why do that? Well it's a <a href="http://www.maxdesign.com.au/presentation/external/">method for making more accessible links</a>. And plus,  opening a new window to show that you are leaving the site is just super annoying--an icon is far more unobtrusive.
 
-This module also currently follows my trend of releasing modules from random cafes around the globe. Just a few weeks ago, <a href="http://tedserbinski.com/drupal/menu-bar-2-0-released-from-belgium/">I released my menu bar from Belgium</a>. Today, I release my OLF module from a cafe in San Francisco. What's next? Well, we'll just have to wait and see :-p
+This module also currently follows my trend of releasing modules from random cafes around the globe. Just a few weeks ago, <a href="https://tedserbinski.com/drupal/menu-bar-2-0-released-from-belgium/">I released my menu bar from Belgium</a>. Today, I release my OLF module from a cafe in San Francisco. What's next? Well, we'll just have to wait and see :-p

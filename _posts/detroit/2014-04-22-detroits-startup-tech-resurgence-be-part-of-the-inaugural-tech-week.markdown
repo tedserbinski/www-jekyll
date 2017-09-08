@@ -14,7 +14,7 @@ I am super stoked to announce this event. Interested in participating? Contact m
 
 ## Celebrating Startups & Tech in Detroit
 
-In a previous blog post, I wrote about [the entrepreneurial gold rush happening in Detroit](http://tedserbinski.com/the-entrepreneurial-gold-rush-why-i-moved-from-san-francisco-to-detroit/). It's been almost 4 years since Detroit hit rock bottom, but you wouldn't know that. The enthusiasm and passion in the air downtown is contagious, and the amount of cool new stuff in Detroit, seems never ending.
+In a previous blog post, I wrote about [the entrepreneurial gold rush happening in Detroit](https://tedserbinski.com/the-entrepreneurial-gold-rush-why-i-moved-from-san-francisco-to-detroit/). It's been almost 4 years since Detroit hit rock bottom, but you wouldn't know that. The enthusiasm and passion in the air downtown is contagious, and the amount of cool new stuff in Detroit, seems never ending.
 
 There are hot pockets of activity in Detroit&mdash;downtown, midtown, and Corktown. Traffic is increasing to the suburbs. The university triangle with University of Michigan, Michigan State, and Wayne State is booming with talented grads wanting to stay in Detroit.
 
@@ -27,11 +27,11 @@ And it's time for an event to celebrate and strengthen the growing entrepreneuri
 
 ## Bringing Techweek to Detroit
 
-In 2013 I was exchanging emails with [Dan Gilbert](http://tedserbinski.com/business-insights-ive-learned-from-billionaire-dan-gilbert/) about having our own SxSw-like event in Detroit. At the end of the email chain, Dan quipped, "Make it happen, Ted".
+In 2013 I was exchanging emails with [Dan Gilbert](https://tedserbinski.com/business-insights-ive-learned-from-billionaire-dan-gilbert/) about having our own SxSw-like event in Detroit. At the end of the email chain, Dan quipped, "Make it happen, Ted".
 
 Yikes. I'm a venture guy. And a former developer. But event planner? Not in my DNA.
 
-But, I'm on a [mission to be one of the heroes that helped rebuild Detroit](http://tedserbinski.com/the-entrepreneurial-gold-rush-why-i-moved-from-san-francisco-to-detroit/). There must be a way, I'll figure it out, I thought to myself.
+But, I'm on a [mission to be one of the heroes that helped rebuild Detroit](https://tedserbinski.com/the-entrepreneurial-gold-rush-why-i-moved-from-san-francisco-to-detroit/). There must be a way, I'll figure it out, I thought to myself.
 
 And serendipity has a way of speeding up that figuring-out process. The following week in April, I was on a call with Techweek. They wanted me to attend the 2013 Chicago Techweek. They proceeded to say they were expanding in 2014 to NYC and Miami. At the end of our conversation, I told them they needed to be in Detroit, May 2014. After they stopped laughing, I said, no really, you need to.
 
@@ -49,8 +49,8 @@ And what better brand than Techweek to become one of these events. An event that
 
 * **Changing the conversation about tech in Detroit** - this will be the biggest impact. Celebrating technology as a whole, not as a specific industry. Uniting and expanding the conversation around entrepreneurship and startups. Working in a Silicon-Valley-esque manner but tailored to the strengths of the region.
 * **Activating the metro-Detroit tech community** - getting people in Detroit, Ann Arbor, Lansing, and beyond together. Encouraging networking and collaboration and helping to break down silos. Bringing disparate groups together that might not have worked together in the past.
-* **Growing alongside a fast changing Detroit** - Techweek is not a fly-by-night operation. They are coming to Detroit and planning to stay. As the city grows and industries change, Techweek will grow and adapt. I expect we're going to surpass 10,000 folks at Techweek 2016 and 20,000 by 2020. Yes, [we're thinking big](http://tedserbinski.com/the-best-startup-advice-ive-ever-gotten/) (and starting small).
+* **Growing alongside a fast changing Detroit** - Techweek is not a fly-by-night operation. They are coming to Detroit and planning to stay. As the city grows and industries change, Techweek will grow and adapt. I expect we're going to surpass 10,000 folks at Techweek 2016 and 20,000 by 2020. Yes, [we're thinking big](https://tedserbinski.com/the-best-startup-advice-ive-ever-gotten/) (and starting small).
 
-So [grab your ticket here](http://techweek.com/detroit) and I'll see you in a few weeks. You might even catch me on stage talking about the [entrepreneurial gold rush](http://tedserbinski.com/the-entrepreneurial-gold-rush-why-i-moved-from-san-francisco-to-detroit/).
+So [grab your ticket here](http://techweek.com/detroit) and I'll see you in a few weeks. You might even catch me on stage talking about the [entrepreneurial gold rush](https://tedserbinski.com/the-entrepreneurial-gold-rush-why-i-moved-from-san-francisco-to-detroit/).
 
 Want to get involved? Leave a comment below and I'll follow up.

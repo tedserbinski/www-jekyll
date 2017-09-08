@@ -5,7 +5,7 @@ created: 1219360097
 categories: ["drupal"]
 tag: top
 ---
-<div class="alert alert-error">UPDATE: <a href="http://tedserbinski.com/drupal/creating-an-alpha-pager-with-views-2-and-drupal-6/">Earl comments below</a> how this is already built in. Two different ways to achieve a similar result, each with their own pros/cons.</div>
+<div class="alert alert-error">UPDATE: <a href="https://tedserbinski.com/drupal/creating-an-alpha-pager-with-views-2-and-drupal-6/">Earl comments below</a> how this is already built in. Two different ways to achieve a similar result, each with their own pros/cons.</div>
 
 Hats off to <a href="http://www.angrydonuts.com/">Earl Miles</a> and the rest the <a href="http://groups.drupal.org/views-developers">views developers</a> they have done a tremendous job with Views 2. While the interface is entirely different from that of Views 1, it is so much more intuitive that within a few minutes I had quickly forgotten my bewildered "oh no, I know nothing" look :)
 

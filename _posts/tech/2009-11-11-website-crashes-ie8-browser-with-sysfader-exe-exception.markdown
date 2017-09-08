@@ -4,7 +4,7 @@ title: "Website Crashes IE8 Browser with sysfader.exe Exception "
 created: 1257969060
 categories: ["tech"]
 ---
-<a href="http://tedserbinski.com/files/ie8-sysfader-exe.jpg" target="_blank"><img src="http://tedserbinski.com/files/ie8-sysfader-exe.jpg" style="float:left;margin:0 6px 6px 0;width:283px;height:198px" /></a> So here's what may be a crazy new IE8 CSS bug that can be triggered under the right circumstances. At <a href="http://www.mothersclick.com">MothersClick</a> we started to get a few bug reports about "my browser crashing" when viewing the site. As hard as we could try, we couldn't get the site to crash any of the browsers we tried. Then with a brand new, clean install of IE8, <a href="http://www.nickrobillard.ca">Nick Robillard</a> was able to get the site to crash and we finally had a reproducible crash on our hands.
+<a href="https://tedserbinski.com/files/ie8-sysfader-exe.jpg" target="_blank"><img src="https://tedserbinski.com/files/ie8-sysfader-exe.jpg" style="float:left;margin:0 6px 6px 0;width:283px;height:198px" /></a> So here's what may be a crazy new IE8 CSS bug that can be triggered under the right circumstances. At <a href="http://www.mothersclick.com">MothersClick</a> we started to get a few bug reports about "my browser crashing" when viewing the site. As hard as we could try, we couldn't get the site to crash any of the browsers we tried. Then with a brand new, clean install of IE8, <a href="http://www.nickrobillard.ca">Nick Robillard</a> was able to get the site to crash and we finally had a reproducible crash on our hands.
 
 My first reaction: WTF. (maybe <a href="http://www.flickr.com/photos/starfeeder/3610592681/in/photostream/">these should be updated to be just IE in general</a>)
 

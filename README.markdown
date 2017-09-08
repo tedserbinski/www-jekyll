@@ -1,6 +1,6 @@
 ## Ted Serbinski
 - Ex-Silicon Valley entrepreneur and early-stage startup investor fueling the startup renaissance in Detroit.
-- [Read more about me](http://tedserbinski.com/about/)
+- [Read more about me](https://tedserbinski.com/about/)
 
 
 ## tedserbinski.com
@@ -22,8 +22,8 @@ The following directories and their contents are &copy;Ted Serbinski. You may no
 * _assets/img/
 * *.html files
 
-All other directories and files are MIT Licensed. Feel free to use the HTML and CSS as you please. If you do use them, a link back to http://tedserbinski.com would be appreciated, but is not required.
+All other directories and files are MIT Licensed. Feel free to use the HTML and CSS as you please. If you do use them, a link back to https://tedserbinski.com would be appreciated, but is not required.
 
 ## Contact
 
-[Email me anytime](http://tedserbinski.com/contact/)
+[Email me anytime](https://tedserbinski.com/contact/)

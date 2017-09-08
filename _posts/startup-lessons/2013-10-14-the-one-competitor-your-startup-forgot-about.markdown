@@ -52,7 +52,7 @@ A few of the larger, indirect competitors:
 
 This is the competitor that almost every startup forgets about. Yet, it is largely one of the most important. **The status quo**.
 
-The average user is set in their ways. They find what works, and stick to it. Change requires effort, can be unknown and possibly feared, and disrupts old habits. As such, these folks, stick to what works---instead of trying out your awesome new product or service. And this is despite the most clever [marketing that focuses on the benefits of your product or service](http://tedserbinski.com/the-number-1-marketing-tip-your-startup-needs-to-know/).
+The average user is set in their ways. They find what works, and stick to it. Change requires effort, can be unknown and possibly feared, and disrupts old habits. As such, these folks, stick to what works---instead of trying out your awesome new product or service. And this is despite the most clever [marketing that focuses on the benefits of your product or service](https://tedserbinski.com/the-number-1-marketing-tip-your-startup-needs-to-know/).
 
 At MothersClick, our biggest competitor, was in fact, the status quo. It was [Yahoo Groups](http://groups.yahoo.com/). Moms loved it. It was simple. They could access it from their email. It just worked. Sure, it had a significant number of disadvantages to MothersClick, but for a busy mom, that didn't matter.
 

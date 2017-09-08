@@ -67,7 +67,7 @@ He built less, and sold more.
 
 [1]:	http://en.wikipedia.org/wiki/Field_of_Dreams
 [2]:	http://drupal.org/user/12932
-[3]:	http://tedserbinski.com/about.html
+[3]:	https://tedserbinski.com/about.html
 [4]:	http://paulgraham.com/startupideas.html
 [5]:	https://www.youtube.com/watch?v=1LZU8oa2RqQ
 [6]:	http://viniciusvacanti.com/2013/05/07/the-manual-first-startup/
@@ -77,11 +77,11 @@ He built less, and sold more.
 [10]:	https://www.kickstarter.com/blog/the-power-of-1-0
 [11]:	http://hemingwayapp.com/
 [12]:	http://venturebeat.com/2012/11/20/color-is-dead/
-[13]:	http://tedserbinski.com/the-ultimate-failures-that-killed-my-last-startup/
+[13]:	https://tedserbinski.com/the-ultimate-failures-that-killed-my-last-startup/
 [14]:	https://drupal.org/node/310095
 [15]:	https://drupal.org/node/119441
 [16]:	http://firstround.com/article/Rap-Genius-Explains-Why-Worse-is-Better
 [17]:	http://jamesclear.com/successful-people-start-before-they-feel-ready
 [18]:	http://www.virginamerica.com
 [19]:  http://startupquote.com/post/855482768
-[20]:  http://tedserbinski.com
+[20]:  https://tedserbinski.com

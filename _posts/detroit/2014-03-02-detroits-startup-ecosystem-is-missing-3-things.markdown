@@ -20,7 +20,7 @@ Since I moved to Detroit, I’ve noticed many things about this southeast Michig
 
 Brad's basic thesis is that startup communities need to be led by entrepreneurs.
 
-I agree completely with Brad’s thoughts and view myself in a bit of a hybrid role--both an entrepreneur and a service provider (e.g., I'm a venture capitalist). I moved to Detroit because I believe there is an [entrepreneurial gold rush in Detroit (and the greater Midwest)](http://tedserbinski.com/the-entrepreneurial-gold-rush-why-i-moved-from-san-francisco-to-detroit/).
+I agree completely with Brad’s thoughts and view myself in a bit of a hybrid role--both an entrepreneur and a service provider (e.g., I'm a venture capitalist). I moved to Detroit because I believe there is an [entrepreneurial gold rush in Detroit (and the greater Midwest)](https://tedserbinski.com/the-entrepreneurial-gold-rush-why-i-moved-from-san-francisco-to-detroit/).
 
 And what Detroit needs is more investors backing founders to discover startup gold in the region.
 
@@ -56,7 +56,7 @@ Every startup ecosystem has to start somewhere. Detroit has a good base, but we 
 
 I’ve been working on many initiatives to bring more of the above 3 to town in a variety of capacities. You could say I focus on biz dev for Detroit’s startup ecosystem in my "free time”. I’m even [speaking at SxSw on this topic of startups and turnaround economies](http://schedule.sxsw.com/2014/events/event_IAP27494).
 
-> Where do you want to be in ten years? Status quo? Or one of the heroes that rebuilt a city through entrepreneurial fire? <cite>[Ted Serbinski](http://tedserbinski.com/detroit/the-entrepreneurial-gold-rush-why-i-moved-from-san-francisco-to-detroit/)</cite>
+> Where do you want to be in ten years? Status quo? Or one of the heroes that rebuilt a city through entrepreneurial fire? <cite>[Ted Serbinski](https://tedserbinski.com/detroit/the-entrepreneurial-gold-rush-why-i-moved-from-san-francisco-to-detroit/)</cite>
 
 Get the word out. Tweet about this article, send it to your colleagues. Leave a comment or shoot me an email if you have ideas to attract more of the above 3 funding sources to Detroit.
 

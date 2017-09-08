@@ -13,7 +13,7 @@ Read on to see what we learned!"
 ---
 <h2 class="sub-title"><small>In this post, I take a look at the sourcing and application data behind the 2016 Techstars Mobility program. I share some fascinating trends and insights about startups in the mobility and automotive space below.</small></h2>
 
-As we enter week six of Techstars Mobility, I thought it'd be fun to analyze the data from sourcing startups and reading applications since [launching the 2016 Techstars Mobility program](http://tedserbinski.com/mobility/techstars-mobility-kicks-off-second-year-of-accelerator-program-in-detroit/).
+As we enter week six of Techstars Mobility, I thought it'd be fun to analyze the data from sourcing startups and reading applications since [launching the 2016 Techstars Mobility program](https://tedserbinski.com/mobility/techstars-mobility-kicks-off-second-year-of-accelerator-program-in-detroit/).
 
 We read a ton of applications and met a lot of great founders from all around the world. These conversations led to fascinating insights and trends.
 
@@ -26,7 +26,7 @@ We read a ton of applications and met a lot of great founders from all around th
 
 ## 2016 Applications and Interviews
 
-In 2016, we saw a 27% increase in total applications from 2015. But more importantly, we saw a 44% increase in mobility-focused applications. These are applications that align with how I [define mobility for the automotive industry](http://tedserbinski.com/mobility/defining-mobility-for-the-automotive-industry/). What's remarkable about this is the program has only been running for 16 months (**[here's my post announcing it back in Dec of 2014](http://tedserbinski.com/detroit/joining-techstars-in-detroit/)**). [Do more faster](http://domorefaster.techstars.com/) indeed!
+In 2016, we saw a 27% increase in total applications from 2015. But more importantly, we saw a 44% increase in mobility-focused applications. These are applications that align with how I [define mobility for the automotive industry](https://tedserbinski.com/mobility/defining-mobility-for-the-automotive-industry/). What's remarkable about this is the program has only been running for 16 months (**[here's my post announcing it back in Dec of 2014](https://tedserbinski.com/detroit/joining-techstars-in-detroit/)**). [Do more faster](http://domorefaster.techstars.com/) indeed!
 
 The quality of applications was also up. While harder to measure, it became quite clear the 2016 applications were from companies that were farther along in their businesses. They had either more revenue or funds raised, as compared to the 2015 applications.
 
@@ -54,7 +54,7 @@ The Top 10 locations to apply to Techstars Mobility in 2016 were:
 
 When we drill down further, we see that only 19 startups from Michigan applied to Techstars Mobility. Put another way, we saw more applications from Eastern Europe than we did our own home state, the center of the automotive world!
 
-While surprising in comparison, in my opinion, this is actually a great observation. The demand of high quality automotive mobility startups wanting to be in Michigan is much greater than our own supply. <mark>This is great signal that the rest of the world wants to build their future mobility solutions right here in Detroit</mark>. The [entrepreneurial gold rush in Detroit](http://tedserbinski.com/detroit/the-entrepreneurial-gold-rush-why-i-moved-from-san-francisco-to-detroit/) is quite appealing.
+While surprising in comparison, in my opinion, this is actually a great observation. The demand of high quality automotive mobility startups wanting to be in Michigan is much greater than our own supply. <mark>This is great signal that the rest of the world wants to build their future mobility solutions right here in Detroit</mark>. The [entrepreneurial gold rush in Detroit](https://tedserbinski.com/detroit/the-entrepreneurial-gold-rush-why-i-moved-from-san-francisco-to-detroit/) is quite appealing.
 
 
 ## Trends in Mobility Startup Applications
@@ -99,6 +99,6 @@ What we learned was just as fascinating as the conversations we had with founder
 
 - There is a huge demand from mobility and automotive startups that want to come to Detroit and build their companies here. This is evident through conversations with 100s of startups and 96% of applicants being outside the Michigan region. It's quite reassuring that Techstars Mobility is on to something here by operating at the intersection of Detroit's biggest strengths: its automotive dominance and its entrepreneurial resurgence.
 
-The startups we chose for our 2016 class were primarily focused in these 4 mobility themes: connected, shared, autonomous and electric. Check out the [full list of the 2016 Techstars Mobility companies here](http://tedserbinski.com/mobility/introducing-the-techstars-mobility-class-of-2016/).
+The startups we chose for our 2016 class were primarily focused in these 4 mobility themes: connected, shared, autonomous and electric. Check out the [full list of the 2016 Techstars Mobility companies here](https://tedserbinski.com/mobility/introducing-the-techstars-mobility-class-of-2016/).
 
-And if you'd like to attend our demo day on Sep 8, in downtown Detroit, and meet these companies, [send me a note](http://tedserbinski.com/contact/). We're expecting over 1000 individuals from 50 different automotive and transportation companies and investment funds like we did for our [2015 demo day](https://www.youtube.com/watch?v=el78Qj9dVBM). See you there!
+And if you'd like to attend our demo day on Sep 8, in downtown Detroit, and meet these companies, [send me a note](https://tedserbinski.com/contact/). We're expecting over 1000 individuals from 50 different automotive and transportation companies and investment funds like we did for our [2015 demo day](https://www.youtube.com/watch?v=el78Qj9dVBM). See you there!

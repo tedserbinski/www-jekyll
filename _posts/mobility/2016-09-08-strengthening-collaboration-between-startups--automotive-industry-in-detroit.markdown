@@ -51,13 +51,13 @@ To capture this growth of the startup community, coupled with the entrepreneuria
 
 ## Two Classes of Successful Mobility Startups
 
-Techstars Mobility has now completed two programs over the last 18 months. We’ve seen hundreds of applications from 52 countries, across 6 continents. For a more indepth look at the [mobility and automotive trends we’ve seen, check out this blog post](http://tedserbinski.com/mobility/analyzing-the-2016-global-trends-in-applications-to-techstars-mobility/).
+Techstars Mobility has now completed two programs over the last 18 months. We’ve seen hundreds of applications from 52 countries, across 6 continents. For a more indepth look at the [mobility and automotive trends we’ve seen, check out this blog post](https://tedserbinski.com/mobility/analyzing-the-2016-global-trends-in-applications-to-techstars-mobility/).
 
 Our [2015 class of startups](http://www.techstars.com/content/blog/announcing-the-first-class-of-techstars-mobility-driven-by-detroit/) have now gone on to raise over $8M in funding. [Lunar](https://joinlunar.com/), [Wise](http://www.wisesystems.com/), [Elegus](http://www.elegustech.com/), [Pitstop](https://getpitstop.io/), and [SPLT](http://splt.io/) have all raised significant seed-stage financings > $1M. The rest of the class is still operating and growing their businesses.
 
-Our [2016 class of startups](http://tedserbinski.com/mobility/introducing-the-techstars-mobility-class-of-2016/) is on pace to double that of last year’s class. Investors this year have been quite aggressive. Most of the startups have ⅓ to ½ their round committed -- some are even oversubscribed before they set foot on the stage at Demo Day -- wow!
+Our [2016 class of startups](https://tedserbinski.com/mobility/introducing-the-techstars-mobility-class-of-2016/) is on pace to double that of last year’s class. Investors this year have been quite aggressive. Most of the startups have ⅓ to ½ their round committed -- some are even oversubscribed before they set foot on the stage at Demo Day -- wow!
 
-From the start of the program until now, the current 2016 class has experienced tremendous growth. To see that evolution, [check out the company descriptions from 3 months ago](http://tedserbinski.com/mobility/introducing-the-techstars-mobility-class-of-2016/) and compare to where they are today:
+From the start of the program until now, the current 2016 class has experienced tremendous growth. To see that evolution, [check out the company descriptions from 3 months ago](https://tedserbinski.com/mobility/introducing-the-techstars-mobility-class-of-2016/) and compare to where they are today:
 
 - [Acerta](http://acerta.ca) is an enterprise platform that uses machine learning to detect anomalies and predict failures in real time for automotive vehicles coming off the assembly line or being driven.
 - [Algocian](http://algocian.com/) is an edge computing platform that uses deep learning to make every camera smart.

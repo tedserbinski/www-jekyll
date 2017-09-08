@@ -63,10 +63,10 @@ Techstars is committed to operating this program in Detroit, operating at the in
 </ul>
 <h2><b>2016 Webinars</b></h2>
 <ul>
-<li>Jan 15 – <a href="http://tedserbinski.enterthemeeting.com/m/8B9X7WGG">Click here to signup and attend</a></li>
-<li>Jan 21 – <a href="http://tedserbinski.enterthemeeting.com/m/VIKCZ9VX">Click here to signup and attend</a></li>
-<li>Feb 4 – <a href="http://tedserbinski.enterthemeeting.com/m/4PTNJFLX">Click here to signup and attend</a></li>
-<li>Feb 25 – <a href="http://tedserbinski.enterthemeeting.com/m/POZ3GGXA">Click here to signup and attend</a></li>
-<li>Mar 3 – <a href="http://tedserbinski.enterthemeeting.com/m/3SEVF2FN">Click here to signup and attend</a></li>
-<li>Mar 17 – <a href="http://tedserbinski.enterthemeeting.com/m/XXADJZ49">Click here to signup and attend</a></li>
+<li>Jan 15 – <a href="https://tedserbinski.enterthemeeting.com/m/8B9X7WGG">Click here to signup and attend</a></li>
+<li>Jan 21 – <a href="https://tedserbinski.enterthemeeting.com/m/VIKCZ9VX">Click here to signup and attend</a></li>
+<li>Feb 4 – <a href="https://tedserbinski.enterthemeeting.com/m/4PTNJFLX">Click here to signup and attend</a></li>
+<li>Feb 25 – <a href="https://tedserbinski.enterthemeeting.com/m/POZ3GGXA">Click here to signup and attend</a></li>
+<li>Mar 3 – <a href="https://tedserbinski.enterthemeeting.com/m/3SEVF2FN">Click here to signup and attend</a></li>
+<li>Mar 17 – <a href="https://tedserbinski.enterthemeeting.com/m/XXADJZ49">Click here to signup and attend</a></li>
 </ul>
