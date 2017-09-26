@@ -35,8 +35,8 @@ assets:
 # site config variables
 ## todo: remove these
 tagline_homepage: >
-  <p class="tag1">Hello! I'm the Managing Director of <a href="http://www.techstars.com/programs/mobility-program/">Techstars Mobility</a>.</p>
-  <p class="tag2">I invest wordlwide in <a href="/mobility-startups/">mobility startups</a> changing the future of transportation.</p>
+  <p class="tag1">Hello! I'm the Managing Director of <a href="https://tedserbinski.com/mobility">Techstars Mobility</a>.</p>
+  <p class="tag2">I invest worldwide in <a href="/mobility-startups/">mobility startups</a> changing the future of transportation.</p>
   <p class="tag3"><a href="/detroit/the-entrepreneurial-gold-rush-why-i-moved-from-san-francisco-to-detroit/">I left Silicon Valley to fuel the entrepreneurial gold rush in Detroit</a> and create a legacy.</p>
 
 tagline_feed: >
