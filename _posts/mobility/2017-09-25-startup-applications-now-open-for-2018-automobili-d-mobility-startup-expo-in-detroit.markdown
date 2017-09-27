@@ -33,8 +33,9 @@ Also new in 2018 is the formation of the Mobility Advisory Board for AutoMobili-
 
 ### Mobility Investors
 - Reilly Brennan, General Partner, Trucks Venture Capital
-- Ernestine Fu, Venture Partner, Alsop Louie Partners
+- Ernestine Fu, Partner, Alsop Louie Partners
 - Amy Gu, Managing Partner, Hemi Ventures
+- Mar Hershenson, Managing Partner, Pear VC
 - Mark Platshon, Managing Director, Icebreaker Ventures
 - Jim Scheinman, Founding Managing Partner, Maven Ventures
 - Ted Serbinski, Managing Director, Techstars Mobility
