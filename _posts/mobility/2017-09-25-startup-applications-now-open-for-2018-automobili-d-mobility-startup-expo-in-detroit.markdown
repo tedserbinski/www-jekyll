@@ -4,7 +4,9 @@ title: "Startup Applications Now Open for 2018 AutoMobili-D Mobility Startup Exp
 categories: ["mobility"]
 tags: ["mobility"]
 social_photo: automobili-d-keynote-jan-2017.jpg
-excerpt: ""
+excerpt: "I'm excited to announce that Techstars Mobility is partnering for a second-year with the Detroit Auto Show for 2018.
+
+Lots of great changes for the 2018 AutoMobili-D exhibit at the Detroit Auto Show as well. 25% more expo space, a world-class Mobility Advisory Board, and success stories from 2017. Check it out below."
 ---
 
 <h2 class="sub-title"><small>AutoMobili-D is the perfect entry point for early-stage mobility startups to build up their networks with key influencers and decision-makers in the automotive mobility industry. The mobility startup expo at AutoMobili-D runs January 14-18, 2018 in downtown Detroit. </small></h2>
