@@ -7,7 +7,7 @@ social_photo: techstars-mobility-2017-demo-day.jpg
 excerpt: "The 3rd Techstars Mobility Accelerator program culminated on Oct 18, 2017 with two demo day events. Combined, this was the largest single-day event focused on mobility startups in the world. It was a great ending to an amazing program driven by wonderful founders. Read on for a short program update, videos of company pitches from demo day, and a look at what’s next."
 ---
 
-<h2 class="sub-title"><small>The 3rd Techstars Mobility Accelerator program wrapped up on Oct 18, 2017. It was an amazing program driven by wonderful founders. Read on for a short program update, videos of company pitches from demo day, and a look at what’s next.</small></h2>
+<h2 class="sub-title"><small>The 3rd Techstars Mobility Accelerator program culminated on Oct 18, 2017 with two demo day events. Combined, this was the largest single-day event focused on mobility startups in the world. It was a great ending to an amazing program driven by wonderful founders. Read on for a short program update, videos of company pitches from demo day, and a look at what’s next.</small></h2>
 
 ## Program Momentum Continues with Largest Single-Day Event Focused on Mobility Startups in the World
 
