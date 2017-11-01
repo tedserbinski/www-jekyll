@@ -50,11 +50,15 @@ task :new do
     post.puts "title: \"#{title}\""
     post.puts "categories: [\"mobility\"] "
     post.puts "tags: [\"mobility\"] "
-    post.puts "social_photo: filename.jpg"
+    post.puts "# social_photo: filename.jpg"
     post.puts "excerpt: \"\""
     post.puts "---"
     post.puts ""
     post.puts "<h2 class=\"sub-title\"><small></small></h2>"
     post.puts ""
+    post.puts "<figure class=\"wide\">"
+      post.puts "<img src=\"{% asset_path filename.jpg %}\" alt=\"\">"
+      post.puts "<figcaption></figcaption>"
+    post.puts "</figure>"
   end
 end
