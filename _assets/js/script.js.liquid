@@ -28,7 +28,7 @@ $(function() {
                 window['disqus_' + key.replace('disqus', '').toLowerCase()] = disqus_data[key];
               }
             }
- 
+
             var d = document, s = d.createElement('script');
             s.src = 'https://tedserbinski.disqus.com/embed.js';
             s.setAttribute('data-timestamp', +new Date());
@@ -96,7 +96,7 @@ $(document).ready(function() {
 
     // today's date is after thanksgiving or before/on Jan 6, Epiphany
     if ((today >= dayAfterThanksgiving) || (today.getMonth() == 0 && today.getDate() < 7)) {
-      $('body').css({'margin-top': '2em', 'background': 'url({% asset_path christmas-lights.png %}) repeat-x 0 50px' });
+      $('body').css({background': 'url({% asset_path christmas-lights.png %}) repeat-x 0 50px' });
     }
   }();
 });
