@@ -28,6 +28,7 @@ assets:
     - _assets/img
     - _assets/img/headshots
     - _assets/img/posts
+    - _assets/img/posts/book-reviews
     - _assets/img/pages
   features:
     liquid: true
