@@ -9,6 +9,7 @@ exclude:
   - README.markdown
   - s3_website.yml
   - .jekyll-metadata
+  - .jekyll-cache
   - .asset-cache
   - .sass-cache
   - .git
