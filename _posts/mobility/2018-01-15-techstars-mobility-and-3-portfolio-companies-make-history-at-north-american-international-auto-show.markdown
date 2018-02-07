@@ -20,7 +20,7 @@ Today, for the first time in the show’s 100+ year history, three early-stage t
 
 Additionally, as we head into our 4th year of Techstars Mobility, we’re now the longest running mobility startup accelerator program in the world.
 
-Techstars Mobility drives innovation faster. We’ve accelerated [33 mobility startups] from 6 different countries since June 2015. We accelerate mobility startups in four key areas:
+Techstars Mobility drives innovation faster. We’ve accelerated [33 mobility startups](https://tedserbinski.com/mobility-startups/) from 6 different countries since June 2015. We accelerate mobility startups in four key areas:
 
 1. **Building their network**: Founders get to engage with mentors and demo day attendees from over 143 (and growing!) automotive and transportation OEMs, suppliers, and venture capital funds.
 
