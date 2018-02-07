@@ -46,7 +46,7 @@ Setting aside the city’s automotive history, Detroit and the surrounding regio
 - **Talent and Industry Expertise**  
 	Across Michigan, more than 2,200 facilities conduct automotive research, design, engineering, testing and validation in the state of Michigan. 16 OEMs have headquarters or technology centers in Michigan. 96 of the top 100 automotive suppliers to North America have a presence in Michigan, 62 are headquartered in Michigan.  
 
-	 Michigan is home to the highest number of mechanical (42,080) and industrial (26,660) engineers in the nation. They are part of 90,000+ engineers that are employed in Michigan across.  
+	Michigan is home to the highest number of mechanical (42,080) and industrial (26,660) engineers in the nation. They are part of 90,000+ engineers that are employed in Michigan across.  
 
 	20 institutions with nationally ranked undergraduate engineering programs. More than 6,600 engineers graduate from Michigan universities annually.   
 
@@ -62,15 +62,17 @@ Setting aside the city’s automotive history, Detroit and the surrounding regio
 When you combine the ingredients above—talent and industry expertise with regional advantages—the foundation is there for Detroit to position itself as a leader in the future of automotive mobility. But it still took the efforts of a few early entrants to set the stage for Detroit’s resurgence.
 
 - **Density in Downtown Detroit**  
-	Fueled by Dan Gilbert’s Bedrock and the Ilitch Family’s “District Detroit,” massive amounts of construction is transforming Detroit. As a result, automotive companies like [Ford](https://www.freep.com/story/money/cars/ford/2017/12/14/ford-self-driving-team-move-old-hosiery-factory-corktown/953367001/), Chrysler, Lear Corporation, and Adient are opening offices in Detroit, near GM’s world headquarters. They are joining other high tech companies that have moved to Detroit including Quicken Loans, Google, Microsoft, Amazon, and Twitter. For a closer look, check out Lonely Planet’s [“Detroit, America’s most ambitious renovation project.”](https://www.lonelyplanet.com/usa/great-lakes/detroit/travel-tips-and-articles/detroit-americas-most-ambitious-renovation-project/40625c8c-8a11-5710-a052-1479d27680c5)  
+	Fueled by Dan Gilbert’s Bedrock and the Ilitch Family’s “District Detroit,” massive amounts of construction is transforming Detroit. As a result, automotive companies like [Ford](https://mobile.nytimes.com/2017/12/14/business/ford-detroit.html), Chrysler, Lear Corporation, and Adient are opening offices in downtown Detroit, all near GM’s existing world headquarters. They are joining other high tech companies that have moved to Detroit including Quicken Loans, Google, Microsoft, Amazon, and Twitter. For a closer look, check out Lonely Planet’s [“Detroit, America’s most ambitious renovation project.”](https://www.lonelyplanet.com/usa/great-lakes/detroit/travel-tips-and-articles/detroit-americas-most-ambitious-renovation-project/40625c8c-8a11-5710-a052-1479d27680c5)  
 
 	Joining the commercial boom is the residential boom in downtown Detroit. Young professionals are flocking to Detroit to experience the rebirth of the city and escape the exorbitant costs of the coasts. This demand is driving a boom in residential construction. [Curbed Detroit mapped out 41 new residential developments](https://detroit.curbed.com/maps/detroit-building-construction-map) bringing 1000s of new apartments and condos to Detroit in the next few years.   
 
 - **Government Support**  
-	There have been $13.9 billion in automotive-related investments in Michigan since 2012. In 2016, Governor Rick Snyder [passed a bill](http://fortune.com/2016/12/09/michigan-self-driving-cars/) clearing the way for automotive companies and tech companies like Uber and Lyft to start testing self-driving vehicles on public roads. Michigan ranks #1 in the nation for connected and autonomous vehicle projects, as well as #1 in mobility-related patents.  *[Source: Michigan is Auto Mobility](http://1419891vq14j2fapah1bpghjzyq.wpengine.netdna-cdn.com/wp-content/uploads/2017/05/Michigan-is-Auto-Mobility_COMBINED.pdf).*  
+	There have been $13.9 billion in automotive-related investments in Michigan since 2012. In 2016, Governor Rick Snyder [passed a bill](http://fortune.com/2016/12/09/michigan-self-driving-cars/) clearing the way for automotive companies and tech companies like Uber and Lyft to start testing self-driving vehicles on public roads. Michigan ranks #1 in the nation for connected and autonomous vehicle projects, as well as #1 in mobility-related patents.
+
+  *[Source: Michigan is Auto Mobility](http://1419891vq14j2fapah1bpghjzyq.wpengine.netdna-cdn.com/wp-content/uploads/2017/05/Michigan-is-Auto-Mobility_COMBINED.pdf).*  
 
 - **Growing Entrepreneurial and VC Community around Mobility**  
-	[Fontinalis Partners](http://fontinalis.com/), a firm started by Bill Ford, was the first VC fund in the world to invest in the future of mobility. [Techstars Mobility](http://techstars.com/mobility), was the first startup accelerator in North America, and now the longest-running program in the world, to invest in seed stage mobility startups. Both are headquartered in downtown Detroit. Thirty minutes away you can find [RPM Ventures](https://rpmvc.com/), [eLab Ventures](http://elabvc.com/), [Huron River Ventures](https://www.huronrivervc.com/), and a little farther north [Grand Ventures](http://grandvcp.com/), all investing in mobility startups as well.  
+	[Fontinalis Partners](http://fontinalis.com/), a firm started by Bill Ford, was the first VC fund in the world to invest in the future of mobility. [Techstars Mobility](http://techstars.com/mobility), was the first mobility startup accelerator in North America, and now the longest-running mobility startup accelerator in the world, to invest in seed stage mobility startups. Both are headquartered in downtown Detroit. Thirty minutes away you can find [RPM Ventures](https://rpmvc.com/), [eLab Ventures](http://elabvc.com/), [Huron River Ventures](https://www.huronrivervc.com/), and a little farther north [Grand Ventures](http://grandvcp.com/), all investing in mobility startups as well.  
 
 	Across Michigan, there are 22 venture capital firms and 8 angel groups investing in mobility startups. There are 141 venture-backed startups, a 48% increase in the last 5 years. I wrote more about [Why I love the Detroit Startup Scene in this post](https://tedserbinski.com/detroit/why-i-love-the-detroit-startup-scene/). Some of these startups include Derq, Lunar Wireless, May Mobility, SEEVA, Spatial, SPLT,  and Ushr.
 
@@ -92,8 +94,8 @@ When you combine the ingredients above—talent and industry expertise with regi
 
 - **Detroit’s Changing Perception**  
 	One of Detroit’s more significant challenges is the perception of Detroit. Six years ago that image was anything but positive. But today, that has changed:
-  - [The New York Times named Detroit one of the top 52 Places in the World to go in 2017](https://www.nytimes.com/interactive/2017/travel/places-to-visit.html). Later, another [New York Times Article wrote ”Detroit: the Most Exciting City in America?”](https://www.nytimes.com/2017/11/20/travel/detroit-michigan-downtown.html)
-  - [Lonely Planet named Detroit the #2 place in the world to visit in 2018](https://www.lonelyplanet.com/best-in-travel/cities).
+  - The New York Times named [Detroit one of the top 52 Places in the World to go in 2017](https://www.nytimes.com/interactive/2017/travel/places-to-visit.html). Later, another New York Times Article wrote [Detroit: the Most Exciting City in America?](https://www.nytimes.com/2017/11/20/travel/detroit-michigan-downtown.html)
+  - Lonely Planet named [Detroit the #2 place in the world to visit in 2018](https://www.lonelyplanet.com/best-in-travel/cities).
   - In 2011, Sleeping Bear Dunes, a few hours north of Detroit, was voted [“Most Beautiful Place in America” by Good Morning America.](http://abcnews.go.com/Travel/best_places_USA/sleeping-bear-dunes-michigan-voted-good-morning-americas/story?id=14319616)  
 
 
