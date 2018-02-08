@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Detroit's Ascent to Become the Mobility City"
-categories: ["mobility"]
-tags: ["mobility"]
+categories: ["detroit"]
+tags: ["detroit"]
 social_photo: detroit-skyline.jpg
 excerpt: "Six years ago, I moved from San Francisco to Detroit. I'm now witnessing Detroit rebuilding and redefining itself. No longer the Motor City, the Mobility City is on the rise. Read on for what's fueling this transformative change."
 ---

@@ -23,6 +23,7 @@ cloudfront_wildcard_invalidation: true
 # https://github.com/laurilehmijoki/configure-s3-website#configuring-redirects
 
 redirects:
+  mobility/detroits-ascent-to-become-the-mobility-city/index.html: detroit/detroits-ascent-to-become-the-mobility-city/
   mobility/defining-mobility/index.html: /mobility/defining-mobility-for-the-automotive-industry/
   tags/lullabot: /posts/#drupal
   how-to-host-your-static-website-on-amazon-s3-step-by-step-guide/index.html: /tech/how-to-host-your-static-website-on-amazon-s3-step-by-step-guide/
