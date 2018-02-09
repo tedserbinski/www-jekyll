@@ -14,25 +14,17 @@ exclude:
   - .sass-cache
   - .git
 
-# configuration options https://github.com/jekyll/jekyll-assets
+# configuration options https://github.com/envygeeks/jekyll-assets
 assets:
-  cdn: https://tedserbinski.com
-  prefix: "/assets"
-  assets:
-    - "christmas-lights.png"
-    - "bg.jpg"
+  cdn:
+    url: https://tedserbinski.com
   sources:
-    - _assets/js
     - _assets/js/vendor
-    - _assets/css
     - _assets/css/custom
-    - _assets/img
     - _assets/img/headshots
     - _assets/img/posts
     - _assets/img/posts/book-reviews
     - _assets/img/pages
-  features:
-    liquid: true
 
 # site config variables
 ## todo: remove these
