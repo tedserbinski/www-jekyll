@@ -12,7 +12,7 @@ I’m excited to announce that [Hagerty has acquired Classics&amp;Exotics](http:
 Hagerty is relaunching Classics&amp;Exotics as [DriveShare by Hagerty](http://driveshare.com/) and is available nationwide today. If you’ve ever wanted to drive a [1966 Ford Mustang GT](https://driveshare.com/car/130/) or a [1984 Ferrari 308](https://driveshare.com/car/167/) but couldn’t afford one, now is your chance.
 
 <figure class="wide">
-  <img src="{% asset_path ted-serbinski-classics-exotics-woodward-dream-cruise.jpg %}" alt="My son Joey and I in front of the Classics&amp;Exotics booth at the 2015 Woodward Dream Cruise">
+  <img src="{% asset ted-serbinski-classics-exotics-woodward-dream-cruise.jpg @path %}" alt="My son Joey and I in front of the Classics&amp;Exotics booth at the 2015 Woodward Dream Cruise">
   <figcaption>
     My son Joey and I in front of the Classics&amp;Exotics booth at the 2015 Woodward Dream Cruise
   </figcaption>

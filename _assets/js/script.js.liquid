@@ -96,7 +96,7 @@ $(document).ready(function() {
 
     // today's date is after thanksgiving or before/on Jan 6, Epiphany
     if ((today >= dayAfterThanksgiving) || (today.getMonth() == 0 && today.getDate() < 7)) {
-      $('body').css({'margin-top': '2em', 'background': 'url({% asset_path christmas-lights.png %}) repeat-x 0 50px' });
+      $('body').css({'margin-top': '2em', 'background': 'url({% asset christmas-lights.png @path %}) repeat-x 0 50px' });
     }
   }();
 });

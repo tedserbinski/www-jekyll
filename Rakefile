@@ -57,7 +57,7 @@ task :new do
     post.puts "<h2 class=\"sub-title\"><small></small></h2>"
     post.puts ""
     post.puts "<figure class=\"wide\">"
-      post.puts "<img src=\"{% asset_path filename.jpg %}\" alt=\"\">"
+      post.puts "<img src=\"{% asset filename.jpg @path %}\" alt=\"\">"
       post.puts "<figcaption></figcaption>"
     post.puts "</figure>"
   end

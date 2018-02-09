@@ -37,7 +37,7 @@ In the 2nd example, look at how clear the benefits of this hammer are stated. Yo
 
 When you're comparing products on a shelf, do you go with the one with 6 clear benefits? Or the one that doesn't list any at all?
 
-<img class="img-polaroid" src="{% asset_path listerine-total-care-zero.png %} " title="Listerine Total Care Zero" alt="6 Benefits in 1">
+<img class="img-polaroid" src="{% asset listerine-total-care-zero.png @path %} " title="Listerine Total Care Zero" alt="6 Benefits in 1">
 
 <hr>
 
@@ -83,5 +83,5 @@ Maximize the number of customers that use your product by maximizing their desir
 
 Do you have great messaging around the benefits of your startup product or service? <a href="https://tedserbinski.com/the-number-1-marketing-tip-your-startup-needs-to-know/#comments">Leave a comment to share with others</a>.
 
-[image-1]: {% asset_path hammer-two-dot-o.png %} "Hammer 2.0"
-[image-2]: {% asset_path lightweight-visible-low-shock-hammer.png %} "Lightweight, visible, low-shock Hammer"
+[image-1]: {% asset hammer-two-dot-o.png @path %} "Hammer 2.0"
+[image-2]: {% asset lightweight-visible-low-shock-hammer.png @path %} "Lightweight, visible, low-shock Hammer"

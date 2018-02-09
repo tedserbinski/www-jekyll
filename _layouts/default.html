@@ -34,9 +34,9 @@
 
   {% asset styles.css %}
 
-  {% if page.social_photo %}
+  {% if assets[page.social_photo] %}
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:image:src" content="{% asset page.social_photo @path %}">
+  <meta name="twitter:image:src" content="{% asset '{{page.social_photo}}' @path %}">
   {% else %}
   <meta name="twitter:card" content="summary">
   {% endif %}
@@ -52,7 +52,7 @@
   <meta property="og:title" content="{{ page.title }}">
   <meta property="og:description" content="{{ desc | truncate:200 }}">
   <meta property="og:url" content="{{ site.url }}{{ page.url | remove: 'index.html' }}">
-  {% if page.social_photo %}<meta property="og:image" content="{% asset page.social_photo @path }">
+  {% if assets[page.social_photo] %}<meta property="og:image" content="{% asset '{{ page.social_photo }}' %}">
   {% else %}<meta property="og:image" content="{% asset ted-serbinski.jpg @path %}">{% endif %}
 </head>
 

@@ -226,8 +226,8 @@ And finally, straight from the source, [27 things Dan's learned in 27 years](htt
 Do you have a favorite insight? Or is there an insight you'd like me to dive deeper in a future post? Let me know by leaving a comment below.
 
 
-[image-1]: {% asset_path dan-gilbert-spreadsheets.jpg %} "Spreadsheets measure. They do NOT create."
-[image-2]: {% asset_path forrest-gump.jpg %} "Forrest Gump"
-[image-3]: {% asset_path big-display-calculator.jpg %} "Big Display Calculator"
-[image-4]: {% asset_path burnt-out-bulb.png %} "Burnt out bulb"
-[image-5]: {% asset_path boy-scouts-be-prepared.jpg %} "Boy Scouts Motto: Be Prepared"
+[image-1]: {% asset dan-gilbert-spreadsheets.jpg @path %} "Spreadsheets measure. They do NOT create."
+[image-2]: {% asset forrest-gump.jpg @path %} "Forrest Gump"
+[image-3]: {% asset big-display-calculator.jpg @path %} "Big Display Calculator"
+[image-4]: {% asset burnt-out-bulb.png @path %} "Burnt out bulb"
+[image-5]: {% asset boy-scouts-be-prepared.jpg @path %} "Boy Scouts Motto: Be Prepared"

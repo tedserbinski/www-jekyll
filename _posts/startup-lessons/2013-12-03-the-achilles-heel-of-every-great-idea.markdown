@@ -108,5 +108,5 @@ A favorite blog of mine for web and mobile apps is [Little Big Details](http://l
 Perhaps you'll be inspired to find just the right *pepper* to delight your users or customers.
 
 
-[image-1]: {% asset_path startup-quotes-edison-ideas.png %} "The value of an idea lies in the using of it. - Thomas Edison"
-[image-2]: {% asset_path pizzaria-picco-pepper.jpg %} "Pizzeria Picco"
+[image-1]: {% asset startup-quotes-edison-ideas.png @path %} "The value of an idea lies in the using of it. - Thomas Edison"
+[image-2]: {% asset pizzaria-picco-pepper.jpg @path %} "Pizzeria Picco"

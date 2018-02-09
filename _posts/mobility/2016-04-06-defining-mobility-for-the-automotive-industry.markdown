@@ -72,14 +72,14 @@ At the Detroit 2016 auto show, we saw a huge transformation in the perception of
 Take a look at Ford’s booth compared to others:
 
 <figure class="wide">
-  <img src="{% asset_path ford-detroit-autoshow.jpg %}" width="855" title="Ford - Detoit Autoshow - 2016">
+  <img src="{% asset ford-detroit-autoshow.jpg @path %}" width="855" title="Ford - Detoit Autoshow - 2016">
   <figcaption>
     Ford at the 2016 Detroit North American International Auto Show
   </figcaption>
 </figure>
 
 <figure class="wide">
-  <img src="{% asset_path detroit-autoshow.jpg %}" width="855" title="Detoit Autoshow - 2016">
+  <img src="{% asset detroit-autoshow.jpg @path %}" width="855" title="Detoit Autoshow - 2016">
   <figcaption>
     2016 Detroit North American International Auto Show
   </figcaption>
@@ -108,7 +108,7 @@ And that’s why I’m so excited that [Techstars Mobility has partnered with Fo
 Taking our definition, here are the areas of most interest to us.
 
 <figure class="wide">
-  <img src="{% asset_path techstars-mobility-thesis.png %}" title="Techstars Mobility Thesis - 2016">
+  <img src="{% asset techstars-mobility-thesis.png @path %}" title="Techstars Mobility Thesis - 2016">
   <figcaption>
     Key interest areas for Techstars Mobility in 2016
   </figcaption>

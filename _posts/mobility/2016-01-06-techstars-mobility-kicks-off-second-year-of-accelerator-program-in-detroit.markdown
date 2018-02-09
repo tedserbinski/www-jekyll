@@ -16,7 +16,7 @@ To kickoff the 2016 program, I’m at CES and it’s pretty clear the entire ind
 “In 2016 Ford will become a mobility company, not just an auto manufacturer” said CEO Mark Fields. Fields pointed to Techstars Mobility as a key part of their strategy.
 
 <figure class="wide">
-  <img src="{% asset_path mark-fields-ces-ford-keynote-techstars-mobility.jpg %}" alt="Mark Fields keynote at CES talking about Techstars Mobility">
+  <img src="{% asset mark-fields-ces-ford-keynote-techstars-mobility.jpg @path %}" alt="Mark Fields keynote at CES talking about Techstars Mobility">
   <figcaption>
     Mark Fields keynote at CES talking about Techstars Mobility
   </figcaption>
@@ -34,7 +34,7 @@ We define mobility as technologies that power the efficient movement of people, 
 Techstars is committed to operating this program in Detroit, operating at the intersection of Detroit’s automotive dominance and its entrepreneurial resurgence.&nbsp;
 
 <figure class="wide">
-  <img src="{% asset_path ford-ces-techstars-mobility.jpg %}" alt="Ford's booth at CES featuring Techstars Mobility">
+  <img src="{% asset ford-ces-techstars-mobility.jpg @path %}" alt="Ford's booth at CES featuring Techstars Mobility">
   <figcaption>
     Techstars Mobility was featured at Ford's 2016 CES Booth
   </figcaption>

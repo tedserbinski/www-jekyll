@@ -10,7 +10,7 @@ excerpt: "Detroit is transforming from the Motor City to the Mobility City. Anch
 <h2 class="sub-title"><small>Detroit is transforming from the Motor City to the Mobility City. Anchoring this transformation is AutoMobili-D, part of the Detroit Auto Show. Techstars Mobility in partnership with the Detroit Auto Show is attracting mobility startups from around the world to Detroit. Read on for the full list of the 57 mobility startups exhibiting in 2018.</small></h2>
 
 <figure class="wide">
-<img src="{% asset_path automobili-d-keynote-jan-2017.jpg %}" alt="Carlos Ghosn, Chairman and CEO, Renault-Nissan Alliance giving a keynote talk at the 2017 AutoMobili-D">
+<img src="{% asset automobili-d-keynote-jan-2017.jpg @path %}" alt="Carlos Ghosn, Chairman and CEO, Renault-Nissan Alliance giving a keynote talk at the 2017 AutoMobili-D">
 <figcaption>Carlos Ghosn, Chairman and CEO, Renault-Nissan Alliance giving a keynote talk at the 2017 AutoMobili-D</figcaption>
 </figure>
 

@@ -12,7 +12,7 @@ tags: ["startups", "lessons", "top post"]
 It was July 2008. We had just signed all the docs to close the [sale of ParentsClick to Lifetime Television](https://tedserbinski.com/mothersclick-acquired-by-lifetime-networks/), their first digital acquisition. Our flagship products, MothersClick (a social network for moms) and Mom Blog Network (the largest mom blogger network at the time), along with FathersClick, and our nationwide network of parenting sites, were now part of the largest TV network for women, Lifetime Television.
 
 <figure>
-<img src="{% asset_path parentsclick-mothersclick-mom-blog-network-logos.png %}" title="ParentsClick, MothersClick, and Mom Blog Network logos">
+<img src="{% asset parentsclick-mothersclick-mom-blog-network-logos.png @path %}" title="ParentsClick, MothersClick, and Mom Blog Network logos">
 </figure>
 
 To us, this acquisition was a match made in heaven. With our technology and online network for moms, combined with Lifetime’s massive TV reach, we thought we had an unstoppable, winning combination.

@@ -16,7 +16,7 @@ For the second year in a row, [Techstars Mobility](https://tedserbinski.com/mobi
 Startup applications for the 2018 AutoMobili-D showcase are now open. [If you’re a startup, apply here by Oct 31st](https://docs.google.com/forms/d/e/1FAIpQLSeHwEZ9QxM3OnMcMUxx_G5terWjVLvatbBI6qBzkv63JupPiw/viewform) to secure your spot and a discount of $499 (price goes up to $999 November 1st). Be part of NAIAS 2018 (aka the “Detroit Auto Show”), among the most prestigious automotive shows in the world and one of the largest media events in North America.
 
 <figure class="wide">
-  <img src="{% asset_path automobili-d-keynote-jan-2017.jpg %}" alt="Carlos Ghosn, Chairman and CEO, Renault-Nissan Alliance giving a keynote talk at the 2017 AutoMobili-D">
+  <img src="{% asset automobili-d-keynote-jan-2017.jpg @path %}" alt="Carlos Ghosn, Chairman and CEO, Renault-Nissan Alliance giving a keynote talk at the 2017 AutoMobili-D">
   <figcaption>
     Carlos Ghosn, Chairman and CEO, Renault-Nissan Alliance giving a keynote talk at the 2017 AutoMobili-D
   </figcaption>

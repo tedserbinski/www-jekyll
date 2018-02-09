@@ -84,5 +84,5 @@ Agree? Disagree? [Leave a comment below and join the conversation][19]
 [18]: http://blog.michiganadvantage.org/great-companies/five-michigan-towns-named-money-magazines-best-places-to-live/
 [19]: #disqus_thread
 
-[image-1]: {% asset_path steve-blank-quote.png %}
-[image-2]: {% asset_path magic-happens-your-comfort-zone.jpg %}
+[image-1]: {% asset steve-blank-quote.png @path %}
+[image-2]: {% asset magic-happens-your-comfort-zone.jpg @path %}

@@ -91,4 +91,4 @@ I responded immediately to this email. And I've traded a handful of emails with 
 Do you have any favorite secrets for getting a VC to open your email? Or seen any great examples? Please share below in the comments for others.
 
 [1]:  http://www.amazon.com/gp/product/0743269519?ie=UTF8&camp=213733&creative=393185&creativeASIN=0743269519&linkCode=shr&tag=tedserbinski-20 "The 7 Habits of Highly Effective People"
-[image-1]: {% asset_path verbose-email.png %} "A really, really, verbose email"
+[image-1]: {% asset verbose-email.png @path %} "A really, really, verbose email"

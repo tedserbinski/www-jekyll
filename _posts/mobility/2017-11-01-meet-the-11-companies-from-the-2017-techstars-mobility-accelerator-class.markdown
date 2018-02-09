@@ -14,7 +14,7 @@ excerpt: "The 3rd Techstars Mobility Accelerator program culminated on Oct 18, 2
 I finished my third [Techstars Mobility Accelerator](https://www.techstars.com/programs/mobility-program/) program this month. It was an incredible experience, and I’m grateful to [Lisa Seymour,](https://twitter.com/lisadotseymour) my colleague and partner in running this program, for the terrific associates and volunteers that joined us this year, and of course, the incredible founders that came from all around the world to Detroit for 13 weeks.
 
 <figure class="wide">
-  <img src="{% asset_path techstars-mobility-stats-oct-2017.png %}" alt="In the last 28 months, Techstars Mobility has invested in 33 startups from 6 countries that have raised $45M and valued at $200M.">
+  <img src="{% asset techstars-mobility-stats-oct-2017.png @path %}" alt="In the last 28 months, Techstars Mobility has invested in 33 startups from 6 countries that have raised $45M and valued at $200M.">
   <figcaption>In the last 28 months, Techstars Mobility has invested in 33 startups from 6 countries that have raised $45M and valued at $200M.
   </figcaption>
 </figure>
@@ -25,7 +25,7 @@ Since June 2015, we’ve been super busy. We’ve invested in 33 startups from s
 
 
 <figure class="wide">
-  <img src="{% asset_path techstars-mobility-2017-demo-day-attendees.png %}" alt="Over 113+ automotive OEMs, suppliers, transportation companies, and leading mobility venture capital funds came to the 2017 Techstars Mobility Accelerator demo day.">
+  <img src="{% asset techstars-mobility-2017-demo-day-attendees.png @path %}" alt="Over 113+ automotive OEMs, suppliers, transportation companies, and leading mobility venture capital funds came to the 2017 Techstars Mobility Accelerator demo day.">
   <figcaption>Over 113+ automotive OEMs, suppliers, transportation companies, and leading mobility venture capital funds came to the 2017 Techstars Mobility Accelerator demo day.
   </figcaption>
 </figure>
@@ -43,7 +43,7 @@ Featured media outlets covering our demo day include [Xconomy](http://www.xconom
 ## The Most International Class to go through the Mobility Program
 
 <figure class="wide">
-  <img src="{% asset_path techstars-mobility-2017-demo-day.jpg %}" alt="The 2017 Techstars Mobility Accelerator Class">
+  <img src="{% asset techstars-mobility-2017-demo-day.jpg @path %}" alt="The 2017 Techstars Mobility Accelerator Class">
   <figcaption>The 2017 Techstars Mobility Accelerator Class</figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ empty car seats on the road.
 During the 2017 Techstars Mobility Accelerator program, over 2,500 meetings were scheduled between the 11 startups and hundreds of mentors representing OEMs, suppliers, transportation companies, and leading mobility venture capital funds.
 
 <figure class="wide">
-  <img src="{% asset_path techstars-mobility-2017-mentor-signatures.png %}" alt="">
+  <img src="{% asset techstars-mobility-2017-mentor-signatures.png @path %}" alt="">
   <figcaption>Signatures from some of the 213 mentors that stopped by the 2017 Techstars Mobility program</figcaption>
 </figure>
 
@@ -102,7 +102,7 @@ I like to call this “forced serendipity” - when you pair up a bunch of amazi
 Ultimately that is the secret to why this program works so well. Through these encounters, founders received a lot of different viewpoints. Data gathered from these meetings is distilled down into wisdom that the founders use to grow their business, and the results always amaze me.
 
 <figure class="wide">
-  <img src="{% asset_path techstars-mobility-2017-top-mentors.png %}" alt="The top 32 mentors as rated by founders at the Techstars Mobility Accelerator">
+  <img src="{% asset techstars-mobility-2017-top-mentors.png @path %}" alt="The top 32 mentors as rated by founders at the Techstars Mobility Accelerator">
   <figcaption>The top 32 mentors as rated by founders at the Techstars Mobility Accelerator</figcaption>
 </figure>
 

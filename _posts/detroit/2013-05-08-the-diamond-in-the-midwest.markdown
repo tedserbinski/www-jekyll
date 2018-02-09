@@ -45,8 +45,8 @@ Well Marc, we’re not trying to be like a coastal valley.
 
 We’re Detroit. We’re rolling up our sleeves and we’re getting to work. This Midwest diamond is about to get *real* shiny.
 
-[image-1]: {% asset_path startup-diamond-in-midwest.jpg %}
-[image-2]: {% asset_path steve-blank-quote.png %}
+[image-1]: {% asset startup-diamond-in-midwest.jpg @path %}
+[image-2]: {% asset steve-blank-quote.png @path %}
 
 [1]:  https://tedserbinski.com/the-entrepreneurial-gold-rush-why-i-moved-from-san-francisco-to-detroit/
 [2]:  http://a16z.com/

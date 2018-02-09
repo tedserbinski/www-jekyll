@@ -12,7 +12,7 @@ excerpt: "Six years ago, I moved from San Francisco to Detroit. I'm now witnessi
 *This is an expanded and updated version of an [article I wrote for VentureBeat](https://venturebeat.com/2017/11/30/how-detroits-automotive-roots-made-it-a-hub-for-transportation-startups/).*
 
 <figure class="wide">
-  <img src="{% asset_path detroit-skyline.jpg %}" title="The Detroit skyline" width="855">
+  <img src="{% asset detroit-skyline.jpg @path %}" title="The Detroit skyline" width="855">
   <figcaption><em>Photo source: <a href="https://www.michigan.org/city/detroit">Pure Michigan</a></em></figcaption>
 </figure>
 
