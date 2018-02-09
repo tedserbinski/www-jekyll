@@ -32,11 +32,11 @@
   <link rel="author" type="text/plain" href="{{ site.url }}/humans.txt">
   <link rel="canonical" href="{{ site.url }}{{ page.url | remove: 'index.html' }}">
 
-  {% stylesheet styles %}
+  {% asset styles.css %}
 
   {% if page.social_photo %}
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:image:src" content="{{ page.social_photo | asset_path }}">
+  <meta name="twitter:image:src" content="{% asset page.social_photo @path %}">
   {% else %}
   <meta name="twitter:card" content="summary">
   {% endif %}
@@ -52,8 +52,8 @@
   <meta property="og:title" content="{{ page.title }}">
   <meta property="og:description" content="{{ desc | truncate:200 }}">
   <meta property="og:url" content="{{ site.url }}{{ page.url | remove: 'index.html' }}">
-  {% if page.social_photo %}<meta property="og:image" content="{{ page.social_photo | asset_path }}">
-  {% else %}<meta property="og:image" content="{{ 'ted-serbinski.jpg' | asset_path }}">{% endif %}
+  {% if page.social_photo %}<meta property="og:image" content="{% asset page.social_photo @path }">
+  {% else %}<meta property="og:image" content="{% asset ted-serbinski.jpg @path %}">{% endif %}
 </head>
 
 <body {% if page.pageid %} id="page-{{page.pageid}}"{% endif %}>
@@ -67,10 +67,10 @@
 
   {% include footer.html %}
 
-  {% javascript script %}
+  {% asset script.js %}
 
   {% if page.pageid == 'headshots' %}
-  {% javascript copy %}
+  {% asset copy.js %}
   {% endif %}
 
   {% if jekyll.environment == "production" %}
