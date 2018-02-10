@@ -1,7 +1,4 @@
 #page-headshots {
-  .copy.zeroclipboard-is-hover, .copy.zeroclipboard-is-active {
-    background-color: $light-green;
-  }
   section.half {
     @include span-columns(4 of 8);
     @include omega(2n);
