@@ -10,7 +10,7 @@ end
 
 desc 'generate new site and launch server'
 task :preview do
-  sh 'JEKYLL_ENV=development jekyll serve --incremental --future --drafts;'
+  sh 'rm -rf _site/; rm -rf .jekyll-cache/; rm .jekyll-metadata; JEKYLL_ENV=development jekyll serve --incremental --future --drafts;'
 end
 
 desc 'shutdown local jekyll server'
