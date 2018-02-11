@@ -1,39 +1,46 @@
-// iPhone 5 in portrait & landscape
-$mobile:new-breakpoint(min-width 320px max-width 568px);
-// iPad in portrait & landscape
-$tablet:new-breakpoint(min-width 768px max-width 1024px);
+$mobile:new-breakpoint(min-width 0px max-width 1024px);
 
 @include media($mobile) {
   body {
-    font-size: 16px;
+    font-size: 17px;
   }
   #wrapper {
-    margin-top: $base-spacing;
-    @include span-columns(10);
-    @include shift();
+    margin: 0 5%;
+    width: 90%;
   }
   #masthead {
-    height: 120px;
+    #headernav {
+      clear: both;
+    }
+    width: 100%;
+    border-bottom: 0;
     margin: 0;
-    padding-bottom: 128px;
+    display: inline-block;
     img {
-      margin: 0 0 0 38px;
+      margin: 0 0 0 5%;
     }
     h1,
     h4 {
-      margin-top: 24px;
+      margin-top: 28px;
+      font-size: 36px;
+      margin-left: 16px;
     }
     ul {
-      text-align: center;
-      clear: both;
-      margin: 0 0 0 16px;
       padding: 0;
-      li {
-        margin: 0 12px 0 0;
-        a:hover, a:focus, a:after {
-          border: none;
-          background: none;
-        }
+    }
+    ul li {
+      text-align: center;
+      margin: 0;
+      width: 100%;
+      display: block;
+      height: auto;
+      background: #ecf0f1;
+      padding: 12px 0 1px 0;
+      margin: 2px;
+      line-height: 1;
+      a:hover, a:focus, a:after {
+        border: none;
+        background: none;
       }
     }
   }
@@ -68,7 +75,8 @@ $tablet:new-breakpoint(min-width 768px max-width 1024px);
     #callout {
       height: auto;
       float: none;
-      width: 100%;
+      width: 90%;
+      margin: 2% 5% 0 5%;
     }
     section.column {
       float: none;
@@ -79,16 +87,12 @@ $tablet:new-breakpoint(min-width 768px max-width 1024px);
         margin-right: 0;
       }
       h1 {
-        background: url(asset_path("ted-serbinski-headshot-oct-90x90.png")) no-repeat 42px;
+        background: asset_url("ted-serbinski-headshot-oct-90x90.png") no-repeat;
         height: 90px;
-        padding: 28px 0 0 50px;
+        padding: 28px 0 0 102px;
         vertical-align: middle;
         margin-top: 0;
         display: block;
-
-        a {
-          padding-left: 90px;
-        }
       }
     }
   }
