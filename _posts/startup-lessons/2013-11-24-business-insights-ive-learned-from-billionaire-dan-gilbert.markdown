@@ -65,8 +65,6 @@ Have you ever seen a clean and organized construction site? Why should starting 
 Fred Wilson wrote a great [blog post on return and ridicule being highly correlated](http://www.avc.com/a_vc/2013/04/return-and-ridicule.html). He's spot on. Dan is doing the same exact thing in Detroit, investing billions, while [60 Minutes posts a video about the ruins in Detroit](http://www.cbsnews.com/video/watch/?id=50157064n), completely missing the massive opportunity ahead.
 
 <blockquote class="twitter-tweet"><p>.<a href="https://twitter.com/fredwilson">@fredwilson</a> “you can only make money by being right about something that most people think is wrong” truth</p>&mdash; Greg Rosen (@grosen) <a href="https://twitter.com/grosen/statuses/327428753959575554">April 25, 2013</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 ## 9. How much does it cost you to make $1?
 

@@ -71,7 +71,7 @@ Or are you listing a dozen benefits that can truly make your customers lives bet
 
 Put another way:
 
-<blockquote class="twitter-tweet"><p>Conversion rate = Desire - Friction</p>&mdash; Galen Ward (@galenward) <a href="https://twitter.com/galenward/statuses/337324506412642304">May 22, 2013</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p>Conversion rate = Desire - Friction</p>&mdash; Galen Ward (@galenward) <a href="https://twitter.com/galenward/statuses/337324506412642304">May 22, 2013</a></blockquote>
 
 You're probably already working on lots of ways to minimize friction--quicker checkout, easier signup, free trials, etc.
 

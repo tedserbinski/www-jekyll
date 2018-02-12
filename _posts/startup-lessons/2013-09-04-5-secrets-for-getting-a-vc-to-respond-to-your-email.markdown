@@ -39,7 +39,7 @@ The longer your email, the less likely I’m to read it. And even less likely I�
 
 Or, in mathematical terms:
 
-<blockquote class="twitter-tweet"><p>Probability of me responding to an email:&#10;1/(word length of message)</p>&mdash; Blake Commagere (@commagere) <a href="https://twitter.com/commagere/statuses/321050822026874880">April 8, 2013</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p>Probability of me responding to an email:&#10;1/(word length of message)</p>&mdash; Blake Commagere (@commagere) <a href="https://twitter.com/commagere/statuses/321050822026874880">April 8, 2013</a></blockquote>
 
 > My rule: If your email requires scrolling to read, I’ll delete it.
 

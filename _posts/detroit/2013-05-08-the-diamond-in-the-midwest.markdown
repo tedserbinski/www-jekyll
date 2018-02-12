@@ -34,7 +34,6 @@ Notice how Ann Arbor is on the edge of that diamond? Steve Blank, a successful e
 Not only that, but you know you’re on to something when the satirical sources poke fun at you.
 
 <blockquote class="twitter-tweet"><p>Midwestern entreprenuer moves to Silicon Valley, is met with bewildered stares when he keeps talking about something called "revenue"</p>&mdash; TechCrunch Onion (@TechCrunchOnion) <a href="https://twitter.com/TechCrunchOnion/status/313078200114757633">March 17, 2013</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 But it’s not about this region being better than another region.
 

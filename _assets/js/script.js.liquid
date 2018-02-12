@@ -68,20 +68,6 @@ $(document).ready(function() {
     }
   });
 
-
-  // load Twitter JavaScript after page is loaded
-  !function(d, s, id) {
-    var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https';
-    if (!d.getElementById(id)) {
-      js = d.createElement(s);
-      js.id = id;
-      js.async = true;
-      js.src = p + '://platform.twitter.com/widgets.js';
-      fjs.parentNode.insertBefore(js, fjs);
-    }
-  }(document, 'script', 'twitter-wjs');
-
-
   // add Christmas decorations from Thanksgiving to the Epiphany
   !function() {
     var today = new Date();
