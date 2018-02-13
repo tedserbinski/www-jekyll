@@ -58,16 +58,6 @@ $(document).ready(function() {
     $('#logo').css('visibility', 'visible');
   }
 
-
-  // http://www.webtutorialplus.com/flyout-card-recommended-articles-jquery/
-  $('section.e-content').waypoint(function(direction) {
-    $('#flyout').toggleClass('hidden', direction === 'up');
-  }, {
-    offset: function () {
-      return $.waypoints('viewportHeight') - $(this).height() + 200; // 200px from bottom of the article
-    }
-  });
-
   // add Christmas decorations from Thanksgiving to the Epiphany
   !function() {
     var today = new Date();
