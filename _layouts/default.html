@@ -67,8 +67,6 @@
 
   {% include footer.html %}
 
-  {% asset script.js %}
-
   {% if jekyll.environment == "production" %}
   <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -79,10 +77,12 @@
     ga('require', 'displayfeatures');
     ga('send', 'pageview');
   </script>
-
-  {% if page.pageid != 'home' %}
-  <script src="//my.hellobar.com/d2f60123c986727beb5adbcf1b584033a61ba02b.js" type="text/javascript" async></script>
   {% endif %}
+
+  {% asset script.js %}
+
+  {% if page.pageid != 'home' and page.pageid != 'contact' %}
+  <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us8.list-manage.com","uuid":"71ad9613efdfc7e1af5e08cf1","lid":"95f2c0915d"}) })</script>
   {% endif %}
 
 </body>
