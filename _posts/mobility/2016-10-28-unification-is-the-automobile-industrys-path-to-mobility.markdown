@@ -4,7 +4,7 @@ title: "Unification is the Automobile Industry's Path to Mobility"
 description: " "
 social_photo: unification.jpg
 categories: ["mobility"]
-tags: ["mobility"]
+tags: ["mobility", "top post"]
 excerpt: "I co-wrote this blog post with my good friend Reilly Brennan at Trucks VC. We're seeing a macro trend of unification across the automotive industry.
 
 In this blog post, we talk about the '5 horsemen' of car ownership and the 4 components of the unification of automotive mobility."

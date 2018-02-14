@@ -4,7 +4,7 @@ title: "Why I love the Detroit startup scene"
 description: " "
 social_photo: detroit-skyline.jpg
 categories: ["detroit"]
-tags: ["startups", "detroit"]
+tags: ["startups", "detroit", "top post"]
 excerpt: "I moved to Detroit 2097 days ago. Can't believe it has been more than 5 years now. This is the longest place I've ever lived in my entire life.
 
 The Detroit startup scene has exploded in the last 5 years. Read on to find out why I love the Detroit startup scene."
