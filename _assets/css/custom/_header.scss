@@ -12,7 +12,8 @@ $masthead-height: 60px;
     @include transition(height .2s, margin .2s);
   }
   &:hover,
-  &:focus {
+  &:focus,
+  &.current {
     color: $link-color;
     &:after {
       height: 6px;
