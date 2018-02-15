@@ -1,5 +1,10 @@
 <%= File.read('_credentials.yml') %>
 
+cloudfront_distribution_config:
+  default_cache_behavior:
+    min_ttl: <%= 60 * 60 * 24 %>
+    http_version: http2
+
 max_age:
   "assets/*": 314496000
   "*.ico": 2592000
