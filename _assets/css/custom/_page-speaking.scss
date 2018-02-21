@@ -8,10 +8,15 @@
     a {
       border: none;
     }
+    img {
+      height: 200px;
+      max-width: 300px;
+      overflow: hidden;
+    }
   }
   a.button,
   button {
-    display: inline;
+    display: block;
     padding: .2em .6em .3em;
     font-size: 75%;
     color: #fff;
@@ -24,20 +29,14 @@
     &:hover {
       background-color: $green;
     }
+    &.btn-copied {
+      background-color: $green;
+    }
   }
   div.copy {
     background: $light-gray;
     border: 1px solid $medium-gray;
     padding: 0.5em;
     font-size: 75%;
-  }
-  span.success {
-    background: $green;
-    color: #fff;
-    padding: 0 .6em;
-    font-size: 75%;
-    font-weight: 600;
-    display: inline-block;
-    margin-left: 1em;
   }
 }
