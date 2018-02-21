@@ -9,7 +9,7 @@ excerpt: "The 2018 North American International Auto Show is transforming. Class
 <h2 class="sub-title"><small>The 2018 North American International Auto Show is transforming. Classic automotive is making wave for future mobility: the fusion of software and services with manufactured vehicles. Nearly 200 brands, across industry incumbents, outside entrants, and emerging entrants demoed their technology. Read on for why this matters and the changes I saw at the 2018 Detroit Auto Show.</small></h2>
 
 <figure class="wide">
-<img src="{% asset_path techstars-mobility-2018-naias-press-stage.jpg %}" alt="Techstars Mobility on the main press stage at 2018 North American International Auto Show">
+<img src="{% asset techstars-mobility-2018-naias-press-stage.jpg @path %}" alt="Techstars Mobility on the main press stage at 2018 North American International Auto Show">
 <figcaption>On the main press stage, myself with the CEOs of Spatial, SEEVA, and Cargo at the 2018 North American International Auto Show</figcaption>
 </figure>
 
@@ -48,7 +48,7 @@ And what about the rest of the auto show? The main press stage and the main auto
 
 
 <figure class="wide">
-<img src="{% asset_path may-mobility-2018-detroit-auto-show.jpg %}" alt="May Mobility at 2018 Detroit Auto Show">
+<img src="{% asset may-mobility-2018-detroit-auto-show.jpg @path %}" alt="May Mobility at 2018 Detroit Auto Show">
 <figcaption>Startup May Mobility demoed its technology on the main auto show floor in 2018, the first time ever for a startup at the show</figcaption>
 </figure>
 
