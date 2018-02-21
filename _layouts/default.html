@@ -52,8 +52,8 @@
   <meta property="og:title" content="{{ page.title }}">
   <meta property="og:description" content="{{ desc | truncate:200 }}">
   <meta property="og:url" content="{{ site.url }}{{ page.url | remove: 'index.html' }}">
-  {% if assets[page.social_photo] %}<meta property="og:image" content="{% asset '{{ page.social_photo }}' @path %}">
-  {% else %}<meta property="og:image" content="{% asset ted-serbinski.jpg @path %}">{% endif %}
+  {% if assets[page.social_photo] %}<meta property="og:image" content="{{ site.url }}{% asset '{{ page.social_photo }}' @path %}">
+  {% else %}<meta property="og:image" content="{{ site.url }}{% asset ted-serbinski.jpg @path %}">{% endif %}
 </head>
 
 <body {% if page.pageid %} id="page-{{page.pageid}}"{% endif %}>
