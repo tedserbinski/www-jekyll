@@ -12,7 +12,7 @@ Spatial announced a new partnership with Ford City Solutions, SEEVA announced $1
 <h2 class="sub-title"><small>Today, for the first time in the show’s 100+ year history, three early-stage technology startups are making press announcements at the North American International Auto Show.</small></h2>
 
 <figure class="wide">
-<img style="border:1px solid #aaaaaa" src="{% asset_path naias-jan-2018-press-announcements.png %}" alt="">
+<img style="border:1px solid #aaaaaa" src="{% asset naias-jan-2018-press-announcements.png @path %}" alt="">
 <figcaption>On January 15, 2018, three Techstars Mobility startups made history as the first early-stage startups to take the main press stage. Spatial announced a new partnership with Ford City Solutions, SEEVA announced $1.1M in investment, and Cargo announced the 1 millionth passenger engaged with their platform.</figcaption>
 </figure>
 

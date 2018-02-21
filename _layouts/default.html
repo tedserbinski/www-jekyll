@@ -32,11 +32,11 @@
   <link rel="author" type="text/plain" href="{{ site.url }}/humans.txt">
   <link rel="canonical" href="{{ site.url }}{{ page.url | remove: 'index.html' }}">
 
-  {% stylesheet styles %}
+  {% asset styles.css %}
 
-  {% if page.social_photo %}
+  {% if assets[page.social_photo] %}
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:image:src" content="{{ page.social_photo | asset_path }}">
+  <meta name="twitter:image:src" content="{% asset '{{ page.social_photo }}' @path %}">
   {% else %}
   <meta name="twitter:card" content="summary">
   {% endif %}
@@ -52,8 +52,8 @@
   <meta property="og:title" content="{{ page.title }}">
   <meta property="og:description" content="{{ desc | truncate:200 }}">
   <meta property="og:url" content="{{ site.url }}{{ page.url | remove: 'index.html' }}">
-  {% if page.social_photo %}<meta property="og:image" content="{{ page.social_photo | asset_path }}">
-  {% else %}<meta property="og:image" content="{{ 'ted-serbinski.jpg' | asset_path }}">{% endif %}
+  {% if assets[page.social_photo] %}<meta property="og:image" content="{% asset '{{ page.social_photo }}' @path %}">
+  {% else %}<meta property="og:image" content="{% asset ted-serbinski.jpg @path %}">{% endif %}
 </head>
 
 <body {% if page.pageid %} id="page-{{page.pageid}}"{% endif %}>
@@ -67,12 +67,6 @@
 
   {% include footer.html %}
 
-  {% javascript script %}
-
-  {% if page.pageid == 'headshots' %}
-  {% javascript copy %}
-  {% endif %}
-
   {% if jekyll.environment == "production" %}
   <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -83,10 +77,16 @@
     ga('require', 'displayfeatures');
     ga('send', 'pageview');
   </script>
-
-  {% if page.pageid != 'home' %}
-  <script src="//my.hellobar.com/d2f60123c986727beb5adbcf1b584033a61ba02b.js" type="text/javascript" async></script>
   {% endif %}
+
+  {% asset script.js %}
+
+  {% if page.pageid == 'speaking' %}
+  {% asset copy.js %}
+  {% endif %}
+
+  {% if page.pageid != 'home' and page.pageid != 'contact' %}
+  <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us8.list-manage.com","uuid":"71ad9613efdfc7e1af5e08cf1","lid":"95f2c0915d"}) })</script>
   {% endif %}
 
 </body>

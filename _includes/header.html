@@ -1,16 +1,20 @@
 <header id="masthead">
-  <a href="{{ site.url }}/"><img src="{% asset_path ted-serbinski-headshot-oct-90x90.png %}" width="90" height="90" title="Ted Serbinski headshot" id="logo"></a>
+  <a href="{{ site.url }}/"><img src="{% asset ted-serbinski-headshot-small-circle.png @path %}" width="124" height="124" title="Ted Serbinski headshot" id="logo"></a>
   {% if page.pageid != 'home' %}
   <h4><a href="{{ site.url }}/">Ted Serbinski</a></h4>
   {% else %}
   <h1><a href="{{ site.url }}/">Ted Serbinski</a></h1>
   {% endif %}
+
+  {% assign current = page.url | downcase | split: '/' %}
+
   <nav id="headernav" role="navigation">
     <ul>
-      <li><a href="{{ site.url }}/mobility/">Mobility</a></li>
-      <li><a href="{{ site.url }}/startup-lessons/">Startup Lessons</a></li>
-      <li><a href="{{ site.url }}/detroit/">Detroit</a></li>
-      <li><a href="{{ site.url }}/about/">About</a>
+      <li><a href="{{ site.url }}/mobility/" {% if current[1] == 'mobility' %}class="current"{% endif %}>Mobility</a></li>
+      <li><a href="{{ site.url }}/startup-lessons/" {% if current[1] == 'startup-lessons' %}class="current"{% endif %}>Startups</a></li>
+      <li><a href="{{ site.url }}/life-learnings/" {% if current[1] == 'life-learnings' %}class="current"{% endif %}>Life</a></li>
+      <li><a href="{{ site.url }}/detroit/" {% if current[1] == 'detroit' %}class="current"{% endif %}>Detroit</a></li>
+      <li><a href="{{ site.url }}/about/" {% if current[1] == 'about' %}class="current"{% endif %}>About</a>
       </li>
     </ul>
   </nav>

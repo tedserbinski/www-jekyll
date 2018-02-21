@@ -39,7 +39,7 @@ The longer your email, the less likely I’m to read it. And even less likely I�
 
 Or, in mathematical terms:
 
-<blockquote class="twitter-tweet"><p>Probability of me responding to an email:&#10;1/(word length of message)</p>&mdash; Blake Commagere (@commagere) <a href="https://twitter.com/commagere/statuses/321050822026874880">April 8, 2013</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p>Probability of me responding to an email:&#10;1/(word length of message)</p>&mdash; Blake Commagere (@commagere) <a href="https://twitter.com/commagere/statuses/321050822026874880">April 8, 2013</a></blockquote>
 
 > My rule: If your email requires scrolling to read, I’ll delete it.
 
@@ -91,4 +91,4 @@ I responded immediately to this email. And I've traded a handful of emails with 
 Do you have any favorite secrets for getting a VC to open your email? Or seen any great examples? Please share below in the comments for others.
 
 [1]:  http://www.amazon.com/gp/product/0743269519?ie=UTF8&camp=213733&creative=393185&creativeASIN=0743269519&linkCode=shr&tag=tedserbinski-20 "The 7 Habits of Highly Effective People"
-[image-1]: {% asset_path verbose-email.png %} "A really, really, verbose email"
+[image-1]: {% asset verbose-email.png @path %} "A really, really, verbose email"

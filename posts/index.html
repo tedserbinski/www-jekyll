@@ -15,6 +15,9 @@ description: "Startup Lessons, Detroit, Tech, and BMW blog posts written by Ted 
     <a href="#startup-lessons">Startup Lessons</a>
   </li>
   <li>
+    <a href="#life-learnings">Life Learnings</a>
+  </li>
+  <li>
     <a href="#detroit">Detroit</a>
   </li>
   <li>
@@ -37,7 +40,7 @@ description: "Startup Lessons, Detroit, Tech, and BMW blog posts written by Ted 
 You can't assign arrays in Liquid: http://docs.shopify.com/themes/liquid-documentation/basics/types
 {% endcomment %}
 
-{% assign categories = "Mobility|Startup Lessons|Detroit|Tech|Drupal|BMW|Other" | split: '|' %}
+{% assign categories = "Mobility|Startup Lessons|Life Learnings|Detroit|Tech|Drupal|BMW|Other" | split: '|' %}
 
 {% for category in categories %}
 {% assign category_id = category | replace:' ','-' | downcase %}

@@ -2,7 +2,7 @@
 layout: post
 title: "Detroit's Ascent to Become the Mobility City"
 categories: ["detroit"]
-tags: ["detroit"]
+tags: ["detroit", "top post"]
 social_photo: detroit-skyline.jpg
 excerpt: "Six years ago, I moved from San Francisco to Detroit. I'm now witnessing Detroit rebuilding and redefining itself. No longer the Motor City, the Mobility City is on the rise. Read on for what's fueling this transformative change."
 ---
@@ -12,7 +12,7 @@ excerpt: "Six years ago, I moved from San Francisco to Detroit. I'm now witnessi
 *This is an expanded and updated version of an [article I wrote for VentureBeat](https://venturebeat.com/2017/11/30/how-detroits-automotive-roots-made-it-a-hub-for-transportation-startups/).*
 
 <figure class="wide">
-  <img src="{% asset_path detroit-skyline.jpg %}" title="The Detroit skyline" width="855">
+  <img src="{% asset detroit-skyline.jpg @path %}" title="The Detroit skyline" width="855">
   <figcaption><em>Photo source: <a href="https://www.michigan.org/city/detroit">Pure Michigan</a></em></figcaption>
 </figure>
 

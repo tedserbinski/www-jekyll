@@ -65,8 +65,6 @@ Have you ever seen a clean and organized construction site? Why should starting 
 Fred Wilson wrote a great [blog post on return and ridicule being highly correlated](http://www.avc.com/a_vc/2013/04/return-and-ridicule.html). He's spot on. Dan is doing the same exact thing in Detroit, investing billions, while [60 Minutes posts a video about the ruins in Detroit](http://www.cbsnews.com/video/watch/?id=50157064n), completely missing the massive opportunity ahead.
 
 <blockquote class="twitter-tweet"><p>.<a href="https://twitter.com/fredwilson">@fredwilson</a> “you can only make money by being right about something that most people think is wrong” truth</p>&mdash; Greg Rosen (@grosen) <a href="https://twitter.com/grosen/statuses/327428753959575554">April 25, 2013</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 ## 9. How much does it cost you to make $1?
 
@@ -226,8 +224,8 @@ And finally, straight from the source, [27 things Dan's learned in 27 years](htt
 Do you have a favorite insight? Or is there an insight you'd like me to dive deeper in a future post? Let me know by leaving a comment below.
 
 
-[image-1]: {% asset_path dan-gilbert-spreadsheets.jpg %} "Spreadsheets measure. They do NOT create."
-[image-2]: {% asset_path forrest-gump.jpg %} "Forrest Gump"
-[image-3]: {% asset_path big-display-calculator.jpg %} "Big Display Calculator"
-[image-4]: {% asset_path burnt-out-bulb.png %} "Burnt out bulb"
-[image-5]: {% asset_path boy-scouts-be-prepared.jpg %} "Boy Scouts Motto: Be Prepared"
+[image-1]: {% asset dan-gilbert-spreadsheets.jpg @path %} "Spreadsheets measure. They do NOT create."
+[image-2]: {% asset forrest-gump.jpg @path %} "Forrest Gump"
+[image-3]: {% asset big-display-calculator.jpg @path %} "Big Display Calculator"
+[image-4]: {% asset burnt-out-bulb.png @path %} "Burnt out bulb"
+[image-5]: {% asset boy-scouts-be-prepared.jpg @path %} "Boy Scouts Motto: Be Prepared"

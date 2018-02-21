@@ -1,6 +1,4 @@
-//= require vendor/jquery-2.1.1.min.js
-//= require vendor/waypoints.min.js
-
+//= require vendor/jquery-3.3.1.slim.min.js
 
 /**
  * Load disqus comments when visitor scroll down page to comments
@@ -28,7 +26,7 @@ $(function() {
                 window['disqus_' + key.replace('disqus', '').toLowerCase()] = disqus_data[key];
               }
             }
- 
+
             var d = document, s = d.createElement('script');
             s.src = 'https://tedserbinski.disqus.com/embed.js';
             s.setAttribute('data-timestamp', +new Date());
@@ -58,30 +56,6 @@ $(document).ready(function() {
     $('#logo').css('visibility', 'visible');
   }
 
-
-  // http://www.webtutorialplus.com/flyout-card-recommended-articles-jquery/
-  $('section.e-content').waypoint(function(direction) {
-    $('#flyout').toggleClass('hidden', direction === 'up');
-  }, {
-    offset: function () {
-      return $.waypoints('viewportHeight') - $(this).height() + 200; // 200px from bottom of the article
-    }
-  });
-
-
-  // load Twitter JavaScript after page is loaded
-  !function(d, s, id) {
-    var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https';
-    if (!d.getElementById(id)) {
-      js = d.createElement(s);
-      js.id = id;
-      js.async = true;
-      js.src = p + '://platform.twitter.com/widgets.js';
-      fjs.parentNode.insertBefore(js, fjs);
-    }
-  }(document, 'script', 'twitter-wjs');
-
-
   // add Christmas decorations from Thanksgiving to the Epiphany
   !function() {
     var today = new Date();
@@ -96,7 +70,7 @@ $(document).ready(function() {
 
     // today's date is after thanksgiving or before/on Jan 6, Epiphany
     if ((today >= dayAfterThanksgiving) || (today.getMonth() == 0 && today.getDate() < 7)) {
-      $('body').css({'margin-top': '2em', 'background': 'url({% asset_path christmas-lights.png %}) repeat-x 0 50px' });
+      $('body').css({'background': 'url({% asset christmas-lights.png @path %}) repeat-x' });
     }
   }();
 });

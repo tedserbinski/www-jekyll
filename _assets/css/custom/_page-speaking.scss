@@ -1,0 +1,42 @@
+#page-speaking {
+  section.full {
+    @include span-columns(8 of 8);
+  }
+  section.half {
+    @include span-columns(4 of 8);
+    margin: 0 0 1em 0;
+    a {
+      border: none;
+    }
+    img {
+      height: 200px;
+      max-width: 300px;
+      overflow: hidden;
+    }
+  }
+  a.button,
+  button {
+    display: block;
+    padding: .2em .6em .3em;
+    font-size: 75%;
+    color: #fff;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: .25em;
+    background-color: $blue;
+    border: none;
+    margin: 0 0 6px 6px;
+    &:hover {
+      background-color: $green;
+    }
+    &.btn-copied {
+      background-color: $green;
+    }
+  }
+  div.copy {
+    background: $light-gray;
+    border: 1px solid $medium-gray;
+    padding: 0.5em;
+    font-size: 75%;
+  }
+}

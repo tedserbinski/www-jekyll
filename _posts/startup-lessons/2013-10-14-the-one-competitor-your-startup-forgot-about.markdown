@@ -75,4 +75,4 @@ So if you're reading this and are in a startup, here are the cliff notes about s
 - In the end, don't obsess over the competition. But be aware it exists. Your investors need to know that. [Here's why you shouldn't worry too much about the competitionn](https://medium.com/tony-stubblebine/25afc92c6531) *(hint: you're more likely to put yourself out of business than a competitor is; at MothersClick, our competitors that went out of business weren't because of us)*.
 - Lastly, it took about 6 years for this entire social networking space for moms to mature. 2 business are still standing strong: CafeMom and PopSugar. Some were acquired (including us), and many shutdown. That's true of competition in any market: stay in business, be acquired, or shutdown.
 
-[image-1]: {% asset_path status_quo.jpg %} "Now Leaving Status Quo"
+[image-1]: {% asset status_quo.jpg @path %} "Now Leaving Status Quo"

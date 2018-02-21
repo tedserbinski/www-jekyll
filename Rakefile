@@ -10,7 +10,7 @@ end
 
 desc 'generate new site and launch server'
 task :preview do
-  sh 'JEKYLL_ENV=development jekyll serve --incremental --future --drafts;'
+  sh 'rm -rf _site/; rm -rf .jekyll-cache/; rm .jekyll-metadata; JEKYLL_ENV=development jekyll serve --incremental --future --drafts;'
 end
 
 desc 'shutdown local jekyll server'
@@ -57,7 +57,7 @@ task :new do
     post.puts "<h2 class=\"sub-title\"><small></small></h2>"
     post.puts ""
     post.puts "<figure class=\"wide\">"
-      post.puts "<img src=\"{% asset_path filename.jpg %}\" alt=\"\">"
+      post.puts "<img src=\"{% asset filename.jpg @path %}\" alt=\"\">"
       post.puts "<figcaption></figcaption>"
     post.puts "</figure>"
   end

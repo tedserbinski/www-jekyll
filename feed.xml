@@ -4,8 +4,8 @@ layout: empty
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <title>Ted Serbinski - {{ site.tagline_feed }}</title>
-    <description>Ted Serbinski is the Managing Director of Techstars Mobility. He regularly blogs on mobility, startups, and Detroit.</description>
+    <title>Ted Serbinski</title>
+    <description></description>
     <link>https://tedserbinski.com</link>
     <atom:link href="https://tedserbinski.com/feed.xml" rel="self" type="application/rss+xml" />
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>

@@ -18,7 +18,7 @@ As we enter week six of Techstars Mobility, I thought it'd be fun to analyze the
 We read a ton of applications and met a lot of great founders from all around the world. These conversations led to fascinating insights and trends.
 
 <figure class="wide">
-  <img src="{% asset_path techstars-mobility-trends.png %}" alt="Techstars Mobility - Global Trends in Mobility Startups">
+  <img src="{% asset techstars-mobility-trends.png @path %}" alt="Techstars Mobility - Global Trends in Mobility Startups">
   <figcaption>
     <a href="http://www.techstars.com/uploads/mobility_infographic-5.png">Check out this infographic for the top 3 global trends in applications to Techstars Mobility</a>
   </figcaption>

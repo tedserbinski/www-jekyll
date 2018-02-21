@@ -4,7 +4,7 @@ title: "The Diamond in the Midwest"
 description: "Detailing the startup advantages of being within the diamond of the Midwest: Chicago, Detroit, Pittsburgh, Cincinnati, Indianapolis."
 social_photo: startup-diamond-in-midwest.jpg
 categories: ["detroit"]
-tags: ["startups", "detroit", "top post"]
+tags: ["startups", "detroit"]
 ---
 
 If you’ve been reading my previous posts, you’ll notice a common theme: **why Detroit**? I think I summed it well in my [entrepreneurial gold rush][1] post but I left out a key point: there’s a hidden diamond in the Midwest.
@@ -34,7 +34,6 @@ Notice how Ann Arbor is on the edge of that diamond? Steve Blank, a successful e
 Not only that, but you know you’re on to something when the satirical sources poke fun at you.
 
 <blockquote class="twitter-tweet"><p>Midwestern entreprenuer moves to Silicon Valley, is met with bewildered stares when he keeps talking about something called "revenue"</p>&mdash; TechCrunch Onion (@TechCrunchOnion) <a href="https://twitter.com/TechCrunchOnion/status/313078200114757633">March 17, 2013</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 But it’s not about this region being better than another region.
 
@@ -45,8 +44,8 @@ Well Marc, we’re not trying to be like a coastal valley.
 
 We’re Detroit. We’re rolling up our sleeves and we’re getting to work. This Midwest diamond is about to get *real* shiny.
 
-[image-1]: {% asset_path startup-diamond-in-midwest.jpg %}
-[image-2]: {% asset_path steve-blank-quote.png %}
+[image-1]: {% asset startup-diamond-in-midwest.jpg @path %}
+[image-2]: {% asset steve-blank-quote.png @path %}
 
 [1]:  https://tedserbinski.com/the-entrepreneurial-gold-rush-why-i-moved-from-san-francisco-to-detroit/
 [2]:  http://a16z.com/

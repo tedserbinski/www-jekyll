@@ -1,22 +1,17 @@
-//= require vendor/ZeroClipboard.min.js
+//= require vendor/clipboard.min.js
 
-// http://zeroclipboard.org/javascripts/v2.x/demo-traditional.js
 $(document).ready(function() {
+  var clipboard = new Clipboard ('.btn');
 
-  ZeroClipboard.config( { swfPath: '<%= asset_path "ZeroClipboard.swf" %>' } );
+  clipboard.on('success', function(e) {
+    e.trigger.innerText = 'Copied!';
+    e.trigger.className = 'btn-copied';
 
-  var copy = new ZeroClipboard($("button.copy"));
-
-  copy.on('ready', function(event) {
-
-    this.on('aftercopy', function(event) {
-      $('<span class="success">✓ Copied</span>').insertAfter($(event.target)).delay(1400).fadeOut();
-    });
-
+    setTimeout(function() {
+      $(e.trigger).removeClass('btn-copied');
+      $(e.trigger).addClass('btn');
+      e.trigger.innerText = 'Copy';
+      e.clearSelection();
+    }, 3000);
   });
-
-  copy.on('error', function(event) {
-    ZeroClipboard.destroy();
-  });
-
 });

@@ -4,7 +4,7 @@ title: "Why I love the Detroit startup scene"
 description: " "
 social_photo: detroit-skyline.jpg
 categories: ["detroit"]
-tags: ["startups", "detroit"]
+tags: ["startups", "detroit", "top post"]
 excerpt: "I moved to Detroit 2097 days ago. Can't believe it has been more than 5 years now. This is the longest place I've ever lived in my entire life.
 
 The Detroit startup scene has exploded in the last 5 years. Read on to find out why I love the Detroit startup scene."
@@ -17,7 +17,7 @@ People often ask me, &ldquo;Why did you move from San Francisco to, uh, Detroit?
 When choosing to move to Detroit, a city that has been in a recent state of rebuild, many do so to roll up their sleeves, get to work, and make a difference. Entrepreneurs need these attributes, which makes the city&rsquo;s vibe appealing to early-stage startups.
 
 <figure class="wide">
-<img src="{% asset_path detroit-skyline.jpg %}" title="The Detroit skyline" width="855">
+<img src="{% asset detroit-skyline.jpg @path %}" title="The Detroit skyline" width="855">
 <figcaption>The Detroit skyline</figcaption>
 </figure>
 
@@ -74,4 +74,4 @@ Whether you decide to come to <a href="https://www.nytimes.com/interactive/2017/
 
 <em>This is an updated version of an article I originally wrote for [VentureBeat](https://venturebeat.com/2017/05/20/why-i-love-the-detroit-startup-scene/).</em>
 
-[image-1]: {% asset_path startup-diamond-in-midwest.jpg %}
+[image-1]: {% asset startup-diamond-in-midwest.jpg @path %}

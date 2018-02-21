@@ -3,7 +3,7 @@ layout: post
 title: "The Best Startup Advice I've Ever Gotten"
 description: "Read about the most inspirational startup advice I've ever gotten and how it changed my path in life, leading me to Detroit."
 categories: ["startup-lessons"]
-tags: ["startups", "insights", "top post"]
+tags: ["startups", "insights"]
 ---
 
 > &ldquo;Think bigger&rdquo;
