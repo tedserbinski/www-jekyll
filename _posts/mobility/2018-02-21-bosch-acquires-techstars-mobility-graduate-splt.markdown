@@ -12,7 +12,7 @@ Today, I’m delighted to announce that Bosch has acquired SPLT. Splitting Fares
 
 As a result of Techstars Mobility, SPLT relocated to Detroit from New York City. As part of Bosch, they will continue to operate the SPLT business in downtown Detroit.
 
-As the first investor in SPLT, founded by the talented duo [Anya Babbitt](https://www.linkedin.com/in/anyababbitt/) and [Yale Zhang](https://www.linkedin.com/in/yalezhang/), I’m proud to be a part of their startup journey from formation to exit. Originally focused on consumer carpooling, they switched to enterprise carpooling, after I gave them feedback on the advantages of going enterprise.
+<mark>As the first investor in SPLT, founded by the talented duo <a href="https://www.linkedin.com/in/anyababbitt/">Anya Babbitt</a> and <a href="https://www.linkedin.com/in/yalezhang/">Yale Zhang</a>, I’m proud to be a part of their startup journey from formation to exit.</mark> Originally focused on consumer carpooling, they switched to enterprise carpooling, after I gave them feedback on the advantages of going enterprise.
 
 I’m glad they took my advice :)
 
@@ -51,7 +51,7 @@ The future of automotive mobility tied to city clusters around the world is on f
 
 I’ve had the pleasure to be part of SPLT’s journey from the formation phase through exit phase. Working with founders Anya and Yale has been a delight.
 
-Techstars Mobility has helped them build their network, raise capital, scale their business, and grow as leaders.
+<mark>Techstars Mobility helped SPLT build their network, raise capital, scale their business, and grow as leaders.</mark>
 
 Here’s how:
 
