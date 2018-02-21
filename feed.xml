@@ -17,7 +17,7 @@ layout: empty
         <dc:creator>Ted Serbinski</dc:creator>
         <description><![CDATA[
         {% if post.social_photo %}
-          <a href="https://tedserbinski.com{{ post.url }}?utm_medium=feed&amp;utm_source=rss&amp;utm_campaign=image"><img src="{{ post.social_photo | asset_path }}" /></a><br /><br />
+          <a href="https://tedserbinski.com{{ post.url }}?utm_medium=feed&amp;utm_source=rss&amp;utm_campaign=image"><img src="{{ site.url }}{% asset '{{ post.social_photo }}' @path %}" /></a><br /><br />
         {% endif %}
         {% if post.excerpt %}
           {{ post.excerpt | xml_escape }}
