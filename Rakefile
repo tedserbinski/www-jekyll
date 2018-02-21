@@ -20,7 +20,7 @@ end
 
 desc 're-generate site and upload to S3'
 task :publish do
-  sh 'JEKYLL_ENV=production jekyll build ; s3_website push --force;'
+  sh 'rm -rf _site/; rm -rf .jekyll-cache/; rm .jekyll-metadata; JEKYLL_ENV=production jekyll build ; s3_website push --force;'
 end
 
 
