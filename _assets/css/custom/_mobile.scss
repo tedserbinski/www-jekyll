@@ -44,9 +44,6 @@ $mobile:new-breakpoint(min-width 0px max-width 1024px);
       }
     }
   }
-  #flyout {
-    display: none;
-  }
   #footer {
     @include span-columns(10);
     @include shift();
