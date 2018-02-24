@@ -17,23 +17,27 @@ $(document).ready(function() {
     if (disqus_div.length > 0) {
       var ds_loaded = false,
         top = disqus_div.offset().top, // WHERE TO START LOADING
-        disqus_data = disqus_div.data();
+        disqus_data = disqus_div.data(),
+        check = function() {
+          if (!ds_loaded && ($(window).scrollTop() + $(window).height() > top)) {
+            ds_loaded = true;
+            for (var key in disqus_data) {
+              if (key.substr(0, 6) == 'disqus') {
+                window['disqus_' + key.replace('disqus', '').toLowerCase()] = disqus_data[key];
+              }
+            }
 
-      if (!ds_loaded && ($(window).scrollTop() + $(window).height() > top)) {
-        ds_loaded = true;
-        for (var key in disqus_data) {
-          if (key.substr(0, 6) == 'disqus') {
-            window['disqus_' + key.replace('disqus', '').toLowerCase()] = disqus_data[key];
+            var d = document, s = d.createElement('script');
+            s.src = 'https://tedserbinski.disqus.com/embed.js';
+            s.setAttribute('data-timestamp', +new Date());
+            (d.head || d.body).appendChild(s);
           }
-        }
+        };
 
-        var d = document, s = d.createElement('script');
-        s.src = 'https://tedserbinski.disqus.com/embed.js';
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-      }
+        $(window).scroll(check);
+        check();
     }
-  };
+  }
 
 
   var homepage = $(location).attr('pathname') == '/';
