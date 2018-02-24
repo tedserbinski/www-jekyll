@@ -1,18 +1,18 @@
 //= require vendor/jquery-3.3.1.slim.min.js
 
-/**
- * Load disqus comments when visitor scroll down page to comments
- *
- * Usage:
- * Add a div with id 'disqus_thread' and data attributes for every disqus parameter:
- *
- * <div id='disqus_thread' data-disqus-shortname='username' data-disqus-url='http://example.com/post/post-name/'></div>
- *
- * @author: Murat Corlu
- * @link: https://gist.github.com/gists/2290198
- */
 $(document).ready(function() {
-  if (window.location.hostname != 'localhost') {
+  /**
+   * Load disqus comments when visitor scroll down page to comments
+   *
+   * Usage:
+   * Add a div with id 'disqus_thread' and data attributes for every disqus parameter:
+   *
+   * <div id='disqus_thread' data-disqus-shortname='username' data-disqus-url='http://example.com/post/post-name/'></div>
+   *
+   * @author: Murat Corlu
+   * @link: https://gist.github.com/gists/2290198
+   */
+  if (window.location.hostname == 'tedserbinski.com') {
     var disqus_div = $('#disqus_thread');
     if (disqus_div.length > 0) {
       var ds_loaded = false,
@@ -33,11 +33,9 @@ $(document).ready(function() {
         (d.head || d.body).appendChild(s);
       }
     }
-  }
-});
+  };
 
 
-$(document).ready(function() {
   var homepage = $(location).attr('pathname') == '/';
 
   // only show animated headshot once per browser session, don't include homepage
