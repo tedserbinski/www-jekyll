@@ -25,8 +25,11 @@ section.e-content {
     }
 
     figcaption {
-      font-size: 75%;
+      font-size: 85%;
+      font-style: italic;
       text-align: center;
+      border-bottom:2px solid #ecf0f1;
+      padding-bottom: 8px;
     }
   }
 }
