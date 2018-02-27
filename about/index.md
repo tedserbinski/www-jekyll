@@ -4,7 +4,7 @@ pageid: about
 show_flyout: true
 flyout: inline
 title: "About Ted"
-description: ""
+description: "Ted Serbinski is a tech entrepreneur and venture capitalist investing in founders around the world building the future of transportation."
 ---
 
 Hello 👋 and thanks for stopping by. This is where I hang out online and share insights and lessons I've learned *(and some pictures* 🖼️  *too, scroll down)*.
@@ -37,6 +37,7 @@ My insights and lessons learned come from a variety of work and life experiences
 - Earning the Silver-Palmed Eagle Scout distinction
 - Growing up as the oldest of 4 kids in a military family
 - [Working on and club racing my BMW M3](http://localhost:4000/posts/#bmw)
+- [Reviewing 100s of wines on Twitter](https://twitter.com/search?src=typd&q=%23MiniWineReview%20OR%20%40Vivino%20from%3Atedserbinski)
 - Overcoming my own health issues around burnout, anxiety, and depression
 
 If there's a topic you'd like me to cover, [send me a note](/contact/). I'd be delighted to hear from you!
@@ -44,11 +45,13 @@ If there's a topic you'd like me to cover, [send me a note](/contact/). I'd be d
 <figure class="wide">
   <img src="{% asset my-bmw-m3.jpg @path %}">
   <figcaption>
-    My first love, my 1997 BMW M3 Estoril 4 Door. I've tracked the car and nearly rebuilt the engine. <a href="https://tedserbinski.com/posts/#bmw">Check out some of my posts here</a>.
+    My first love, my 1997 BMW M3 Estoril 4 Door. I've tracked the car and nearly rebuilt the engine. <a href="https://tedserbinski.com/posts/#bmw">More posts on that here</a>.
   </figcaption>
 </figure>
 
 
 ## What Others Are Saying About Me
 
-<img src="{% asset ted-references.png @path %}">
+<figure class="wide">
+  <img src="{% asset ted-references.png @path %}">
+</figure>
