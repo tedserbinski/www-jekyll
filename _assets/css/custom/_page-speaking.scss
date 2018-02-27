@@ -1,6 +1,13 @@
 #page-speaking {
   section.full {
     @include span-columns(8 of 8);
+    margin-bottom: $base-spacing;
+    h2 {
+      display: inline;
+    }
+    button {
+      display: inline;
+    }
   }
   section.half {
     @include span-columns(4 of 8);
@@ -12,6 +19,9 @@
       height: 200px;
       max-width: 300px;
       overflow: hidden;
+    }
+    button {
+      display: block;
     }
   }
   a.button,
@@ -37,6 +47,6 @@
     background: $light-gray;
     border: 1px solid $medium-gray;
     padding: 0.5em;
-    font-size: 75%;
+    font-size: 85%;
   }
 }
