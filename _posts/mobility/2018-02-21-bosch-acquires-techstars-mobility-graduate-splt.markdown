@@ -3,12 +3,18 @@ layout: post
 title: "Bosch Acquires Techstars Mobility Graduate SPLT"
 categories: ["mobility"]
 tags: ["mobility", "techstars mobility"]
-# social_photo: filename.jpg
+social_photo: techstars-mobility-splt-bosch.jpg
 excerpt: "I'm delighted to announce that Bosch has acquired SPLT. Splitting Fares, (aka \"SPLT\"), went through the 2015 Techstars Mobility Accelerator program. Bosch, the world’s largest automotive supplier and corporate partner to Techstars Mobility, has created a new Connected Mobility Solutions division to house the SPLT team and business. Read on for more details about this acquisition."
 ---
 
 
 Today, I’m delighted to announce that Bosch has acquired SPLT. Splitting Fares, (aka “SPLT”), went through the 2015 Techstars Mobility Accelerator program. Bosch, the world’s largest automotive supplier and corporate partner to Techstars Mobility, has created a new Connected Mobility Solutions division to house the SPLT team and business.
+
+
+<figure class="wide">
+<img src="{% asset techstars-mobility-splt-bosch.jpg @path %}" alt="SPLT team at Bosch">
+<figcaption>SPLT team celebrating at Bosch</figcaption>
+</figure>
 
 As a result of Techstars Mobility, SPLT relocated to Detroit from New York City. As part of Bosch, they will continue to operate the SPLT business in downtown Detroit.
 
