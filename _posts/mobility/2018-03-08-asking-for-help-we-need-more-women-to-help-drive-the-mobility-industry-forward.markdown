@@ -84,6 +84,18 @@ SEEVA founder and CEO, [Diane Lansinger](https://www.linkedin.com/in/dianelansin
 
 > I’d love to start a monthly roundtable with female mobility founders and/or C-suite startup leaders where we meet, share experiences and peer-mentor each other. I know a simple format I’ve experienced in other “she-EO” startup groups that works well even with dispersed groups.  Happy to share and can moderate for the first few months (having a moderator is good, in my experience, just to keep focus).  This isn’t a social group format, though we do get to know each other better and build our networks in the process.  Who’s in? _[Note: I’m happy to connect you to Diane if you'd like to be part of this group](https://tedserbinski.com/contact/)._
 
+### Siheun co-founded Rally, which helped 50,000 riders for 2017's historic Women's March on Washington
+
+Rally co-founder, [Siheun Song](https://www.linkedin.com/in/siheun/), shares her thoughts about why she started her company and what we can do to make the industry more welcoming to women.
+
+> _Why did you decide to start a company in the automotive mobility space?_
+
+> Rally brings together like-minded strangers to reach common destinations by bus. But I didn’t start the company because I saw a market opportunity. It was serendipitous actually. We realized that the platform we created (to help marchers get to DC) had the potential to define a new travel category: the bus rideshare.
+
+>  _What do you think we can do to make the industry more welcoming to female founders and innovators shaping the future of transportation?_
+
+> What can “we” do? By “we,” do we mean female founders? I can’t convince “the industry” to hire and promote women, but we newcomers can lead by example.Our startup's last two hires are women, and I intend to lead a company that represents a diversity of thought.
+
 
 ### Lisa supports founders building the future of transportation
 
