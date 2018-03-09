@@ -96,6 +96,7 @@ When you combine the ingredients above—talent and industry expertise with regi
 	One of Detroit’s more significant challenges is the perception of Detroit. Six years ago that image was anything but positive. But today, that has changed:
   - The New York Times named [Detroit one of the top 52 Places in the World to go in 2017](https://www.nytimes.com/interactive/2017/travel/places-to-visit.html). Later, another New York Times Article wrote [Detroit: the Most Exciting City in America?](https://www.nytimes.com/2017/11/20/travel/detroit-michigan-downtown.html)
   - Lonely Planet named [Detroit the #2 place in the world to visit in 2018](https://www.lonelyplanet.com/best-in-travel/cities).
+  - Forbes listed Detroit as one of the [10 Coolest U.S. Cities to Visit in 2018](https://www.forbes.com/sites/annabel/2018/02/26/the-10-coolest-u-s-cities-to-visit-in-2018/).
   - In 2011, Sleeping Bear Dunes, a few hours north of Detroit, was voted [“Most Beautiful Place in America” by Good Morning America.](http://abcnews.go.com/Travel/best_places_USA/sleeping-bear-dunes-michigan-voted-good-morning-americas/story?id=14319616)  
 
 
