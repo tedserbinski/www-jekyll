@@ -18,9 +18,7 @@ Today, I’m delighted to announce that Bosch has acquired SPLT. Splitting Fares
 
 As a result of Techstars Mobility, SPLT relocated to Detroit from New York City. As part of Bosch, they will continue to operate the SPLT business in downtown Detroit.
 
-<mark>As the first investor in SPLT, founded by the talented duo <a href="https://www.linkedin.com/in/anyababbitt/">Anya Babbitt</a> and <a href="https://www.linkedin.com/in/yalezhang/">Yale Zhang</a>, I’m proud to be a part of their startup journey from formation to exit.</mark> Originally focused on consumer carpooling, they switched to enterprise carpooling, after I gave them feedback on the advantages of going enterprise.
-
-I’m glad they took my advice :)
+<mark>As an early supporter and investor in SPLT, founded by the talented duo <a href="https://www.linkedin.com/in/anyababbitt/">Anya Babbitt</a> and <a href="https://www.linkedin.com/in/yalezhang/">Yale Zhang</a>, I’m proud to be a part of their startup journey from formation to exit.</mark> Anya and Yale used the Techstars network and resources to their advantage, and through a serious of great decisions, ultimately found success.
 
 <figure class="wide">
 <img src="{% asset techstars-mobility-demo-day-2015-anya-yale.jpg @path %}" alt="Founders of SPLT, Anya Babbitt and Yale Zhang, at the 2015 Techstars Mobility Demo Day">
@@ -61,7 +59,7 @@ I’ve had the pleasure to be part of SPLT’s journey from the formation phase 
 
 Here’s how:
 
-1. **The Mentoring Session that Changed Their Future** — SPLT’s original premise was to ease the pain of commuting by splitting the fare with a passenger going in the same direction. During the program, I challenged them on building a consumer model that could scale and compete with dominant industry players like Uber or Lyft. I challenged them to consider an enterprise model that would provide a way to differentiate and leverage their strengths. Anya, understanding the problem at hand, took the advice to heart and during program made the business model switch. This business model switch is now core to Bosch’s Connected Mobility Solution’s division.
+1. **The Mentoring Session that Changed Their Future** — SPLT’s original premise was to ease the pain of commuting by splitting the fare with a passenger going in the same direction. During the program, we had great discussions about building a consumer model that could scale and compete with dominant industry players like Uber or Lyft. We explored an enterprise model that would provide a way to differentiate and leverage their strengths. Anya, understanding the problem at hand, took the advice to heart and during program, made the business model switch. Anya implemented an enterprise business model that resonated with leading automotive and supplier customers. This business model switch is now core to Bosch’s Connected Mobility Solution’s division.
 
 2. **The Validation to Pursue their Vision** — Starting a business is hard. Everyone thought back in 2015 that Uber and Lyft had won in the United States, and there was no more innovation left in ride sharing. I knew that was only the tip of the iceberg. Our investment into Anya and Yale was validation that there was room in the market for more innovation and solutions. Little did we know that Bosch would soon one day be thinking the same.
 
