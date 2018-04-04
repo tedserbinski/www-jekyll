@@ -59,8 +59,6 @@ These are my favorite. Emails where the sender took the time (or plans to) do so
 
 Lastly, you still need to convince me it's worth responding to your email. And a cold email can be the hardest. So practice and write with these [modes of persuasion](http://en.wikipedia.org/wiki/Modes_of_persuasion) to significantly increase your chance of a response.
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/x4tTugqBkJU" frameborder="0" allowfullscreen></iframe>
-
 > My rule: If you take the time to craft a well thought out email, emotionally connecting me to a qualified and logical thought, I'll take the time to respond.
 
 ## Combining the 5 Secrets
