@@ -8,7 +8,7 @@ excerpt: "This post summarizes how I think about investing in mobility startups 
 
 <h2 class="sub-title"><small>This post summarizes how I think about investing in mobility startups from a thematic viewpoint spanning industries, technologies, and modes of transport (e.g., sea, air, and land).</small></h2>
 
-This summer, I will make my 44th investment in a mobility startup. I’m still in awe as I think about that number. The definition of mobility has grown and changed a lot in the past few years. I define mobility as the “technologies and services that enable people and goods to more freely.” Check out my previous post for [how I define mobility for the automotive industry](https://tedserbinski.com/mobility/defining-mobility-for-the-automotive-industry/). I’ll have an updated definition of mobility soon on this blog.
+This summer, I will make my 44th investment in a mobility startup. I’m still in awe as I think about that number. The definition of mobility has grown and changed a lot in the past few years. I define mobility as the “technologies and services that enable people and goods to move around more freely.” Check out my previous post for [how I define mobility for the automotive industry](https://tedserbinski.com/mobility/defining-mobility-for-the-automotive-industry/). I’ll have an updated definition of mobility soon on this blog.
 
 Looking at 100s of mobility startups over the past few years has sharpened my viewpoint. I like the idea of thematic investing and first stumbled across this looking at [Foundry Group’s investment themes](https://www.foundrygroup.com/themes/).
 
