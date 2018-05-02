@@ -84,7 +84,7 @@ So simple to write but yet so hard to put into practice. [Greg McKeown’s book 
 	_When I first tried this, I was worried._ People are going to get mad. They won’t like me. They will stop asking for me to speak, help, or work with them. _It turns out this was a false truth living in my head. People ended up respecting me for being clear about my priorities and boundaries. And the requests, well it seems like I’m getting even more than ever being harder to reach._
 
 
-For many years, I was a productivity nerd. I’d read books and tried every tool that mentioned “GTD” (from David Allen’s Getting Things Done book). But I continually stumbled, felt overwhelmed, and never felt in control.
+For many years, I was a productivity nerd. I’d read books and tried every tool that mentioned “GTD” (from [David Allen’s Getting Things Done book](https://amzn.to/2HHTzjS)). But I continually stumbled, felt overwhelmed, and never felt in control.
 
 In the last year, after some self-reflection, connecting of the dots, and some new resources, I realized I was missing the whole point.
 
