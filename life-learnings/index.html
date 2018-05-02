@@ -12,16 +12,6 @@ description: Learnings from being a father, husband, entreprenuer, investor, and
 
 <hr>
 
-<h2>Health</h2>
-<ul class="posts">
-{% for post in site.tags["health"] reversed %}
-<li>
-  {% if post.date %}<span class="post-date">{{ post.date | date: "%b %Y" }}</span>{% endif %}
-  <span class="post"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></span>
-</li>
-{% endfor %}
-</ul>
-
 <h2>Productivity</h2>
 <ul class="posts">
 {% for post in site.tags["productivity"] reversed %}
@@ -32,6 +22,8 @@ description: Learnings from being a father, husband, entreprenuer, investor, and
 {% endfor %}
 </ul>
 
+<!--
+
 <h2>Family and Home Life</h2>
 <ul class="posts">
 {% for post in site.tags["family"] reversed %}
@@ -41,6 +33,17 @@ description: Learnings from being a father, husband, entreprenuer, investor, and
 </li>
 {% endfor %}
 </ul>
+
+<h2>Health</h2>
+<ul class="posts">
+{% for post in site.tags["health"] reversed %}
+<li>
+  {% if post.date %}<span class="post-date">{{ post.date | date: "%b %Y" }}</span>{% endif %}
+  <span class="post"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></span>
+</li>
+{% endfor %}
+</ul>
+-->
 
 <h2>Book Reviews</h2>
 <ul class="posts">
