@@ -4,7 +4,7 @@ title: "How I Processed a Backlog of 1,061 Emails to Reclaim My Inbox"
 categories: ["productivity"]
 tags: ["productivity"]
 social_photo: my-email-inbox.png
-excerpt: ""
+excerpt: "In this post, I detail my favorite hack for conquering a massive inbox: email segmenting. I used time-based filtering in Gmail to see segments of my inbox. Processing segments of emails is much easier than an entire inbox. It's also easy to get those segments to 0. That creates achievement momentum to feel like your inbox is shrinking versus ever growing. Read on for how to filter your email in Gmail with these time-based searches."
 ---
 
 <h2 class="sub-title"><small>In this post, I detail my favorite hack for conquering a massive inbox: email segmenting. I used time-based filtering in Gmail to see segments of my inbox. Processing segments of emails is much easier than an entire inbox. It's also easy to get those segments to 0. That creates achievement momentum to feel like your inbox is shrinking versus ever growing. Read on for how to filter your email in Gmail with these time-based searches.</small></h2>
