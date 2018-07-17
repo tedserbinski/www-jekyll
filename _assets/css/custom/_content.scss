@@ -69,3 +69,16 @@ section.next {
     line-height: 1.667;
   }
 }
+
+span.acquired {
+  background: #97CC04;
+
+  a {
+    color: #fff;
+    border-bottom-color: #000;
+
+    &:hover {
+      border-bottom-color: $medium-gray;
+    }
+  }
+}
