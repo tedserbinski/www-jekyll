@@ -43,7 +43,7 @@ To see these companies in action, join us on October 9 at the Detroit Institute 
 
 - [IntelliTire](http://www.theintellitire.com/) (San Francisco, CA): Making tires intelligent to improve the safety and performance of vehicles on the road.
 
-- [LaneSpotter](https://thegreatrate.bike/) (Pittsburgh, PA): Mapping and navigation for cyclists by cyclists, with a focus on safety.
+- [LaneSpotter](https://lanespotter.bike/) (Pittsburgh, PA): Mapping and navigation for cyclists by cyclists, with a focus on safety.
 
 - [Lumos](https://www.lumoshelmet.co/) (Hong Kong, China): The next generation of bike helmets.
 
