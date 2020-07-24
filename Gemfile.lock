@@ -32,7 +32,7 @@ GEM
     extras (0.3.0)
       forwardable-extended (~> 2.5)
     fastimage (2.1.1)
-    ffi (1.9.23)
+    ffi (1.13.1)
     forwardable-extended (2.6.0)
     highline (1.7.10)
     http_parser.rb (0.6.0)
