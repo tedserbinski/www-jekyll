@@ -4,7 +4,7 @@ pageid: about
 show_flyout: true
 flyout: inline
 title: "About Ted"
-description: "Ted Serbinski is a tech entrepreneur and venture capitalist investing in founders around the world building the future of transportation."
+description: "Ted Serbinski is an entrepreneur and early-stage startup investor building lifelong relationships with founders through investment and mentorship."
 ---
 
 Hello 👋 and thanks for stopping by. This is where I hang out online and share insights and lessons I've learned *(and some pictures* 🖼️  *too, scroll down)*.
@@ -16,20 +16,21 @@ Because of *you*  🤟.
 I enjoy helping people be great. And I enjoy helping people build great things—whether a startup business, a technical product, themselves as leaders, or even building a family! And double bonus if you're in the mobility industry or passionate about Detroit.
 
 <figure class="wide">
-  <img src="{% asset serbinski-family.jpg @path %}">
+  <img src="{% asset ted-kids.jpg @path %}">
   <figcaption>
-    #FamilyFirst. My family is my life and top of my <a href="http://amzn.to/2FwthNn">Life Plan</a>. I do what I do for them.
+    #FamilyFirst. My kids are my life and top of my <a href="http://amzn.to/2FwthNn">Life Plan</a>. I do what I do for them.
   </figcaption>
 </figure>
 
 On this blog I share insights and thoughts from connecting the dots, identifying patterns, and breaking down the complex. My goal is to share knowledge that can be put to good use.
 
 My insights and lessons learned come from a variety of work and life experiences including:
-- Investing in over [50 startups around the world](https://angel.co/tedserbinski)
-- Raising [3 kids under the age of 3 with my wife](https://momtomomnutrition.com/about/)
-- Founding and running the longest running [mobility startup accelerator program](/mobility/) in the world
+- Investing in over 57 startups from 11 different countries
+- Raising 4 kids under the age of 5 who mostly resemble these emoji: 🦖🦈🦄🐳
+- [Discovering a new hobby of modifying PowerWheels to go waaaay faster](https://www.facebook.com/tedserbinski/posts/10106205272166635?__xts__[0]=68.ARAF7xtYEFSisk7i6x4oLcvE2PzaKfRexqjmxbOnK4LPuG4I1vNuiyrifXdIoZsVOuKVodlfQwh6WRI5h6RoLswi_72dxhR2Kq8vPEbQOqz7WiEDief2IG_EgWuho2H3Gapu6urBua6FzTUrHBga6QDNE62E2egSELLlaf-bbXpcul9Z_9e4GBXu9P6K0IiyHSodF6KXl2lmLNw-LA&__tn__=-R)
+- Founding and running the longest running [mobility startup accelerator program](/mobility/) in the world (5 years!)
 - [Relocating from San Francisco to Detroit](https://tedserbinski.com/detroit/the-entrepreneurial-gold-rush-why-i-moved-from-san-francisco-to-detroit/)
-- Helping to establish the Detroit startup community
+- Helping to catalyze the Detroit startup community
 - Being a [CTO and co-founder of a successful startup](https://tedserbinski.com/other/mothersclick-acquired-by-lifetime-networks/)
 - [Developing open source software for over a decade](https://www.drupal.org/u/m3avrck)
 - Designing my own computer engineering and entrepreneurship degree at Cornell University
