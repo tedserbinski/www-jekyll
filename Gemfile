@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem 'rake'
+gem "rake", ">= 12.3.3"
 gem 'highline'
 
 gem 'jekyll', '~>3.7'
