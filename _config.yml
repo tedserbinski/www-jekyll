@@ -19,8 +19,9 @@ assets:
   cdn:
     url: https://tedserbinski.com/assets
   sources:
-    - _assets/js/vendor
-    - _assets/css/custom
+    - _assets
+    - _assets/js
+    - _assets/css
     - _assets/img/headshots
     - _assets/img/posts
     - _assets/img/posts/book-reviews
